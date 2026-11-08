@@ -53,7 +53,7 @@ export default function Home() {
 
   if (isInitializing) {
     return (
-      <div className="min-h-screen flex flex-col items-center justify-center p-6 bg-slate-900 text-white">
+      <div className="min-h-dvh flex flex-col items-center justify-center p-6 bg-slate-900 text-white">
         <div className="w-12 h-12 rounded-full border-4 border-indigo-500 border-t-transparent animate-spin mb-4" />
         <h2 className="text-xl font-bold">LexiFlow Hazırlanıyor...</h2>
         <p className="text-sm text-slate-400 mt-1">
@@ -64,7 +64,7 @@ export default function Home() {
   }
 
   return (
-    <div className="min-h-screen flex flex-col bg-slate-50 dark:bg-[#090d16] text-slate-900 dark:text-slate-100 selection:bg-indigo-500 selection:text-white">
+    <div className="min-h-dvh flex flex-col bg-slate-50 dark:bg-[#090d16] text-slate-900 dark:text-slate-100 selection:bg-indigo-500 selection:text-white">
       {/* Top Navigation */}
       <Navbar
         currentTab={activeTab}

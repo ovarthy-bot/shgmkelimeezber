@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useEffect, useState } from "react";
-import { BookOpen, ListChecks, HelpCircle, Eye, EyeOff } from "lucide-react";
+import { BookOpen, HelpCircle, Eye, EyeOff } from "lucide-react";
 
 // Yerel içerik: public/local-content/study.json (git'e dahil değildir, bkz. .gitignore)
 interface Konu {
@@ -13,7 +13,6 @@ interface Bolum {
   baslik: string;
   ozet: string;
   konular: Konu[];
-  kelimeler: string[];
   sorular: string[];
   cevaplar: string[];
 }
@@ -22,7 +21,7 @@ interface StudyData {
   bolumler: Bolum[];
 }
 
-type Sekme = "konu" | "kelime" | "soru";
+type Sekme = "konu" | "soru";
 
 export const StudyNotes: React.FC = () => {
   const [data, setData] = useState<StudyData | null>(null);
@@ -58,7 +57,6 @@ export const StudyNotes: React.FC = () => {
 
   const sekmeler: { id: Sekme; label: string; icon: React.ReactNode }[] = [
     { id: "konu", label: "Konu Anlatımı", icon: <BookOpen className="w-3.5 h-3.5" /> },
-    { id: "kelime", label: "Kelime Listesi", icon: <ListChecks className="w-3.5 h-3.5" /> },
     { id: "soru", label: "Alıştırmalar", icon: <HelpCircle className="w-3.5 h-3.5" /> },
   ];
 
@@ -126,16 +124,6 @@ export const StudyNotes: React.FC = () => {
               </div>
             </div>
           ))}
-        </div>
-      )}
-
-      {sekme === "kelime" && (
-        <div className="p-5 rounded-3xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800">
-          <ul className="flex flex-col gap-1.5 text-sm text-slate-700 dark:text-slate-300">
-            {bolum.kelimeler.map((k, i) => (
-              <li key={i}>{k}</li>
-            ))}
-          </ul>
         </div>
       )}
 

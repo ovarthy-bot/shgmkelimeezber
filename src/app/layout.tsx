@@ -26,6 +26,11 @@ export const metadata: Metadata = {
     "AI vocabulary",
   ],
   manifest: "/shgmkelimeezber/manifest.json",
+  // iPhone: ana ekrana eklenince tam ekran uygulama olarak açılması için
+  appleWebApp: {
+    capable: true,
+    title: "LexiFlow",
+  },
 };
 
 export default function RootLayout({
