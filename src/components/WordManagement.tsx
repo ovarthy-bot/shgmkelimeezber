@@ -16,6 +16,8 @@ import {
   Clock,
   Lightbulb,
   X,
+  Download,
+  Upload,
 } from "lucide-react";
 import { DifficultyLevel, Word, WordStatus } from "@/types";
 import { db, resetDatabase } from "@/lib/db";
@@ -65,6 +67,40 @@ export const WordManagement: React.FC = () => {
       await resetDatabase();
       await loadWords();
     }
+  };
+
+  const handleExportJSON = () => {
+    const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(words, null, 2));
+    const downloadAnchor = document.createElement("a");
+    downloadAnchor.setAttribute("href", dataStr);
+    downloadAnchor.setAttribute("download", `lexiflow_backup_${new Date().toISOString().split("T")[0]}.json`);
+    document.body.appendChild(downloadAnchor);
+    downloadAnchor.click();
+    downloadAnchor.remove();
+  };
+
+  const handleImportJSON = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const file = e.target.files?.[0];
+    if (!file) return;
+
+    const reader = new FileReader();
+    reader.onload = async (event) => {
+      try {
+        const imported = JSON.parse(event.target?.result as string);
+        if (Array.isArray(imported)) {
+          for (const item of imported) {
+            delete item.id;
+            await db.words.add(item);
+          }
+          await loadWords();
+          alert(`🎉 ${imported.length} kelime başarıyla içe aktarıldı!`);
+        }
+      } catch (err) {
+        alert("Geçersiz JSON dosyası!");
+      }
+    };
+    reader.readAsText(file);
+    e.target.value = "";
   };
 
   const handleSaveWord = async (e: React.FormEvent) => {
@@ -139,8 +175,24 @@ export const WordManagement: React.FC = () => {
           </button>
 
           <button
+            onClick={handleExportJSON}
+            className="p-2 rounded-2xl border border-slate-200 dark:border-slate-800 text-slate-500 hover:text-indigo-600 hover:border-indigo-300 transition-colors cursor-pointer"
+            title="Kelimeleri İndir (JSON Yedek)"
+          >
+            <Download className="w-4 h-4" />
+          </button>
+
+          <label
+            className="p-2 rounded-2xl border border-slate-200 dark:border-slate-800 text-slate-500 hover:text-indigo-600 hover:border-indigo-300 transition-colors cursor-pointer"
+            title="Kelimeleri Yükle (JSON İçe Aktar)"
+          >
+            <Upload className="w-4 h-4" />
+            <input type="file" accept=".json" onChange={handleImportJSON} className="hidden" />
+          </label>
+
+          <button
             onClick={handleReset}
-            className="p-2 rounded-2xl border border-slate-200 dark:border-slate-800 text-slate-400 hover:text-rose-500 hover:border-rose-300 dark:hover:border-rose-900 transition-colors"
+            className="p-2 rounded-2xl border border-slate-200 dark:border-slate-800 text-slate-400 hover:text-rose-500 hover:border-rose-300 dark:hover:border-rose-900 transition-colors cursor-pointer"
             title="Kelime Havuzunu Sıfırla"
           >
             <RotateCcw className="w-4 h-4" />

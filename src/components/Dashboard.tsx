@@ -66,6 +66,12 @@ export const Dashboard: React.FC<DashboardProps> = ({
       sub: "Akademik & zengin bağlam",
       badge: "bg-purple-500/10 text-purple-600 dark:text-purple-400",
     },
+    {
+      id: "Aviation",
+      label: "✈️ SHGM Havacılık",
+      sub: "Pilotluk & Sınav Terimleri",
+      badge: "bg-amber-500/10 text-amber-600 dark:text-amber-400",
+    },
   ];
 
   return (
@@ -161,7 +167,7 @@ export const Dashboard: React.FC<DashboardProps> = ({
           <span className="text-xs text-slate-400">Seviyeye göre kart kuyruğu filtrelenir</span>
         </div>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-3">
           {levels.map((lvl) => {
             const isSelected = selectedLevel === lvl.id;
             return (
