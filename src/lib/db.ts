@@ -29,6 +29,23 @@ export async function initializeDatabase(): Promise<void> {
     await db.words.bulkAdd(INITIAL_WORDS as Word[]);
   }
 
+  // Seed'deki sahne/örnek alanlarını mevcut kayıtlara uygula (ilerleme alanları korunur)
+  const seedWords = INITIAL_WORDS as Word[];
+  await db.transaction("rw", db.words, async () => {
+    for (const sw of seedWords) {
+      await db.words
+        .where("english")
+        .equals(sw.english)
+        .modify((w) => {
+          w.mnemonicHook = sw.mnemonicHook;
+          w.mnemonicScene = sw.mnemonicScene;
+          w.storyTr = sw.storyTr;
+          w.exampleEn = sw.exampleEn;
+          w.exampleTr = sw.exampleTr;
+        });
+    }
+  });
+
   // Stok görsel alanlarını (imageUrl/imageSource) mevcut kayıtlardan temizle
   await db.words.filter((w) => !!w.imageUrl || !!w.imageSource).modify((w) => {
     delete w.imageUrl;
