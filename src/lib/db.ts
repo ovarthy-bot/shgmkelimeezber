@@ -29,20 +29,29 @@ export async function initializeDatabase(): Promise<void> {
     await db.words.bulkAdd(INITIAL_WORDS as Word[]);
   }
 
-  // Seed'deki sahne/örnek alanlarını mevcut kayıtlara uygula (ilerleme alanları korunur)
-  const seedWords = INITIAL_WORDS as Word[];
+  // Seed'i mevcut kayıtlara uygula: içerik alanlarını güncelle, eksik kelimeleri ekle.
+  // İlerleme alanları (SM-2) mevcut kayıtlarda korunur.
   await db.transaction("rw", db.words, async () => {
-    for (const sw of seedWords) {
-      await db.words
-        .where("english")
-        .equals(sw.english)
-        .modify((w) => {
-          w.mnemonicHook = sw.mnemonicHook;
-          w.mnemonicScene = sw.mnemonicScene;
-          w.storyTr = sw.storyTr;
-          w.exampleEn = sw.exampleEn;
-          w.exampleTr = sw.exampleTr;
+    const existing = new Map(
+      (await db.words.toArray()).map((w) => [w.english.toLowerCase(), w] as const)
+    );
+    for (const sw of INITIAL_WORDS as Word[]) {
+      const found = existing.get(sw.english.toLowerCase());
+      if (found?.id !== undefined) {
+        await db.words.update(found.id, {
+          turkish: sw.turkish,
+          pronunciationTr: sw.pronunciationTr,
+          mnemonicHook: sw.mnemonicHook,
+          mnemonicScene: sw.mnemonicScene,
+          storyTr: sw.storyTr,
+          storyEn: "",
+          exampleEn: sw.exampleEn,
+          exampleTr: sw.exampleTr,
+          level: "A1",
         });
+      } else {
+        await db.words.add(sw);
+      }
     }
   });
 
