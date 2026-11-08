@@ -22,7 +22,6 @@ import {
 import { Word, WordStatus } from "@/types";
 import { db, resetDatabase } from "@/lib/db";
 import { speakEnglishWord } from "@/lib/speech";
-import { getWordImageUrl } from "@/lib/utils";
 import { formatInterval } from "@/lib/sm2";
 
 export const WordManagement: React.FC = () => {
@@ -237,7 +236,7 @@ export const WordManagement: React.FC = () => {
         ) : (
           filteredWords.slice(0, visibleCount).map((w) => {
             const isExpanded = expandedWordId === w.id;
-            const imageUrl = w.imageUrl || getWordImageUrl(w.english, w.imagePrompt);
+            const imageUrl = w.imageUrl;
 
             return (
               <div
@@ -300,15 +299,13 @@ export const WordManagement: React.FC = () => {
                 {/* Expanded Details */}
                 {isExpanded && (
                   <div className="mt-4 pt-4 border-t border-slate-100 dark:border-slate-800 flex flex-col md:flex-row gap-4">
-                    {/* Visual thumbnail */}
-                    <div className="w-full md:w-44 h-32 rounded-2xl overflow-hidden bg-slate-100 dark:bg-slate-800 flex-shrink-0">
-                      {/* eslint-disable-next-line @next/next/no-img-element */}
-                      <img
-                        src={imageUrl}
-                        alt={w.english}
-                        className="w-full h-full object-cover"
-                      />
-                    </div>
+                    {/* Visual thumbnail (yalnızca stok görsel varsa) */}
+                    {imageUrl && (
+                      <div className="w-full md:w-44 h-32 rounded-2xl overflow-hidden bg-slate-100 dark:bg-slate-800 flex-shrink-0">
+                        {/* eslint-disable-next-line @next/next/no-img-element */}
+                        <img src={imageUrl} alt={w.english} className="w-full h-full object-cover" />
+                      </div>
+                    )}
 
                     {/* Sentences & Story */}
                     <div className="flex-1 flex flex-col gap-2 text-xs">

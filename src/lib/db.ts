@@ -29,6 +29,12 @@ export async function initializeDatabase(): Promise<void> {
     await db.words.bulkAdd(INITIAL_WORDS as Word[]);
   }
 
+  // Stok görsel alanlarını (imageUrl/imageSource) mevcut kayıtlardan temizle
+  await db.words.filter((w) => !!w.imageUrl || !!w.imageSource).modify((w) => {
+    delete w.imageUrl;
+    delete w.imageSource;
+  });
+
   const settingsCount = await db.settings.count();
   if (settingsCount === 0) {
     const today = new Date().toISOString().split("T")[0];

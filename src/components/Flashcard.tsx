@@ -16,7 +16,6 @@ import {
 } from "lucide-react";
 import { Word } from "@/types";
 import { speakEnglishWord } from "@/lib/speech";
-import { getWordImageUrl } from "@/lib/utils";
 import { soundEffects } from "@/lib/soundEffects";
 
 interface FlashcardProps {
@@ -42,7 +41,7 @@ export const Flashcard: React.FC<FlashcardProps> = ({
   const [imageError, setImageError] = useState(false);
   const [showImage, setShowImage] = useState(showImageByDefault);
 
-  const imageUrl = word.imageUrl || getWordImageUrl(word.english, word.imagePrompt);
+  const imageUrl = word.imageUrl;
   const pronTr = word.pronunciationTr || word.phonetic?.replace(/\//g, "") || "";
   const hook = word.mnemonicHook || word.english.toUpperCase();
   const scene = word.mnemonicScene || word.storyTr || "";
@@ -103,6 +102,7 @@ export const Flashcard: React.FC<FlashcardProps> = ({
             </div>
 
             <div className="flex items-center gap-2">
+              {imageUrl && (
               <button
                 type="button"
                 onClick={(e) => {
@@ -114,6 +114,7 @@ export const Flashcard: React.FC<FlashcardProps> = ({
               >
                 {showImage ? <EyeOff className="w-4 h-4" /> : <Eye className="w-4 h-4" />}
               </button>
+              )}
               <div className="flex items-center gap-1 text-xs font-medium text-slate-400 dark:text-slate-500">
                 <Sparkles className="w-3.5 h-3.5 text-amber-500" />
                 <span>Ön Yüz</span>
@@ -122,7 +123,7 @@ export const Flashcard: React.FC<FlashcardProps> = ({
           </div>
 
           {/* Görsel Alanı */}
-          {showImage && (
+          {showImage && imageUrl && (
             <div className="my-2.5 relative w-full h-44 sm:h-48 rounded-2xl overflow-hidden bg-slate-100 dark:bg-slate-800/60 border border-slate-100 dark:border-slate-800">
               {!imageLoaded && !imageError && (
                 <div className="absolute inset-0 flex flex-col items-center justify-center bg-slate-100 dark:bg-slate-800 animate-pulse">
