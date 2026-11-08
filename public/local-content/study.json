@@ -21,32 +21,6 @@
           ]
         }
       ],
-      "kelimeler": [
-        "install (installed) – takmak, montaj",
-        "remove (removed) – sökmek",
-        "replace (replaced) – değiştirmek",
-        "inspect (inspected) – muayene/kontrol etmek",
-        "report (reported) – bildirmek",
-        "find (found – found) – bulmak; düzensiz fiil",
-        "torque (torqued) – belirli değerde sıkmak",
-        "wrench – anahtar",
-        "torque wrench – tork anahtarı",
-        "screwdriver – tornavida",
-        "pliers – pense; hep çoğul",
-        "caliper – kumpas",
-        "wing – kanat",
-        "fuselage – gövde",
-        "nose gear / NLG – burun iniş takımı",
-        "flap – flap; kaynakta \"kanatçık\" yazıyor; kanatçık genelde aileron için kullanılır",
-        "rudder – istikamet dümeni; kaynakta \"dikey dengeleyici\" yazıyor; o vertical stabilizer'dır",
-        "engine nacelle – motor naseli/kaportası",
-        "hangar / ramp / workshop / stores – hangar / apron / atölye / malzeme deposu",
-        "defect / discrepancy – arıza / uygunsuzluk",
-        "visual inspection – gözle muayene",
-        "ground power unit (GPU) – yer güç ünitesi",
-        "leak – kaçak, sızıntı",
-        "corrosion – korozyon"
-      ],
       "sorular": [
         "\"SX-5DK\" seri numarasını fonetik alfabe ve havacılık sayı telaffuzuyla yaz.",
         "19:45'i 24 saat formatında iki şekilde nasıl söylersin?",
@@ -196,18 +170,6 @@
           ]
         }
       ],
-      "kelimeler": [
-        "tense – zaman (dilbilgisi)",
-        "auxiliary / modal verb – yardımcı fiil",
-        "conditional – koşul cümlesi",
-        "active / passive voice – etken / edilgen çatı",
-        "past participle (V3) – fiilin 3. hali",
-        "relative clause – ilgi cümleciği",
-        "reported speech – dolaylı anlatım",
-        "preposition – edat",
-        "rectify – (arızayı) gidermek",
-        "state / note / confirm / indicate – ifade etmek / belirtmek / doğrulamak / işaret etmek"
-      ],
       "sorular": [
         "Doğru zamanı seç: \"Look! They ______ (tow) the aircraft into the hangar now.\"",
         "Bakım kaydı için uygun hale getir: \"I am going to remove the starter and I install a new one.\"",
@@ -318,26 +280,6 @@
           ]
         }
       ],
-      "kelimeler": [
-        "bulkhead – perde, bölme duvarı",
-        "fairing – kaporta, aerodinamik kaplama",
-        "jack pad / jacking point – kriko noktası",
-        "overhaul – revizyon, elden geçirme",
-        "align – hizalamak",
-        "secure – sabitlemek, emniyete almak",
-        "GVI / DVI – genel / detaylı gözle muayene",
-        "operational test / functional test – çalışma testi / fonksiyon testi",
-        "borescope – boroskop",
-        "safety wire / lockwire – emniyet teli",
-        "circuit breaker (CB) – sigorta (devre kesici)",
-        "placard – uyarı etiketi",
-        "hazard / risk / precaution – tehlike / risk / önlem",
-        "complacency – rehavet, aşırı güven",
-        "fatigue – yorgunluk",
-        "PPE – kişisel koruyucu donanım",
-        "airworthiness – uçuşa elverişlilik",
-        "traceability – izlenebilirlik"
-      ],
       "sorular": [
         "Doğru dokümanı seç: Arızalı bir yakıt pompasıyla uçağın sefere çıkıp çıkamayacağını hangisinden bakarsın? (IPC / MEL / SRM)",
         "Yeni bir parçanın doğru P/N'sini bulmak için hangi doküman kullanılır?",
@@ -440,22 +382,6 @@
             "Senaryo mantığı: AD süre verdiyse (örn. 10 gün) iş o süre içinde planlanır ve AD numarasıyla kaydedilir. MEL izin veriyorsa uçak gönderilir, ama koşulları (placard, (O)/(M) prosedürleri, süre) yerine getirilir."
           ]
         }
-      ],
-      "kelimeler": [
-        "yaw / roll / pitch – sapma / yatış / yunuslama",
-        "outflow valve – dışarı akış valfi",
-        "inverter – DC'yi AC'ye çeviren cihaz",
-        "upstream / downstream – akış öncesi / sonrası",
-        "supply / return line – besleme / dönüş hattı",
-        "anomaly – anormallik",
-        "deferred – ertelenmiş",
-        "complied with – uygulandı, yerine getirildi",
-        "objective / subjective – nesnel / öznel",
-        "exposition – kuruluş el kitabı (MOE)",
-        "mandatory – zorunlu",
-        "serviceable / unserviceable – kullanılabilir / kullanılamaz",
-        "airworthy – uçuşa elverişli",
-        "legally binding – yasal bağlayıcı"
       ],
       "sorular": [
         "Rudder, aileron ve elevator hangi eksenlerde hareket sağlar?",
