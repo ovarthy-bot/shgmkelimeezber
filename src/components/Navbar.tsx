@@ -2,6 +2,7 @@
 
 import React from "react";
 import {
+  GraduationCap,
   Flame,
   Moon,
   Sun,
@@ -15,8 +16,8 @@ import {
 import { useTheme } from "@/hooks/useTheme";
 
 interface NavbarProps {
-  currentTab: "dashboard" | "study" | "words" | "stats";
-  onTabChange: (tab: "dashboard" | "study" | "words" | "stats") => void;
+  currentTab: "dashboard" | "study" | "words" | "stats" | "notes";
+  onTabChange: (tab: "dashboard" | "study" | "words" | "stats" | "notes") => void;
   streak: number;
   voiceAccent: "en-US" | "en-GB";
   onAccentToggle: () => void;
@@ -96,6 +97,19 @@ export const Navbar: React.FC<NavbarProps> = ({
           >
             <BookMarked className="w-3.5 h-3.5" />
             <span>Kelime Havuzu</span>
+          </button>
+
+          <button
+            type="button"
+            onClick={() => onTabChange("notes")}
+            className={`flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-semibold transition-all ${
+              currentTab === "notes"
+                ? "bg-white dark:bg-slate-900 text-indigo-600 dark:text-white shadow-sm"
+                : "text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white"
+            }`}
+          >
+            <GraduationCap className="w-3.5 h-3.5" />
+            <span>Konu</span>
           </button>
 
           <button
@@ -189,6 +203,17 @@ export const Navbar: React.FC<NavbarProps> = ({
         >
           <BookMarked className="w-4 h-4" />
           <span>Kelimeler</span>
+        </button>
+
+        <button
+          type="button"
+          onClick={() => onTabChange("notes")}
+          className={`flex flex-col items-center gap-1 text-[11px] font-semibold ${
+            currentTab === "notes" ? "text-indigo-600 dark:text-indigo-400" : "text-slate-500"
+          }`}
+        >
+          <GraduationCap className="w-4 h-4" />
+          <span>Konu</span>
         </button>
 
         <button
