@@ -90,3 +90,4 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = ${JSON.stringify(wordList, null
 
 fs.writeFileSync("src/lib/seedData.ts", fileContent, "utf-8");
 console.log(`Successfully generated src/lib/seedData.ts with ${wordList.length} SHGM vocabulary items!`);
+
