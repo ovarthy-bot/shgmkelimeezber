@@ -400,6 +400,7 @@ export const WordManagement: React.FC = () => {
                         <p className="text-slate-400 italic mt-0.5">{w.exampleTr}</p>
                       </div>
 
+                      {(w.mnemonicScene || w.storyTr) && (
                       <div className="p-3 rounded-2xl bg-amber-500/10 dark:bg-amber-500/15 border border-amber-500/25">
                         <div className="flex items-center gap-1.5 font-bold text-amber-700 dark:text-amber-400 mb-1">
                           <Lightbulb className="w-3.5 h-3.5 text-amber-500" />
@@ -414,6 +415,7 @@ export const WordManagement: React.FC = () => {
                           {w.mnemonicScene || w.storyTr}
                         </p>
                       </div>
+                      )}
 
                       <div className="flex items-center gap-3 text-slate-400 mt-1">
                         <span>Tekrar: {w.timesReviewed || 0}</span>
