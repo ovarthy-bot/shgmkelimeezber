@@ -20,6 +20,7 @@ export interface Word {
   synonyms?: string[];
   imagePrompt?: string;
   imageUrl?: string;
+  imageSource?: string; // Pixabay sayfa linki (atıf için)
   category?: "general" | "aviation";
 
   // SM-2 Spaced Repetition Fields
