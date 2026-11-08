@@ -1,5 +1,5 @@
 import Dexie, { Table } from "dexie";
-import { DailyActivity, DifficultyLevel, Rating, ReviewLog, SM2Result, UserSettings, Word } from "@/types";
+import { DailyActivity, Rating, ReviewLog, SM2Result, UserSettings, Word } from "@/types";
 import { INITIAL_WORDS } from "./seedData";
 
 export class LexiFlowDatabase extends Dexie {
@@ -36,7 +36,6 @@ export async function initializeDatabase(): Promise<void> {
       dailyGoal: 10,
       streak: 1,
       lastActiveDate: today,
-      selectedLevel: "all",
       soundEnabled: true,
       voiceAccent: "en-US",
       autoPronounce: false,
@@ -47,15 +46,11 @@ export async function initializeDatabase(): Promise<void> {
 /**
  * Get words that are due for review (nextReviewDate <= end of today)
  */
-export async function getDueWords(level?: DifficultyLevel | "all"): Promise<Word[]> {
+export async function getDueWords(): Promise<Word[]> {
   const endOfToday = new Date().setHours(23, 59, 59, 999);
-  let query = db.words.where("nextReviewDate").belowOrEqual(endOfToday);
+  const query = db.words.where("nextReviewDate").belowOrEqual(endOfToday);
 
-  let dueWords = await query.toArray();
-
-  if (level && level !== "all") {
-    dueWords = dueWords.filter((w) => w.level === level);
-  }
+  const dueWords = await query.toArray();
 
   // Sort by priority: failed/lapsed first, then earliest review date
   return dueWords.sort((a, b) => {
@@ -67,13 +62,9 @@ export async function getDueWords(level?: DifficultyLevel | "all"): Promise<Word
 /**
  * Get new unlearned words
  */
-export async function getNewWords(limit: number = 10, level?: DifficultyLevel | "all"): Promise<Word[]> {
-  let collection = db.words.where("status").equals("new");
-  let words = await collection.toArray();
-
-  if (level && level !== "all") {
-    words = words.filter((w) => w.level === level);
-  }
+export async function getNewWords(limit: number = 10): Promise<Word[]> {
+  const collection = db.words.where("status").equals("new");
+  const words = await collection.toArray();
 
   return words.slice(0, limit);
 }
@@ -147,7 +138,7 @@ export async function getSettings(): Promise<UserSettings> {
       dailyGoal: 10,
       streak: 1,
       lastActiveDate: today,
-      selectedLevel: "all",
+
       soundEnabled: true,
       voiceAccent: "en-US",
       autoPronounce: false,

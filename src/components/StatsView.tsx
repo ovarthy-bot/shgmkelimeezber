@@ -31,11 +31,7 @@ import { getWeeklyActivity, getOverallStats, OverallStats, db } from "@/lib/db";
 export const StatsView: React.FC = () => {
   const [weeklyData, setWeeklyData] = useState<DailyActivity[]>([]);
   const [stats, setStats] = useState<OverallStats | null>(null);
-  const [levelCounts, setLevelCounts] = useState<{ A1: number; "A2-B1": number; "B2-C1": number }>({
-    A1: 0,
-    "A2-B1": 0,
-    "B2-C1": 0,
-  });
+  const [totalWords, setTotalWords] = useState(0);
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
@@ -48,12 +44,7 @@ export const StatsView: React.FC = () => {
       setStats(overall);
 
       const words = await db.words.toArray();
-      const counts = {
-        A1: words.filter((w) => w.level === "A1").length,
-        "A2-B1": words.filter((w) => w.level === "A2-B1").length,
-        "B2-C1": words.filter((w) => w.level === "B2-C1").length,
-      };
-      setLevelCounts(counts);
+      setTotalWords(words.length);
     }
 
     loadData();
@@ -159,7 +150,7 @@ export const StatsView: React.FC = () => {
         </div>
       </div>
 
-      {/* Secondary Row: Retention Curve + Level Distribution */}
+      {/* Secondary Row: Retention Curve */}
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
         {/* Retention Trend */}
         <div className="p-6 rounded-3xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm">
@@ -245,36 +236,11 @@ export const StatsView: React.FC = () => {
         </div>
       </div>
 
-      {/* Level Breakdown Cards */}
+      {/* Total Word Count */}
       <div className="p-6 rounded-3xl bg-slate-50 dark:bg-slate-900/60 border border-slate-200 dark:border-slate-800">
-        <h3 className="text-base font-bold text-slate-900 dark:text-white mb-4">
-          Seviyelere Göre Kelime Dağılımı
-        </h3>
-        <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
-          <div className="p-4 rounded-2xl bg-white dark:bg-slate-800 border border-slate-200/80 dark:border-slate-700/80">
-            <span className="text-xs font-bold text-emerald-600 dark:text-emerald-400">A1 Seviyesi</span>
-            <div className="text-2xl font-black text-slate-900 dark:text-white mt-1">
-              {levelCounts.A1} Kelime
-            </div>
-            <p className="text-xs text-slate-400 mt-1">Temel başlangıç dağarcığı</p>
-          </div>
-
-          <div className="p-4 rounded-2xl bg-white dark:bg-slate-800 border border-slate-200/80 dark:border-slate-700/80">
-            <span className="text-xs font-bold text-sky-600 dark:text-sky-400">A2-B1 Seviyesi</span>
-            <div className="text-2xl font-black text-slate-900 dark:text-white mt-1">
-              {levelCounts["A2-B1"]} Kelime
-            </div>
-            <p className="text-xs text-slate-400 mt-1">Orta seviye & akıcı diyalog</p>
-          </div>
-
-          <div className="p-4 rounded-2xl bg-white dark:bg-slate-800 border border-slate-200/80 dark:border-slate-700/80">
-            <span className="text-xs font-bold text-purple-600 dark:text-purple-400">B2-C1 Seviyesi</span>
-            <div className="text-2xl font-black text-slate-900 dark:text-white mt-1">
-              {levelCounts["B2-C1"]} Kelime
-            </div>
-            <p className="text-xs text-slate-400 mt-1">İleri düzey & akademik nüans</p>
-          </div>
-        </div>
+        <h3 className="text-base font-bold text-slate-900 dark:text-white mb-4">Toplam Kelime</h3>
+        <div className="text-2xl font-black text-slate-900 dark:text-white">{totalWords} Kelime</div>
+        <p className="text-xs text-slate-400 mt-1">Veritabanındaki tüm kelimeler karışık sırada öğretilir.</p>
       </div>
     </div>
   );

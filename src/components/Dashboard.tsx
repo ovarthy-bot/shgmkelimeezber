@@ -6,9 +6,7 @@ import {
   Play,
   Sparkles,
   Flame,
-  CheckCircle2,
   Clock,
-  Layers,
   Award,
   Zap,
   ArrowRight,
@@ -17,13 +15,10 @@ import {
   Eye,
   BookOpen,
 } from "lucide-react";
-import { DifficultyLevel } from "@/types";
 import { OverallStats } from "@/lib/db";
 
 interface DashboardProps {
   stats: OverallStats | null;
-  selectedLevel: DifficultyLevel | "all";
-  onSelectLevel: (lvl: DifficultyLevel | "all") => void;
   onStartSession: () => void;
   onNavigateToWords: () => void;
   onNavigateToStats: () => void;
@@ -31,8 +26,6 @@ interface DashboardProps {
 
 export const Dashboard: React.FC<DashboardProps> = ({
   stats,
-  selectedLevel,
-  onSelectLevel,
   onStartSession,
   onNavigateToWords,
   onNavigateToStats,
@@ -40,39 +33,6 @@ export const Dashboard: React.FC<DashboardProps> = ({
   const dailyGoal = stats?.dailyGoal || 10;
   const reviewedToday = stats?.reviewedTodayCount || 0;
   const progressPercent = Math.min(100, Math.round((reviewedToday / dailyGoal) * 100));
-
-  const levels: { id: DifficultyLevel | "all"; label: string; sub: string; badge: string }[] = [
-    {
-      id: "all",
-      label: "Tüm Seviyeler",
-      sub: "Bütün kelime havuzu",
-      badge: "bg-slate-500/10 text-slate-600 dark:text-slate-300",
-    },
-    {
-      id: "A1",
-      label: "A1 - Sıfırdan Başla",
-      sub: "Temel günlük kelimeler",
-      badge: "bg-emerald-500/10 text-emerald-600 dark:text-emerald-400",
-    },
-    {
-      id: "A2-B1",
-      label: "A2-B1 - Temel & Orta",
-      sub: "İletişim & iş İngilizcesi",
-      badge: "bg-sky-500/10 text-sky-600 dark:text-sky-400",
-    },
-    {
-      id: "B2-C1",
-      label: "B2-C1 - İleri & Akıcı",
-      sub: "Akademik & zengin bağlam",
-      badge: "bg-purple-500/10 text-purple-600 dark:text-purple-400",
-    },
-    {
-      id: "Aviation",
-      label: "✈️ SHGM Havacılık",
-      sub: "Pilotluk & Sınav Terimleri",
-      badge: "bg-amber-500/10 text-amber-600 dark:text-amber-400",
-    },
-  ];
 
   return (
     <div className="w-full max-w-5xl mx-auto flex flex-col gap-8 pb-12">
@@ -157,52 +117,10 @@ export const Dashboard: React.FC<DashboardProps> = ({
         </div>
       </div>
 
-      {/* Level Selector Section */}
-      <div className="flex flex-col gap-3">
-        <div className="flex items-center justify-between">
-          <h2 className="text-lg font-bold text-slate-900 dark:text-white flex items-center gap-2">
-            <Layers className="w-5 h-5 text-indigo-600 dark:text-indigo-400" />
-            <span>Zorluk Seviyesi Seçimi</span>
-          </h2>
-          <span className="text-xs text-slate-400">Seviyeye göre kart kuyruğu filtrelenir</span>
-        </div>
-
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-3">
-          {levels.map((lvl) => {
-            const isSelected = selectedLevel === lvl.id;
-            return (
-              <motion.button
-                key={lvl.id}
-                whileTap={{ scale: 0.98 }}
-                onClick={() => onSelectLevel(lvl.id)}
-                className={`p-4 rounded-2xl text-left border transition-all ${
-                  isSelected
-                    ? "bg-indigo-600 text-white border-indigo-600 shadow-md shadow-indigo-600/20"
-                    : "bg-white dark:bg-slate-900 text-slate-900 dark:text-white border-slate-200 dark:border-slate-800 hover:border-indigo-300 dark:hover:border-indigo-700"
-                }`}
-              >
-                <div className="flex items-center justify-between mb-2">
-                  <span
-                    className={`text-[11px] font-bold px-2 py-0.5 rounded-full ${
-                      isSelected ? "bg-white/20 text-white" : lvl.badge
-                    }`}
-                  >
-                    {lvl.label.split(" - ")[0]}
-                  </span>
-                  {isSelected && <CheckCircle2 className="w-4 h-4 text-white" />}
-                </div>
-                <h4 className="font-bold text-sm">{lvl.label}</h4>
-                <p
-                  className={`text-xs mt-0.5 line-clamp-1 ${
-                    isSelected ? "text-indigo-100" : "text-slate-400"
-                  }`}
-                >
-                  {lvl.sub}
-                </p>
-              </motion.button>
-            );
-          })}
-        </div>
+      {/* Info band: all words are taught */}
+      <div className="flex items-center gap-3 px-4 py-3 rounded-2xl bg-indigo-500/10 border border-indigo-500/20 text-sm text-indigo-700 dark:text-indigo-300">
+        <Sparkles className="w-4 h-4 shrink-0" />
+        <p>Veritabanındaki tüm kelimeler (SHGM dahil) karışık sırada öğretilir.</p>
       </div>
 
       {/* 4 Stats Cards */}

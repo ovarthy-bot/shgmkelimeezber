@@ -1,3 +1,4 @@
+// Seviye ayrımı kaldırıldı: tüm kelimeler A1 olarak tutulur (veri bütünlüğü için tip korunur).
 export type DifficultyLevel = "A1" | "A2-B1" | "B2-C1" | "Aviation";
 
 export type WordStatus = "new" | "learning" | "mastered";
@@ -11,10 +12,10 @@ export interface Word {
   mnemonicHook?: string;    // Türkçe ses benzetme kelimesi, örn: "NE AYDIR", "AVIN", "ATAŞ"
   mnemonicScene?: string;   // Görseldeki gibi Türkçe benzetme ve çağrışım senaryosu
   partOfSpeech: "noun" | "verb" | "adjective" | "adverb" | "idiom";
-  level: DifficultyLevel;
+  level: "A1";
   exampleEn: string;
   exampleTr: string;
-  storyEn: string;
+  storyEn?: string; // Kullanılmıyor; geriye dönük uyumluluk için opsiyonel
   storyTr: string;
   synonyms?: string[];
   imagePrompt?: string;
@@ -61,7 +62,6 @@ export interface UserSettings {
   dailyGoal: number; // e.g. 15 words
   streak: number;
   lastActiveDate: string; // YYYY-MM-DD
-  selectedLevel: DifficultyLevel | "all";
   soundEnabled: boolean;
   voiceAccent: "en-US" | "en-GB";
   autoPronounce: boolean;

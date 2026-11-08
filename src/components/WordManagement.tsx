@@ -19,7 +19,7 @@ import {
   Download,
   Upload,
 } from "lucide-react";
-import { DifficultyLevel, Word, WordStatus } from "@/types";
+import { Word, WordStatus } from "@/types";
 import { db, resetDatabase } from "@/lib/db";
 import { speakEnglishWord } from "@/lib/speech";
 import { getWordImageUrl } from "@/lib/utils";
@@ -28,7 +28,6 @@ import { formatInterval } from "@/lib/sm2";
 export const WordManagement: React.FC = () => {
   const [words, setWords] = useState<Word[]>([]);
   const [searchTerm, setSearchTerm] = useState("");
-  const [selectedLevel, setSelectedLevel] = useState<string>("all");
   const [selectedStatus, setSelectedStatus] = useState<string>("all");
   const [visibleCount, setVisibleCount] = useState<number>(30);
   const [expandedWordId, setExpandedWordId] = useState<number | null>(null);
@@ -38,7 +37,7 @@ export const WordManagement: React.FC = () => {
     turkish: "",
     phonetic: "",
     partOfSpeech: "noun",
-    level: "A2-B1",
+    level: "A1",
     exampleEn: "",
     exampleTr: "",
     storyEn: "",
@@ -113,7 +112,7 @@ export const WordManagement: React.FC = () => {
       turkish: newWord.turkish.trim(),
       phonetic: newWord.phonetic?.trim() || `/${newWord.english.toLowerCase()}/`,
       partOfSpeech: (newWord.partOfSpeech as any) || "noun",
-      level: (newWord.level as DifficultyLevel) || "A2-B1",
+      level: "A1",
       exampleEn: newWord.exampleEn?.trim() || `This is an example with ${newWord.english}.`,
       exampleTr: newWord.exampleTr?.trim() || `Bu ${newWord.turkish} ile bir örnektir.`,
       storyEn: newWord.storyEn?.trim() || `Remembering ${newWord.english} in context.`,
@@ -134,7 +133,7 @@ export const WordManagement: React.FC = () => {
       turkish: "",
       phonetic: "",
       partOfSpeech: "noun",
-      level: "A2-B1",
+      level: "A1",
       exampleEn: "",
       exampleTr: "",
       storyEn: "",
@@ -147,9 +146,8 @@ export const WordManagement: React.FC = () => {
     const matchesSearch =
       w.english.toLowerCase().includes(searchTerm.toLowerCase()) ||
       w.turkish.toLowerCase().includes(searchTerm.toLowerCase());
-    const matchesLevel = selectedLevel === "all" || w.level === selectedLevel;
     const matchesStatus = selectedStatus === "all" || w.status === selectedStatus;
-    return matchesSearch && matchesLevel && matchesStatus;
+    return matchesSearch && matchesStatus;
   });
 
   return (
@@ -215,20 +213,6 @@ export const WordManagement: React.FC = () => {
           />
         </div>
 
-        {/* Level filter */}
-        <div className="relative">
-          <select
-            value={selectedLevel}
-            onChange={(e) => setSelectedLevel(e.target.value)}
-            className="w-full px-4 py-2.5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-xs sm:text-sm text-slate-700 dark:text-slate-300 focus:outline-none focus:ring-2 focus:ring-indigo-500 cursor-pointer"
-          >
-            <option value="all">Tüm Seviyeler</option>
-            <option value="A1">A1 (Başlangıç)</option>
-            <option value="A2-B1">A2-B1 (Orta Seviye)</option>
-            <option value="B2-C1">B2-C1 (İleri Seviye)</option>
-          </select>
-        </div>
-
         {/* Status filter */}
         <div className="relative">
           <select
@@ -289,10 +273,6 @@ export const WordManagement: React.FC = () => {
                   </div>
 
                   <div className="flex items-center gap-2">
-                    <span className="text-[11px] font-bold px-2 py-0.5 rounded-full bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300">
-                      {w.level}
-                    </span>
-
                     <span
                       className={`text-[11px] font-bold px-2 py-0.5 rounded-full ${
                         w.status === "mastered"
@@ -444,20 +424,6 @@ export const WordManagement: React.FC = () => {
                   />
                 </div>
 
-                <div>
-                  <label className="font-semibold text-slate-700 dark:text-slate-300 block mb-1">
-                    Seviye
-                  </label>
-                  <select
-                    value={newWord.level}
-                    onChange={(e) => setNewWord({ ...newWord, level: e.target.value as any })}
-                    className="w-full px-3.5 py-2 rounded-xl bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 focus:outline-none focus:ring-2 focus:ring-indigo-500"
-                  >
-                    <option value="A1">A1</option>
-                    <option value="A2-B1">A2-B1</option>
-                    <option value="B2-C1">B2-C1</option>
-                  </select>
-                </div>
               </div>
 
               <div>

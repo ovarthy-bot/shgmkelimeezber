@@ -14,14 +14,13 @@ import {
   Volume2,
   VolumeX,
 } from "lucide-react";
-import { DifficultyLevel, Rating, Word } from "@/types";
+import { Rating, Word } from "@/types";
 import { calculateNextReview, RATING_LABELS } from "@/lib/sm2";
 import { getDueWords, getNewWords, recordReview, db } from "@/lib/db";
 import { soundEffects } from "@/lib/soundEffects";
 import { Flashcard } from "./Flashcard";
 
 interface StudySessionProps {
-  level: DifficultyLevel | "all";
   onFinish: () => void;
   voiceAccent?: "en-US" | "en-GB";
 }
@@ -29,7 +28,6 @@ interface StudySessionProps {
 type StudyMode = "flashcard" | "quiz";
 
 export const StudySession: React.FC<StudySessionProps> = ({
-  level,
   onFinish,
   voiceAccent = "en-US",
 }) => {
@@ -58,12 +56,12 @@ export const StudySession: React.FC<StudySessionProps> = ({
       const allWords = await db.words.toArray();
       setAllWordsPool(allWords);
 
-      let words = await getDueWords(level);
+      let words = await getDueWords();
 
       // If few due words, add unlearned new words up to 10
       if (words.length < 10) {
         const needed = 10 - words.length;
-        const newWords = await getNewWords(needed, level);
+        const newWords = await getNewWords(needed);
         const existingIds = new Set(words.map((w) => w.id));
         const additional = newWords.filter((w) => !existingIds.has(w.id));
         words = [...words, ...additional];
@@ -74,7 +72,7 @@ export const StudySession: React.FC<StudySessionProps> = ({
     }
 
     loadSessionWords();
-  }, [level]);
+  }, []);
 
   const currentWord = queue[currentIndex];
 

@@ -1,7 +1,6 @@
 "use client";
 
 import React, { useState, useEffect, useCallback } from "react";
-import { DifficultyLevel } from "@/types";
 import { initializeDatabase, getOverallStats, OverallStats } from "@/lib/db";
 import { Navbar } from "@/components/Navbar";
 import { Dashboard } from "@/components/Dashboard";
@@ -11,7 +10,6 @@ import { StatsView } from "@/components/StatsView";
 
 export default function Home() {
   const [activeTab, setActiveTab] = useState<"dashboard" | "study" | "words" | "stats">("dashboard");
-  const [selectedLevel, setSelectedLevel] = useState<DifficultyLevel | "all">("all");
   const [voiceAccent, setVoiceAccent] = useState<"en-US" | "en-GB">("en-US");
   const [stats, setStats] = useState<OverallStats | null>(null);
   const [isInitializing, setIsInitializing] = useState(true);
@@ -85,8 +83,6 @@ export default function Home() {
         {activeTab === "dashboard" && (
           <Dashboard
             stats={stats}
-            selectedLevel={selectedLevel}
-            onSelectLevel={(lvl) => setSelectedLevel(lvl)}
             onStartSession={handleStartSession}
             onNavigateToWords={() => setActiveTab("words")}
             onNavigateToStats={() => setActiveTab("stats")}
@@ -95,7 +91,6 @@ export default function Home() {
 
         {activeTab === "study" && (
           <StudySession
-            level={selectedLevel}
             onFinish={handleFinishSession}
             voiceAccent={voiceAccent}
           />

@@ -265,7 +265,7 @@ export const Flashcard: React.FC<FlashcardProps> = ({
             <div className="flex items-center justify-between font-semibold text-slate-600 dark:text-slate-400 mb-1">
               <div className="flex items-center gap-1">
                 <BookOpen className="w-3 h-3 text-indigo-500" />
-                <span>Havacılık Cümlesi</span>
+                <span>Örnek Cümle</span>
               </div>
               <button
                 type="button"
