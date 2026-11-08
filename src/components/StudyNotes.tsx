@@ -32,7 +32,8 @@ export const StudyNotes: React.FC = () => {
   const [acik, setAcik] = useState<Record<number, boolean>>({});
 
   useEffect(() => {
-    fetch("/local-content/study.json")
+    const basePath = process.env.NODE_ENV === "production" ? "/shgmkelimeezber" : "";
+    fetch(`${basePath}/local-content/study.json`)
       .then((r) => {
         if (!r.ok) throw new Error("yok");
         return r.json();
