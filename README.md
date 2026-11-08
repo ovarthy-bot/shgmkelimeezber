@@ -1,36 +1,69 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 LexiFlow – Yapay Zeka Destekli Görsel Kelime Ezberleme Platformu
 
-## Getting Started
+**LexiFlow**, YoG uygulamasının *"Görsel + Tekrar + Hikaye"* metodolojisini SuperMemo 2 (SM-2) aralıklı tekrar algoritmasıyla harmanlayan, modern, çevrimdışı öncelikli (offline-first) ve açık kaynaklı bir web platformudur.
 
-First, run the development server:
+---
+
+## 🌐 Canlı Uygulama Nasıl Açılır?
+
+Geliştirme sunucusu arka planda çalışmaktadır. Uygulamaya erişmek için tarayıcınızda (Chrome, Edge vb.) şu adresi açın:
+
+👉 **[http://localhost:3000](http://localhost:3000)**
+
+---
+
+## ✨ Öne Çıkan Özellikler
+
+### 1. 🎴 3D Çift Taraflı Kelime Kartı (Flashcard)
+- **Ön Yüz:** İngilizce kelime, IPA fonetik telaffuz transkripsiyonu, yapay zeka üretken görseli (Pollinations.ai), iskelet (skeleton) yükleyici ve Web Speech API sesli telaffuz butonu.
+- **Arka Yüz:** Vurgulu Türkçe anlamı, hedef kelimenin renkli vurgulandığı örnek cümle + Türkçe çevirisi, hafızayı pekiştiren canlı mikro hikaye ve eş anlamlılar.
+- **Etkileşim:** Kart üzerine tıklayarak veya klavyedeki <kbd>Boşluk</kbd> (Space) tuşuna basarak çevrilir.
+
+### 2. 🧠 SuperMemo 2 (SM-2) Aralıklı Tekrar Motoru
+- **[1] Tekrar (Again):** Hatırlanamayan kelimeler seansın sonuna tekrar eklenir ve pekiştirilene kadar sorulur.
+- **[2] Zor (Hard):** 1.2x aralık çarpanı ve düşük EF ile yakın tarihte tekrar planlanır.
+- **[3] İyi (Good):** Standart SM-2 aralığı ($I_n = I_{n-1} \times EF$).
+- **[4] Kolay (Easy):** Kolaylık bonusu ($1.3\times$) ile uzun vadeli kalıcı hafızaya aktarılır.
+- Kısayollar: Kart açıkken <kbd>1</kbd>, <kbd>2</kbd>, <kbd>3</kbd>, <kbd>4</kbd> tuşlarıyla değerlendirme yapılır.
+
+### 3. ✈️ Özel Seviyeler & SHGM Havacılık İngilizcesi
+- **A1:** Günlük temel kelimeler
+- **A2-B1:** İletişim ve iş dünyası kelimeleri
+- **B2-C1:** İleri düzey akademik & zengin nüanslı kelimeler
+- **Aviation (SHGM):** Pilot, kabin ve havacılık sınavlarına özel terimler (*Turbulence, Clearance, Go-Around, Expedite, Mayday, Glide Slope, Squawk...*)
+
+### 4. 📊 Detaylı İstatistikler & Analiz (Recharts)
+- Günlük ve haftalık tekrar hacmi çubuk grafiği.
+- Hafıza tutma eğrisi (retention rate %).
+- Kalıcı, öğrenilen ve yeni kelimeler pasta grafiği.
+- Kesintisiz çalışma serisi (Streak) sayacı.
+
+### 5. 💾 Çevrimdışı Çalışma Desteği (IndexedDB & Dexie.js)
+- İnternet bağlantınız kopsa bile tüm kelime veritabanı, tekrar geçmişi ve ayarlar yerel IndexedDB'de saklanır.
+
+---
+
+## 🛠️ Teknoloji Yığını
+
+- **Framework:** Next.js 16 (App Router, Turbopack) & React 19
+- **Stil:** Tailwind CSS v4 & Shadcn UI estetiği (Dark / Light tema)
+- **Animasyon:** Framer Motion & Canvas Confetti
+- **Veritabanı:** Dexie.js (IndexedDB)
+- **Ses:** Web Speech API (US & UK aksan seçenekleri)
+- **Grafik:** Recharts
+- **İkonlar:** Lucide React
+
+---
+
+## 💻 Geliştirici Komutları
 
 ```bash
+# Bağımlılıkları yükle
+npm install
+
+# Geliştirme sunucusunu başlat
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+# Üretim derlemesi (Build)
+npm run build
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
