@@ -272,5 +272,7 @@ const outContent = `import { Word } from "@/types";
 export const INITIAL_WORDS: Omit<Word, "id">[] = ${JSON.stringify(updatedWords, null, 2)};
 `;
 
-fs.writeFileSync("src/lib/seedData.ts", outContent, "utf-8");
-console.log(`Successfully updated src/lib/seedData.ts with Turkish sound-alike mnemonics for all ${updatedWords.length} words!`);
+// Output goes to a separate file so the curated seedData.ts is never overwritten by accident.
+// Note: words without a curated entry get a generic template scene; review before using them.
+fs.writeFileSync("scripts/seedData.generated.ts", outContent, "utf-8");
+console.log(`Wrote scripts/seedData.generated.ts (${updatedWords.length} words). Review before copying to src/lib/seedData.ts.`);
