@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useSyncExternalStore } from "react";
 import {
   Search,
   Plus,
@@ -23,6 +23,69 @@ import { Word, WordStatus } from "@/types";
 import { db, resetDatabase } from "@/lib/db";
 import { speakEnglishWord } from "@/lib/speech";
 import { formatInterval } from "@/lib/sm2";
+import { getPixabayKey, setPixabayKey } from "@/lib/wordImages";
+import { useWordImage } from "@/hooks/useWordImage";
+
+/** Kelime için önbellekteki görseli gösterir; görsel yoksa hiçbir şey çizmez. */
+const WordThumb: React.FC<{ english: string }> = ({ english }) => {
+  const { url, pageURL } = useWordImage(english);
+  if (!url) return null;
+  return (
+    <div className="w-full md:w-44 h-32 rounded-2xl overflow-hidden bg-slate-100 dark:bg-slate-800 flex-shrink-0 relative">
+      {/* eslint-disable-next-line @next/next/no-img-element */}
+      <img src={url} alt={english} className="w-full h-full object-cover" />
+      {pageURL && (
+        <a
+          href={pageURL}
+          target="_blank"
+          rel="noopener noreferrer"
+          onClick={(e) => e.stopPropagation()}
+          className="absolute bottom-1 right-1.5 text-[10px] font-semibold text-white bg-black/45 hover:bg-black/60 px-1.5 py-0.5 rounded"
+        >
+          Pixabay
+        </a>
+      )}
+    </div>
+  );
+};
+
+/** Pixabay API anahtarını tarayıcıya kaydetmek için küçük bir alan. */
+const noopSubscribe = () => () => {};
+
+const PixabayKeyInput: React.FC = () => {
+  // Sunucuda (SSR) anahtar okunamadığı için sunucu anlık görüntüsü boş döner.
+  const storedKey = useSyncExternalStore(noopSubscribe, getPixabayKey, () => "");
+  const [draft, setDraft] = useState("");
+  const [override, setOverride] = useState<string | null>(null);
+  const currentKey = override ?? storedKey;
+
+  return (
+    <div className="p-4 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 flex flex-col sm:flex-row gap-2 sm:items-center">
+      <p className="text-xs text-slate-500 dark:text-slate-400 flex-1">
+        Kelime görselleri için ücretsiz Pixabay API anahtarı. Anahtar yalnızca bu tarayıcıda saklanır.{" "}
+        {currentKey ? <span className="font-semibold text-emerald-600">Anahtar kayıtlı.</span> : null}
+      </p>
+      <input
+        type="password"
+        value={draft}
+        onChange={(e) => setDraft(e.target.value)}
+        placeholder="Pixabay API anahtarı"
+        className="px-3 py-2 text-xs rounded-xl border border-slate-200 dark:border-slate-700 bg-transparent flex-1 min-w-0"
+      />
+      <button
+        type="button"
+        onClick={() => {
+          setPixabayKey(draft);
+          setOverride(draft.trim());
+          setDraft("");
+        }}
+        className="px-3 py-2 rounded-xl bg-indigo-600 text-white text-xs font-bold"
+      >
+        Kaydet
+      </button>
+    </div>
+  );
+};
 
 export const WordManagement: React.FC = () => {
   const [words, setWords] = useState<Word[]>([]);
@@ -251,6 +314,8 @@ export const WordManagement: React.FC = () => {
         </div>
       </div>
 
+      <PixabayKeyInput />
+
       {/* Words List */}
       <div className="flex flex-col gap-3">
         {filteredWords.length === 0 ? (
@@ -260,7 +325,6 @@ export const WordManagement: React.FC = () => {
         ) : (
           filteredWords.slice(0, visibleCount).map((w) => {
             const isExpanded = expandedWordId === w.id;
-            const imageUrl = w.imageUrl;
 
             return (
               <div
@@ -323,13 +387,8 @@ export const WordManagement: React.FC = () => {
                 {/* Expanded Details */}
                 {isExpanded && (
                   <div className="mt-4 pt-4 border-t border-slate-100 dark:border-slate-800 flex flex-col md:flex-row gap-4">
-                    {/* Visual thumbnail (yalnızca stok görsel varsa) */}
-                    {imageUrl && (
-                      <div className="w-full md:w-44 h-32 rounded-2xl overflow-hidden bg-slate-100 dark:bg-slate-800 flex-shrink-0">
-                        {/* eslint-disable-next-line @next/next/no-img-element */}
-                        <img src={imageUrl} alt={w.english} className="w-full h-full object-cover" />
-                      </div>
-                    )}
+                    {/* Görsel (önbellekte veya Pixabay'den; yoksa gösterilmez) */}
+                    <WordThumb english={w.english} />
 
                     {/* Sentences & Story */}
                     <div className="flex-1 flex flex-col gap-2 text-xs">

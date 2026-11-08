@@ -2,10 +2,22 @@ import Dexie, { Table } from "dexie";
 import { DailyActivity, Rating, ReviewLog, SM2Result, UserSettings, Word } from "@/types";
 import { INITIAL_WORDS } from "./seedData";
 
+/**
+ * Cihazda önbelleğe alınmış kelime görseli (Pixabay). Blob olarak saklanır.
+ */
+export interface WordImage {
+  key: string; // küçük harfli İngilizce kelime
+  blob: Blob | null;
+  sourceUrl: string; // Pixabay görsel URL'si (blob yoksa kullanılır)
+  pageURL: string; // Pixabay sayfa linki (atıf için)
+  fetchedAt: number;
+}
+
 export class LexiFlowDatabase extends Dexie {
   words!: Table<Word, number>;
   reviews!: Table<ReviewLog, number>;
   settings!: Table<UserSettings, number>;
+  wordImages!: Table<WordImage, string>;
 
   constructor() {
     super("LexiFlowDB_Mnemonic_v3");
@@ -13,6 +25,9 @@ export class LexiFlowDatabase extends Dexie {
       words: "++id, english, turkish, level, status, nextReviewDate, interval, repetition, timesReviewed",
       reviews: "++id, wordId, rating, reviewedAt, nextReviewDate",
       settings: "++id",
+    });
+    this.version(2).stores({
+      wordImages: "key",
     });
   }
 }
@@ -53,12 +68,6 @@ export async function initializeDatabase(): Promise<void> {
         await db.words.add(sw);
       }
     }
-  });
-
-  // Stok görsel alanlarını (imageUrl/imageSource) mevcut kayıtlardan temizle
-  await db.words.filter((w) => !!w.imageUrl || !!w.imageSource).modify((w) => {
-    delete w.imageUrl;
-    delete w.imageSource;
   });
 
   const settingsCount = await db.settings.count();

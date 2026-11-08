@@ -17,6 +17,7 @@ import {
 import { Word } from "@/types";
 import { speakEnglishWord } from "@/lib/speech";
 import { soundEffects } from "@/lib/soundEffects";
+import { useWordImage } from "@/hooks/useWordImage";
 
 interface FlashcardProps {
   word: Word;
@@ -41,7 +42,7 @@ export const Flashcard: React.FC<FlashcardProps> = ({
   const [imageError, setImageError] = useState(false);
   const [showImage, setShowImage] = useState(showImageByDefault);
 
-  const imageUrl = word.imageUrl;
+  const { url: imageUrl, pageURL } = useWordImage(word.english);
   const pronTr = word.pronunciationTr || word.phonetic?.replace(/\//g, "") || "";
   const hook = word.mnemonicHook || word.english.toUpperCase();
   const scene = word.mnemonicScene || word.storyTr || "";
@@ -130,7 +131,7 @@ export const Flashcard: React.FC<FlashcardProps> = ({
                   <div className="w-10 h-10 rounded-full bg-slate-200 dark:bg-slate-700 flex items-center justify-center mb-2">
                     <ImageIcon className="w-5 h-5 text-slate-400" />
                   </div>
-                  <span className="text-xs text-slate-400 font-medium">Yapay zeka görseli yükleniyor...</span>
+                  <span className="text-xs text-slate-400 font-medium">Görsel yükleniyor...</span>
                 </div>
               )}
 
@@ -157,6 +158,18 @@ export const Flashcard: React.FC<FlashcardProps> = ({
                     &ldquo;{word.english}&rdquo;
                   </span>
                 </div>
+              )}
+
+              {pageURL && (
+                <a
+                  href={pageURL}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onClick={(e) => e.stopPropagation()}
+                  className="absolute bottom-1.5 right-2 text-[10px] font-semibold text-white bg-black/45 hover:bg-black/60 px-1.5 py-0.5 rounded"
+                >
+                  Pixabay
+                </a>
               )}
             </div>
           )}
