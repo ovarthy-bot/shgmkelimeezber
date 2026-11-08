@@ -112,3 +112,4 @@ class SoundManager {
 }
 
 export const soundEffects = new SoundManager();
+
