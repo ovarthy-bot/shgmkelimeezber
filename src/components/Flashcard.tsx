@@ -44,7 +44,7 @@ export const Flashcard: React.FC<FlashcardProps> = ({
 
   const { url: imageUrl, pageURL } = useWordImage(word.english);
   const pronTr = word.pronunciationTr || word.phonetic?.replace(/\//g, "") || "";
-  const hook = word.mnemonicHook || word.english.toUpperCase();
+  const hook = word.mnemonicHook || "";
   const scene = word.mnemonicScene || word.storyTr || "";
 
   useEffect(() => {
@@ -256,6 +256,7 @@ export const Flashcard: React.FC<FlashcardProps> = ({
           </div>
 
           {/* 🎯 KELİME BENZETME & ÇAĞRIŞIM SENARYOSU (YoG Metodu) */}
+          {scene && (
           <div className="p-4 rounded-2xl bg-amber-500/10 dark:bg-amber-500/15 border-2 border-amber-500/30 text-xs sm:text-sm">
             <div className="flex items-center justify-between mb-1.5">
               <div className="flex items-center gap-1.5 text-xs font-extrabold text-amber-700 dark:text-amber-400">
@@ -273,6 +274,7 @@ export const Flashcard: React.FC<FlashcardProps> = ({
               {renderFormattedScene(scene)}
             </p>
           </div>
+          )}
 
           {/* Örnek Havacılık Cümlesi */}
           <div className="p-3 rounded-2xl bg-slate-50 dark:bg-slate-800/60 border border-slate-100 dark:border-slate-800 text-xs">

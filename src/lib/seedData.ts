@@ -9,8 +9,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The oven is hot.",
     "exampleTr": "Fırın sıcaktır.",
-    "storyEn": "Mnemonic: [AVIN] -> FIRIN",
-    "storyTr": "Ormanda bir AYI'yı yakalayıp dev bir FIRIN'a tıkıştırdılar; yanık kokusu her yeri sardı. Ayının etini AVIN diye pişiriyorlardı: OVEN = FIRIN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component oven, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -21,8 +21,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ovan",
-    "mnemonicHook": "AVIN",
-    "mnemonicScene": "Ormanda bir AYI'yı yakalayıp dev bir FIRIN'a tıkıştırdılar; yanık kokusu her yeri sardı. Ayının etini AVIN diye pişiriyorlardı: OVEN = FIRIN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Grill",
@@ -32,8 +32,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "I cook meat on the grill.",
     "exampleTr": "Eti ızgarada pişiririm.",
-    "storyEn": "Mnemonic: [GİRİL] -> IZGARA",
-    "storyTr": "Piknikte mangalın başındaki amca \"GİRİL GİRİL\" diye bağırdı; etler cızırdayarak IZGARA'nın üstünde kızardı. GRILL = IZGARA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component grill, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -44,8 +44,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "gril",
-    "mnemonicHook": "GİRİL",
-    "mnemonicScene": "Piknikte mangalın başındaki amca \"GİRİL GİRİL\" diye bağırdı; etler cızırdayarak IZGARA'nın üstünde kızardı. GRILL = IZGARA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Duct",
@@ -55,8 +55,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The air goes through the duct.",
     "exampleTr": "Hava kanaldan geçer.",
-    "storyEn": "Mnemonic: [DAKTİLO] -> KANAL",
-    "storyTr": "Casus, gizli DAKTİLO'sunu uçağın havalandırma KANAL'ına sokup gözden kaybetti. DUCT = KANAL, BORU.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component duct, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -67,8 +67,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "dakt",
-    "mnemonicHook": "DAKTİLO",
-    "mnemonicScene": "Casus, gizli DAKTİLO'sunu uçağın havalandırma KANAL'ına sokup gözden kaybetti. DUCT = KANAL, BORU."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Renovation",
@@ -78,8 +78,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The renovation starts today.",
     "exampleTr": "Yenileme bugün başlıyor.",
-    "storyEn": "Mnemonic: [RENO] -> YENILEME",
-    "storyTr": "Reno marka kamyonun kasası eski bir evi taşıyordu; yıllar sonra ev baştan YENİLEME gördü. RENOVATION = YENİLEME.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component renovation, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -90,8 +90,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "renoveyşın",
-    "mnemonicHook": "RENO",
-    "mnemonicScene": "Reno marka kamyonun kasası eski bir evi taşıyordu; yıllar sonra ev baştan YENİLEME gördü. RENOVATION = YENİLEME."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Adjacent",
@@ -101,8 +101,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The two rooms are adjacent.",
     "exampleTr": "İki oda yan yanadır.",
-    "storyEn": "Mnemonic: [ACISINT] -> BITIŞIK",
-    "storyTr": "İki bitişik evin duvarı yan yana dikildi; komşunun ACISINT'ini duyan herkes BİTİŞİK olan bu duvarlardan kaçtı. ADJACENT = BİTİŞİK, YAN YANA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component adjacent, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -113,8 +113,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ıc-eysınt",
-    "mnemonicHook": "ACISINT",
-    "mnemonicScene": "İki bitişik evin duvarı yan yana dikildi; komşunun ACISINT'ini duyan herkes BİTİŞİK olan bu duvarlardan kaçtı. ADJACENT = BİTİŞİK, YAN YANA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Equipped",
@@ -124,8 +124,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The room is fully equipped.",
     "exampleTr": "Oda tamamen donatılmıştır.",
-    "storyEn": "Mnemonic: [EKİPT] -> DONATILMIŞ",
-    "storyTr": "Kurtarma EKİPT'i uçağa indi; kollarında son teknoloji aletlerle DONATILMIŞ bir takım vardı. EQUIPPED = DONATILMIŞ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component equipped, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -136,8 +136,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ikuipt",
-    "mnemonicHook": "EKİPT",
-    "mnemonicScene": "Kurtarma EKİPT'i uçağa indi; kollarında son teknoloji aletlerle DONATILMIŞ bir takım vardı. EQUIPPED = DONATILMIŞ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Foreign",
@@ -147,8 +147,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "He speaks a foreign language.",
     "exampleTr": "Yabancı bir dil konuşuyor.",
-    "storyEn": "Mnemonic: [FORİN] -> YABANCI",
-    "storyTr": "Macar FORİN'ini sallayan turist, \"bu ülke yabancı\" diye şaşkınlıkla bakakaldı. FOREIGN = YABANCI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component foreign, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -159,18 +159,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "forın",
-    "mnemonicHook": "FORİN",
-    "mnemonicScene": "Macar FORİN'ini sallayan turist, \"bu ülke yabancı\" diye şaşkınlıkla bakakaldı. FOREIGN = YABANCI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Unknown",
     "turkish": "bilinmeyen",
     "phonetic": "/announ/",
     "pronunciationTr": "announ",
-    "mnemonicHook": "ANON",
-    "mnemonicScene": "Kimliği belirsiz ANON biri, numarası BİLİNMEYEN bir hattan sürekli arıyordu. UNKNOWN = BİLİNMEYEN.",
-    "storyTr": "Kimliği belirsiz ANON biri, numarası BİLİNMEYEN bir hattan sürekli arıyordu. UNKNOWN = BİLİNMEYEN.",
-    "storyEn": "Mnemonic: [ANON] -> BILINMEYEN",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "The name is unknown.",
     "exampleTr": "İsim bilinmiyor.",
     "level": "A1",
@@ -191,8 +191,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This cake has one layer.",
     "exampleTr": "Bu pastanın bir katmanı var.",
-    "storyEn": "Mnemonic: [LEYLEK] -> KATMAN",
-    "storyTr": "Soğuk kışta LEYLEK yavrusunu bir KATMAN tüyle değil, üç KATMAN tüyle sarmıştı. LAYER = KATMAN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component layer, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -203,8 +203,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "leyır",
-    "mnemonicHook": "LEYLEK",
-    "mnemonicScene": "Soğuk kışta LEYLEK yavrusunu bir KATMAN tüyle değil, üç KATMAN tüyle sarmıştı. LAYER = KATMAN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Decision",
@@ -214,8 +214,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "I need to make a decision.",
     "exampleTr": "Bir karar vermem gerekiyor.",
-    "storyEn": "Mnemonic: [DE SİJN] -> KARAR",
-    "storyTr": "Hakem \"DE SİJN!\" diye düdüğü çaldı, sahada tek bir kelime ile KARAR açıklandı. DECISION = KARAR.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component decision, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -226,8 +226,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "disijın",
-    "mnemonicHook": "DE SİJN",
-    "mnemonicScene": "Hakem \"DE SİJN!\" diye düdüğü çaldı, sahada tek bir kelime ile KARAR açıklandı. DECISION = KARAR."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Peel off",
@@ -237,8 +237,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The paint can peel off.",
     "exampleTr": "Boya pul pul dökülebilir.",
-    "storyEn": "Mnemonic: [PİLOF] -> PUL PUL DÖKÜLMEK",
-    "storyTr": "Eski etiketi tabak pilaf gibi kaldırmaya çalıştık, PİLOF misali PUL PUL DÖKÜLDÜ. PEEL OFF = PUL PUL DÖKÜLMEK, SOYMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component peel off, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -249,8 +249,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "piil of",
-    "mnemonicHook": "PİLOF",
-    "mnemonicScene": "Eski etiketi tabak pilaf gibi kaldırmaya çalıştık, PİLOF misali PUL PUL DÖKÜLDÜ. PEEL OFF = PUL PUL DÖKÜLMEK, SOYMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Besides",
@@ -260,8 +260,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Besides tea, I drink water.",
     "exampleTr": "Çayın yanında ayrıca su içerim.",
-    "storyEn": "Mnemonic: [BİSAYD] -> AYRICA",
-    "storyTr": "Bisikletin YANINDA, AYRICA bir sepet asılıydı; BİSAYD'da kimse yoktu. BESIDES = AYRICA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component besides, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -272,8 +272,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "bisaydz",
-    "mnemonicHook": "BİSAYD",
-    "mnemonicScene": "Bisikletin YANINDA, AYRICA bir sepet asılıydı; BİSAYD'da kimse yoktu. BESIDES = AYRICA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Hold",
@@ -283,8 +283,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Hold this small box.",
     "exampleTr": "Bu küçük kutuyu tut.",
-    "storyEn": "Mnemonic: [HOLDİNG] -> TUTMAK; TUTMAK",
-    "storyTr": "HOLDİNG patronu şirket hisselerini kasasına kilitledi ve TUTMAK için kapıyı kapattı. HOLD = TUTMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component hold, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -295,8 +295,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "hold",
-    "mnemonicHook": "HOLDİNG",
-    "mnemonicScene": "HOLDİNG patronu şirket hisselerini kasasına kilitledi ve TUTMAK için kapıyı kapattı. HOLD = TUTMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Separate",
@@ -306,8 +306,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Separate the two parts.",
     "exampleTr": "İki parçayı ayır.",
-    "storyEn": "Mnemonic: [SEPARİT] -> AYIRMAK",
-    "storyTr": "Market kasiyeri SEPARİT tuşuna basınca ürünleri AYIRDI, sepeti ikiye bölmüş oldu. SEPARATE = AYIRMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component separate, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -318,8 +318,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "sepıreyt",
-    "mnemonicHook": "SEPARİT",
-    "mnemonicScene": "Market kasiyeri SEPARİT tuşuna basınca ürünleri AYIRDI, sepeti ikiye bölmüş oldu. SEPARATE = AYIRMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Release",
@@ -329,8 +329,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Release the handle slowly.",
     "exampleTr": "Kolu yavaşça serbest bırak.",
-    "storyEn": "Mnemonic: [RİLİS] -> SERBEST BIRAKMAK",
-    "storyTr": "Sanatçı RİLİS düğmesine bastı ve kilitli albümü SERBEST BIRAKIP çıkardı. RELEASE = SERBEST BIRAKMAK, ÇIKARMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Release, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -341,8 +341,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "riliis",
-    "mnemonicHook": "RİLİS",
-    "mnemonicScene": "Sanatçı RİLİS düğmesine bastı ve kilitli albümü SERBEST BIRAKIP çıkardı. RELEASE = SERBEST BIRAKMAK, ÇIKARMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Neutral",
@@ -352,8 +352,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The switch is in neutral.",
     "exampleTr": "Anahtar nötr konumdadır.",
-    "storyEn": "Mnemonic: [NÖTR] -> NÖTR",
-    "storyTr": "Maçın hakemi NÖTR bir kıyafetle sahaya çıktı, iki takıma da TARAFSIZ davrandı. NEUTRAL = NÖTR, TARAFSIZ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component neutral, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -364,8 +364,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "nütrıl",
-    "mnemonicHook": "NÖTR",
-    "mnemonicScene": "Maçın hakemi NÖTR bir kıyafetle sahaya çıktı, iki takıma da TARAFSIZ davrandı. NEUTRAL = NÖTR, TARAFSIZ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Dull",
@@ -375,8 +375,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The knife is dull.",
     "exampleTr": "Bıçak körelmiştir.",
-    "storyEn": "Mnemonic: [DAL] -> MAT",
-    "storyTr": "Kırılan ağacın DAL'ı zımparalanmamıştı; yüzeyi MAT ve DONUK bir hal almıştı. DULL = MAT, DONUK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component dull, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -387,8 +387,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "dal",
-    "mnemonicHook": "DAL",
-    "mnemonicScene": "Kırılan ağacın DAL'ı zımparalanmamıştı; yüzeyi MAT ve DONUK bir hal almıştı. DULL = MAT, DONUK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Scanning",
@@ -398,8 +398,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The machine is scanning the page.",
     "exampleTr": "Makine sayfayı tarıyor.",
-    "storyEn": "Mnemonic: [SKENİNG] -> TARAMA",
-    "storyTr": "Havaalanı SKENİNG kapısından geçen her yolcu, bir hortum gibi tarandı. SCANNING = TARAMA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component scanning, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -410,8 +410,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "skening",
-    "mnemonicHook": "SKENİNG",
-    "mnemonicScene": "Havaalanı SKENİNG kapısından geçen her yolcu, bir hortum gibi tarandı. SCANNING = TARAMA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Length",
@@ -421,8 +421,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Measure the length of the box.",
     "exampleTr": "Kutunun uzunluğunu ölç.",
-    "storyEn": "Mnemonic: [LENG] -> UZUNLUK",
-    "storyTr": "Metre şeridini çekip LENG'i ölçtü: bir kulaç mı, iki kulaç mı? LENGTH = UZUNLUK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component length, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -433,18 +433,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "lenght",
-    "mnemonicHook": "LENG",
-    "mnemonicScene": "Metre şeridini çekip LENG'i ölçtü: bir kulaç mı, iki kulaç mı? LENGTH = UZUNLUK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Lengthwise",
     "turkish": "uzunlamasına",
     "phonetic": "/lengtvays/",
     "pronunciationTr": "lengtvays",
-    "mnemonicHook": "LENG VAYZ",
-    "mnemonicScene": "Yılan güneşte LENG VAYZ uzanmış, boyu boyuna UZUNLAMASINA yatıyordu. LENGTHWISE = UZUNLAMASINA.",
-    "storyTr": "Yılan güneşte LENG VAYZ uzanmış, boyu boyuna UZUNLAMASINA yatıyordu. LENGTHWISE = UZUNLAMASINA.",
-    "storyEn": "Mnemonic: [LENG VAYZ] -> UZUNLAMASINA",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "Cut the paper lengthwise.",
     "exampleTr": "Kâğıdı uzunlamasına kes.",
     "level": "A1",
@@ -465,8 +465,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Draw a horizontal line.",
     "exampleTr": "Yatay bir çizgi çiz.",
-    "storyEn": "Mnemonic: [HORİZON] -> YATAY",
-    "storyTr": "Kaptan HORİZON çizgisine bakarak uçağı tam YATAY tuttu. HORIZONTAL = YATAY.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component horizontal, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -477,18 +477,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "horizontal",
-    "mnemonicHook": "HORİZON",
-    "mnemonicScene": "Kaptan HORİZON çizgisine bakarak uçağı tam YATAY tuttu. HORIZONTAL = YATAY."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Lateral",
     "turkish": "yanal",
     "phonetic": "/laterıl/",
     "pronunciationTr": "laterıl",
-    "mnemonicHook": "LATER AL",
-    "mnemonicScene": "Ustanın \"LATER AL, sonra yaparız\" dediği çubuk YANAL olarak kayıp gitti. LATERAL = YANAL.",
-    "storyTr": "Ustanın \"LATER AL, sonra yaparız\" dediği çubuk YANAL olarak kayıp gitti. LATERAL = YANAL.",
-    "storyEn": "Mnemonic: [LATER AL] -> YANAL",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "Move the seat laterally.",
     "exampleTr": "Koltuğu yana doğru hareket ettir.",
     "level": "A1",
@@ -509,8 +509,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The cylinder is blue.",
     "exampleTr": "Silindir mavidir.",
-    "storyEn": "Mnemonic: [SİLİNDİR] -> SILINDIR",
-    "storyTr": "Motorun içinde pistonun kaydığı çelik SİLİNDİR, ekmek hamuru gibi yuvarlak. CYLINDER = SİLİNDİR.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component cylinder, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -521,8 +521,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "silindır",
-    "mnemonicHook": "SİLİNDİR",
-    "mnemonicScene": "Motorun içinde pistonun kaydığı çelik SİLİNDİR, ekmek hamuru gibi yuvarlak. CYLINDER = SİLİNDİR."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Emergency locator transmitter",
@@ -532,8 +532,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The ELT sends a signal.",
     "exampleTr": "ELT sinyal gönderir.",
-    "storyEn": "Mnemonic: [ELİT] -> ACIL DURUM KONUM VERICISI (ELT)",
-    "storyTr": "Uçakta yanıp sönen ELİT ışık, ACİL DURUM KONUM VERİCİSİ'ni tam yerini gösterdi. ELT = ACİL DURUM KONUM VERİCİSİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component emergency locator transmitter, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -544,8 +544,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "imörcınsi loukeytır transmitır",
-    "mnemonicHook": "ELİT",
-    "mnemonicScene": "Uçakta yanıp sönen ELİT ışık, ACİL DURUM KONUM VERİCİSİ'ni tam yerini gösterdi. ELT = ACİL DURUM KONUM VERİCİSİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Sealed transmitter",
@@ -555,8 +555,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The transmitter is sealed.",
     "exampleTr": "Verici mühürlüdür.",
-    "storyEn": "Mnemonic: [SİLD] -> MÜHÜRLÜ VERICI",
-    "storyTr": "Kutuyu SİLD diye bandıyla kapatıp MÜHÜRLÜ bıraktılar; içindeki verici tek kelimeyle MÜHÜRLÜ VERİCİ. SEALED TRANSMITTER = MÜHÜRLÜ VERİCİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component sealed transmitter, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -567,8 +567,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "siild transmitır",
-    "mnemonicHook": "SİLD",
-    "mnemonicScene": "Kutuyu SİLD diye bandıyla kapatıp MÜHÜRLÜ bıraktılar; içindeki verici tek kelimeyle MÜHÜRLÜ VERİCİ. SEALED TRANSMITTER = MÜHÜRLÜ VERİCİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Relay",
@@ -578,8 +578,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The relay is working.",
     "exampleTr": "Röle çalışıyor.",
-    "storyEn": "Mnemonic: [RİLEY] -> RÖLE",
-    "storyTr": "RİLEY elektriği RÖLE üzerinden açıp kapatarak devreyi yönetiyordu. RELAY = RÖLE.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component relay, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -590,8 +590,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "riiley",
-    "mnemonicHook": "RİLEY",
-    "mnemonicScene": "RİLEY elektriği RÖLE üzerinden açıp kapatarak devreyi yönetiyordu. RELAY = RÖLE."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Internal",
@@ -601,8 +601,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This is an internal part.",
     "exampleTr": "Bu dahili bir parçadır.",
-    "storyEn": "Mnemonic: [İNTER NAL] -> DAHILI",
-    "storyTr": "Kulağın İÇİNDE bir ses İNTER NAL diye çınladı; kimse DAHİLİ bu sesi duymamıştı. INTERNAL = DAHİLİ, İÇ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component internal, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -613,8 +613,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "intörnıl",
-    "mnemonicHook": "İNTER NAL",
-    "mnemonicScene": "Kulağın İÇİNDE bir ses İNTER NAL diye çınladı; kimse DAHİLİ bu sesi duymamıştı. INTERNAL = DAHİLİ, İÇ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "External",
@@ -624,8 +624,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This is an external light.",
     "exampleTr": "Bu harici bir ışıktır.",
-    "storyEn": "Mnemonic: [EKS TIR NAL] -> HARICI",
-    "storyTr": "Dış duvara EKS TIR NAL çarpınca HARİCİ bir ses duyuldu, kapının dışında biri vardı. EXTERNAL = HARİCİ, DIŞ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component external, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -636,8 +636,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ekstörnıl",
-    "mnemonicHook": "EKS TIR NAL",
-    "mnemonicScene": "Dış duvara EKS TIR NAL çarpınca HARİCİ bir ses duyuldu, kapının dışında biri vardı. EXTERNAL = HARİCİ, DIŞ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Ignore",
@@ -647,8 +647,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Do not ignore the warning.",
     "exampleTr": "Uyarıyı görmezden gelme.",
-    "storyEn": "Mnemonic: [İĞNE OR] -> GÖRMEZDEN GELMEK",
-    "storyTr": "Hasta İĞNE OR'a bakıp başını çevirdi; sanki hiç görmemiş gibi GÖRMEZDEN GELDİ. IGNORE = GÖRMEZDEN GELMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component ignore, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -659,8 +659,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ignor",
-    "mnemonicHook": "İĞNE OR",
-    "mnemonicScene": "Hasta İĞNE OR'a bakıp başını çevirdi; sanki hiç görmemiş gibi GÖRMEZDEN GELDİ. IGNORE = GÖRMEZDEN GELMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Approximate",
@@ -670,8 +670,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The time is approximate.",
     "exampleTr": "Saat yaklaşık olarak böyledir.",
-    "storyEn": "Mnemonic: [APROKSİ] -> YAKLAŞIK",
-    "storyTr": "APROKSİ, saatin kaç olduğunu soranlara YAKLAŞIK bir cevap verdi. APPROXIMATE = YAKLAŞIK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component approximate, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -682,8 +682,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ıproksimit",
-    "mnemonicHook": "APROKSİ",
-    "mnemonicScene": "APROKSİ, saatin kaç olduğunu soranlara YAKLAŞIK bir cevap verdi. APPROXIMATE = YAKLAŞIK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Approximately",
@@ -693,8 +693,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "It takes approximately one hour.",
     "exampleTr": "Yaklaşık bir saat sürer.",
-    "storyEn": "Mnemonic: [APROKSİMETLİ] -> YAKLAŞIK OLARAK",
-    "storyTr": "APROKSİMETLİ bir çocuk, kek tarifini YAKLAŞIK OLARAK tahmin etti. APPROXIMATELY = YAKLAŞIK OLARAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Approximately, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -705,8 +705,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ıproksimitli",
-    "mnemonicHook": "APROKSİMETLİ",
-    "mnemonicScene": "APROKSİMETLİ bir çocuk, kek tarifini YAKLAŞIK OLARAK tahmin etti. APPROXIMATELY = YAKLAŞIK OLARAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Strap",
@@ -716,8 +716,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The strap is black.",
     "exampleTr": "Kayış siyahtır.",
-    "storyEn": "Mnemonic: [SİTRAP] -> KAYIŞ",
-    "storyTr": "Kargocu sandığı SİTRAP ile sıkıca bağladı; sağlam bir KAYIŞ / BANT işini gördü. STRAP = KAYIŞ, BANT.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component strap, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -728,8 +728,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "strep",
-    "mnemonicHook": "SİTRAP",
-    "mnemonicScene": "Kargocu sandığı SİTRAP ile sıkıca bağladı; sağlam bir KAYIŞ / BANT işini gördü. STRAP = KAYIŞ, BANT."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Belt",
@@ -739,8 +739,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Wear your seat belt.",
     "exampleTr": "Emniyet kemerini tak.",
-    "storyEn": "Mnemonic: [BELT] -> KEMER",
-    "storyTr": "Pilot kemerini BEL'ine dolayıp KEMER'i sıkıca bağladı. BELT = KEMER, KAYIŞ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component belt, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -751,8 +751,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "belt",
-    "mnemonicHook": "BELT",
-    "mnemonicScene": "Pilot kemerini BEL'ine dolayıp KEMER'i sıkıca bağladı. BELT = KEMER, KAYIŞ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Clamp",
@@ -762,8 +762,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Use a clamp here.",
     "exampleTr": "Burada bir kelepçe kullan.",
-    "storyEn": "Mnemonic: [KLEMP] -> KELEPÇE",
-    "storyTr": "Teknisyen boruyu KLEMP'le sıkıştırdı; metal bir KELEPÇE gibi tuttu. CLAMP = KELEPÇE.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component clamp, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -774,8 +774,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "klemp",
-    "mnemonicHook": "KLEMP",
-    "mnemonicScene": "Teknisyen boruyu KLEMP'le sıkıştırdı; metal bir KELEPÇE gibi tuttu. CLAMP = KELEPÇE."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Attach",
@@ -785,8 +785,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Attach the label here.",
     "exampleTr": "Etiketi buraya tuttur.",
-    "storyEn": "Mnemonic: [ATAŞ] -> TUTTURMAK",
-    "storyTr": "Önemli evrakları dev bir ATAŞ'la birbirine TUTTURDU; sayfalar bir daha ayrılmadı. ATTACH = TUTTURMAK, BAĞLAMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component attach, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -797,18 +797,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ıteç",
-    "mnemonicHook": "ATAŞ",
-    "mnemonicScene": "Önemli evrakları dev bir ATAŞ'la birbirine TUTTURDU; sayfalar bir daha ayrılmadı. ATTACH = TUTTURMAK, BAĞLAMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Stick",
     "turkish": "yapıştırmak, yapışmak",
     "phonetic": "/stik/",
     "pronunciationTr": "stik",
-    "mnemonicHook": "STİK",
-    "mnemonicScene": "Yerdeki sakız bir STİK gibi ayakkabıya YAPIŞTI ve kimse söküp YAPIŞTIRMAK istemedi. STICK = YAPIŞMAK, YAPIŞTIRMAK.",
-    "storyTr": "Yerdeki sakız bir STİK gibi ayakkabıya YAPIŞTI ve kimse söküp YAPIŞTIRMAK istemedi. STICK = YAPIŞMAK, YAPIŞTIRMAK.",
-    "storyEn": "Mnemonic: [STİK] -> YAPIŞTIRMAK",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "Stick the paper here.",
     "exampleTr": "Kâğıdı buraya yapıştır.",
     "level": "A1",
@@ -829,8 +829,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "What is the purpose?",
     "exampleTr": "Amaç nedir?",
-    "storyEn": "Mnemonic: [PÖRPOZ] -> AMAÇ",
-    "storyTr": "Kedinin PÖRPOZ sesi kulağa hoş gelir; asıl AMAÇ sahibini yanına çağırmaktır. PURPOSE = AMAÇ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component purpose, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -841,8 +841,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "pörpıs",
-    "mnemonicHook": "PÖRPOZ",
-    "mnemonicScene": "Kedinin PÖRPOZ sesi kulağa hoş gelir; asıl AMAÇ sahibini yanına çağırmaktır. PURPOSE = AMAÇ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Wet",
@@ -852,8 +852,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "My shoes are wet.",
     "exampleTr": "Ayakkabılarım ıslak.",
-    "storyEn": "Mnemonic: [VET] -> ISLAK",
-    "storyTr": "Yağmurda ISLAK kalmış köpeği VET (veteriner) havluya sararak kurulamaya başladı. WET = ISLAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component wet, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -864,8 +864,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "vet",
-    "mnemonicHook": "VET",
-    "mnemonicScene": "Yağmurda ISLAK kalmış köpeği VET (veteriner) havluya sararak kurulamaya başladı. WET = ISLAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Garment",
@@ -875,8 +875,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This garment is clean.",
     "exampleTr": "Bu giysi temizdir.",
-    "storyEn": "Mnemonic: [GAR MENT] -> GIYSI",
-    "storyTr": "Garda MENTOL kokan bir GİYSİ asılıydı; yolcu GAR MENT'i alıp üstüne geçirdi. GARMENT = GİYSİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component garment, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -887,8 +887,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "garımınt",
-    "mnemonicHook": "GAR MENT",
-    "mnemonicScene": "Garda MENTOL kokan bir GİYSİ asılıydı; yolcu GAR MENT'i alıp üstüne geçirdi. GARMENT = GİYSİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Cover",
@@ -898,8 +898,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Cover the box.",
     "exampleTr": "Kutunun üstünü ört.",
-    "storyEn": "Mnemonic: [KAVER] -> KAPAK",
-    "storyTr": "Gece soğukta KAVER'i çekince yatağı tamamen ÖRTÜLDÜ, yorgan KAPAK görevi üstlendi. COVER = KAPAK, ÖRTÜ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component cover, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -910,18 +910,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kavır",
-    "mnemonicHook": "KAVER",
-    "mnemonicScene": "Gece soğukta KAVER'i çekince yatağı tamamen ÖRTÜLDÜ, yorgan KAPAK görevi üstlendi. COVER = KAPAK, ÖRTÜ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Coating",
     "turkish": "kaplama",
     "phonetic": "/koting/",
     "pronunciationTr": "koting",
-    "mnemonicHook": "KOTİNG",
-    "mnemonicScene": "Kot pantolonun üstüne KOTİNG yapılmış; lekeleri örten ince bir KAPLAMA. COATING = KAPLAMA.",
-    "storyTr": "Kot pantolonun üstüne KOTİNG yapılmış; lekeleri örten ince bir KAPLAMA. COATING = KAPLAMA.",
-    "storyEn": "Mnemonic: [KOTİNG] -> KAPLAMA",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "The coating is smooth.",
     "exampleTr": "Kaplama pürüzsüzdür.",
     "level": "A1",
@@ -942,8 +942,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The humidity is high.",
     "exampleTr": "Nem oranı yüksektir.",
-    "storyEn": "Mnemonic: [HÜMİDİTİ] -> NEM",
-    "storyTr": "Hümidi'nin yazın bunaltıcı HÜMİDİTİ'si sanki havaya NEM bulaştırmıştı. HUMIDITY = NEM, RUTUBET.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component humidity, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -954,8 +954,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "hyumiditi",
-    "mnemonicHook": "HÜMİDİTİ",
-    "mnemonicScene": "Hümidi'nin yazın bunaltıcı HÜMİDİTİ'si sanki havaya NEM bulaştırmıştı. HUMIDITY = NEM, RUTUBET."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Rinse",
@@ -965,8 +965,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Rinse the cup with water.",
     "exampleTr": "Bardağı suyla durula.",
-    "storyEn": "Mnemonic: [RİNSO] -> DURULAMAK",
-    "storyTr": "Bulaşıkları RİNSO köpüğüyle yıkayan anne, son adımda suyla DURULAMAK zorunda kaldı. RINSE = DURULAMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component rinse, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -977,8 +977,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "rins",
-    "mnemonicHook": "RİNSO",
-    "mnemonicScene": "Bulaşıkları RİNSO köpüğüyle yıkayan anne, son adımda suyla DURULAMAK zorunda kaldı. RINSE = DURULAMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Wipe clean",
@@ -988,8 +988,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Wipe the table clean.",
     "exampleTr": "Masayı silerek temizle.",
-    "storyEn": "Mnemonic: [VAYP KLİN] -> SILEREK TEMIZLEMEK",
-    "storyTr": "Pilot bezle \"VAYP KLİN!\" diyerek camı gıcırdayana kadar SİLEREK TEMİZLEDİ. WIPE CLEAN = SİLEREK TEMİZLEMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component wipe clean, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1000,8 +1000,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "vayp klin",
-    "mnemonicHook": "VAYP KLİN",
-    "mnemonicScene": "Pilot bezle \"VAYP KLİN!\" diyerek camı gıcırdayana kadar SİLEREK TEMİZLEDİ. WIPE CLEAN = SİLEREK TEMİZLEMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Footrest",
@@ -1011,8 +1011,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Use the footrest.",
     "exampleTr": "Ayak dayama yerini kullan.",
-    "storyEn": "Mnemonic: [FUT REST] -> AYAK DAYAMA YERI",
-    "storyTr": "Futbolcu sakatlık sonrası ayağını FUT REST'e koydu; AYAK DAYAMA YERİ tam ihtiyacı kadar rahattı. FOOTREST = AYAK DAYAMA YERİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component footrest, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1023,8 +1023,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "futrest",
-    "mnemonicHook": "FUT REST",
-    "mnemonicScene": "Futbolcu sakatlık sonrası ayağını FUT REST'e koydu; AYAK DAYAMA YERİ tam ihtiyacı kadar rahattı. FOOTREST = AYAK DAYAMA YERİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Hanger",
@@ -1034,8 +1034,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The coat is on the hanger.",
     "exampleTr": "Mont askıdadır.",
-    "storyEn": "Mnemonic: [HENGİR] -> ASKI",
-    "storyTr": "Hangar'daki devasa ASKI'ya pilotlar üniformalarını asmıştı; HENGİR taşımayı bir türlü bırakmadı. HANGER = ASKI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component hanger, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1046,8 +1046,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "hengır",
-    "mnemonicHook": "HENGİR",
-    "mnemonicScene": "Hangar'daki devasa ASKI'ya pilotlar üniformalarını asmıştı; HENGİR taşımayı bir türlü bırakmadı. HANGER = ASKI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Hook",
@@ -1057,8 +1057,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Hang it on the hook.",
     "exampleTr": "Onu çengele as.",
-    "storyEn": "Mnemonic: [HUK] -> ÇENGEL",
-    "storyTr": "HUKUKÇU dosyasını bir ÇENGEL'e astı; yerinden düşmemesi için HUK diye çekti. HOOK = ÇENGEL.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Hook, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1069,8 +1069,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "huk",
-    "mnemonicHook": "HUK",
-    "mnemonicScene": "HUKUKÇU dosyasını bir ÇENGEL'e astı; yerinden düşmemesi için HUK diye çekti. HOOK = ÇENGEL."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Sunshade",
@@ -1080,8 +1080,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The sunshade is open.",
     "exampleTr": "Güneşlik açıktır.",
-    "storyEn": "Mnemonic: [SANŞEYD] -> GÜNEŞLIK",
-    "storyTr": "Sıcak öğle güneşinde kumda oynayan çocuk, SANŞEYD diye bağırarak kocaman bir GÜNEŞLİK'in altına koştu. Gölgeye girince kendini serin hissetti ve oyununa orada devam etti. SUNSHADE = GÜNEŞLİK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component sunshade, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1092,8 +1092,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "sanşeyd",
-    "mnemonicHook": "SANŞEYD",
-    "mnemonicScene": "Sıcak öğle güneşinde kumda oynayan çocuk, SANŞEYD diye bağırarak kocaman bir GÜNEŞLİK'in altına koştu. Gölgeye girince kendini serin hissetti ve oyununa orada devam etti. SUNSHADE = GÜNEŞLİK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Sun visor",
@@ -1103,8 +1103,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Lower the sun visor.",
     "exampleTr": "Güneşliği indir.",
-    "storyEn": "Mnemonic: [SAN VAYZIR] -> GÜNEŞLIK",
-    "storyTr": "Araba sürerken güneş gözüne vurunca SAN VAYZIR'ı indirip GÜNEŞLİK'i kapattı. SUN VISOR = GÜNEŞLİK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Sun visor, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1115,8 +1115,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "san vayzır",
-    "mnemonicHook": "SAN VAYZIR",
-    "mnemonicScene": "Araba sürerken güneş gözüne vurunca SAN VAYZIR'ı indirip GÜNEŞLİK'i kapattı. SUN VISOR = GÜNEŞLİK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Armrest",
@@ -1126,8 +1126,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The armrest is soft.",
     "exampleTr": "Kol dayama yeri yumuşaktır.",
-    "storyEn": "Mnemonic: [ARM REST] -> KOL DAYAMA YERI",
-    "storyTr": "Yolcu koluyla ARM REST'e (KOL DAYAMA YERİ) yaslanıp uyuyakaldı. ARMREST = KOL DAYAMA YERİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component armrest, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1138,8 +1138,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "armrest",
-    "mnemonicHook": "ARM REST",
-    "mnemonicScene": "Yolcu koluyla ARM REST'e (KOL DAYAMA YERİ) yaslanıp uyuyakaldı. ARMREST = KOL DAYAMA YERİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Armcap",
@@ -1149,8 +1149,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The armcap is damaged.",
     "exampleTr": "Kol dayama kapağı hasarlıdır.",
-    "storyEn": "Mnemonic: [ARM KAP] -> KOL DAYAMA KAPAĞI",
-    "storyTr": "Koltuğun kolundaki ARM KAP'ı pamuklu bir KAPAK gibi yuvarlak ve yumuşaktı. ARMCAP = KOL DAYAMA KAPAĞI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Armcap, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1161,8 +1161,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "arm kep",
-    "mnemonicHook": "ARM KAP",
-    "mnemonicScene": "Koltuğun kolundaki ARM KAP'ı pamuklu bir KAPAK gibi yuvarlak ve yumuşaktı. ARMCAP = KOL DAYAMA KAPAĞI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Dust effect",
@@ -1172,8 +1172,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Dust affects the surface.",
     "exampleTr": "Toz yüzeyi etkiler.",
-    "storyEn": "Mnemonic: [DASTAN İFEKT] -> TOZUN ETKISI",
-    "storyTr": "Dastan'ın final sahnesinde kuma çarpan tekerler TOZUN ETKİSİ yaratarak DASTAN İFEKT'ini tamamladı. DUST EFFECT = TOZUN ETKİSİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component dust effect, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1184,8 +1184,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "dast ifekt",
-    "mnemonicHook": "DASTAN İFEKT",
-    "mnemonicScene": "Dastan'ın final sahnesinde kuma çarpan tekerler TOZUN ETKİSİ yaratarak DASTAN İFEKT'ini tamamladı. DUST EFFECT = TOZUN ETKİSİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Texture",
@@ -1195,8 +1195,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "I like this texture.",
     "exampleTr": "Bu dokuyu seviyorum.",
-    "storyEn": "Mnemonic: [TEKSÇER] -> DOKU",
-    "storyTr": "Tekstil ustası kumaşı parmağında TEKSÇER gibi hissetti; DOKUSU ipek gibiydi. TEXTURE = DOKU.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component texture, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1207,8 +1207,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "tekstçır",
-    "mnemonicHook": "TEKSÇER",
-    "mnemonicScene": "Tekstil ustası kumaşı parmağında TEKSÇER gibi hissetti; DOKUSU ipek gibiydi. TEXTURE = DOKU."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fabric",
@@ -1218,8 +1218,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The fabric is soft.",
     "exampleTr": "Kumaş yumuşaktır.",
-    "storyEn": "Mnemonic: [FABRİK] -> KUMAŞ",
-    "storyTr": "FABRİK'in makineleri her gün KUMAŞ üretiyordu; tezgâhtan çıkan her rulo yumuşaktı. FABRIC = KUMAŞ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fabric, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1230,8 +1230,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "febrik",
-    "mnemonicHook": "FABRİK",
-    "mnemonicScene": "FABRİK'in makineleri her gün KUMAŞ üretiyordu; tezgâhtan çıkan her rulo yumuşaktı. FABRIC = KUMAŞ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Reason",
@@ -1241,8 +1241,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Tell me the reason.",
     "exampleTr": "Bana nedeni söyle.",
-    "storyEn": "Mnemonic: [RİZN] -> NEDEN",
-    "storyTr": "RİZN kapıyı çarpıp gitti; arkadaşları NEDEN öfkelendiğini hâlâ anlayamıyordu. REASON = NEDEN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component reason, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1253,8 +1253,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "riizın",
-    "mnemonicHook": "RİZN",
-    "mnemonicScene": "RİZN kapıyı çarpıp gitti; arkadaşları NEDEN öfkelendiğini hâlâ anlayamıyordu. REASON = NEDEN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Scratches",
@@ -1264,8 +1264,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "I see scratches on the door.",
     "exampleTr": "Kapıda çizikler görüyorum.",
-    "storyEn": "Mnemonic: [SKRAÇ] -> ÇIZIKLER",
-    "storyTr": "Kedi SKRAÇ diye çığlık atarak duvara tırmandı; geriye ÇİZİKLER kalmıştı. SCRATCHES = ÇİZİKLER.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component scratches, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1276,8 +1276,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "skreçiz",
-    "mnemonicHook": "SKRAÇ",
-    "mnemonicScene": "Kedi SKRAÇ diye çığlık atarak duvara tırmandı; geriye ÇİZİKLER kalmıştı. SCRATCHES = ÇİZİKLER."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Additive",
@@ -1287,8 +1287,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This additive is safe.",
     "exampleTr": "Bu katkı maddesi güvenlidir.",
-    "storyEn": "Mnemonic: [EDİTİV] -> KATKI MADDESI",
-    "storyTr": "Pastanın içine EDİTİV (katkı maddesi) koymuşlar; KATKI MADDESİ'nin tadı şekeri gizledi. ADDITIVE = KATKI MADDESİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component additive, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1299,18 +1299,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "edıtiv",
-    "mnemonicHook": "EDİTİV",
-    "mnemonicScene": "Pastanın içine EDİTİV (katkı maddesi) koymuşlar; KATKI MADDESİ'nin tadı şekeri gizledi. ADDITIVE = KATKI MADDESİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Tool",
     "turkish": "alet",
     "phonetic": "/tuul/",
     "pronunciationTr": "tuul",
-    "mnemonicHook": "TUL",
-    "mnemonicScene": "Tül perdeyi asmak için kullanılan TUL adlı ALET, sandığın dibinde unutuldu. TOOL = ALET.",
-    "storyTr": "Tül perdeyi asmak için kullanılan TUL adlı ALET, sandığın dibinde unutuldu. TOOL = ALET.",
-    "storyEn": "Mnemonic: [TUL] -> ALET",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "I need a tool.",
     "exampleTr": "Bir alete ihtiyacım var.",
     "level": "A1",
@@ -1328,10 +1328,10 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "turkish": "araç, vasıta",
     "phonetic": "/miinz/",
     "pronunciationTr": "miinz",
-    "mnemonicHook": "MİNZ",
-    "mnemonicScene": "Çantasını kapıp MİNZ diye hızla fırlayan yolcu, kalkmak üzere olan son ARAÇ'a zar zor yetişti. Kapıdaki şoför ona gülümseyip yolu açtı. MEANS = ARAÇ, VASITA.",
-    "storyTr": "Çantasını kapıp MİNZ diye hızla fırlayan yolcu, kalkmak üzere olan son ARAÇ'a zar zor yetişti. Kapıdaki şoför ona gülümseyip yolu açtı. MEANS = ARAÇ, VASITA.",
-    "storyEn": "Mnemonic: [MİNZ] -> ARAÇ",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "A bus is a means of transport.",
     "exampleTr": "Otobüs bir ulaşım aracıdır.",
     "level": "A1",
@@ -1352,8 +1352,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The surface is clean.",
     "exampleTr": "Yüzey temizdir.",
-    "storyEn": "Mnemonic: [SÖRFES] -> YÜZEY",
-    "storyTr": "Dalga SÖRFES tahtasını yüzeye vurdu; YÜZEY'de köpükler dağıldı. SURFACE = YÜZEY.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component surface, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1364,8 +1364,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "sörfıs",
-    "mnemonicHook": "SÖRFES",
-    "mnemonicScene": "Dalga SÖRFES tahtasını yüzeye vurdu; YÜZEY'de köpükler dağıldı. SURFACE = YÜZEY."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Friction",
@@ -1375,8 +1375,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Friction makes heat.",
     "exampleTr": "Sürtünme ısı oluşturur.",
-    "storyEn": "Mnemonic: [FRİKİK] -> SÜRTÜNME",
-    "storyTr": "Futbolcu FRİKİK atışında top çime SÜRTÜNEREK hızını kaybetti. FRICTION = SÜRTÜNME.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component friction, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1387,8 +1387,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "frikşın",
-    "mnemonicHook": "FRİKİK",
-    "mnemonicScene": "Futbolcu FRİKİK atışında top çime SÜRTÜNEREK hızını kaybetti. FRICTION = SÜRTÜNME."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Single layer",
@@ -1398,8 +1398,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This has a single layer.",
     "exampleTr": "Bunun tek katmanı var.",
-    "storyEn": "Mnemonic: [SİNGIL LEYER] -> TEK KATMAN",
-    "storyTr": "Pastacı hamuru tek bir incecik hamur yaprağına açtı ve SİNGIL LEYER diye fısıldayarak tepsiye serdi. Ortaya çıkan kek tam bir TEK KATMAN'dı ve dilimlerken bile dağılmadı. SINGLE LAYER = TEK KATMAN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component single layer, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1410,8 +1410,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "singıl leyır",
-    "mnemonicHook": "SİNGIL LEYER",
-    "mnemonicScene": "Pastacı hamuru tek bir incecik hamur yaprağına açtı ve SİNGIL LEYER diye fısıldayarak tepsiye serdi. Ortaya çıkan kek tam bir TEK KATMAN'dı ve dilimlerken bile dağılmadı. SINGLE LAYER = TEK KATMAN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Non-reflective",
@@ -1421,8 +1421,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The surface is non-reflective.",
     "exampleTr": "Yüzey ışığı yansıtmaz.",
-    "storyEn": "Mnemonic: [NON RİFLEKTİV] -> YANSITMAZ",
-    "storyTr": "NON RİFLEKTİV yüzey, güneş vurunca bile ışık geri yansıtmadı; sanki YANSITMAYAN bir sırdı. NON-REFLECTIVE = YANSITMAYAN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component non-reflective, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1433,8 +1433,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "non riflektif",
-    "mnemonicHook": "NON RİFLEKTİV",
-    "mnemonicScene": "NON RİFLEKTİV yüzey, güneş vurunca bile ışık geri yansıtmadı; sanki YANSITMAYAN bir sırdı. NON-REFLECTIVE = YANSITMAYAN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Frequently",
@@ -1444,8 +1444,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "He frequently calls me.",
     "exampleTr": "Beni sık sık arar.",
-    "storyEn": "Mnemonic: [FRİKVENTLİ] -> SIK SIK",
-    "storyTr": "Hakem FRİKVENTLİ düdük çaldı; maçta faul SIK SIK tekrarlanıyordu. FREQUENTLY = SIK SIK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component frequently, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1456,8 +1456,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "friikvıntli",
-    "mnemonicHook": "FRİKVENTLİ",
-    "mnemonicScene": "Hakem FRİKVENTLİ düdük çaldı; maçta faul SIK SIK tekrarlanıyordu. FREQUENTLY = SIK SIK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Therefore",
@@ -1467,8 +1467,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "It is late; therefore, go home.",
     "exampleTr": "Geç oldu; bu nedenle eve git.",
-    "storyEn": "Mnemonic: [DER FOR] -> BU NEDENLE",
-    "storyTr": "Dert DER FOR olunca sahneye çıkmadı; DER FOR, BU NEDENLE gösteri iptal edildi. THEREFORE = BU NEDENLE.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component therefore, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1479,8 +1479,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "derfor",
-    "mnemonicHook": "DER FOR",
-    "mnemonicScene": "Dert DER FOR olunca sahneye çıkmadı; DER FOR, BU NEDENLE gösteri iptal edildi. THEREFORE = BU NEDENLE."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Essential",
@@ -1490,8 +1490,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Water is essential.",
     "exampleTr": "Su gereklidir.",
-    "storyEn": "Mnemonic: [ESEN] -> GEREKLI",
-    "storyTr": "Dağcı ESEN bir rüzgârla tırmanırken oksijen tüpü en GEREKLİ ve ESAS şeydi. ESSENTIAL = GEREKLİ, ESAS.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component essential, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1502,8 +1502,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "isenşıl",
-    "mnemonicHook": "ESEN",
-    "mnemonicScene": "Dağcı ESEN bir rüzgârla tırmanırken oksijen tüpü en GEREKLİ ve ESAS şeydi. ESSENTIAL = GEREKLİ, ESAS."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Worn",
@@ -1513,8 +1513,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The tire is worn.",
     "exampleTr": "Lastik aşınmıştır.",
-    "storyEn": "Mnemonic: [VORN] -> AŞINMIŞ",
-    "storyTr": "Eski pilotun koltuğu VORN (worn) kılıfıyla YIPRANMIŞ, kenarları aşınmıştı. WORN = YIPRANMIŞ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component worn, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1525,8 +1525,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "vorn",
-    "mnemonicHook": "VORN",
-    "mnemonicScene": "Eski pilotun koltuğu VORN (worn) kılıfıyla YIPRANMIŞ, kenarları aşınmıştı. WORN = YIPRANMIŞ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "During",
@@ -1536,8 +1536,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Do not talk during work.",
     "exampleTr": "Çalışma sırasında konuşma.",
-    "storyEn": "Mnemonic: [DÜRİNG] -> ESNASINDA",
-    "storyTr": "Dürbünle kuşu izlerken DÜRİNG bir kanat sesi duyduk: ESNASINDA uçup gitti. DURING = ESNASINDA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component during, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1548,8 +1548,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "dyuring",
-    "mnemonicHook": "DÜRİNG",
-    "mnemonicScene": "Dürbünle kuşu izlerken DÜRİNG bir kanat sesi duyduk: ESNASINDA uçup gitti. DURING = ESNASINDA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Process",
@@ -1559,8 +1559,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The process is simple.",
     "exampleTr": "Süreç basittir.",
-    "storyEn": "Mnemonic: [PROSES] -> SÜREÇ",
-    "storyTr": "PROSES, siparişin SÜREÇ'ini adım adım gösteren bir kılavuzdu. PROCESS = SÜREÇ, YÖNTEM.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component process, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1571,8 +1571,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "proses",
-    "mnemonicHook": "PROSES",
-    "mnemonicScene": "PROSES, siparişin SÜREÇ'ini adım adım gösteren bir kılavuzdu. PROCESS = SÜREÇ, YÖNTEM."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Apply",
@@ -1582,8 +1582,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Apply the cream here.",
     "exampleTr": "Kremi buraya uygula.",
-    "storyEn": "Mnemonic: [APLAY] -> UYGULAMAK",
-    "storyTr": "Hakem APLAY deyince oyuncular kuralı UYGULAMAK zorunda kaldı; oyun yeniden başladı. APPLY = UYGULAMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component apply, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1594,8 +1594,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ıplay",
-    "mnemonicHook": "APLAY",
-    "mnemonicScene": "Hakem APLAY deyince oyuncular kuralı UYGULAMAK zorunda kaldı; oyun yeniden başladı. APPLY = UYGULAMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Following",
@@ -1605,8 +1605,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Read the following page.",
     "exampleTr": "Sonraki sayfayı oku.",
-    "storyEn": "Mnemonic: [FALOİNG] -> TAKIP EDEN",
-    "storyTr": "Falcı FALOİNG'de müşterisini sokakta TAKİP EDEN bir gölge gibi izledi. FOLLOWING = TAKİP EDEN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component following, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1617,8 +1617,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "faloving",
-    "mnemonicHook": "FALOİNG",
-    "mnemonicScene": "Falcı FALOİNG'de müşterisini sokakta TAKİP EDEN bir gölge gibi izledi. FOLLOWING = TAKİP EDEN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Instruction",
@@ -1628,8 +1628,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Read the instruction.",
     "exampleTr": "Talimatı oku.",
-    "storyEn": "Mnemonic: [İNSTRAKŞN] -> TALIMAT",
-    "storyTr": "Yeni işe başlayan stajyer, şef İNSTRAKŞN'ı ağzından çıkaracak kadar ciddiyetle okudu: \"Tam bu sırayla yapın.\" Her adımı kâğıda işleyince hiçbir hata yapmadı. INSTRUCTION = TALİMAT.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component instruction, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1640,8 +1640,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "instrakşın",
-    "mnemonicHook": "İNSTRAKŞN",
-    "mnemonicScene": "Yeni işe başlayan stajyer, şef İNSTRAKŞN'ı ağzından çıkaracak kadar ciddiyetle okudu: \"Tam bu sırayla yapın.\" Her adımı kâğıda işleyince hiçbir hata yapmadı. INSTRUCTION = TALİMAT."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Lightly",
@@ -1651,8 +1651,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Press the button lightly.",
     "exampleTr": "Düğmeye hafifçe bas.",
-    "storyEn": "Mnemonic: [LAYTLİ] -> HAFIFÇE",
-    "storyTr": "Bebeğe LAYT (light) gibi, LAYTLİ bir dokunuşla HAFİFÇE sarıldı. LIGHTLY = HAFİFÇE.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component lightly, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1663,8 +1663,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "laytli",
-    "mnemonicHook": "LAYTLİ",
-    "mnemonicScene": "Bebeğe LAYT (light) gibi, LAYTLİ bir dokunuşla HAFİFÇE sarıldı. LIGHTLY = HAFİFÇE."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Frame",
@@ -1674,8 +1674,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The frame is white.",
     "exampleTr": "Çerçeve beyazdır.",
-    "storyEn": "Mnemonic: [FREYM] -> ÇERÇEVE",
-    "storyTr": "Ressam resmi FREYM'in içine koyup ÇERÇEVE'yi tam ortaya astı. FRAME = ÇERÇEVE.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component frame, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1686,8 +1686,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "freym",
-    "mnemonicHook": "FREYM",
-    "mnemonicScene": "Ressam resmi FREYM'in içine koyup ÇERÇEVE'yi tam ortaya astı. FRAME = ÇERÇEVE."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Until",
@@ -1697,8 +1697,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Wait until tomorrow.",
     "exampleTr": "Yarına kadar bekle.",
-    "storyEn": "Mnemonic: [ANTİL] -> -E KADAR",
-    "storyTr": "Kuşlar ANTİL gece olana KADAR şarkı söyledi. UNTIL = -E KADAR.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component until, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1709,8 +1709,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "antil",
-    "mnemonicHook": "ANTİL",
-    "mnemonicScene": "Kuşlar ANTİL gece olana KADAR şarkı söyledi. UNTIL = -E KADAR."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Lower",
@@ -1720,8 +1720,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Lower the seat slowly.",
     "exampleTr": "Koltuğu yavaşça indir.",
-    "storyEn": "Mnemonic: [LOVER] -> ALT",
-    "storyTr": "Sahnede LOVER düğmesine basılınca perde yavaşça AŞAĞI indi. LOWER = AŞAĞI, ALÇALTMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component lower, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1732,8 +1732,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "lovır",
-    "mnemonicHook": "LOVER",
-    "mnemonicScene": "Sahnede LOVER düğmesine basılınca perde yavaşça AŞAĞI indi. LOWER = AŞAĞI, ALÇALTMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Deck",
@@ -1743,8 +1743,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The crew is on deck.",
     "exampleTr": "Ekip güvertede.",
-    "storyEn": "Mnemonic: [DEK] -> GÜVERTE",
-    "storyTr": "Yolcular DEK'in üstündeki GÜVERTE'de dans etti, kat kat ilerlediler. DECK = GÜVERTE, KAT.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component deck, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1755,8 +1755,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "dek",
-    "mnemonicHook": "DEK",
-    "mnemonicScene": "Yolcular DEK'in üstündeki GÜVERTE'de dans etti, kat kat ilerlediler. DECK = GÜVERTE, KAT."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Caution",
@@ -1766,8 +1766,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Use caution here.",
     "exampleTr": "Burada dikkatli ol.",
-    "storyEn": "Mnemonic: [KOŞ] -> DIKKAT",
-    "storyTr": "Telsizden \"KOŞ arkana bakma!\" diye bağırıldı; bu sözle DİKKAT anonsu tüm kapıyı sarstı. CAUTION = DİKKAT, TEDBİR.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component caution, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1778,8 +1778,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "koşın",
-    "mnemonicHook": "KOŞ",
-    "mnemonicScene": "Telsizden \"KOŞ arkana bakma!\" diye bağırıldı; bu sözle DİKKAT anonsu tüm kapıyı sarstı. CAUTION = DİKKAT, TEDBİR."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Warning",
@@ -1789,8 +1789,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Read the warning sign.",
     "exampleTr": "Uyarı levhasını oku.",
-    "storyEn": "Mnemonic: [VORNİNG] -> UYARI",
-    "storyTr": "Sirenler VORNİNG diye öttü; herkes bu UYARI'yı duyunca koşmaya başladı. WARNING = UYARI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component warning, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1801,8 +1801,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "vornıng",
-    "mnemonicHook": "VORNİNG",
-    "mnemonicScene": "Sirenler VORNİNG diye öttü; herkes bu UYARI'yı duyunca koşmaya başladı. WARNING = UYARI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Applications",
@@ -1812,8 +1812,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "These applications are useful.",
     "exampleTr": "Bu uygulamalar kullanışlıdır.",
-    "storyEn": "Mnemonic: [APLİKEYŞNZ] -> UYGULAMALAR",
-    "storyTr": "APLİKEYŞNZ tablosunda işe alım için yüzlerce başvuru UYGULAMALAR olarak sıralanmıştı. APPLICATIONS = UYGULAMALAR.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component applications, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1824,8 +1824,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "aplikeşınz",
-    "mnemonicHook": "APLİKEYŞNZ",
-    "mnemonicScene": "APLİKEYŞNZ tablosunda işe alım için yüzlerce başvuru UYGULAMALAR olarak sıralanmıştı. APPLICATIONS = UYGULAMALAR."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Connective",
@@ -1835,8 +1835,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This is a connective part.",
     "exampleTr": "Bu bağlayıcı bir parçadır.",
-    "storyEn": "Mnemonic: [BAĞLAYICI] -> BAĞLAYICI",
-    "storyTr": "Kitapta iki cümleyi bağlayan kelimeye CONNECTIVE denir; bir köprü gibi araya girer. CONNECTIVE = BAĞLAYICI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component connective, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1847,8 +1847,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kınektiv",
-    "mnemonicHook": "BAĞLAYICI",
-    "mnemonicScene": "Kitapta iki cümleyi bağlayan kelimeye CONNECTIVE denir; bir köprü gibi araya girer. CONNECTIVE = BAĞLAYICI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Action",
@@ -1858,8 +1858,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The action is complete.",
     "exampleTr": "İşlem tamamlandı.",
-    "storyEn": "Mnemonic: [KANEKTİV] -> HAREKET",
-    "storyTr": "KANEKTİV kelimesi iki cümle arasına girip onları BAĞLAYICI bir ip gibi bağladı. CONNECTIVE = BAĞLAYICI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component action, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1870,8 +1870,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ekşın",
-    "mnemonicHook": "KANEKTİV",
-    "mnemonicScene": "KANEKTİV kelimesi iki cümle arasına girip onları BAĞLAYICI bir ip gibi bağladı. CONNECTIVE = BAĞLAYICI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "According to",
@@ -1881,8 +1881,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Work according to the plan.",
     "exampleTr": "Plana göre çalış.",
-    "storyEn": "Mnemonic: [AKŞN] -> -E GÖRE",
-    "storyTr": "AKŞN filmindeki kahraman ardı arkası kesilmeyen HAREKET ve İŞLEM dolu sahnelerde koşar. ACTION = HAREKET, İŞLEM.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component according to, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1893,8 +1893,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ıkording tu",
-    "mnemonicHook": "AKŞN",
-    "mnemonicScene": "AKŞN filmindeki kahraman ardı arkası kesilmeyen HAREKET ve İŞLEM dolu sahnelerde koşar. ACTION = HAREKET, İŞLEM."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Describe",
@@ -1904,8 +1904,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Describe the part.",
     "exampleTr": "Parçayı tanımla.",
-    "storyEn": "Mnemonic: [ÖRDİNG TU] -> TANIMLAMAK",
-    "storyTr": "Hoca \"ÖRDİNG TU\" diyerek ders kitabını açtı; her şeyi kurala GÖRE anlattı. ACCORDING TO = -E GÖRE.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component describe, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1916,8 +1916,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "diskrayb",
-    "mnemonicHook": "ÖRDİNG TU",
-    "mnemonicScene": "Hoca \"ÖRDİNG TU\" diyerek ders kitabını açtı; her şeyi kurala GÖRE anlattı. ACCORDING TO = -E GÖRE."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Such as",
@@ -1927,8 +1927,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "I like fruit such as apples.",
     "exampleTr": "Elma gibi meyveleri severim.",
-    "storyEn": "Mnemonic: [DİSKRAYB] -> GIBI",
-    "storyTr": "Rehber DİSKRAYB ederek kulenin renklerini TANIMLADI, her köşesini ANLATTI. DESCRIBE = TANIMLAMAK, ANLATMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component such as, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1939,8 +1939,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "saç ez",
-    "mnemonicHook": "DİSKRAYB",
-    "mnemonicScene": "Rehber DİSKRAYB ederek kulenin renklerini TANIMLADI, her köşesini ANLATTI. DESCRIBE = TANIMLAMAK, ANLATMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Rigging",
@@ -1950,8 +1950,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Check the rigging.",
     "exampleTr": "Donanımı kontrol et.",
-    "storyEn": "Mnemonic: [SAÇ AS] -> DONANIM",
-    "storyTr": "Kuaför müşterisine SAÇ AS (such as) diyerek GİBİ modeller gösterdi. SUCH AS = GİBİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component rigging, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1962,8 +1962,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "riging",
-    "mnemonicHook": "SAÇ AS",
-    "mnemonicScene": "Kuaför müşterisine SAÇ AS (such as) diyerek GİBİ modeller gösterdi. SUCH AS = GİBİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Adjust",
@@ -1973,8 +1973,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Adjust the seat.",
     "exampleTr": "Koltuğu ayarla.",
-    "storyEn": "Mnemonic: [RİGİNG] -> AYARLAMAK",
-    "storyTr": "Denizci RİGİNG'i kontrol etti: yelkenin DONANIM ipleri sıkı mı diye baktı. RIGGING = DONANIM, TEÇHİZAT.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component adjust, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -1985,8 +1985,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ıc cast",
-    "mnemonicHook": "RİGİNG",
-    "mnemonicScene": "Denizci RİGİNG'i kontrol etti: yelkenin DONANIM ipleri sıkı mı diye baktı. RIGGING = DONANIM, TEÇHİZAT."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Adjustment",
@@ -1996,8 +1996,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The adjustment is easy.",
     "exampleTr": "Ayarlama kolaydır.",
-    "storyEn": "Mnemonic: [ADCUST] -> AYARLAMA",
-    "storyTr": "Mekanikçi ADCUST düğmesini çevirdi; vidayı tam ideal konuma AYARLADI. ADJUST = AYARLAMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component adjustment, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2008,8 +2008,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ıc castmınt",
-    "mnemonicHook": "ADCUST",
-    "mnemonicScene": "Mekanikçi ADCUST düğmesini çevirdi; vidayı tam ideal konuma AYARLADI. ADJUST = AYARLAMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Adjustable",
@@ -2019,8 +2019,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The seat is adjustable.",
     "exampleTr": "Koltuk ayarlanabilir.",
-    "storyEn": "Mnemonic: [ADCUSTMENT] -> AYARLANABILIR",
-    "storyTr": "Gözlükçü ADCUSTMENT'i tamamladı; burnun üstündeki AYARLAMA ile gözlük tam oturdu. ADJUSTMENT = AYARLAMA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component adjustable, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2031,8 +2031,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ıc cestıbıl",
-    "mnemonicHook": "ADCUSTMENT",
-    "mnemonicScene": "Gözlükçü ADCUSTMENT'i tamamladı; burnun üstündeki AYARLAMA ile gözlük tam oturdu. ADJUSTMENT = AYARLAMA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Designated",
@@ -2042,8 +2042,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Use the designated area.",
     "exampleTr": "Belirlenmiş alanı kullan.",
-    "storyEn": "Mnemonic: [ADCUSTIBIL] -> BELIRLENMIŞ",
-    "storyTr": "Koltuk ADCUSTIBIL'di: sürücü kolu çevirip ihtiyacına göre AYARLANABİLİR. ADJUSTABLE = AYARLANABİLİR.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component designated, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2054,8 +2054,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "dezıgneytıd",
-    "mnemonicHook": "ADCUSTIBIL",
-    "mnemonicScene": "Koltuk ADCUSTIBIL'di: sürücü kolu çevirip ihtiyacına göre AYARLANABİLİR. ADJUSTABLE = AYARLANABİLİR."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Safety",
@@ -2065,8 +2065,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Safety comes first.",
     "exampleTr": "Güvenlik önce gelir.",
-    "storyEn": "Mnemonic: [DİZİGNİTİD] -> GÜVENLIK",
-    "storyTr": "Sınıfın DİZİGNİTİD (designated) köşesi BELİRLENMİŞ bir yerdi; herkes sırayla oraya oturdu. DESIGNATED = BELİRLENMİŞ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component safety, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2077,8 +2077,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "seyfti",
-    "mnemonicHook": "DİZİGNİTİD",
-    "mnemonicScene": "Sınıfın DİZİGNİTİD (designated) köşesi BELİRLENMİŞ bir yerdi; herkes sırayla oraya oturdu. DESIGNATED = BELİRLENMİŞ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Scheduled",
@@ -2088,8 +2088,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The flight is scheduled.",
     "exampleTr": "Uçuş planlanmıştır.",
-    "storyEn": "Mnemonic: [SEYF] -> PLANLANMIŞ",
-    "storyTr": "SEYF kasası içinde GÜVENLİK sağlayan çelik bir kutuydu. SAFETY = GÜVENLİK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component scheduled, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2100,8 +2100,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "skeculd",
-    "mnemonicHook": "SEYF",
-    "mnemonicScene": "SEYF kasası içinde GÜVENLİK sağlayan çelik bir kutuydu. SAFETY = GÜVENLİK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Human",
@@ -2111,8 +2111,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "A human is here.",
     "exampleTr": "Burada bir insan var.",
-    "storyEn": "Mnemonic: [SKEDYULD] -> INSAN",
-    "storyTr": "Otobüs SKEDYULD (scheduled) saat tam dokuzda, PLANLANMIŞ bir sefer olarak kalktı. SCHEDULED = PLANLANMIŞ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component human, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2123,8 +2123,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "hyumın",
-    "mnemonicHook": "SKEDYULD",
-    "mnemonicScene": "Otobüs SKEDYULD (scheduled) saat tam dokuzda, PLANLANMIŞ bir sefer olarak kalktı. SCHEDULED = PLANLANMIŞ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Consideration",
@@ -2134,8 +2134,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Safety needs consideration.",
     "exampleTr": "Güvenlik dikkate alınmalıdır.",
-    "storyEn": "Mnemonic: [HYUMAN] -> DIKKATE ALMA",
-    "storyTr": "HYUMAN (human) kapıyı açıp \"Ben bir İNSAN'ım\" diye kendini tanıttı. HUMAN = İNSAN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component consideration, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2146,8 +2146,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kınsidıreyşın",
-    "mnemonicHook": "HYUMAN",
-    "mnemonicScene": "HYUMAN (human) kapıyı açıp \"Ben bir İNSAN'ım\" diye kendini tanıttı. HUMAN = İNSAN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Level",
@@ -2157,8 +2157,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The water level is low.",
     "exampleTr": "Su seviyesi düşüktür.",
-    "storyEn": "Mnemonic: [KONSİDERİŞN] -> SEVIYE",
-    "storyTr": "Hakem KONSİDERİŞN dediğinde sahadaki herkes bir an durdu ve maçın hangi SEVİYE'de oynandığını tartışmaya başladı. Kimse kuralı çiğnemek istemedi, çünkü oyunun seviyesi herkesi ayakta tutuyordu. LEVEL = SEVİYE.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component level, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2169,8 +2169,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "levıl",
-    "mnemonicHook": "KONSİDERİŞN",
-    "mnemonicScene": "Hakem KONSİDERİŞN dediğinde sahadaki herkes bir an durdu ve maçın hangi SEVİYE'de oynandığını tartışmaya başladı. Kimse kuralı çiğnemek istemedi, çünkü oyunun seviyesi herkesi ayakta tutuyordu. LEVEL = SEVİYE."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuse",
@@ -2180,8 +2180,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The fuse is broken.",
     "exampleTr": "Sigorta bozuktur.",
-    "storyEn": "Mnemonic: [LEVEL] -> SIGORTA",
-    "storyTr": "Tank LEVEL göstergesinde SEVİYE'nin her an değiştiğini bildirdi. LEVEL = SEVİYE.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component fuse, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2192,8 +2192,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyuuz",
-    "mnemonicHook": "LEVEL",
-    "mnemonicScene": "Tank LEVEL göstergesinde SEVİYE'nin her an değiştiğini bildirdi. LEVEL = SEVİYE."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Circuit-breaker",
@@ -2203,8 +2203,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The circuit-breaker is off.",
     "exampleTr": "Devre kesici kapalıdır.",
-    "storyEn": "Mnemonic: [FYUZ] -> DEVRE KESICI",
-    "storyTr": "Sahnede FYUZ'un patlaması bir FÜZE'nin rampasında yüksek voltaj yarattı ve SİGORTA attı. FUSE = SİGORTA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component circuit-breaker, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2215,8 +2215,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "sörkit breykır",
-    "mnemonicHook": "FYUZ",
-    "mnemonicScene": "Sahnede FYUZ'un patlaması bir FÜZE'nin rampasında yüksek voltaj yarattı ve SİGORTA attı. FUSE = SİGORTA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Refer",
@@ -2226,8 +2226,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Refer to the manual.",
     "exampleTr": "El kitabına başvur.",
-    "storyEn": "Mnemonic: [SÜRKİT BREKER] -> KAYNAK GÖSTERMEK",
-    "storyTr": "Elektrik SÜRKİT BREKER'a takıldı; DEVRE KESİCİ şalter tüm evi karanlığa gömdü. CIRCUIT-BREAKER = DEVRE KESİCİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component refer, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2238,8 +2238,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "riför",
-    "mnemonicHook": "SÜRKİT BREKER",
-    "mnemonicScene": "Elektrik SÜRKİT BREKER'a takıldı; DEVRE KESİCİ şalter tüm evi karanlığa gömdü. CIRCUIT-BREAKER = DEVRE KESİCİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Visual check",
@@ -2249,8 +2249,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Do a visual check.",
     "exampleTr": "Gözle kontrol yap.",
-    "storyEn": "Mnemonic: [RİFÖR] -> GÖZLE KONTROL",
-    "storyTr": "Hoca \"RİFÖR\" dedi; ödevin altına KAYNAK GÖSTERMEK zorunluydu. REFER = KAYNAK GÖSTERMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component visual check, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2261,8 +2261,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "vijual çek",
-    "mnemonicHook": "RİFÖR",
-    "mnemonicScene": "Hoca \"RİFÖR\" dedi; ödevin altına KAYNAK GÖSTERMEK zorunluydu. REFER = KAYNAK GÖSTERMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Decompression",
@@ -2272,8 +2272,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Decompression is necessary.",
     "exampleTr": "Basıncın düşürülmesi gereklidir.",
-    "storyEn": "Mnemonic: [VİZYUAL ÇEK] -> BASINÇ DÜŞÜRME",
-    "storyTr": "Kontrol memuru VİZYUAL ÇEK'i (visual check) yaptı; hiçbir alet kullanmadan GÖZLE KONTROL etti. VISUAL CHECK = GÖZLE KONTROL.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component decompression, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2284,8 +2284,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "diikım preşın",
-    "mnemonicHook": "VİZYUAL ÇEK",
-    "mnemonicScene": "Kontrol memuru VİZYUAL ÇEK'i (visual check) yaptı; hiçbir alet kullanmadan GÖZLE KONTROL etti. VISUAL CHECK = GÖZLE KONTROL."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Protect",
@@ -2295,8 +2295,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Protect your eyes.",
     "exampleTr": "Gözlerini koru.",
-    "storyEn": "Mnemonic: [DEKOMPRESYON] -> KORUMAK",
-    "storyTr": "Dalgıç yukarı çıkarken DEKOMPRESYON'u atlamadı; yavaş yavaş BASINÇ DÜŞÜRME uyguladı. DECOMPRESSION = BASINÇ DÜŞÜRME.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component protect, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2307,8 +2307,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "protekt",
-    "mnemonicHook": "DEKOMPRESYON",
-    "mnemonicScene": "Dalgıç yukarı çıkarken DEKOMPRESYON'u atlamadı; yavaş yavaş BASINÇ DÜŞÜRME uyguladı. DECOMPRESSION = BASINÇ DÜŞÜRME."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Protection",
@@ -2318,8 +2318,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This gives protection.",
     "exampleTr": "Bu koruma sağlar.",
-    "storyEn": "Mnemonic: [PROTEK] -> KORUMA",
-    "storyTr": "Şövalyeler kaleyi PROTEK (protect) etmek için savaştı; gerçek görev KORUMAK'tı. PROTECT = KORUMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component protection, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2330,8 +2330,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "proteksiyon",
-    "mnemonicHook": "PROTEK",
-    "mnemonicScene": "Şövalyeler kaleyi PROTEK (protect) etmek için savaştı; gerçek görev KORUMAK'tı. PROTECT = KORUMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Protective",
@@ -2341,8 +2341,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Wear protective gloves.",
     "exampleTr": "Koruyucu eldiven giy.",
-    "storyEn": "Mnemonic: [PROTEKŞN] -> KORUYUCU",
-    "storyTr": "Kulenin etrafındaki PROTEKŞN (protection) duvarları kasabayı dış tehlikelerden KORUMA altına aldı. PROTECTION = KORUMA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component protective, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2353,8 +2353,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "protektiv",
-    "mnemonicHook": "PROTEKŞN",
-    "mnemonicScene": "Kulenin etrafındaki PROTEKŞN (protection) duvarları kasabayı dış tehlikelerden KORUMA altına aldı. PROTECTION = KORUMA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Access door",
@@ -2364,8 +2364,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Open the access door.",
     "exampleTr": "Erişim kapağını aç.",
-    "storyEn": "Mnemonic: [PROTEKTİV] -> ERIŞIM KAPAĞI",
-    "storyTr": "Asker PROTEKTİV kıyafetini giyip KORUYUCU bir kalkan gibi cepheye çıktı. PROTECTIVE = KORUYUCU.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component access door, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2376,8 +2376,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "akses dor",
-    "mnemonicHook": "PROTEKTİV",
-    "mnemonicScene": "Asker PROTEKTİV kıyafetini giyip KORUYUCU bir kalkan gibi cepheye çıktı. PROTECTIVE = KORUYUCU."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Set-up",
@@ -2387,8 +2387,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The set-up is ready.",
     "exampleTr": "Kurulum hazır.",
-    "storyEn": "Mnemonic: [ERİŞİM KAPAĞI] -> KURULUM",
-    "storyTr": "Teknisyen ERİŞİM KAPAĞI'nı açıp motorun içine el attı. ACCESS DOOR = ERİŞİM KAPAĞI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component set-up, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2399,8 +2399,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "set ap",
-    "mnemonicHook": "ERİŞİM KAPAĞI",
-    "mnemonicScene": "Teknisyen ERİŞİM KAPAĞI'nı açıp motorun içine el attı. ACCESS DOOR = ERİŞİM KAPAĞI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Configuration",
@@ -2410,8 +2410,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Check the configuration.",
     "exampleTr": "Yapılandırmayı kontrol et.",
-    "storyEn": "Mnemonic: [SETAP] -> YAPILANDIRMA",
-    "storyTr": "Partide SETAP (set-up) için masalar kuruldu; KURULUM sırasında herkes hazırlık yaptı. SET-UP = KURULUM, HAZIRLIK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component configuration, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2422,8 +2422,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kınfigyureyşın",
-    "mnemonicHook": "SETAP",
-    "mnemonicScene": "Partide SETAP (set-up) için masalar kuruldu; KURULUM sırasında herkes hazırlık yaptı. SET-UP = KURULUM, HAZIRLIK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Gauge",
@@ -2433,8 +2433,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Read the pressure gauge.",
     "exampleTr": "Basınç göstergesini oku.",
-    "storyEn": "Mnemonic: [KONFİGÜREYŞN] -> GÖSTERGE",
-    "storyTr": "Bilgisayarcı KONFİGÜREYŞN'ı açıp YAPILANDIRMA ayarlarını baştan kurdu. CONFIGURATION = YAPILANDIRMA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component gauge, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2445,8 +2445,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "geyc",
-    "mnemonicHook": "KONFİGÜREYŞN",
-    "mnemonicScene": "Bilgisayarcı KONFİGÜREYŞN'ı açıp YAPILANDIRMA ayarlarını baştan kurdu. CONFIGURATION = YAPILANDIRMA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Portable",
@@ -2456,8 +2456,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This radio is portable.",
     "exampleTr": "Bu radyo taşınabilirdir.",
-    "storyEn": "Mnemonic: [GEYC] -> TAŞINABILIR",
-    "storyTr": "GEYC kokpitteki GAUGE'e bakıp ibreyi okuyan pilot, GEYC'i GÖSTERGE olarak kullandı. GAUGE = GÖSTERGE, ÖLÇÜ ALETİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component portable, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2468,8 +2468,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "portıbıl",
-    "mnemonicHook": "GEYC",
-    "mnemonicScene": "GEYC kokpitteki GAUGE'e bakıp ibreyi okuyan pilot, GEYC'i GÖSTERGE olarak kullandı. GAUGE = GÖSTERGE, ÖLÇÜ ALETİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Make sure",
@@ -2479,8 +2479,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Make sure it is closed.",
     "exampleTr": "Kapalı olduğundan emin ol.",
-    "storyEn": "Mnemonic: [PORTEBIL] -> EMIN OLMAK",
-    "storyTr": "PORTEBIL (portable) tablet çantaya sığdı, her yere TAŞINABİLİR olarak yanındaydı. PORTABLE = TAŞINABİLİR.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component make sure, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2491,8 +2491,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "meyk şur",
-    "mnemonicHook": "PORTEBIL",
-    "mnemonicScene": "PORTEBIL (portable) tablet çantaya sığdı, her yere TAŞINABİLİR olarak yanındaydı. PORTABLE = TAŞINABİLİR."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Obey",
@@ -2502,8 +2502,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Obey the safety rules.",
     "exampleTr": "Güvenlik kurallarına uy.",
-    "storyEn": "Mnemonic: [MEYK ŞÜR] -> UYMAK",
-    "storyTr": "Pilot kapıyı yoklarken içinden \"MEYK ŞÜR, kilit kapandı mı?\" diye geçirdi; EMİN OLMAK için bir daha baktı. MAKE SURE = EMİN OLMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component obey, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2514,8 +2514,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "obey",
-    "mnemonicHook": "MEYK ŞÜR",
-    "mnemonicScene": "Pilot kapıyı yoklarken içinden \"MEYK ŞÜR, kilit kapandı mı?\" diye geçirdi; EMİN OLMAK için bir daha baktı. MAKE SURE = EMİN OLMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Manufacturer",
@@ -2525,8 +2525,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The manufacturer makes parts.",
     "exampleTr": "Üretici parça üretir.",
-    "storyEn": "Mnemonic: [OBEY] -> ÜRETICI",
-    "storyTr": "Askerler OBEY (uymak) komutunu duyunca hep bir ağızdan komutanın sözüne UYDU. OBEY = UYMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component manufacturer, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2537,8 +2537,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "manyufekçırır",
-    "mnemonicHook": "OBEY",
-    "mnemonicScene": "Askerler OBEY (uymak) komutunu duyunca hep bir ağızdan komutanın sözüne UYDU. OBEY = UYMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "National",
@@ -2548,8 +2548,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This is a national airline.",
     "exampleTr": "Bu ulusal bir hava yoludur.",
-    "storyEn": "Mnemonic: [MENEFAKTÜRER] -> ULUSAL",
-    "storyTr": "MENEFAKTÜRER fabrikanın ÜRETİCİ'si olarak yeni modeli saatlerce dizdi. MANUFACTURER = ÜRETİCİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component national, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2560,8 +2560,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "neşınıl",
-    "mnemonicHook": "MENEFAKTÜRER",
-    "mnemonicScene": "MENEFAKTÜRER fabrikanın ÜRETİCİ'si olarak yeni modeli saatlerce dizdi. MANUFACTURER = ÜRETİCİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Risky",
@@ -2571,8 +2571,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This job is risky.",
     "exampleTr": "Bu iş risklidir.",
-    "storyEn": "Mnemonic: [NEŞENAL] -> RISKLI",
-    "storyTr": "NEŞENAL bir turnuvada takım ULUSAL düzeyde tanınınca tribünler coştu. NATIONAL = ULUSAL, MİLLÎ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component risky, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2583,8 +2583,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "riski",
-    "mnemonicHook": "NEŞENAL",
-    "mnemonicScene": "NEŞENAL bir turnuvada takım ULUSAL düzeyde tanınınca tribünler coştu. NATIONAL = ULUSAL, MİLLÎ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Move, carry",
@@ -2594,8 +2594,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Move the box here.",
     "exampleTr": "Kutuyu buraya taşı.",
-    "storyEn": "Mnemonic: [RİSKİ] -> HAREKET ETTIRMEK",
-    "storyTr": "Dağcı RİSKİ bir kayaya tırmandı; her adımı RİSKLİ bir yolculuk gibiydi. RISKY = RİSKLİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component move, carry, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2606,8 +2606,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "muuv",
-    "mnemonicHook": "RİSKİ",
-    "mnemonicScene": "Dağcı RİSKİ bir kayaya tırmandı; her adımı RİSKLİ bir yolculuk gibiydi. RISKY = RİSKLİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Carry",
@@ -2617,8 +2617,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Carry this bag.",
     "exampleTr": "Bu çantayı taşı.",
-    "storyEn": "Mnemonic: [MUV KERİ] -> TAŞIMAK",
-    "storyTr": "MUV KERİ komutuyla kutuyu MUV KERİ diye omzuna alıp TAŞIMAK için yürüdü. CARRY = TAŞIMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component carry, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2629,8 +2629,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "keri",
-    "mnemonicHook": "MUV KERİ",
-    "mnemonicScene": "MUV KERİ komutuyla kutuyu MUV KERİ diye omzuna alıp TAŞIMAK için yürüdü. CARRY = TAŞIMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Equipment",
@@ -2640,8 +2640,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The equipment is ready.",
     "exampleTr": "Ekipman hazır.",
-    "storyEn": "Mnemonic: [KERİ] -> EKIPMAN",
-    "storyTr": "KERİ (carry) için kolunu iki yana açtı, kutuyu omzuna alıp TAŞIMAK üzere yürüdü. CARRY = TAŞIMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component equipment, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2652,8 +2652,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ikvipment",
-    "mnemonicHook": "KERİ",
-    "mnemonicScene": "KERİ (carry) için kolunu iki yana açtı, kutuyu omzuna alıp TAŞIMAK üzere yürüdü. CARRY = TAŞIMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Store, warehouse",
@@ -2663,8 +2663,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Store the tools safely.",
     "exampleTr": "Aletleri güvenli şekilde depola.",
-    "storyEn": "Mnemonic: [EKİPMENT] -> DEPOLAMAK",
-    "storyTr": "EKİPMENT (equipment) çantasından çıkan her alet, sahadaki EKİPMAN'ın tamamıydı. EQUIPMENT = EKİPMAN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component store, warehouse, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2675,18 +2675,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "stor",
-    "mnemonicHook": "EKİPMENT",
-    "mnemonicScene": "EKİPMENT (equipment) çantasından çıkan her alet, sahadaki EKİPMAN'ın tamamıydı. EQUIPMENT = EKİPMAN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Warehouse",
     "turkish": "depo",
     "phonetic": "/verhaus/",
     "pronunciationTr": "verhaus",
-    "mnemonicHook": "STOR",
-    "mnemonicScene": "STOR (store) kapısından girince reyonları VAREHAUS'un raflarında DEPOLAMAK için sıraladı. STORE = DEPOLAMAK, SAKLAMAK.",
-    "storyTr": "STOR (store) kapısından girince reyonları VAREHAUS'un raflarında DEPOLAMAK için sıraladı. STORE = DEPOLAMAK, SAKLAMAK.",
-    "storyEn": "Mnemonic: [STOR] -> DEPO",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "The parts are in the warehouse.",
     "exampleTr": "Parçalar depodadır.",
     "level": "A1",
@@ -2707,8 +2707,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Breathing is important.",
     "exampleTr": "Solunum önemlidir.",
-    "storyEn": "Mnemonic: [VEYRİN] -> SOLUNUM",
-    "storyTr": "Liman VEYRİN'inde (warehouse) koca koca DEPO raflarında kutular yığılmıştı. WAREHOUSE = DEPO.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component breathing, oxygen, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2719,18 +2719,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "briiding",
-    "mnemonicHook": "VEYRİN",
-    "mnemonicScene": "Liman VEYRİN'inde (warehouse) koca koca DEPO raflarında kutular yığılmıştı. WAREHOUSE = DEPO."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Oxygen",
     "turkish": "oksijen",
     "phonetic": "/oksıcın/",
     "pronunciationTr": "oksıcın",
-    "mnemonicHook": "BREDİNG",
-    "mnemonicScene": "Koşucu BREDİNG (breathing) egzersizi yaparken SOLUNUM'unu düzene soktu. BREATHING = SOLUNUM.",
-    "storyTr": "Koşucu BREDİNG (breathing) egzersizi yaparken SOLUNUM'unu düzene soktu. BREATHING = SOLUNUM.",
-    "storyEn": "Mnemonic: [BREDİNG] -> OKSIJEN",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "I need oxygen.",
     "exampleTr": "Oksijene ihtiyacım var.",
     "level": "A1",
@@ -2751,8 +2751,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "I can repair the chair.",
     "exampleTr": "Sandalyeyi tamir edebilirim.",
-    "storyEn": "Mnemonic: [OKSİ CEN] -> TAMIR ETMEK",
-    "storyTr": "OKSİ CEN birleşince OKSİJEN oluştu; ortadaki OKSİ CEN havayı temiz tutmaya yardım etti. OXYGEN = OKSİJEN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component repair, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2763,8 +2763,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ripeır",
-    "mnemonicHook": "OKSİ CEN",
-    "mnemonicScene": "OKSİ CEN birleşince OKSİJEN oluştu; ortadaki OKSİ CEN havayı temiz tutmaya yardım etti. OXYGEN = OKSİJEN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Repaired",
@@ -2774,8 +2774,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The chair is repaired.",
     "exampleTr": "Sandalye tamir edilmiştir.",
-    "storyEn": "Mnemonic: [RİPEYR] -> TAMIR EDILMIŞ",
-    "storyTr": "Usta RİPEYR (repair) için bir kol çekti; eski makine kısa sürede TAMİR ETMEK ile çalıştı. REPAIR = TAMİR ETMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component repaired, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2786,8 +2786,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ripeırd",
-    "mnemonicHook": "RİPEYR",
-    "mnemonicScene": "Usta RİPEYR (repair) için bir kol çekti; eski makine kısa sürede TAMİR ETMEK ile çalıştı. REPAIR = TAMİR ETMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Requirement, need",
@@ -2797,8 +2797,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This is a basic requirement.",
     "exampleTr": "Bu temel bir gerekliliktir.",
-    "storyEn": "Mnemonic: [RİPEYRD] -> GEREKLILIK",
-    "storyTr": "RİPEYRD (repaired) makine atölyeden TAMİR EDİLMİŞ olarak geri döndü, tıkır tıkır çalıştı. REPAIRED = TAMİR EDİLMİŞ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component requirement, need, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2809,18 +2809,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "rikvayırmınt",
-    "mnemonicHook": "RİPEYRD",
-    "mnemonicScene": "RİPEYRD (repaired) makine atölyeden TAMİR EDİLMİŞ olarak geri döndü, tıkır tıkır çalıştı. REPAIRED = TAMİR EDİLMİŞ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Need",
     "turkish": "ihtiyaç, gerekmek",
     "phonetic": "/niid/",
     "pronunciationTr": "niid",
-    "mnemonicHook": "RİKVAYRMENT",
-    "mnemonicScene": "Kapıdaki görevli RİKVAYRMENT (requirement) listesini okudu; her madde bir GEREKLİLİK'ti. REQUIREMENT = GEREKLİLİK.",
-    "storyTr": "Kapıdaki görevli RİKVAYRMENT (requirement) listesini okudu; her madde bir GEREKLİLİK'ti. REQUIREMENT = GEREKLİLİK.",
-    "storyEn": "Mnemonic: [RİKVAYRMENT] -> IHTIYAÇ",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "I need some water.",
     "exampleTr": "Biraz suya ihtiyacım var.",
     "level": "A1",
@@ -2841,8 +2841,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Ground services are ready.",
     "exampleTr": "Yer hizmetleri hazır.",
-    "storyEn": "Mnemonic: [NİD] -> YER HIZMETLERI",
-    "storyTr": "Çocuk NİD (need) dediğinde ihtiyacını anlattı: su İHTİYAÇ'ı vardı, bir de GEREKMEK zorundaydı. NEED = İHTİYAÇ, GEREKMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component ground services, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2853,8 +2853,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "graund sörvısız",
-    "mnemonicHook": "NİD",
-    "mnemonicScene": "Çocuk NİD (need) dediğinde ihtiyacını anlattı: su İHTİYAÇ'ı vardı, bir de GEREKMEK zorundaydı. NEED = İHTİYAÇ, GEREKMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Network",
@@ -2864,8 +2864,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The network is slow.",
     "exampleTr": "Ağ yavaştır.",
-    "storyEn": "Mnemonic: [GRAUND SÖRVİSİZ] -> AĞ",
-    "storyTr": "Havaalanında GRAUND SÖRVİSİZ ekibi uçağın bagajını ve yakıtını YER HİZMETLERİ kapsamında indirdi. GROUND SERVICES = YER HİZMETLERİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component network, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2876,8 +2876,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "netvörk",
-    "mnemonicHook": "GRAUND SÖRVİSİZ",
-    "mnemonicScene": "Havaalanında GRAUND SÖRVİSİZ ekibi uçağın bagajını ve yakıtını YER HİZMETLERİ kapsamında indirdi. GROUND SERVICES = YER HİZMETLERİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Energize",
@@ -2887,8 +2887,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Energize the system now.",
     "exampleTr": "Sisteme şimdi enerji ver.",
-    "storyEn": "Mnemonic: [NETVÖRK] -> ENERJI VERMEK",
-    "storyTr": "Ofisteki NETVÖRK (network) kablosu bütün bilgisayarları AĞ'a bağlayıp herkesi birbirine bağladı. NETWORK = AĞ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component energize, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2899,8 +2899,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "enır cayz",
-    "mnemonicHook": "NETVÖRK",
-    "mnemonicScene": "Ofisteki NETVÖRK (network) kablosu bütün bilgisayarları AĞ'a bağlayıp herkesi birbirine bağladı. NETWORK = AĞ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Show",
@@ -2910,8 +2910,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Show me the part.",
     "exampleTr": "Bana parçayı göster.",
-    "storyEn": "Mnemonic: [ENERCAYZ] -> GÖSTERMEK",
-    "storyTr": "Fabrika ENERCAYZ (energize) düğmesine basılınca makineye ENERJİ VERİLDİ ve dev çarklar döndü. ENERGIZE = ENERJİ VERMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component show, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2922,8 +2922,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "şov",
-    "mnemonicHook": "ENERCAYZ",
-    "mnemonicScene": "Fabrika ENERCAYZ (energize) düğmesine basılınca makineye ENERJİ VERİLDİ ve dev çarklar döndü. ENERGIZE = ENERJİ VERMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Indicator",
@@ -2933,8 +2933,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The indicator is green.",
     "exampleTr": "Gösterge yeşildir.",
-    "storyEn": "Mnemonic: [ŞOU] -> GÖSTERGE",
-    "storyTr": "Sirkte ŞOU'nun açılışında palyaço hünerlerini GÖSTERMEK için trampete vurdu. SHOW = GÖSTERMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component indicator, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2945,8 +2945,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "indikeytır",
-    "mnemonicHook": "ŞOU",
-    "mnemonicScene": "Sirkte ŞOU'nun açılışında palyaço hünerlerini GÖSTERMEK için trampete vurdu. SHOW = GÖSTERMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Stacking area, stacking space",
@@ -2956,8 +2956,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Use the stacking area.",
     "exampleTr": "İstif alanını kullan.",
-    "storyEn": "Mnemonic: [İNDİKETÖR] -> ISTIF ALANI",
-    "storyTr": "Arabanın İNDİKETÖR'ü (indicator) yanıp sönerek sürücüye dönüş GÖSTERGE'sini verdi. INDICATOR = GÖSTERGE.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component stacking area, stacking space, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2968,8 +2968,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "steking eriya",
-    "mnemonicHook": "İNDİKETÖR",
-    "mnemonicScene": "Arabanın İNDİKETÖR'ü (indicator) yanıp sönerek sürücüye dönüş GÖSTERGE'sini verdi. INDICATOR = GÖSTERGE."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "De-energize",
@@ -2979,8 +2979,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "De-energize the system first.",
     "exampleTr": "Önce sistemin enerjisini kes.",
-    "storyEn": "Mnemonic: [STEKİNG ERİA] -> ENERJISIZ BIRAKMAK",
-    "storyTr": "Limanın STEKİNG ERİA (stacking area) bölümünde kutular üst üste İSTİF ALANI oluşturuyordu. STACKING AREA = İSTİF ALANI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component de-energize, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -2991,8 +2991,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "dii enır cayz",
-    "mnemonicHook": "STEKİNG ERİA",
-    "mnemonicScene": "Limanın STEKİNG ERİA (stacking area) bölümünde kutular üst üste İSTİF ALANI oluşturuyordu. STACKING AREA = İSTİF ALANI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Line",
@@ -3002,8 +3002,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Follow the yellow line.",
     "exampleTr": "Sarı çizgiyi takip et.",
-    "storyEn": "Mnemonic: [Dİ ENERCAYZ] -> HAT",
-    "storyTr": "Teknisyen şalteri indirip makineyi Dİ ENERCAYZ ile ENERJİSİZ bıraktı; dev motor sustu. DE-ENERGIZE = ENERJİSİZ BIRAKMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component line, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3014,18 +3014,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "layn",
-    "mnemonicHook": "Dİ ENERCAYZ",
-    "mnemonicScene": "Teknisyen şalteri indirip makineyi Dİ ENERCAYZ ile ENERJİSİZ bıraktı; dev motor sustu. DE-ENERGIZE = ENERJİSİZ BIRAKMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Contamination",
     "turkish": "bulaşma, kirlenme",
     "phonetic": "/kıntemineyşın/",
     "pronunciationTr": "kıntemineyşın",
-    "mnemonicHook": "LAYN",
-    "mnemonicScene": "Düz LAYN (line) boyunca çekilen HAT, sahada yolu gösteriyordu. LINE = HAT, ÇİZGİ.",
-    "storyTr": "Düz LAYN (line) boyunca çekilen HAT, sahada yolu gösteriyordu. LINE = HAT, ÇİZGİ.",
-    "storyEn": "Mnemonic: [LAYN] -> BULAŞMA",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "Contamination is dangerous.",
     "exampleTr": "Kirlenme tehlikelidir.",
     "level": "A1",
@@ -3046,8 +3046,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The infection is serious.",
     "exampleTr": "Enfeksiyon ciddidir.",
-    "storyEn": "Mnemonic: [KANTAMİNEYŞN] -> ENFEKSIYON",
-    "storyTr": "Lavabodaki KANTAMİNEYŞN (contamination) suyu bulaştırdı; kirlenme yayıldı. CONTAMINATION = BULAŞMA, KİRLENME.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component infection, contamination, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3058,8 +3058,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "infekşın",
-    "mnemonicHook": "KANTAMİNEYŞN",
-    "mnemonicScene": "Lavabodaki KANTAMİNEYŞN (contamination) suyu bulaştırdı; kirlenme yayıldı. CONTAMINATION = BULAŞMA, KİRLENME."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Prevent, hinder",
@@ -3069,8 +3069,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This can prevent damage.",
     "exampleTr": "Bu hasarı önleyebilir.",
-    "storyEn": "Mnemonic: [İNFEKŞN] -> ÖNLEMEK",
-    "storyTr": "İNFEKŞN (infection) kapıdan girip ENFEKSİYON hastalığı bir sınıfa yayıldı. INFECTION = ENFEKSİYON.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component prevent, hinder, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3081,18 +3081,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "privent",
-    "mnemonicHook": "İNFEKŞN",
-    "mnemonicScene": "İNFEKŞN (infection) kapıdan girip ENFEKSİYON hastalığı bir sınıfa yayıldı. INFECTION = ENFEKSİYON."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Hinder",
     "turkish": "engel olmak",
     "phonetic": "/hindır/",
     "pronunciationTr": "hindır",
-    "mnemonicHook": "PRİVENT",
-    "mnemonicScene": "PRİVENT (prevent) için çocuk kapıyı kapatıp kavganın başlamasını ÖNLEDİ. PREVENT = ÖNLEMEK.",
-    "storyTr": "PRİVENT (prevent) için çocuk kapıyı kapatıp kavganın başlamasını ÖNLEDİ. PREVENT = ÖNLEMEK.",
-    "storyEn": "Mnemonic: [PRİVENT] -> ENGEL OLMAK",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "Do not hinder the work.",
     "exampleTr": "İşi engelleme.",
     "level": "A1",
@@ -3113,8 +3113,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Do not crush the cable.",
     "exampleTr": "Kabloyu ezme.",
-    "storyEn": "Mnemonic: [HİNDER] -> EZMEK",
-    "storyTr": "Kalabalık yolu HİNDER (hinder) edip ENGEL OLDU; kimse geçemedi. HINDER = ENGEL OLMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component crush, pressure, compression, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3125,18 +3125,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kraş",
-    "mnemonicHook": "HİNDER",
-    "mnemonicScene": "Kalabalık yolu HİNDER (hinder) edip ENGEL OLDU; kimse geçemedi. HINDER = ENGEL OLMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Pressure",
     "turkish": "basınç",
     "phonetic": "/preşır/",
     "pronunciationTr": "preşır",
-    "mnemonicHook": "KRAŞ",
-    "mnemonicScene": "Dev kaya KRAŞ (crush) diye düşüp kutuyu tamamen EZDİ. CRUSH = EZMEK.",
-    "storyTr": "Dev kaya KRAŞ (crush) diye düşüp kutuyu tamamen EZDİ. CRUSH = EZMEK.",
-    "storyEn": "Mnemonic: [KRAŞ] -> BASINÇ",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "The pressure is high.",
     "exampleTr": "Basınç yüksektir.",
     "level": "A1",
@@ -3154,10 +3154,10 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "turkish": "sıkıştırma",
     "phonetic": "/kım preşın/",
     "pronunciationTr": "kım preşın",
-    "mnemonicHook": "PREŞÜR",
-    "mnemonicScene": "Lastiklerde PREŞÜR (pressure) azalınca BASINÇ'ın düştüğü hemen fark edildi. PRESSURE = BASINÇ.",
-    "storyTr": "Lastiklerde PREŞÜR (pressure) azalınca BASINÇ'ın düştüğü hemen fark edildi. PRESSURE = BASINÇ.",
-    "storyEn": "Mnemonic: [PREŞÜR] -> SIKIŞTIRMA",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "Compression makes the air smaller.",
     "exampleTr": "Sıkıştırma havanın hacmini küçültür.",
     "level": "A1",
@@ -3178,8 +3178,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Mark this point.",
     "exampleTr": "Bu noktayı işaretle.",
-    "storyEn": "Mnemonic: [KOMPREŞN] -> NOKTA",
-    "storyTr": "KOMPREŞN (compression) pistonun SIKIŞTIRMA ile yukarı çıkıp motor çalışmaya başladı. COMPRESSION = SIKIŞTIRMA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component point, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3190,8 +3190,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "point",
-    "mnemonicHook": "KOMPREŞN",
-    "mnemonicScene": "KOMPREŞN (compression) pistonun SIKIŞTIRMA ile yukarı çıkıp motor çalışmaya başladı. COMPRESSION = SIKIŞTIRMA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Gear",
@@ -3201,8 +3201,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The gear is new.",
     "exampleTr": "Dişli yenidir.",
-    "storyEn": "Mnemonic: [POYNT] -> DIŞLI",
-    "storyTr": "Ressam POYNT (point) ile tuvalin ortasına bir NOKTA koydu. POINT = NOKTA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component gear, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3213,18 +3213,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "gir",
-    "mnemonicHook": "POYNT",
-    "mnemonicScene": "Ressam POYNT (point) ile tuvalin ortasına bir NOKTA koydu. POINT = NOKTA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Shift",
     "turkish": "vardiya, değiştirmek",
     "phonetic": "/şift/",
     "pronunciationTr": "şift",
-    "mnemonicHook": "GİYR",
-    "mnemonicScene": "Bisikletçi GİYR (gear) tuşuna basıp arka DİŞLİ'yi değiştirdi. GEAR = DİŞLİ, VİTES.",
-    "storyTr": "Bisikletçi GİYR (gear) tuşuna basıp arka DİŞLİ'yi değiştirdi. GEAR = DİŞLİ, VİTES.",
-    "storyEn": "Mnemonic: [GİYR] -> VARDIYA",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "My shift starts now.",
     "exampleTr": "Vardiyam şimdi başlıyor.",
     "level": "A1",
@@ -3245,8 +3245,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Use the hammer carefully.",
     "exampleTr": "Çekici dikkatli kullan.",
-    "storyEn": "Mnemonic: [ŞİFT] -> ÇEKIÇ",
-    "storyTr": "Hemşire ŞİFT (shift) değişince VARDİYA'sı bitti; yeni ekip yerini aldı. SHIFT = VARDİYA, DEĞİŞTİRMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component hammer, clamp, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3257,18 +3257,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "hemır",
-    "mnemonicHook": "ŞİFT",
-    "mnemonicScene": "Hemşire ŞİFT (shift) değişince VARDİYA'sı bitti; yeni ekip yerini aldı. SHIFT = VARDİYA, DEĞİŞTİRMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Gasket",
     "turkish": "conta",
     "phonetic": "/geskıt/",
     "pronunciationTr": "geskıt",
-    "mnemonicHook": "HAMMER",
-    "mnemonicScene": "HAMMER (hammer) elindeki ÇEKİÇ'le duvarı vurup ses çıkardı. HAMMER = ÇEKİÇ.",
-    "storyTr": "HAMMER (hammer) elindeki ÇEKİÇ'le duvarı vurup ses çıkardı. HAMMER = ÇEKİÇ.",
-    "storyEn": "Mnemonic: [HAMMER] -> CONTA",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "The gasket is new.",
     "exampleTr": "Conta yenidir.",
     "level": "A1",
@@ -3289,8 +3289,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Check the seal.",
     "exampleTr": "Contayı kontrol et.",
-    "storyEn": "Mnemonic: [GASKET] -> MÜHÜR",
-    "storyTr": "Motor kapağının altında GASKET (conta) sızıntıyı önleyen CONTA görevi görüyordu. GASKET = CONTA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component seal, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3301,8 +3301,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "siil",
-    "mnemonicHook": "GASKET",
-    "mnemonicScene": "Motor kapağının altında GASKET (conta) sızıntıyı önleyen CONTA görevi görüyordu. GASKET = CONTA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Broken",
@@ -3312,8 +3312,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The handle is broken.",
     "exampleTr": "Kol kırılmıştır.",
-    "storyEn": "Mnemonic: [SİL] -> KIRIK",
-    "storyTr": "Usta SİL (seal) dedi: sıcak mumla zarfı MÜHÜRLEDİ, SIZDIRMAZLIK elemanı tamamlandı. SEAL = MÜHÜR, SIZDIRMAZLIK ELEMANI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component broken, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3324,8 +3324,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "bıroken",
-    "mnemonicHook": "SİL",
-    "mnemonicScene": "Usta SİL (seal) dedi: sıcak mumla zarfı MÜHÜRLEDİ, SIZDIRMAZLIK elemanı tamamlandı. SEAL = MÜHÜR, SIZDIRMAZLIK ELEMANI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Part",
@@ -3335,8 +3335,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This part is small.",
     "exampleTr": "Bu parça küçüktür.",
-    "storyEn": "Mnemonic: [BRÖKEN] -> PARÇA",
-    "storyTr": "BRÖKEN (broken) kol KIRIK'tı; hemen alçı yapıldı, BOZUK değildi. BROKEN = KIRIK, BOZUK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component part, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3347,8 +3347,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "part",
-    "mnemonicHook": "BRÖKEN",
-    "mnemonicScene": "BRÖKEN (broken) kol KIRIK'tı; hemen alçı yapıldı, BOZUK değildi. BROKEN = KIRIK, BOZUK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Box",
@@ -3358,8 +3358,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The box is open.",
     "exampleTr": "Kutu açıktır.",
-    "storyEn": "Mnemonic: [PART] -> KUTU",
-    "storyTr": "PART (part) sözcüğü, eksik olan PARÇA'nın tam adıydı; bulunduğunda hepimiz sevindik. PART = PARÇA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component box, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3370,18 +3370,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "boks",
-    "mnemonicHook": "PART",
-    "mnemonicScene": "PART (part) sözcüğü, eksik olan PARÇA'nın tam adıydı; bulunduğunda hepimiz sevindik. PART = PARÇA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Sign",
     "turkish": "işaret",
     "phonetic": "/sayn/",
     "pronunciationTr": "sayn",
-    "mnemonicHook": "BOKS",
-    "mnemonicScene": "Hediyeyi BOKS (box) adlı KUTU'nun içine koyduk; kapağı sıkıca kapattık. BOX = KUTU.",
-    "storyTr": "Hediyeyi BOKS (box) adlı KUTU'nun içine koyduk; kapağı sıkıca kapattık. BOX = KUTU.",
-    "storyEn": "Mnemonic: [BOKS] -> IŞARET",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "Read the sign.",
     "exampleTr": "İşareti oku.",
     "level": "A1",
@@ -3402,8 +3402,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Put it in the socket.",
     "exampleTr": "Onu sokete tak.",
-    "storyEn": "Mnemonic: [SİGN] -> SOKET",
-    "storyTr": "Yolda SİGN (sign) dediği İŞARET'e bakıp durdu; tabela hiç yanlış söylemiyordu. SIGN = İŞARET.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component socket, effect, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3414,18 +3414,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "sokit",
-    "mnemonicHook": "SİGN",
-    "mnemonicScene": "Yolda SİGN (sign) dediği İŞARET'e bakıp durdu; tabela hiç yanlış söylemiyordu. SIGN = İŞARET."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Effect",
     "turkish": "etki",
     "phonetic": "/ifekt/",
     "pronunciationTr": "ifekt",
-    "mnemonicHook": "SOKET",
-    "mnemonicScene": "SOKET (socket) duvardaki PRİZ'e tam oturdu, lamba yanıp sönmeyi bıraktı. SOCKET = SOKET, PRİZ.",
-    "storyTr": "SOKET (socket) duvardaki PRİZ'e tam oturdu, lamba yanıp sönmeyi bıraktı. SOCKET = SOKET, PRİZ.",
-    "storyEn": "Mnemonic: [SOKET] -> ETKI",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "The effect is clear.",
     "exampleTr": "Etki açıktır.",
     "level": "A1",
@@ -3446,8 +3446,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "There is a pit here.",
     "exampleTr": "Burada bir çukur var.",
-    "storyEn": "Mnemonic: [İFEKT] -> ÇUKUR",
-    "storyTr": "İFEKT (effect) ilacın ETKİ'si: kasları gevşetti, yan ETKİ olarak hafif uykusu geldi. EFFECT = ETKİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component pit, dent, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3458,18 +3458,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "pit",
-    "mnemonicHook": "İFEKT",
-    "mnemonicScene": "İFEKT (effect) ilacın ETKİ'si: kasları gevşetti, yan ETKİ olarak hafif uykusu geldi. EFFECT = ETKİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Dent",
     "turkish": "göçük",
     "phonetic": "/dent/",
     "pronunciationTr": "dent",
-    "mnemonicHook": "PİT",
-    "mnemonicScene": "PİT (pit) bahçede çukurdu; ustanın kazdığı ÇUKUR'a fidan dikildi. PIT = ÇUKUR.",
-    "storyTr": "PİT (pit) bahçede çukurdu; ustanın kazdığı ÇUKUR'a fidan dikildi. PIT = ÇUKUR.",
-    "storyEn": "Mnemonic: [PİT] -> GÖÇÜK",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "The door has a dent.",
     "exampleTr": "Kapıda bir göçük var.",
     "level": "A1",
@@ -3490,8 +3490,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The situation is safe.",
     "exampleTr": "Durum güvenlidir.",
-    "storyEn": "Mnemonic: [DENT] -> DURUM",
-    "storyTr": "DENT (dent) arabanın kapısındaki GÖÇÜK'ü gören sürücü fark etti: kapı içeri çökmüştü. DENT = GÖÇÜK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component situation, condition, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3502,18 +3502,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "siçu-eyşın",
-    "mnemonicHook": "DENT",
-    "mnemonicScene": "DENT (dent) arabanın kapısındaki GÖÇÜK'ü gören sürücü fark etti: kapı içeri çökmüştü. DENT = GÖÇÜK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Condition",
     "turkish": "koşul, durum",
     "phonetic": "/kındişın/",
     "pronunciationTr": "kındişın",
-    "mnemonicHook": "DURUM",
-    "mnemonicScene": "DURUM (situation) böyleyken, her şey yeniden değerlendirildi. SITUATION = DURUM.",
-    "storyTr": "DURUM (situation) böyleyken, her şey yeniden değerlendirildi. SITUATION = DURUM.",
-    "storyEn": "Mnemonic: [DURUM] -> KOŞUL",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "The condition is good.",
     "exampleTr": "Durum iyidir.",
     "level": "A1",
@@ -3534,8 +3534,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "I also need a pen.",
     "exampleTr": "Ayrıca bir kaleme ihtiyacım var.",
-    "storyEn": "Mnemonic: [KONDİŞN] -> AYRICA",
-    "storyTr": "KONDİŞN (condition) şartlarında kiralık ev için KOŞUL'ları madde madde yazdı. CONDITION = KOŞUL, DURUM.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Also, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3546,8 +3546,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "olso",
-    "mnemonicHook": "KONDİŞN",
-    "mnemonicScene": "KONDİŞN (condition) şartlarında kiralık ev için KOŞUL'ları madde madde yazdı. CONDITION = KOŞUL, DURUM."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Directly",
@@ -3557,8 +3557,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Go directly to the office.",
     "exampleTr": "Doğrudan ofise git.",
-    "storyEn": "Mnemonic: [ÖLSO] -> DOĞRUDAN",
-    "storyTr": "ÖLSO (also) kahvaltı tabağına AYRICA reçel ve bal koydu. ALSO = AYRICA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component directly, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3569,8 +3569,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "direktli",
-    "mnemonicHook": "ÖLSO",
-    "mnemonicScene": "ÖLSO (also) kahvaltı tabağına AYRICA reçel ve bal koydu. ALSO = AYRICA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fasten",
@@ -3580,8 +3580,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Fasten your seat belt.",
     "exampleTr": "Emniyet kemerini bağla.",
-    "storyEn": "Mnemonic: [DİREKTLİ] -> SABITLEMEK",
-    "storyTr": "DİREKTLİ (directly) müdür DOĞRUDAN bana seslendi, lafı dolandırmadı. DIRECTLY = DOĞRUDAN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component fasten, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3592,8 +3592,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fesın",
-    "mnemonicHook": "DİREKTLİ",
-    "mnemonicScene": "DİREKTLİ (directly) müdür DOĞRUDAN bana seslendi, lafı dolandırmadı. DIRECTLY = DOĞRUDAN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Device",
@@ -3603,8 +3603,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This device is useful.",
     "exampleTr": "Bu cihaz kullanışlıdır.",
-    "storyEn": "Mnemonic: [FESTEN] -> CIHAZ",
-    "storyTr": "Pilot kemeri FESTEN (fasten) diye çekip koltuğa SABİTLEDİ, BAĞLADI. FASTEN = SABİTLEMEK, BAĞLAMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component device, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3615,8 +3615,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "divays",
-    "mnemonicHook": "FESTEN",
-    "mnemonicScene": "Pilot kemeri FESTEN (fasten) diye çekip koltuğa SABİTLEDİ, BAĞLADI. FASTEN = SABİTLEMEK, BAĞLAMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Modified",
@@ -3626,8 +3626,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The design is modified.",
     "exampleTr": "Tasarım değiştirilmiştir.",
-    "storyEn": "Mnemonic: [DİVAYS] -> DEĞIŞTIRILMIŞ",
-    "storyTr": "DİVAYS (device) sahnede parlayan küçük bir CİHAZ'dı; herkes büyüleyici bulunca ona baktı. DEVICE = CİHAZ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component modified, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3638,8 +3638,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "modifayd",
-    "mnemonicHook": "DİVAYS",
-    "mnemonicScene": "DİVAYS (device) sahnede parlayan küçük bir CİHAZ'dı; herkes büyüleyici bulunca ona baktı. DEVICE = CİHAZ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Location, area",
@@ -3649,8 +3649,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Mark the location on the map.",
     "exampleTr": "Konumu haritada işaretle.",
-    "storyEn": "Mnemonic: [LOKEYŞN] -> KONUM",
-    "storyTr": "Dedektif LOKEYŞN (location) raporunda KONUM'u haritaya işaretledi; YER tam olarak bulundu. LOCATION = KONUM, YER.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component location, area, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3661,18 +3661,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "loukeyşın",
-    "mnemonicHook": "LOKEYŞN",
-    "mnemonicScene": "Dedektif LOKEYŞN (location) raporunda KONUM'u haritaya işaretledi; YER tam olarak bulundu. LOCATION = KONUM, YER."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Area",
     "turkish": "alan, bölge",
     "phonetic": "/eriya/",
     "pronunciationTr": "eriya",
-    "mnemonicHook": "ERİA",
-    "mnemonicScene": "Ayaklarının altında ERİA diye yankılanan geniş bir ALAN vardı; çocuklar oyunu o BÖLGE'de kurdu. Herkes ses çıkaran tarafa koştu ve bütün bölgeyi birlikte arşınladı. AREA = ALAN, BÖLGE.",
-    "storyTr": "Ayaklarının altında ERİA diye yankılanan geniş bir ALAN vardı; çocuklar oyunu o BÖLGE'de kurdu. Herkes ses çıkaran tarafa koştu ve bütün bölgeyi birlikte arşınladı. AREA = ALAN, BÖLGE.",
-    "storyEn": "Mnemonic: [ERİA] -> ALAN",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "Keep this area clean.",
     "exampleTr": "Bu alanı temiz tut.",
     "level": "A1",
@@ -3693,8 +3693,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This is a special tool.",
     "exampleTr": "Bu özel bir alettir.",
-    "storyEn": "Mnemonic: [SPEŞIL] -> ÖZEL",
-    "storyTr": "Düğünde gelin SPEŞIL (special) bir masaya oturdu; herkes ÖZEL davrandı. SPECIAL = ÖZEL.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component special, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3705,8 +3705,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "speşıl",
-    "mnemonicHook": "SPEŞIL",
-    "mnemonicScene": "Düğünde gelin SPEŞIL (special) bir masaya oturdu; herkes ÖZEL davrandı. SPECIAL = ÖZEL."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Chemical",
@@ -3716,8 +3716,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This chemical is strong.",
     "exampleTr": "Bu kimyasal güçlüdür.",
-    "storyEn": "Mnemonic: [KEMİKAL] -> KIMYASAL",
-    "storyTr": "Laboratuvarda KEMİKAL (chemical) bir sıvı devrildi; KİMYASAL uyarısı verildi. CHEMICAL = KİMYASAL.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component chemical, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3728,18 +3728,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kemikıl",
-    "mnemonicHook": "KEMİKAL",
-    "mnemonicScene": "Laboratuvarda KEMİKAL (chemical) bir sıvı devrildi; KİMYASAL uyarısı verildi. CHEMICAL = KİMYASAL."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Container",
     "turkish": "kap, konteyner",
     "phonetic": "/kınteynır/",
     "pronunciationTr": "kınteynır",
-    "mnemonicHook": "KONTEYNER",
-    "mnemonicScene": "Liman KONTEYNER'i açılınca içinden her türlü KAP KACAK dökülüverdi. CONTAINER = KAP, KONTEYNER.",
-    "storyTr": "Liman KONTEYNER'i açılınca içinden her türlü KAP KACAK dökülüverdi. CONTAINER = KAP, KONTEYNER.",
-    "storyEn": "Mnemonic: [KONTEYNER] -> KAP",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "The container is empty.",
     "exampleTr": "Konteyner boştur.",
     "level": "A1",
@@ -3760,8 +3760,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Wear the oxygen mask.",
     "exampleTr": "Oksijen maskesini tak.",
-    "storyEn": "Mnemonic: [OKSİJEN MASK] -> OKSIJEN MASKESI",
-    "storyTr": "Uçakta oksijen düşünce OKSİJEN MASK'ı yüzüne taktı ve sakin sakin nefes aldı. OXYGEN MASK = OKSİJEN MASKESİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component oxygen mask, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3772,8 +3772,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "oksıcın mask",
-    "mnemonicHook": "OKSİJEN MASK",
-    "mnemonicScene": "Uçakta oksijen düşünce OKSİJEN MASK'ı yüzüne taktı ve sakin sakin nefes aldı. OXYGEN MASK = OKSİJEN MASKESİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Inspect, check, control",
@@ -3783,8 +3783,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Inspect the door carefully.",
     "exampleTr": "Kapıyı dikkatlice incele.",
-    "storyEn": "Mnemonic: [İNSPEKT] -> INCELEMEK",
-    "storyTr": "Müfettiş İNSPEKT (inspect) için tüm dolapları tek tek açıp İNCELEDİ. INSPECT = İNCELEMEK, DENETLEMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component inspect, check, control, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3795,18 +3795,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "inspekt",
-    "mnemonicHook": "İNSPEKT",
-    "mnemonicScene": "Müfettiş İNSPEKT (inspect) için tüm dolapları tek tek açıp İNCELEDİ. INSPECT = İNCELEMEK, DENETLEMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Check",
     "turkish": "kontrol etmek",
     "phonetic": "/çek/",
     "pronunciationTr": "çek",
-    "mnemonicHook": "ÇEK",
-    "mnemonicScene": "Hostes \"ÇEK!\" diyerek her yolcunun kemerini tek tek KONTROL ETTİ. CHECK = KONTROL ETMEK.",
-    "storyTr": "Hostes \"ÇEK!\" diyerek her yolcunun kemerini tek tek KONTROL ETTİ. CHECK = KONTROL ETMEK.",
-    "storyEn": "Mnemonic: [ÇEK] -> KONTROL ETMEK",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "Check the oil level.",
     "exampleTr": "Yağ seviyesini kontrol et.",
     "level": "A1",
@@ -3827,8 +3827,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The smoke hood is here.",
     "exampleTr": "Duman başlığı burada.",
-    "storyEn": "Mnemonic: [SMOK HUD] -> DUMAN BAŞLIĞI",
-    "storyTr": "Yangında duman dolunca SMOK HUD (duman başlığı) kafanın üstüne geçirildi; nefes almak kolaylaştı. SMOKE HOOD = DUMAN BAŞLIĞI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component smoke hood, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3839,8 +3839,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "smouk hud",
-    "mnemonicHook": "SMOK HUD",
-    "mnemonicScene": "Yangında duman dolunca SMOK HUD (duman başlığı) kafanın üstüne geçirildi; nefes almak kolaylaştı. SMOKE HOOD = DUMAN BAŞLIĞI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Efficient operation, proper operation",
@@ -3850,8 +3850,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Efficient operation saves time.",
     "exampleTr": "Verimli çalışma zaman kazandırır.",
-    "storyEn": "Mnemonic: [EFİŞİENT] -> VERIMLI ÇALIŞMA",
-    "storyTr": "Yeni makine EFİŞİENT (efficient) çalışıyor; her yakıt damlası VERİMLİ kullanılıyordu. EFFICIENT OPERATION = VERİMLİ ÇALIŞMA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component efficient operation, proper operation, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3862,18 +3862,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ifişınt opereyşın",
-    "mnemonicHook": "EFİŞİENT",
-    "mnemonicScene": "Yeni makine EFİŞİENT (efficient) çalışıyor; her yakıt damlası VERİMLİ kullanılıyordu. EFFICIENT OPERATION = VERİMLİ ÇALIŞMA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Proper operation",
     "turkish": "düzgün çalışma",
     "phonetic": "/propır opereyşın/",
     "pronunciationTr": "propır opereyşın",
-    "mnemonicHook": "PROPER OPERATION",
-    "mnemonicScene": "Mühendis makineyi PROPER OPERATION moduna aldı; her çark DÜZGÜN ÇALIŞMA ritmiyle dönmeye başladı. PROPER OPERATION = DÜZGÜN ÇALIŞMA.",
-    "storyTr": "Mühendis makineyi PROPER OPERATION moduna aldı; her çark DÜZGÜN ÇALIŞMA ritmiyle dönmeye başladı. PROPER OPERATION = DÜZGÜN ÇALIŞMA.",
-    "storyEn": "Mnemonic: [PROPER OPERATION] -> DÜZGÜN ÇALIŞMA",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "Proper operation is important.",
     "exampleTr": "Düzgün çalışma önemlidir.",
     "level": "A1",
@@ -3894,8 +3894,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This phone has many features.",
     "exampleTr": "Bu telefonun birçok özelliği var.",
-    "storyEn": "Mnemonic: [FİÇERS] -> ÖZELLIKLER",
-    "storyTr": "Telefonun kutusundaki FİÇERS (features) listesi, kullanıcıya her ÖZELLİK'i tek tek anlatıyordu. FEATURES = ÖZELLİKLER.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component features, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3906,8 +3906,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fiçırz",
-    "mnemonicHook": "FİÇERS",
-    "mnemonicScene": "Telefonun kutusundaki FİÇERS (features) listesi, kullanıcıya her ÖZELLİK'i tek tek anlatıyordu. FEATURES = ÖZELLİKLER."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Finish, close",
@@ -3917,8 +3917,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Finish the work today.",
     "exampleTr": "İşi bugün bitir.",
-    "storyEn": "Mnemonic: [FİNİŞ] -> BITIRMEK",
-    "storyTr": "Maraton koşucusu FİNİŞ çizgisini geçince bütün kalabalık alkışladı; yarış BİTİRİLDİ. FINISH = BİTİRMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component finish, close, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3929,18 +3929,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "finiş",
-    "mnemonicHook": "FİNİŞ",
-    "mnemonicScene": "Maraton koşucusu FİNİŞ çizgisini geçince bütün kalabalık alkışladı; yarış BİTİRİLDİ. FINISH = BİTİRMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Close",
     "turkish": "kapatmak",
     "phonetic": "/klouz/",
     "pronunciationTr": "klouz",
-    "mnemonicHook": "KLOOZ",
-    "mnemonicScene": "Dükkâncı KLOOZ (close) tabelasını çevirdi; kepenk gürültüyle KAPATILDI. CLOSE = KAPATMAK.",
-    "storyTr": "Dükkâncı KLOOZ (close) tabelasını çevirdi; kepenk gürültüyle KAPATILDI. CLOSE = KAPATMAK.",
-    "storyEn": "Mnemonic: [KLOOZ] -> KAPATMAK",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "Close the door, please.",
     "exampleTr": "Lütfen kapıyı kapat.",
     "level": "A1",
@@ -3961,8 +3961,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The machine is noisy.",
     "exampleTr": "Makine gürültülüdür.",
-    "storyEn": "Mnemonic: [NOYZİ] -> GÜRÜLTÜLÜ",
-    "storyTr": "Kalabalık çarşıda NOYZİ (noisy) bir ortam vardı; herkes birbirine bağırıyordu: GÜRÜLTÜLÜ. NOISY = GÜRÜLTÜLÜ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component noisy, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3973,8 +3973,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "noyzi",
-    "mnemonicHook": "NOYZİ",
-    "mnemonicScene": "Kalabalık çarşıda NOYZİ (noisy) bir ortam vardı; herkes birbirine bağırıyordu: GÜRÜLTÜLÜ. NOISY = GÜRÜLTÜLÜ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Turntable",
@@ -3984,8 +3984,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The turntable is moving.",
     "exampleTr": "Döner tabla hareket ediyor.",
-    "storyEn": "Mnemonic: [TÜRNTEYBIL] -> DÖNER TABLA",
-    "storyTr": "Plakçı TÜRNTEYBIL'ın (turntable) üstündeki plağı döndürdü; DÖNER TABLA hiç durmadı. TURNTABLE = DÖNER TABLA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component turntable, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -3996,8 +3996,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "törn teybıl",
-    "mnemonicHook": "TÜRNTEYBIL",
-    "mnemonicScene": "Plakçı TÜRNTEYBIL'ın (turntable) üstündeki plağı döndürdü; DÖNER TABLA hiç durmadı. TURNTABLE = DÖNER TABLA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Axle",
@@ -4007,8 +4007,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The axle is strong.",
     "exampleTr": "Aks sağlamdır.",
-    "storyEn": "Mnemonic: [AKS] -> AKS",
-    "storyTr": "Kamyonun AKS'ı (axle) kırılınca tekerlek dönmedi; MİL'in bozulduğu anlaşıldı. AXLE = AKS, MİL.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component axle, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4019,8 +4019,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "aksıl",
-    "mnemonicHook": "AKS",
-    "mnemonicScene": "Kamyonun AKS'ı (axle) kırılınca tekerlek dönmedi; MİL'in bozulduğu anlaşıldı. AXLE = AKS, MİL."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Bearing",
@@ -4030,8 +4030,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The bearing is damaged.",
     "exampleTr": "Rulman hasarlıdır.",
-    "storyEn": "Mnemonic: [BEARİNG] -> RULMAN",
-    "storyTr": "Çarkın içinden BEARİNG (bearing) sesi geldi: RULMAN'ın yağı bitmişti. BEARING = RULMAN, YATAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component bearing, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4042,8 +4042,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "bering",
-    "mnemonicHook": "BEARİNG",
-    "mnemonicScene": "Çarkın içinden BEARİNG (bearing) sesi geldi: RULMAN'ın yağı bitmişti. BEARING = RULMAN, YATAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Bushing",
@@ -4053,8 +4053,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The bushing is new.",
     "exampleTr": "Burç yenidir.",
-    "storyEn": "Mnemonic: [BUŞİNG] -> BURÇ",
-    "storyTr": "Mekanik, BUŞİNG (bushing) dediği BURÇ'u sökerek motorun sesini sessizleştirdi. BUSHING = BURÇ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component bushing, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4065,8 +4065,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "buşing",
-    "mnemonicHook": "BUŞİNG",
-    "mnemonicScene": "Mekanik, BUŞİNG (bushing) dediği BURÇ'u sökerek motorun sesini sessizleştirdi. BUSHING = BURÇ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Felt",
@@ -4076,8 +4076,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The felt is soft.",
     "exampleTr": "Keçe yumuşaktır.",
-    "storyEn": "Mnemonic: [FELT] -> KEÇE",
-    "storyTr": "Ressam FELT (felt) kalemini çıkardı; keçe ucu, kâğıda ince bir KEÇE çizgisi çekti. FELT = KEÇE.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component felt, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4088,8 +4088,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "felt",
-    "mnemonicHook": "FELT",
-    "mnemonicScene": "Ressam FELT (felt) kalemini çıkardı; keçe ucu, kâğıda ince bir KEÇE çizgisi çekti. FELT = KEÇE."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Nut",
@@ -4099,8 +4099,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Tighten the nut.",
     "exampleTr": "Somunu sık.",
-    "storyEn": "Mnemonic: [NAT] -> SOMUN",
-    "storyTr": "NAT diye fındık kabuğu kırılınca içinden bir SOMUN gibi sert bir çekirdek çıktı; vidaya tam oturdu. NUT = SOMUN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component nut, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4111,8 +4111,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "nat",
-    "mnemonicHook": "NAT",
-    "mnemonicScene": "NAT diye fındık kabuğu kırılınca içinden bir SOMUN gibi sert bir çekirdek çıktı; vidaya tam oturdu. NUT = SOMUN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Washer",
@@ -4122,8 +4122,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Use a washer here.",
     "exampleTr": "Burada bir rondela kullan.",
-    "storyEn": "Mnemonic: [VAŞER] -> RONDELA",
-    "storyTr": "Ayakkabının altına VAŞER (washer) koydu, sıkıştırdığı yerde RONDELA görevi gördü. WASHER = RONDELA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component washer, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4134,8 +4134,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "voşır",
-    "mnemonicHook": "VAŞER",
-    "mnemonicScene": "Ayakkabının altına VAŞER (washer) koydu, sıkıştırdığı yerde RONDELA görevi gördü. WASHER = RONDELA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Bolt",
@@ -4145,8 +4145,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "I need a bolt.",
     "exampleTr": "Bir cıvataya ihtiyacım var.",
-    "storyEn": "Mnemonic: [BOLT] -> CIVATA",
-    "storyTr": "USAIN BOLT koşarken yolda gördüğü CIVATA'yı (bolt) vurup sıkıca tuttu. BOLT = CIVATA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component bolt, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4157,8 +4157,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "bolt",
-    "mnemonicHook": "BOLT",
-    "mnemonicScene": "USAIN BOLT koşarken yolda gördüğü CIVATA'yı (bolt) vurup sıkıca tuttu. BOLT = CIVATA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Chain",
@@ -4168,8 +4168,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The chain is long.",
     "exampleTr": "Zincir uzundur.",
-    "storyEn": "Mnemonic: [ÇEYN] -> ZINCIR",
-    "storyTr": "Eski kapı ÇEYN (chain) ile bağlandı; demir ZİNCİR kapıyı sımsıkı kilitledi. CHAIN = ZİNCİR.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component chain, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4180,8 +4180,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "çeyn",
-    "mnemonicHook": "ÇEYN",
-    "mnemonicScene": "Eski kapı ÇEYN (chain) ile bağlandı; demir ZİNCİR kapıyı sımsıkı kilitledi. CHAIN = ZİNCİR."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Pulley",
@@ -4191,8 +4191,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The pulley is small.",
     "exampleTr": "Kasnak küçüktür.",
-    "storyEn": "Mnemonic: [PULİ] -> KASNAK",
-    "storyTr": "PULİ (pulley) denilen KASNAK kuyudan kovayı yukarı çekti. PULLEY = KASNAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component pulley, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4203,8 +4203,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "puli",
-    "mnemonicHook": "PULİ",
-    "mnemonicScene": "PULİ (pulley) denilen KASNAK kuyudan kovayı yukarı çekti. PULLEY = KASNAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Roller",
@@ -4214,8 +4214,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The roller is moving.",
     "exampleTr": "Makara hareket ediyor.",
-    "storyEn": "Mnemonic: [ROULR] -> MAKARA",
-    "storyTr": "ROULR makarası ile halıyı MAKARA üzerinden sürükledi; ROULR'un sesi her turda duyuldu. ROLLER = MAKARA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component roller, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4226,8 +4226,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "rolır",
-    "mnemonicHook": "ROULR",
-    "mnemonicScene": "ROULR makarası ile halıyı MAKARA üzerinden sürükledi; ROULR'un sesi her turda duyuldu. ROLLER = MAKARA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Shaft",
@@ -4237,8 +4237,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The shaft is straight.",
     "exampleTr": "Mil düzdür.",
-    "storyEn": "Mnemonic: [ŞAFT] -> MIL",
-    "storyTr": "Dev ŞAFT (shaft) motordan çıkan MİL'le fabrikanın kasnaklarını döndürüyordu. SHAFT = MİL.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component shaft, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4249,8 +4249,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "şaft",
-    "mnemonicHook": "ŞAFT",
-    "mnemonicScene": "Dev ŞAFT (shaft) motordan çıkan MİL'le fabrikanın kasnaklarını döndürüyordu. SHAFT = MİL."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Reducer",
@@ -4260,8 +4260,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The reducer is heavy.",
     "exampleTr": "Redüktör ağırdır.",
-    "storyEn": "Mnemonic: [RİDYUSR] -> REDÜKTÖR",
-    "storyTr": "RİDYUSR (reducer) dişlisiyle devri düşürdü; REDÜKTÖR kutusu güçlü ama yavaş döndü. REDUCER = REDÜKTÖR.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component reducer, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4272,8 +4272,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ridusır",
-    "mnemonicHook": "RİDYUSR",
-    "mnemonicScene": "RİDYUSR (reducer) dişlisiyle devri düşürdü; REDÜKTÖR kutusu güçlü ama yavaş döndü. REDUCER = REDÜKTÖR."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Motor",
@@ -4283,8 +4283,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The motor is running.",
     "exampleTr": "Motor çalışıyor.",
-    "storyEn": "Mnemonic: [MOTOR] -> MOTOR",
-    "storyTr": "Yarışçının MOTOR'u virajda homurdandı; gaz verince bütün tribünler sesi duydu. MOTOR = MOTOR.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component motor, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4295,8 +4295,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "motır",
-    "mnemonicHook": "MOTOR",
-    "mnemonicScene": "Yarışçının MOTOR'u virajda homurdandı; gaz verince bütün tribünler sesi duydu. MOTOR = MOTOR."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Electric motor",
@@ -4306,8 +4306,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The electric motor is on.",
     "exampleTr": "Elektrik motoru açıktır.",
-    "storyEn": "Mnemonic: [ELEKTRİK MOTOR] -> ELEKTRIK MOTORU",
-    "storyTr": "Sessiz ELEKTRİK MOTOR asansörü sessizce yukarı çekti. ELECTRIC MOTOR = ELEKTRİK MOTORU.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component electric motor, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4318,8 +4318,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ilektrik motır",
-    "mnemonicHook": "ELEKTRİK MOTOR",
-    "mnemonicScene": "Sessiz ELEKTRİK MOTOR asansörü sessizce yukarı çekti. ELECTRIC MOTOR = ELEKTRİK MOTORU."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Hydraulic motor",
@@ -4329,8 +4329,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The hydraulic motor is strong.",
     "exampleTr": "Hidrolik motor güçlüdür.",
-    "storyEn": "Mnemonic: [HAYDRAOLİK MOTOR] -> HIDROLIK MOTOR",
-    "storyTr": "HAYDRAOLİK MOTOR, su gibi akan HİDROLİK basıncıyla kocaman vinci kaldırdı. HYDRAULIC MOTOR = HİDROLİK MOTOR.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component hydraulic motor, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4341,8 +4341,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "haydrolik motır",
-    "mnemonicHook": "HAYDRAOLİK MOTOR",
-    "mnemonicScene": "HAYDRAOLİK MOTOR, su gibi akan HİDROLİK basıncıyla kocaman vinci kaldırdı. HYDRAULIC MOTOR = HİDROLİK MOTOR."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Pneumatic motor",
@@ -4352,8 +4352,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The pneumatic motor is small.",
     "exampleTr": "Pnömatik motor küçüktür.",
-    "storyEn": "Mnemonic: [NÖMATİK MOTOR] -> PNÖMATIK MOTOR",
-    "storyTr": "NÖMATİK MOTOR, kompresörden gelen havanın PNÖMATİK gücüyle hızlıca döndü. PNEUMATIC MOTOR = PNÖMATİK MOTOR.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component pneumatic motor, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4364,8 +4364,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "nümatik motır",
-    "mnemonicHook": "NÖMATİK MOTOR",
-    "mnemonicScene": "NÖMATİK MOTOR, kompresörden gelen havanın PNÖMATİK gücüyle hızlıca döndü. PNEUMATIC MOTOR = PNÖMATİK MOTOR."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Gearbox",
@@ -4375,8 +4375,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The gearbox is noisy.",
     "exampleTr": "Dişli kutusu gürültülüdür.",
-    "storyEn": "Mnemonic: [GİYR BOKS] -> DIŞLI KUTUSU",
-    "storyTr": "Teknisyen DİŞLİ kutusunu (gearbox) GİYR BOKS'un içine koyup somunları sıktı. GEARBOX = DİŞLİ KUTUSU.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component gearbox, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4387,8 +4387,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "girboks",
-    "mnemonicHook": "GİYR BOKS",
-    "mnemonicScene": "Teknisyen DİŞLİ kutusunu (gearbox) GİYR BOKS'un içine koyup somunları sıktı. GEARBOX = DİŞLİ KUTUSU."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Differential",
@@ -4398,8 +4398,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The differential is working.",
     "exampleTr": "Diferansiyel çalışıyor.",
-    "storyEn": "Mnemonic: [DİFERENŞİYAL] -> DIFERANSIYEL",
-    "storyTr": "Yağmurda DİFERENŞİYAL (differential) arka aksta tıkırdadı; her virajda sesi duyuluyordu. DIFFERENTIAL = DİFERANSİYEL.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component differential, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4410,8 +4410,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "difıranşıl",
-    "mnemonicHook": "DİFERENŞİYAL",
-    "mnemonicScene": "Yağmurda DİFERENŞİYAL (differential) arka aksta tıkırdadı; her virajda sesi duyuluyordu. DIFFERENTIAL = DİFERANSİYEL."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Clutch",
@@ -4421,8 +4421,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Press the clutch pedal.",
     "exampleTr": "Debriyaj pedalına bas.",
-    "storyEn": "Mnemonic: [KLAÇ] -> DEBRIYAJ",
-    "storyTr": "Sürücü KLAÇ (clutch) pedalına basınca dişliler birbirine KAVRANDI; debriyaj sağlam tuttu. CLUTCH = DEBRİYAJ, KAVRAMA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component clutch, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4433,8 +4433,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "klaç",
-    "mnemonicHook": "KLAÇ",
-    "mnemonicScene": "Sürücü KLAÇ (clutch) pedalına basınca dişliler birbirine KAVRANDI; debriyaj sağlam tuttu. CLUTCH = DEBRİYAJ, KAVRAMA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Brake",
@@ -4444,8 +4444,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The brake is good.",
     "exampleTr": "Fren iyidir.",
-    "storyEn": "Mnemonic: [BREYK] -> FREN",
-    "storyTr": "Pilot BREYK (brake) yapınca uçak FREN'e yaslanıp pistte durdu. BRAKE = FREN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component brake, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4456,8 +4456,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "breyk",
-    "mnemonicHook": "BREYK",
-    "mnemonicScene": "Pilot BREYK (brake) yapınca uçak FREN'e yaslanıp pistte durdu. BRAKE = FREN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Accelerator pedal",
@@ -4467,8 +4467,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Press the accelerator pedal.",
     "exampleTr": "Gaz pedalına bas.",
-    "storyEn": "Mnemonic: [EKSELERETÖR PEDAL] -> GAZ PEDALI",
-    "storyTr": "Sürücü EKSELERETÖR PEDAL'a basınca araba GAZ PEDALI'nın etkisiyle hızlandı. ACCELERATOR PEDAL = GAZ PEDALI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component accelerator pedal, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4479,8 +4479,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ıkselıreytır pedıl",
-    "mnemonicHook": "EKSELERETÖR PEDAL",
-    "mnemonicScene": "Sürücü EKSELERETÖR PEDAL'a basınca araba GAZ PEDALI'nın etkisiyle hızlandı. ACCELERATOR PEDAL = GAZ PEDALI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Gear lever",
@@ -4490,8 +4490,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Move the gear lever.",
     "exampleTr": "Vites kolunu hareket ettir.",
-    "storyEn": "Mnemonic: [GİYR LİVER] -> VITES KOLU",
-    "storyTr": "Sürücü GİYR LİVER (gear lever) kolunu çekip VİTES KOLU'nu boşa aldı. GEAR LEVER = VİTES KOLU.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component gear lever, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4502,8 +4502,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "gir levır",
-    "mnemonicHook": "GİYR LİVER",
-    "mnemonicScene": "Sürücü GİYR LİVER (gear lever) kolunu çekip VİTES KOLU'nu boşa aldı. GEAR LEVER = VİTES KOLU."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Steering wheel",
@@ -4513,8 +4513,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Hold the steering wheel.",
     "exampleTr": "Direksiyonu tut.",
-    "storyEn": "Mnemonic: [STİRİNG VİL] -> DIREKSIYON SIMIDI",
-    "storyTr": "Otobüs şoförü STİRİNG VİL (steering wheel) ile DİREKSİYON SİMİDİ'ni çevirdi, yol dümdüz gitti. STEERING WHEEL = DİREKSİYON SİMİDİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component steering wheel, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4525,8 +4525,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "stiring viil",
-    "mnemonicHook": "STİRİNG VİL",
-    "mnemonicScene": "Otobüs şoförü STİRİNG VİL (steering wheel) ile DİREKSİYON SİMİDİ'ni çevirdi, yol dümdüz gitti. STEERING WHEEL = DİREKSİYON SİMİDİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Tire",
@@ -4536,8 +4536,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The tire is flat.",
     "exampleTr": "Lastik inmiştir.",
-    "storyEn": "Mnemonic: [TAYIR] -> LASTIK",
-    "storyTr": "Pistte TAYIR adlı ağır yük vagonu devrilince yerdeki LASTİK'ler sağa sola fırladı. Kurtarma ekibi tek tek lastikleri toplayıp pisti temizledi. TIRE = LASTİK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component tire, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4548,8 +4548,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "tayır",
-    "mnemonicHook": "TAYIR",
-    "mnemonicScene": "Pistte TAYIR adlı ağır yük vagonu devrilince yerdeki LASTİK'ler sağa sola fırladı. Kurtarma ekibi tek tek lastikleri toplayıp pisti temizledi. TIRE = LASTİK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Rim",
@@ -4559,8 +4559,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The rim is clean.",
     "exampleTr": "Jant temizdir.",
-    "storyEn": "Mnemonic: [RİM] -> JANT",
-    "storyTr": "RİM (rim) tekerleğin metal JANT'ına bakıldı; çember kırıktı. RIM = JANT.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component rim, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4571,8 +4571,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "rim",
-    "mnemonicHook": "RİM",
-    "mnemonicScene": "RİM (rim) tekerleğin metal JANT'ına bakıldı; çember kırıktı. RIM = JANT."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Suspension",
@@ -4582,8 +4582,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The suspension is soft.",
     "exampleTr": "Süspansiyon yumuşaktır.",
-    "storyEn": "Mnemonic: [SÜSPENŞN] -> SÜSPANSIYON",
-    "storyTr": "Kamyon derin bir çukura düşünce SÜSPENŞN yayları kasayı son anda yumuşattı. Şoför sarsılmadan yola devam etti, çünkü SÜSPANSİYON'un sağlamlığı herkesi korumuştu. SUSPENSION = SÜSPANSİYON.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component suspension, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4594,8 +4594,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "sıspenşın",
-    "mnemonicHook": "SÜSPENŞN",
-    "mnemonicScene": "Kamyon derin bir çukura düşünce SÜSPENŞN yayları kasayı son anda yumuşattı. Şoför sarsılmadan yola devam etti, çünkü SÜSPANSİYON'un sağlamlığı herkesi korumuştu. SUSPENSION = SÜSPANSİYON."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Shock absorber",
@@ -4605,8 +4605,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The shock absorber is old.",
     "exampleTr": "Amortisör eskidir.",
-    "storyEn": "Mnemonic: [ŞOK ABSORBER] -> AMORTISÖR",
-    "storyTr": "Yol sert bir şekilde sarsıldı ama ŞOK ABSORBER tüm darbeyi kendi üstüne aldı. Sürücü hiçbir titreşim hissetmeden yolculuğa devam etti, çünkü AMORTİSÖR işini sessizce tamamlamıştı. SHOCK ABSORBER = AMORTİSÖR.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component shock absorber, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4617,8 +4617,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "şok ıbsorbır",
-    "mnemonicHook": "ŞOK ABSORBER",
-    "mnemonicScene": "Yol sert bir şekilde sarsıldı ama ŞOK ABSORBER tüm darbeyi kendi üstüne aldı. Sürücü hiçbir titreşim hissetmeden yolculuğa devam etti, çünkü AMORTİSÖR işini sessizce tamamlamıştı. SHOCK ABSORBER = AMORTİSÖR."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Chassis",
@@ -4628,8 +4628,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The chassis is strong.",
     "exampleTr": "Şasi sağlamdır.",
-    "storyEn": "Mnemonic: [ŞESİ] -> ŞASI",
-    "storyTr": "ŞESİ (chassis) üzerine kamyon yüklendi; ağır ŞASİ kocaman bir iskelet gibi eğildi. CHASSIS = ŞASİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component chassis, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4640,8 +4640,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "şesi",
-    "mnemonicHook": "ŞESİ",
-    "mnemonicScene": "ŞESİ (chassis) üzerine kamyon yüklendi; ağır ŞASİ kocaman bir iskelet gibi eğildi. CHASSIS = ŞASİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Body",
@@ -4651,8 +4651,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The body is clean.",
     "exampleTr": "Gövde temizdir.",
-    "storyEn": "Mnemonic: [BODİ] -> GÖVDE",
-    "storyTr": "Tamirci BODİ diye seslenip arabanın yıpranmış kapısına yöneldi. Sonra GÖVDE'nin tüm yüzeyini zımpara ile düzeltip yeni boyayı sürdü. BODY = GÖVDE.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component body, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4663,8 +4663,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "badi",
-    "mnemonicHook": "BODİ",
-    "mnemonicScene": "Tamirci BODİ diye seslenip arabanın yıpranmış kapısına yöneldi. Sonra GÖVDE'nin tüm yüzeyini zımpara ile düzeltip yeni boyayı sürdü. BODY = GÖVDE."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Bumper",
@@ -4674,8 +4674,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The bumper is damaged.",
     "exampleTr": "Tampon hasarlıdır.",
-    "storyEn": "Mnemonic: [BAMPER] -> TAMPON",
-    "storyTr": "Park ederken arabanın arkası BAMPER'a hafifçe değdi ve küçük bir ses çıktı. Ama TAMPON çarpmayı yumuşattı, bu yüzden iki araba da zarar görmedi. BUMPER = TAMPON.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component bumper, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4686,8 +4686,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "bampır",
-    "mnemonicHook": "BAMPER",
-    "mnemonicScene": "Park ederken arabanın arkası BAMPER'a hafifçe değdi ve küçük bir ses çıktı. Ama TAMPON çarpmayı yumuşattı, bu yüzden iki araba da zarar görmedi. BUMPER = TAMPON."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Headlight",
@@ -4697,8 +4697,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The headlight is bright.",
     "exampleTr": "Far parlaktır.",
-    "storyEn": "Mnemonic: [HEDLAYT] -> FAR",
-    "storyTr": "Gece yolda ilerlerken HEDLAYT (far) yandı ve karanlık yolun ortasında aydınlık bir şerit açtı. Sürücü yoldaki çukurları FAR ışığında rahatça görüp yavaşladı. HEADLIGHT = FAR.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component headlight, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4709,8 +4709,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "hedlayt",
-    "mnemonicHook": "HEDLAYT",
-    "mnemonicScene": "Gece yolda ilerlerken HEDLAYT (far) yandı ve karanlık yolun ortasında aydınlık bir şerit açtı. Sürücü yoldaki çukurları FAR ışığında rahatça görüp yavaşladı. HEADLIGHT = FAR."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Brake light",
@@ -4720,8 +4720,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The brake light is on.",
     "exampleTr": "Stop lambası yanıyor.",
-    "storyEn": "Mnemonic: [BREYK LAYT] -> STOP LAMBASI",
-    "storyTr": "Öndeki arabanın BREYK LAYT'ı kırmızı yanınca sürücü aniden yavaşladı ve frene bastı. Kırmızı ışığın anlamı ona çok net gelmişti: bu bir STOP LAMBASI'ydı, durmak gerekiyordu. BRAKE LIGHT = STOP LAMBASI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component brake light, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4732,8 +4732,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "breyk layt",
-    "mnemonicHook": "BREYK LAYT",
-    "mnemonicScene": "Öndeki arabanın BREYK LAYT'ı kırmızı yanınca sürücü aniden yavaşladı ve frene bastı. Kırmızı ışığın anlamı ona çok net gelmişti: bu bir STOP LAMBASI'ydı, durmak gerekiyordu. BRAKE LIGHT = STOP LAMBASI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Turn signal",
@@ -4743,8 +4743,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Use the turn signal.",
     "exampleTr": "Sinyal lambasını kullan.",
-    "storyEn": "Mnemonic: [TÖRN SİGNAL] -> SINYAL LAMBASI",
-    "storyTr": "Sürücü TÖRN SİGNAL düğmesine dokunarak sağ tarafını gösteren lambayı yaktı. Sinyal yanıp söndükçe arkadaki sürücüler de dönüşü önceden görüp yol verdi. TURN SIGNAL = SİNYAL LAMBASI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component turn signal, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4755,8 +4755,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "törn signıl",
-    "mnemonicHook": "TÖRN SİGNAL",
-    "mnemonicScene": "Sürücü TÖRN SİGNAL düğmesine dokunarak sağ tarafını gösteren lambayı yaktı. Sinyal yanıp söndükçe arkadaki sürücüler de dönüşü önceden görüp yol verdi. TURN SIGNAL = SİNYAL LAMBASI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Rearview mirror",
@@ -4766,8 +4766,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Look in the rearview mirror.",
     "exampleTr": "Dikiz aynasına bak.",
-    "storyEn": "Mnemonic: [REAR VİYU MİRÖR] -> DIKIZ AYNASI",
-    "storyTr": "Sürücü REAR VİYU MİRÖR'e bakıp arkadaki aracın yaklaştığını fark etti. DİKİZ AYNASI'ndaki görüntü sayesinde şeridini güvenle değiştirdi. REARVIEW MIRROR = DİKİZ AYNASI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component rearview mirror, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4778,8 +4778,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "riırvyu mirır",
-    "mnemonicHook": "REAR VİYU MİRÖR",
-    "mnemonicScene": "Sürücü REAR VİYU MİRÖR'e bakıp arkadaki aracın yaklaştığını fark etti. DİKİZ AYNASI'ndaki görüntü sayesinde şeridini güvenle değiştirdi. REARVIEW MIRROR = DİKİZ AYNASI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Windshield wiper",
@@ -4789,8 +4789,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The windshield wiper is on.",
     "exampleTr": "Ön cam sileceği çalışıyor.",
-    "storyEn": "Mnemonic: [VİNDŞİLD VAYPER] -> ÖN CAM SILECEĞI",
-    "storyTr": "Yağmur camı bulandırınca VİNDŞİLD VAYPER çalıştı ve ritmik hareketlerle suyu sildi. ÖN CAM SİLECEĞİ'nin hızı tam ayarlandığında sürücü yolu yeniden net gördü. WINDSHIELD WIPER = ÖN CAM SİLECEĞİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component windshield wiper, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4801,8 +4801,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "vindşild vaypır",
-    "mnemonicHook": "VİNDŞİLD VAYPER",
-    "mnemonicScene": "Yağmur camı bulandırınca VİNDŞİLD VAYPER çalıştı ve ritmik hareketlerle suyu sildi. ÖN CAM SİLECEĞİ'nin hızı tam ayarlandığında sürücü yolu yeniden net gördü. WINDSHIELD WIPER = ÖN CAM SİLECEĞİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Window",
@@ -4812,8 +4812,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Open the window.",
     "exampleTr": "Pencereyi aç.",
-    "storyEn": "Mnemonic: [VİNDOV] -> CAM",
-    "storyTr": "Odanın tek VİNDOV'u dört bölmeli bir logo gibi duruyordu ve ışık oradan içeri doluyordu. CAM'ın arkasından bahçedeki ağaçlar pırıl pırıl görünüyordu. WINDOW = CAM, PENCERE.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component window, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4824,8 +4824,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "vindov",
-    "mnemonicHook": "VİNDOV",
-    "mnemonicScene": "Odanın tek VİNDOV'u dört bölmeli bir logo gibi duruyordu ve ışık oradan içeri doluyordu. CAM'ın arkasından bahçedeki ağaçlar pırıl pırıl görünüyordu. WINDOW = CAM, PENCERE."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Door",
@@ -4835,8 +4835,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Close the door.",
     "exampleTr": "Kapıyı kapat.",
-    "storyEn": "Mnemonic: [DOR] -> KAPI",
-    "storyTr": "\"DORU AT\" diye bağıran hangar görevlisi KAPI'yı açıp içeri girdi. DOOR = KAPI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component door, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4847,8 +4847,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "dor",
-    "mnemonicHook": "DOR",
-    "mnemonicScene": "\"DORU AT\" diye bağıran hangar görevlisi KAPI'yı açıp içeri girdi. DOOR = KAPI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Seat",
@@ -4858,8 +4858,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This seat is comfortable.",
     "exampleTr": "Bu koltuk rahattır.",
-    "storyEn": "Mnemonic: [SİT] -> KOLTUK",
-    "storyTr": "Hostes \"SİT!\" diyerek yolcuyu KOLTUK'a oturttu; koltuk tam yerinde duruyordu. SEAT = KOLTUK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component seat, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4870,8 +4870,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "siit",
-    "mnemonicHook": "SİT",
-    "mnemonicScene": "Hostes \"SİT!\" diyerek yolcuyu KOLTUK'a oturttu; koltuk tam yerinde duruyordu. SEAT = KOLTUK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Seat belt",
@@ -4881,8 +4881,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Fasten your seat belt.",
     "exampleTr": "Emniyet kemerini bağla.",
-    "storyEn": "Mnemonic: [SİT BELT] -> EMNIYET KEMERI",
-    "storyTr": "Hostes \"SİT BELT!\" diye tembihledi; herkes EMNİYET KEMERİ'ni bağladı. SEAT BELT = EMNİYET KEMERİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component seat belt, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4893,8 +4893,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "siit belt",
-    "mnemonicHook": "SİT BELT",
-    "mnemonicScene": "Hostes \"SİT BELT!\" diye tembihledi; herkes EMNİYET KEMERİ'ni bağladı. SEAT BELT = EMNİYET KEMERİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Airbag",
@@ -4904,8 +4904,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The airbag is ready.",
     "exampleTr": "Hava yastığı hazır.",
-    "storyEn": "Mnemonic: [ER BEG] -> HAVA YASTIĞI",
-    "storyTr": "Kaza anında ER BEG (airbag) patladı: HAVA YASTIĞI sürücüyü darbeden korudu. AIRBAG = HAVA YASTIĞI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component airbag, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4916,8 +4916,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "erbeg",
-    "mnemonicHook": "ER BEG",
-    "mnemonicScene": "Kaza anında ER BEG (airbag) patladı: HAVA YASTIĞI sürücüyü darbeden korudu. AIRBAG = HAVA YASTIĞI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Dashboard",
@@ -4927,8 +4927,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The dashboard is clean.",
     "exampleTr": "Gösterge paneli temizdir.",
-    "storyEn": "Mnemonic: [DEŞ BOARD] -> GÖSTERGE PANELI",
-    "storyTr": "Sürücü DEŞ BOARD'a bakıp yakıt göstergesinin kırmızıya düştüğünü gördü. GÖSTERGE PANELİ'ndeki ikaz ışığı, en yakın benzin istasyonunu aramasını söyledi. DASHBOARD = GÖSTERGE PANELİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component dashboard, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4939,8 +4939,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "deşbord",
-    "mnemonicHook": "DEŞ BOARD",
-    "mnemonicScene": "Sürücü DEŞ BOARD'a bakıp yakıt göstergesinin kırmızıya düştüğünü gördü. GÖSTERGE PANELİ'ndeki ikaz ışığı, en yakın benzin istasyonunu aramasını söyledi. DASHBOARD = GÖSTERGE PANELİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Radio",
@@ -4950,8 +4950,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The radio is on.",
     "exampleTr": "Radyo açıktır.",
-    "storyEn": "Mnemonic: [REYDİYO] -> RADYO",
-    "storyTr": "Arabada REYDİYO (radio) açıldı; RADYO'da en sevilen şarkı çalmaya başladı. RADIO = RADYO.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component radio, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4962,8 +4962,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "reydio",
-    "mnemonicHook": "REYDİYO",
-    "mnemonicScene": "Arabada REYDİYO (radio) açıldı; RADYO'da en sevilen şarkı çalmaya başladı. RADIO = RADYO."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Air conditioner",
@@ -4973,8 +4973,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The air conditioner is cold.",
     "exampleTr": "Klima soğuktur.",
-    "storyEn": "Mnemonic: [KLİMA] -> KLIMA",
-    "storyTr": "Ağustos sıcağında KLİMA (air conditioner) açılınca araba serin bir oda gibi oldu. AIR CONDITIONER = KLİMA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component air conditioner, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -4985,8 +4985,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "er kındişınır",
-    "mnemonicHook": "KLİMA",
-    "mnemonicScene": "Ağustos sıcağında KLİMA (air conditioner) açılınca araba serin bir oda gibi oldu. AIR CONDITIONER = KLİMA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Navigation system",
@@ -4996,8 +4996,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The navigation system is on.",
     "exampleTr": "Navigasyon sistemi açıktır.",
-    "storyEn": "Mnemonic: [NEVİGEYŞN SİSTEM] -> NAVIGASYON SISTEMI",
-    "storyTr": "Yolu bilmeyen sürücü NEVİGEYŞN SİSTEM'e (navigation) baktı; ekran ona rotayı NAVİGASYON olarak gösterdi. NAVIGATION SYSTEM = NAVİGASYON SİSTEMİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component navigation system, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5008,8 +5008,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "nevigeyşın sistım",
-    "mnemonicHook": "NEVİGEYŞN SİSTEM",
-    "mnemonicScene": "Yolu bilmeyen sürücü NEVİGEYŞN SİSTEM'e (navigation) baktı; ekran ona rotayı NAVİGASYON olarak gösterdi. NAVIGATION SYSTEM = NAVİGASYON SİSTEMİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Multimedia system",
@@ -5019,8 +5019,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The multimedia system works.",
     "exampleTr": "Multimedya sistemi çalışıyor.",
-    "storyEn": "Mnemonic: [MALTİMİDYA SİSTEM] -> MULTIMEDYA SISTEMI",
-    "storyTr": "MALTİMİDYA SİSTEM (multimedia system) hem film hem müzik çaldı; ekran tam bir MULTİMEDYA SİSTEMİ oldu. MULTIMEDIA SYSTEM = MULTİMEDYA SİSTEMİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component multimedia system, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5031,8 +5031,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "malti midiı sistım",
-    "mnemonicHook": "MALTİMİDYA SİSTEM",
-    "mnemonicScene": "MALTİMİDYA SİSTEM (multimedia system) hem film hem müzik çaldı; ekran tam bir MULTİMEDYA SİSTEMİ oldu. MULTIMEDIA SYSTEM = MULTİMEDYA SİSTEMİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Control",
@@ -5042,8 +5042,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "I control the machine.",
     "exampleTr": "Makineyi kontrol ederim.",
-    "storyEn": "Mnemonic: [KONTROL] -> KONTROL",
-    "storyTr": "Pilot KONTROL (control) kolunu çekip uçağı kontrol etti; kanatlar yerine oturdu. CONTROL = KONTROL.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component control, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5054,8 +5054,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kıntrol",
-    "mnemonicHook": "KONTROL",
-    "mnemonicScene": "Pilot KONTROL (control) kolunu çekip uçağı kontrol etti; kanatlar yerine oturdu. CONTROL = KONTROL."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Secure",
@@ -5065,8 +5065,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The door is secure.",
     "exampleTr": "Kapı güvenlidir.",
-    "storyEn": "Mnemonic: [SİKYÖR] -> GÜVENLI",
-    "storyTr": "Kasa SİKYÖR (secure) biçimde kapandı, kimse içeriye GÜVENLİ girip çıkamadı. SECURE = GÜVENLİ, SABİTLEMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component secure, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5077,8 +5077,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "sikyur",
-    "mnemonicHook": "SİKYÖR",
-    "mnemonicScene": "Kasa SİKYÖR (secure) biçimde kapandı, kimse içeriye GÜVENLİ girip çıkamadı. SECURE = GÜVENLİ, SABİTLEMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Noise",
@@ -5088,8 +5088,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The noise is loud.",
     "exampleTr": "Gürültü yüksektir.",
-    "storyEn": "Mnemonic: [NOYZ] -> GÜRÜLTÜ",
-    "storyTr": "Sınıfta NOYZ (noise) yüzünden öğretmen sesini duyuramadı; GÜRÜLTÜ bütün dersi böldü. NOISE = GÜRÜLTÜ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component noise, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5100,8 +5100,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "noyz",
-    "mnemonicHook": "NOYZ",
-    "mnemonicScene": "Sınıfta NOYZ (noise) yüzünden öğretmen sesini duyuramadı; GÜRÜLTÜ bütün dersi böldü. NOISE = GÜRÜLTÜ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Wheel-tire",
@@ -5111,8 +5111,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Check the wheel-tire.",
     "exampleTr": "Tekerlek-lastik grubunu kontrol et.",
-    "storyEn": "Mnemonic: [VAYL TAYIR] -> TEKERLEK-LASTIK",
-    "storyTr": "VAYL TAYIR (wheel-tire) tekerleği ve LASTİK'i tam oturdu: TEKERLEK-LASTİK. WHEEL-TIRE = TEKERLEK-LASTİK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component wheel-tire, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5123,8 +5123,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "viil tayır",
-    "mnemonicHook": "VAYL TAYIR",
-    "mnemonicScene": "VAYL TAYIR (wheel-tire) tekerleği ve LASTİK'i tam oturdu: TEKERLEK-LASTİK. WHEEL-TIRE = TEKERLEK-LASTİK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Available",
@@ -5134,8 +5134,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The part is available.",
     "exampleTr": "Parça mevcuttur.",
-    "storyEn": "Mnemonic: [EVELEYBIL] -> MEVCUT",
-    "storyTr": "Kafe menüsünde EVELEYBIL (available) ürünler yazılıydı; her biri MEVCUT ve KULLANILABİLİR'di. AVAILABLE = MEVCUT, KULLANILABİLİR.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component available, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5146,8 +5146,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ıveylıbıl",
-    "mnemonicHook": "EVELEYBIL",
-    "mnemonicScene": "Kafe menüsünde EVELEYBIL (available) ürünler yazılıydı; her biri MEVCUT ve KULLANILABİLİR'di. AVAILABLE = MEVCUT, KULLANILABİLİR."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Main",
@@ -5157,8 +5157,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This is the main door.",
     "exampleTr": "Bu ana kapıdır.",
-    "storyEn": "Mnemonic: [MEYN] -> ANA",
-    "storyTr": "Pazar kalabalığı MEYN kapıdan içeri girdi ve herkes tek bir noktaya yöneldi. ANA giriş bütün alışveriş merkezini tek bir akışta topladı. MAIN = ANA, TEMEL.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component main, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5169,8 +5169,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "meyn",
-    "mnemonicHook": "MEYN",
-    "mnemonicScene": "Pazar kalabalığı MEYN kapıdan içeri girdi ve herkes tek bir noktaya yöneldi. ANA giriş bütün alışveriş merkezini tek bir akışta topladı. MAIN = ANA, TEMEL."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Coefficient",
@@ -5180,8 +5180,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The coefficient is high.",
     "exampleTr": "Katsayı yüksektir.",
-    "storyEn": "Mnemonic: [KOEFİŞENT] -> KATSAYI",
-    "storyTr": "Mühendis KOEFİŞENT (coefficient) değerini tahtaya yazdı: KATSAYI, formülün anahtarıydı. COEFFICIENT = KATSAYI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component coefficient, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5192,8 +5192,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kouifişınt",
-    "mnemonicHook": "KOEFİŞENT",
-    "mnemonicScene": "Mühendis KOEFİŞENT (coefficient) değerini tahtaya yazdı: KATSAYI, formülün anahtarıydı. COEFFICIENT = KATSAYI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Glove",
@@ -5203,8 +5203,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Wear a glove.",
     "exampleTr": "Bir eldiven giy.",
-    "storyEn": "Mnemonic: [GLAV] -> ELDIVEN",
-    "storyTr": "Kar yağarken GLAV (glove) takıp ELDİVEN'in sıcaklığını hissetti. GLOVE = ELDİVEN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component glove, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5215,8 +5215,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "glav",
-    "mnemonicHook": "GLAV",
-    "mnemonicScene": "Kar yağarken GLAV (glove) takıp ELDİVEN'in sıcaklığını hissetti. GLOVE = ELDİVEN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Supply",
@@ -5226,8 +5226,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "We supply clean water.",
     "exampleTr": "Temiz su sağlarız.",
-    "storyEn": "Mnemonic: [SAPLAY] -> SAĞLAMAK",
-    "storyTr": "Market kasasına SAPLAY (supply) için gelen kamyonla TEDARİK sağlandı, raflar doldu. SUPPLY = SAĞLAMAK, TEDARİK ETMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component supply, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5238,8 +5238,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "sıplay",
-    "mnemonicHook": "SAPLAY",
-    "mnemonicScene": "Market kasasına SAPLAY (supply) için gelen kamyonla TEDARİK sağlandı, raflar doldu. SUPPLY = SAĞLAMAK, TEDARİK ETMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Steady",
@@ -5249,8 +5249,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Keep a steady speed.",
     "exampleTr": "Sabit bir hız koru.",
-    "storyEn": "Mnemonic: [STEDİ] -> SABIT",
-    "storyTr": "Cerrah STEDİ (steady) elle ameliyata devam etti; eller hiç titremedi, SABİT ve DENGELİ kaldı. STEADY = SABİT, DENGELİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component steady, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5261,8 +5261,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "stedi",
-    "mnemonicHook": "STEDİ",
-    "mnemonicScene": "Cerrah STEDİ (steady) elle ameliyata devam etti; eller hiç titremedi, SABİT ve DENGELİ kaldı. STEADY = SABİT, DENGELİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Bearings",
@@ -5272,8 +5272,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The bearings are new.",
     "exampleTr": "Rulmanlar yenidir.",
-    "storyEn": "Mnemonic: [REYNGZ] -> RULMANLAR",
-    "storyTr": "Motorun içinden REYNGZ sesleri gelince mekanikçi hemen içeriyi kontrol etti. RULMAN'ların yağı bittiği için sürtünme artmıştı ve parçaları yenilemek gerekiyordu. BEARINGS = RULMANLAR.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component bearings, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5284,8 +5284,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "beringz",
-    "mnemonicHook": "REYNGZ",
-    "mnemonicScene": "Motorun içinden REYNGZ sesleri gelince mekanikçi hemen içeriyi kontrol etti. RULMAN'ların yağı bittiği için sürtünme artmıştı ve parçaları yenilemek gerekiyordu. BEARINGS = RULMANLAR."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Rotary",
@@ -5295,8 +5295,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The rotary part moves.",
     "exampleTr": "Döner parça hareket eder.",
-    "storyEn": "Mnemonic: [ROTARİ] -> DÖNER",
-    "storyTr": "ROTARİ (rotary) telefonun numara çevirme kısmı DÖNER hareketle çalışırdı. ROTARY = DÖNER.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component rotary, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5307,8 +5307,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "rotıri",
-    "mnemonicHook": "ROTARİ",
-    "mnemonicScene": "ROTARİ (rotary) telefonun numara çevirme kısmı DÖNER hareketle çalışırdı. ROTARY = DÖNER."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Result",
@@ -5318,8 +5318,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The result is good.",
     "exampleTr": "Sonuç iyidir.",
-    "storyEn": "Mnemonic: [RİZALT] -> SONUÇ",
-    "storyTr": "Testin RİZALT (result) kağıdı bir SONUÇ gösteriyordu: herkes sevinçle bağırdı. RESULT = SONUÇ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component result, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5330,8 +5330,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "rizalt",
-    "mnemonicHook": "RİZALT",
-    "mnemonicScene": "Testin RİZALT (result) kağıdı bir SONUÇ gösteriyordu: herkes sevinçle bağırdı. RESULT = SONUÇ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Impact",
@@ -5341,8 +5341,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The impact is strong.",
     "exampleTr": "Darbe güçlüdür.",
-    "storyEn": "Mnemonic: [İMPAKT] -> DARBE",
-    "storyTr": "Kapıya gelen İMPAKT, menteşeleri bir anda kırdı ve kapı yerinden çıktı. DARBE'nin gücü duvardaki sıvayı bile çatlatmıştı. IMPACT = DARBE, ETKİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component impact, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5353,8 +5353,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "impakt",
-    "mnemonicHook": "İMPAKT",
-    "mnemonicScene": "Kapıya gelen İMPAKT, menteşeleri bir anda kırdı ve kapı yerinden çıktı. DARBE'nin gücü duvardaki sıvayı bile çatlatmıştı. IMPACT = DARBE, ETKİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Quality",
@@ -5364,8 +5364,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The quality is good.",
     "exampleTr": "Kalite iyidir.",
-    "storyEn": "Mnemonic: [KVALİTİ] -> KALITE",
-    "storyTr": "Fabrikada KVALİTİ (quality) ekibi her parçayı tek tek kontrol etti; KALİTE standardı yüksekti. QUALITY = KALİTE.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component quality, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5376,8 +5376,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kuolıti",
-    "mnemonicHook": "KVALİTİ",
-    "mnemonicScene": "Fabrikada KVALİTİ (quality) ekibi her parçayı tek tek kontrol etti; KALİTE standardı yüksekti. QUALITY = KALİTE."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Potable",
@@ -5387,8 +5387,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This water is potable.",
     "exampleTr": "Bu su içilebilir.",
-    "storyEn": "Mnemonic: [POTEYBIL] -> IÇILEBILIR",
-    "storyTr": "Musluktan akan su POTEYBIL (potable) etiketiyle İÇİLEBİLİR olduğunu gösteriyordu. POTABLE = İÇİLEBİLİR.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component potable, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5399,8 +5399,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "potıbıl",
-    "mnemonicHook": "POTEYBIL",
-    "mnemonicScene": "Musluktan akan su POTEYBIL (potable) etiketiyle İÇİLEBİLİR olduğunu gösteriyordu. POTABLE = İÇİLEBİLİR."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Deactivate",
@@ -5410,8 +5410,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Deactivate the alarm.",
     "exampleTr": "Alarmı devre dışı bırak.",
-    "storyEn": "Mnemonic: [DİAKTİVEYT] -> DEVRE DIŞI BIRAKMAK",
-    "storyTr": "Alarm DİAKTİVEYT (deactivate) edildi; sistem DEVRE DIŞI BIRAKILDI, sessizlik geldi. DEACTIVATE = DEVRE DIŞI BIRAKMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component deactivate, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5422,8 +5422,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "di aktiveyt",
-    "mnemonicHook": "DİAKTİVEYT",
-    "mnemonicScene": "Alarm DİAKTİVEYT (deactivate) edildi; sistem DEVRE DIŞI BIRAKILDI, sessizlik geldi. DEACTIVATE = DEVRE DIŞI BIRAKMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Steering",
@@ -5433,8 +5433,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The steering is easy.",
     "exampleTr": "Yönlendirme kolaydır.",
-    "storyEn": "Mnemonic: [STİRİNG] -> YÖNLENDIRME",
-    "storyTr": "STİRİNG (steering) sistemi, geminin DÜMEN'ini çevirip rotayı YÖNLENDİRDİ. STEERING = YÖNLENDİRME, DÜMEN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component steering, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5445,18 +5445,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "stiring",
-    "mnemonicHook": "STİRİNG",
-    "mnemonicScene": "STİRİNG (steering) sistemi, geminin DÜMEN'ini çevirip rotayı YÖNLENDİRDİ. STEERING = YÖNLENDİRME, DÜMEN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Tiller",
     "turkish": "kumanda kolu, dümen kolu",
     "phonetic": "/tilırz/",
     "pronunciationTr": "tilırz",
-    "mnemonicHook": "TİLER",
-    "mnemonicScene": "Gemici TİLER (tiller) kolunu çekip DÜMEN KOLU ile tekneyi çevirdi. TILLER = DÜMEN KOLU.",
-    "storyTr": "Gemici TİLER (tiller) kolunu çekip DÜMEN KOLU ile tekneyi çevirdi. TILLER = DÜMEN KOLU.",
-    "storyEn": "Mnemonic: [TİLER] -> KUMANDA KOLU",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "Use the tiller carefully.",
     "exampleTr": "Dümen kumanda kolunu dikkatli kullan.",
     "level": "A1",
@@ -5477,8 +5477,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Use a clean sponge.",
     "exampleTr": "Temiz bir sünger kullan.",
-    "storyEn": "Mnemonic: [SPANJ] -> SÜNGER",
-    "storyTr": "Mutfakta SPANJ diye bağıran anne, elindeki kirli tabakları bırakıp SÜNGER'i kaptı. Yumuşak sünger tezgâhın her köşesini dolaştı ve yüzeyi tertemiz bıraktı. SPONGE = SÜNGER.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component sponge, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5489,8 +5489,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "spanç",
-    "mnemonicHook": "SPANJ",
-    "mnemonicScene": "Mutfakta SPANJ diye bağıran anne, elindeki kirli tabakları bırakıp SÜNGER'i kaptı. Yumuşak sünger tezgâhın her köşesini dolaştı ve yüzeyi tertemiz bıraktı. SPONGE = SÜNGER."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Soaked",
@@ -5500,8 +5500,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "My shirt is soaked.",
     "exampleTr": "Gömleğim sırılsıklam.",
-    "storyEn": "Mnemonic: [SOUTİD] -> SIRILSIKLAM",
-    "storyTr": "Yağmurda SOUTİD (soaked) olan ayakkabılar SIRILSIKLAM oldu; içine su dolmuştu. SOAKED = SIRILSIKLAM.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component soaked, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5512,8 +5512,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "sоуkt",
-    "mnemonicHook": "SOUTİD",
-    "mnemonicScene": "Yağmurda SOUTİD (soaked) olan ayakkabılar SIRILSIKLAM oldu; içine su dolmuştu. SOAKED = SIRILSIKLAM."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Scraper",
@@ -5523,8 +5523,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Use the scraper gently.",
     "exampleTr": "Kazıyıcıyı nazikçe kullan.",
-    "storyEn": "Mnemonic: [SKRAPER] -> KAZIYICI",
-    "storyTr": "Yere yapışan çamuru SKRAPER (scraper) ile KAZIYICI'yla temizledi. SCRAPER = KAZIYICI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component scraper, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5535,18 +5535,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "skreypır",
-    "mnemonicHook": "SKRAPER",
-    "mnemonicScene": "Yere yapışan çamuru SKRAPER (scraper) ile KAZIYICI'yla temizledi. SCRAPER = KAZIYICI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Block",
     "turkish": "engellemek, bloke etmek",
     "phonetic": "/blok/",
     "pronunciationTr": "blok",
-    "mnemonicHook": "BLOK",
-    "mnemonicScene": "Polis yolu BLOK (block) etti; trafik tamamen ENGELLENDİ. BLOCK = ENGELLEMEK.",
-    "storyTr": "Polis yolu BLOK (block) etti; trafik tamamen ENGELLENDİ. BLOCK = ENGELLEMEK.",
-    "storyEn": "Mnemonic: [BLOK] -> ENGELLEMEK",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "Do not block the door.",
     "exampleTr": "Kapıyı kapatma.",
     "level": "A1",
@@ -5567,8 +5567,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Lubrication is important.",
     "exampleTr": "Yağlama önemlidir.",
-    "storyEn": "Mnemonic: [LUBRİKEYŞN] -> YAĞLAMA",
-    "storyTr": "LUBRİKEYŞN sırasında teknisyen dişlilere yağ sürdü ve çarkların sürtünmesini azalttı. YAĞLAMA sayesinde makine bir daha gıcırdamadan çalıştı. LUBRICATION = YAĞLAMA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component lubrication, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5579,8 +5579,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "lubrikeyşın",
-    "mnemonicHook": "LUBRİKEYŞN",
-    "mnemonicScene": "LUBRİKEYŞN sırasında teknisyen dişlilere yağ sürdü ve çarkların sürtünmesini azalttı. YAĞLAMA sayesinde makine bir daha gıcırdamadan çalıştı. LUBRICATION = YAĞLAMA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Lubricate",
@@ -5590,8 +5590,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Lubricate the bearing.",
     "exampleTr": "Rulmanı yağla.",
-    "storyEn": "Mnemonic: [LUBRİKEYT] -> YAĞLAMAK",
-    "storyTr": "Teknisyen kapıdaki menteşeleri LUBRİKEYT (lubricate) etti, kapı artık YAĞLAMAK sonrası gıcırdamıyor. LUBRICATE = YAĞLAMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component lubricate, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5602,8 +5602,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "lubrikeit",
-    "mnemonicHook": "LUBRİKEYT",
-    "mnemonicScene": "Teknisyen kapıdaki menteşeleri LUBRİKEYT (lubricate) etti, kapı artık YAĞLAMAK sonrası gıcırdamıyor. LUBRICATE = YAĞLAMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Amber",
@@ -5613,8 +5613,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The light is amber.",
     "exampleTr": "Işık bal rengidir.",
-    "storyEn": "Mnemonic: [AMBER] -> KEHRIBAR",
-    "storyTr": "Trafik ışığı AMBER (kehribar) rengine döndü; sarımsı BAL RENGİ ışık yanıyordu. AMBER = KEHRİBAR, BAL RENGİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component amber, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5625,8 +5625,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "embır",
-    "mnemonicHook": "AMBER",
-    "mnemonicScene": "Trafik ışığı AMBER (kehribar) rengine döndü; sarımsı BAL RENGİ ışık yanıyordu. AMBER = KEHRİBAR, BAL RENGİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Arrow",
@@ -5636,8 +5636,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Follow the arrow.",
     "exampleTr": "Oku takip et.",
-    "storyEn": "Mnemonic: [ARROU] -> OK IŞARETI",
-    "storyTr": "ARROU diye bağıran yol gösterici, tabelanın OK İŞARETİ'ni parmağıyla gösterdi. Yolcular o yöne baktığında kayboldukları sokağı hemen bulabildiler. ARROW = OK İŞARETİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component arrow, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5648,8 +5648,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "erou",
-    "mnemonicHook": "ARROU",
-    "mnemonicScene": "ARROU diye bağıran yol gösterici, tabelanın OK İŞARETİ'ni parmağıyla gösterdi. Yolcular o yöne baktığında kayboldukları sokağı hemen bulabildiler. ARROW = OK İŞARETİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "View",
@@ -5659,8 +5659,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The view is beautiful.",
     "exampleTr": "Manzara güzeldir.",
-    "storyEn": "Mnemonic: [VYU] -> GÖRÜNÜM",
-    "storyTr": "VYU'dan bakınca vadi bütün ihtişamıyla gözün önüne serildi. Bu GÖRÜNÜM insanı durup nefes almaya zorladı. VIEW = GÖRÜNÜM.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component view, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5671,8 +5671,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "vyu",
-    "mnemonicHook": "VYU",
-    "mnemonicScene": "VYU'dan bakınca vadi bütün ihtişamıyla gözün önüne serildi. Bu GÖRÜNÜM insanı durup nefes almaya zorladı. VIEW = GÖRÜNÜM."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Subsequent",
@@ -5682,8 +5682,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Read the subsequent page.",
     "exampleTr": "Sonraki sayfayı oku.",
-    "storyEn": "Mnemonic: [SABSİKVENT] -> SONRAKI",
-    "storyTr": "Kazanın SABSİKVENT (subsequent) gününde, SONRAKİ gün herkes hastaneye gitti. SUBSEQUENT = SONRAKİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component subsequent, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5694,8 +5694,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "sab siikvınt",
-    "mnemonicHook": "SABSİKVENT",
-    "mnemonicScene": "Kazanın SABSİKVENT (subsequent) gününde, SONRAKİ gün herkes hastaneye gitti. SUBSEQUENT = SONRAKİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Scavenge",
@@ -5705,8 +5705,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The system scavenges air.",
     "exampleTr": "Sistem havayı temizler.",
-    "storyEn": "Mnemonic: [SKAVENJ] -> TEMIZLEMEK",
-    "storyTr": "Yangından sonra ekip SKAVENJ (scavenge) yaparak enkazdaki her şeyi TEMİZLEDİ, SÜPÜRDÜ. SCAVENGE = TEMİZLEMEK, SÜPÜRMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component scavenge, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5717,8 +5717,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "skavenç",
-    "mnemonicHook": "SKAVENJ",
-    "mnemonicScene": "Yangından sonra ekip SKAVENJ (scavenge) yaparak enkazdaki her şeyi TEMİZLEDİ, SÜPÜRDÜ. SCAVENGE = TEMİZLEMEK, SÜPÜRMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Engage",
@@ -5728,8 +5728,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The gears engage now.",
     "exampleTr": "Dişliler şimdi birbirine geçiyor.",
-    "storyEn": "Mnemonic: [ENGEYC] -> BIRBIRINE GEÇMEK",
-    "storyTr": "Dişli ENGEYC olduğunda çarklar DEVREYE GİRDİ ve motor döndü; ENGEYC bağlantısı kuruldu. ENGAGE = DEVREYE GİRMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component engage, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5740,8 +5740,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ingeyc",
-    "mnemonicHook": "ENGEYC",
-    "mnemonicScene": "Dişli ENGEYC olduğunda çarklar DEVREYE GİRDİ ve motor döndü; ENGEYC bağlantısı kuruldu. ENGAGE = DEVREYE GİRMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Support",
@@ -5751,8 +5751,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This part gives support.",
     "exampleTr": "Bu parça destek sağlar.",
-    "storyEn": "Mnemonic: [SAPORT] -> DESTEK",
-    "storyTr": "Ekipte herkes SAPORT diye bağıran arkadaşına elini uzattı. Bu DESTEK sayesinde zor görevi kimse yalnız yapmak zorunda kalmadı. SUPPORT = DESTEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component support, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5763,8 +5763,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "sıport",
-    "mnemonicHook": "SAPORT",
-    "mnemonicScene": "Ekipte herkes SAPORT diye bağıran arkadaşına elini uzattı. Bu DESTEK sayesinde zor görevi kimse yalnız yapmak zorunda kalmadı. SUPPORT = DESTEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Tighten",
@@ -5774,8 +5774,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Tighten the bolt.",
     "exampleTr": "Cıvatayı sık.",
-    "storyEn": "Mnemonic: [TAYTEN] -> SIKMAK",
-    "storyTr": "Vidayı TAYTEN (tighten) diyerek anahtarla sıkıca SIKTI. TIGHTEN = SIKMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component tighten, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5786,8 +5786,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "taytın",
-    "mnemonicHook": "TAYTEN",
-    "mnemonicScene": "Vidayı TAYTEN (tighten) diyerek anahtarla sıkıca SIKTI. TIGHTEN = SIKMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Plug",
@@ -5797,8 +5797,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Plug in the cable.",
     "exampleTr": "Kabloyu tak.",
-    "storyEn": "Mnemonic: [PLAG] -> TIPA",
-    "storyTr": "PLAG diye bağırarak mikrofonun TIPA'sını yerine sokup sesi açtık. Kablo sıkıca oturunca konferans bir anda yeniden başladı. PLUG = TIPA, FİŞ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component plug, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5809,8 +5809,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "plag",
-    "mnemonicHook": "PLAG",
-    "mnemonicScene": "PLAG diye bağırarak mikrofonun TIPA'sını yerine sokup sesi açtık. Kablo sıkıca oturunca konferans bir anda yeniden başladı. PLUG = TIPA, FİŞ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Assembly",
@@ -5820,8 +5820,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The assembly is complete.",
     "exampleTr": "Montaj tamamlandı.",
-    "storyEn": "Mnemonic: [ASEMBLİ] -> MONTAJ",
-    "storyTr": "Fabrikanın ASEMBLİ (assembly) hattında her parça yerine takılıp MONTAJ tamamlandı. ASSEMBLY = MONTAJ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component assembly, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5832,8 +5832,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ısemblı",
-    "mnemonicHook": "ASEMBLİ",
-    "mnemonicScene": "Fabrikanın ASEMBLİ (assembly) hattında her parça yerine takılıp MONTAJ tamamlandı. ASSEMBLY = MONTAJ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Freed",
@@ -5843,8 +5843,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The bird is freed.",
     "exampleTr": "Kuş serbest kaldı.",
-    "storyEn": "Mnemonic: [FRİYD] -> SERBEST KALMIŞ",
-    "storyTr": "Kafesteki kuşlar FRİYD olduğunda kapı açıldı ve hepsi SERBEST KALMIŞ gibi göğe fırladı. Kanatları rüzgârda döndükçe uzun süre bir daha kafese dönmediler. FREED = SERBEST KALMIŞ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component freed, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5855,8 +5855,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "friid",
-    "mnemonicHook": "FRİYD",
-    "mnemonicScene": "Kafesteki kuşlar FRİYD olduğunda kapı açıldı ve hepsi SERBEST KALMIŞ gibi göğe fırladı. Kanatları rüzgârda döndükçe uzun süre bir daha kafese dönmediler. FREED = SERBEST KALMIŞ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Disengage",
@@ -5866,8 +5866,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Disengage the gears.",
     "exampleTr": "Dişli bağlantısını ayır.",
-    "storyEn": "Mnemonic: [DİSENGEYC] -> AYIRMAK",
-    "storyTr": "Vagonlar DİSENGEYC (disengage) komutuyla AYRILDI; ray üzerinde iki parça oldu. DISENGAGE = AYIRMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component disengage, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5878,8 +5878,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "disingeyc",
-    "mnemonicHook": "DİSENGEYC",
-    "mnemonicScene": "Vagonlar DİSENGEYC (disengage) komutuyla AYRILDI; ray üzerinde iki parça oldu. DISENGAGE = AYIRMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Coupling",
@@ -5889,8 +5889,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Check the coupling.",
     "exampleTr": "Kaplini kontrol et.",
-    "storyEn": "Mnemonic: [KAPLİNG] -> KAPLIN",
-    "storyTr": "Mekanik iki mili KAPLİNG (coupling) ile birbirine BAĞLANTI yaptı. COUPLING = KAPLİN, BAĞLANTI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component coupling, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5901,8 +5901,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kaplıng",
-    "mnemonicHook": "KAPLİNG",
-    "mnemonicScene": "Mekanik iki mili KAPLİNG (coupling) ile birbirine BAĞLANTI yaptı. COUPLING = KAPLİN, BAĞLANTI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Incorporated",
@@ -5912,8 +5912,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The part is incorporated.",
     "exampleTr": "Parça birleştirilmiştir.",
-    "storyEn": "Mnemonic: [İNKORPORETİD] -> BIRLEŞTIRILMIŞ",
-    "storyTr": "İNKORPORETİD olan yeni üye ekibe katıldığında kimse onu yabancı görmedi. BİRLEŞTİRİLMİŞ kadro, o gelince tamamlanmış hissi verdi. INCORPORATED = BİRLEŞTİRİLMİŞ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component incorporated, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5924,8 +5924,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "inkorporeytıd",
-    "mnemonicHook": "İNKORPORETİD",
-    "mnemonicScene": "İNKORPORETİD olan yeni üye ekibe katıldığında kimse onu yabancı görmedi. BİRLEŞTİRİLMİŞ kadro, o gelince tamamlanmış hissi verdi. INCORPORATED = BİRLEŞTİRİLMİŞ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Either",
@@ -5935,8 +5935,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "You can use either door.",
     "exampleTr": "İki kapıdan birini kullanabilirsin.",
-    "storyEn": "Mnemonic: [İNSİDENT] -> IKISINDEN BIRI",
-    "storyTr": "Trafikteki İNSİDENT (incident) olayında EITHER (ikisinden biri) suçlu çıkacaktı; kim olduğunu polis bilmiyordu. EITHER = İKİSİNDEN BİRİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component either, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5947,8 +5947,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "aydır",
-    "mnemonicHook": "İNSİDENT",
-    "mnemonicScene": "Trafikteki İNSİDENT (incident) olayında EITHER (ikisinden biri) suçlu çıkacaktı; kim olduğunu polis bilmiyordu. EITHER = İKİSİNDEN BİRİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Respective",
@@ -5958,8 +5958,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Check the respective parts.",
     "exampleTr": "İlgili parçaları kontrol et.",
-    "storyEn": "Mnemonic: [RİSPEKTİV] -> ILGILI",
-    "storyTr": "RİSPEKTİV kutuların her biri kendi İLGİLİ yerine ayrı ayrı yerleştirildi. Raflar dolunca hangi kutunun nereye ait olduğu herkesin gözünden kaçmadı. RESPECTIVE = İLGİLİ, AYRI AYRI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component respective, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5970,8 +5970,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "rispektiv",
-    "mnemonicHook": "RİSPEKTİV",
-    "mnemonicScene": "RİSPEKTİV kutuların her biri kendi İLGİLİ yerine ayrı ayrı yerleştirildi. Raflar dolunca hangi kutunun nereye ait olduğu herkesin gözünden kaçmadı. RESPECTIVE = İLGİLİ, AYRI AYRI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Corresponding",
@@ -5981,8 +5981,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Find the corresponding part.",
     "exampleTr": "Karşılık gelen parçayı bul.",
-    "storyEn": "Mnemonic: [KORİSPANDİNG] -> KARŞILIK GELEN",
-    "storyTr": "KORİSPANDİNG sayılar kutulara tek tek yazıldı ve her biri kendi KARŞILIK GELEN etiketine düştü. Sonuçta hiçbir kutu yanlış yere konmadı. CORRESPONDING = KARŞILIK GELEN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component corresponding, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -5993,8 +5993,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "korıspand ing",
-    "mnemonicHook": "KORİSPANDİNG",
-    "mnemonicScene": "KORİSPANDİNG sayılar kutulara tek tek yazıldı ve her biri kendi KARŞILIK GELEN etiketine düştü. Sonuçta hiçbir kutu yanlış yere konmadı. CORRESPONDING = KARŞILIK GELEN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Inlet",
@@ -6004,8 +6004,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Air enters the inlet.",
     "exampleTr": "Hava girişten girer.",
-    "storyEn": "Mnemonic: [İNLET] -> GIRIŞ",
-    "storyTr": "Havuzun İNLET borusundan su yavaş yavaş GİRİŞ yaptı ve havuzu sessizce doldurdu. Bir süre sonra suyun seviyesi kenara ulaştı. INLET = GİRİŞ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component inlet, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6016,8 +6016,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "inlet",
-    "mnemonicHook": "İNLET",
-    "mnemonicScene": "Havuzun İNLET borusundan su yavaş yavaş GİRİŞ yaptı ve havuzu sessizce doldurdu. Bir süre sonra suyun seviyesi kenara ulaştı. INLET = GİRİŞ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Outlet",
@@ -6027,8 +6027,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Air leaves the outlet.",
     "exampleTr": "Hava çıkıştan çıkar.",
-    "storyEn": "Mnemonic: [AUTLET] -> ÇIKIŞ",
-    "storyTr": "AUTLET diye adlandırılan priz ÇIKIŞ verdi ve fişi takınca ev birden aydınlandı. Elektrik bu çıkıştan sonra bütün odaya dağıldı. OUTLET = ÇIKIŞ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component outlet, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6039,8 +6039,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "autlet",
-    "mnemonicHook": "AUTLET",
-    "mnemonicScene": "AUTLET diye adlandırılan priz ÇIKIŞ verdi ve fişi takınca ev birden aydınlandı. Elektrik bu çıkıştan sonra bütün odaya dağıldı. OUTLET = ÇIKIŞ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "End",
@@ -6050,8 +6050,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This is the end.",
     "exampleTr": "Bu sondur.",
-    "storyEn": "Mnemonic: [END] -> UÇ",
-    "storyTr": "Film END (son) yazısıyla bitti; ekranda sadece UÇ kaldı. END = UÇ, SON.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component end, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6062,8 +6062,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "end",
-    "mnemonicHook": "END",
-    "mnemonicScene": "Film END (son) yazısıyla bitti; ekranda sadece UÇ kaldı. END = UÇ, SON."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Ventilation",
@@ -6073,8 +6073,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Ventilation is good here.",
     "exampleTr": "Burada havalandırma iyidir.",
-    "storyEn": "Mnemonic: [VENTİLEYŞN] -> HAVALANDIRMA",
-    "storyTr": "Kapalı odada VENTİLEYŞN (ventilation) için pencere açıldı; HAVALANDIRMA taze hava getirdi. VENTILATION = HAVALANDIRMA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component ventilation, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6085,8 +6085,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ventıleyşın",
-    "mnemonicHook": "VENTİLEYŞN",
-    "mnemonicScene": "Kapalı odada VENTİLEYŞN (ventilation) için pencere açıldı; HAVALANDIRMA taze hava getirdi. VENTILATION = HAVALANDIRMA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Press",
@@ -6096,8 +6096,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Press the button once.",
     "exampleTr": "Düğmeye bir kez bas.",
-    "storyEn": "Mnemonic: [PRES] -> BASTIRMAK",
-    "storyTr": "Asansör PRES (press) düğmesine BASTIRINCA kapılar kapandı. PRESS = BASTIRMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component press, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6108,8 +6108,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "pres",
-    "mnemonicHook": "PRES",
-    "mnemonicScene": "Asansör PRES (press) düğmesine BASTIRINCA kapılar kapandı. PRESS = BASTIRMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Flexible",
@@ -6119,8 +6119,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The hose is flexible.",
     "exampleTr": "Hortum esnektir.",
-    "storyEn": "Mnemonic: [FLEKSİBIL] -> ESNEK",
-    "storyTr": "FLEKSİBIL telefon katlandığında bile kırılmadı ve ekranı yumuşakça büküldü. Bu ESNEK yapı sayesinde kullanıcı telefonu cebine rahatça sokabildi. FLEXIBLE = ESNEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component flexible, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6131,8 +6131,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fleksıbıl",
-    "mnemonicHook": "FLEKSİBIL",
-    "mnemonicScene": "FLEKSİBIL telefon katlandığında bile kırılmadı ve ekranı yumuşakça büküldü. Bu ESNEK yapı sayesinde kullanıcı telefonu cebine rahatça sokabildi. FLEXIBLE = ESNEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Side by side",
@@ -6142,8 +6142,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The seats are side by side.",
     "exampleTr": "Koltuklar yan yanadır.",
-    "storyEn": "Mnemonic: [SAYD BAY SAYD] -> YAN YANA",
-    "storyTr": "Yolcular SAYD BAY SAYD dedikleri düzenli koltuklara oturdu ve iki koltuk YAN YANA dizildi. Arkadaşlar yan yana oturup uçuş boyunca sohbet etti. SIDE BY SIDE = YAN YANA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component side by side, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6154,8 +6154,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "sayd bay sayd",
-    "mnemonicHook": "SAYD BAY SAYD",
-    "mnemonicScene": "Yolcular SAYD BAY SAYD dedikleri düzenli koltuklara oturdu ve iki koltuk YAN YANA dizildi. Arkadaşlar yan yana oturup uçuş boyunca sohbet etti. SIDE BY SIDE = YAN YANA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Mount",
@@ -6165,8 +6165,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Mount the bracket here.",
     "exampleTr": "Braketi buraya monte et.",
-    "storyEn": "Mnemonic: [MAUNT] -> MONTE ETMEK",
-    "storyTr": "Ressam MAUNT dediği tabloyu duvara MONTE ETTİ ve çerçeveyi sağlam bir çiviye asıp dengeledi. Asılan resim tüm salona ilk bakışta hakim oldu. MOUNT = MONTE ETMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component mount, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6177,8 +6177,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "maunt",
-    "mnemonicHook": "MAUNT",
-    "mnemonicScene": "Ressam MAUNT dediği tabloyu duvara MONTE ETTİ ve çerçeveyi sağlam bir çiviye asıp dengeledi. Asılan resim tüm salona ilk bakışta hakim oldu. MOUNT = MONTE ETMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Parts",
@@ -6188,8 +6188,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The parts are ready.",
     "exampleTr": "Parçalar hazır.",
-    "storyEn": "Mnemonic: [PARTS] -> PARÇALAR",
-    "storyTr": "Bilgisayarın PARTS (parçaları) masaya dökülünce PARÇALAR'ın hepsi sayıldı. PARTS = PARÇALAR.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component parts, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6200,18 +6200,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "parts",
-    "mnemonicHook": "PARTS",
-    "mnemonicScene": "Bilgisayarın PARTS (parçaları) masaya dökülünce PARÇALAR'ın hepsi sayıldı. PARTS = PARÇALAR."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Scan",
     "turkish": "taramak",
     "phonetic": "/sken/",
     "pronunciationTr": "sken",
-    "mnemonicHook": "SKEN",
-    "mnemonicScene": "Ofiste SKEN (scan) düğmesine basılınca yazıcı belgeyi TARADI. SCAN = TARAMAK.",
-    "storyTr": "Ofiste SKEN (scan) düğmesine basılınca yazıcı belgeyi TARADI. SCAN = TARAMAK.",
-    "storyEn": "Mnemonic: [SKEN] -> TARAMAK",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "Scan the document.",
     "exampleTr": "Belgeyi tara.",
     "level": "A1",
@@ -6232,8 +6232,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The sensor is new.",
     "exampleTr": "Sensör yenidir.",
-    "storyEn": "Mnemonic: [SENSÖR] -> SENSÖR",
-    "storyTr": "Kapının SENSÖR'ü hareketi ALGILADI ve kapı kendiliğinden açıldı. SENSOR = SENSÖR, ALGILAYICI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Sensor, Sensing Element, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6244,18 +6244,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "sensır",
-    "mnemonicHook": "SENSÖR",
-    "mnemonicScene": "Kapının SENSÖR'ü hareketi ALGILADI ve kapı kendiliğinden açıldı. SENSOR = SENSÖR, ALGILAYICI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Sensing element",
     "turkish": "algılayıcı eleman",
     "phonetic": "/sensıng elımınt/",
     "pronunciationTr": "sensıng elımınt",
-    "mnemonicHook": "SENSİNG ELEMENT",
-    "mnemonicScene": "Termostatın içindeki SENSİNG ELEMENT (sensing element) sıcaklığı hissedip ALGILAYICI görevini yaptı. SENSING ELEMENT = ALGILAYICI ELEMAN.",
-    "storyTr": "Termostatın içindeki SENSİNG ELEMENT (sensing element) sıcaklığı hissedip ALGILAYICI görevini yaptı. SENSING ELEMENT = ALGILAYICI ELEMAN.",
-    "storyEn": "Mnemonic: [SENSİNG ELEMENT] -> ALGILAYICI ELEMAN",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "The sensing element is small.",
     "exampleTr": "Algılayıcı eleman küçüktür.",
     "level": "A1",
@@ -6276,8 +6276,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The headband is red.",
     "exampleTr": "Kafa bandı kırmızıdır.",
-    "storyEn": "Mnemonic: [HEDBEND] -> KAFA BANDI",
-    "storyTr": "Koşucu HEDBEND'ini başına takıp terleyen saçlarını yüzünden uzak tuttu. KAFA BANDI sayesinde ter gözüne girmeden koşuyu bitirdi. HEADBAND = KAFA BANDI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Headband, Headrest, Headpiece, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6288,8 +6288,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "hed bend",
-    "mnemonicHook": "HEDBEND",
-    "mnemonicScene": "Koşucu HEDBEND'ini başına takıp terleyen saçlarını yüzünden uzak tuttu. KAFA BANDI sayesinde ter gözüne girmeden koşuyu bitirdi. HEADBAND = KAFA BANDI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Headrest",
@@ -6299,8 +6299,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The headrest is soft.",
     "exampleTr": "Baş dayama yeri yumuşaktır.",
-    "storyEn": "Mnemonic: [HEDREST] -> BAŞ DAYAMA YERI",
-    "storyTr": "Yorgun yolcu HEDREST'e başını yasladı ve boynundaki gerginlik hemen geçti. BAŞ DAYAMA YERİ onu tam ihtiyacı kadar destekleyip uykuya dalmasını sağladı. HEADREST = BAŞ DAYAMA YERİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Headrest, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6311,18 +6311,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "hed rest",
-    "mnemonicHook": "HEDREST",
-    "mnemonicScene": "Yorgun yolcu HEDREST'e başını yasladı ve boynundaki gerginlik hemen geçti. BAŞ DAYAMA YERİ onu tam ihtiyacı kadar destekleyip uykuya dalmasını sağladı. HEADREST = BAŞ DAYAMA YERİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Headpiece",
     "turkish": "başlık",
     "phonetic": "/hed piis/",
     "pronunciationTr": "hed piis",
-    "mnemonicHook": "HEDPİES",
-    "mnemonicScene": "Kayakçı HEDPİES'i giydi ve soğuk rüzgârın kulaklarını üşütmesine izin vermedi. BAŞLIK sayesinde pistin son inişine kadar sıcak kaldı. HEADPIECE = BAŞLIK.",
-    "storyTr": "Kayakçı HEDPİES'i giydi ve soğuk rüzgârın kulaklarını üşütmesine izin vermedi. BAŞLIK sayesinde pistin son inişine kadar sıcak kaldı. HEADPIECE = BAŞLIK.",
-    "storyEn": "Mnemonic: [HEDPİES] -> BAŞLIK",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "The headpiece is clean.",
     "exampleTr": "Başlık temizdir.",
     "level": "A1",
@@ -6343,8 +6343,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The PSU light is on.",
     "exampleTr": "PSU ışığı yanıyor.",
-    "storyEn": "Mnemonic: [PİESİYU] -> YOLCU SERVIS BIRIMI",
-    "storyTr": "Her koltukta bir PİESİYU (PSU) vardı: YOLCU SERVİS BİRİMİ yolcunun ışığını açıyordu. PSU = YOLCU SERVİS BİRİMİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component PSU (Passenger Service Unit), aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6355,8 +6355,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "pi es yu",
-    "mnemonicHook": "PİESİYU",
-    "mnemonicScene": "Her koltukta bir PİESİYU (PSU) vardı: YOLCU SERVİS BİRİMİ yolcunun ışığını açıyordu. PSU = YOLCU SERVİS BİRİMİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Place, Attach",
@@ -6366,8 +6366,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Place the tool here.",
     "exampleTr": "Aleti buraya koy.",
-    "storyEn": "Mnemonic: [PLEYS] -> YERLEŞTIRMEK",
-    "storyTr": "Kutuyu tam ortaya PLEYS (place) edip ATTACH ile sabitledi; her şey YERLEŞTİRİLMİŞ oldu. PLACE = YERLEŞTİRMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Place, Attach, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6378,18 +6378,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "pleys",
-    "mnemonicHook": "PLEYS",
-    "mnemonicScene": "Kutuyu tam ortaya PLEYS (place) edip ATTACH ile sabitledi; her şey YERLEŞTİRİLMİŞ oldu. PLACE = YERLEŞTİRMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Refuel",
     "turkish": "yakıt ikmali yapmak",
     "phonetic": "/ri fyul/",
     "pronunciationTr": "ri fyul",
-    "mnemonicHook": "RİFYUEL",
-    "mnemonicScene": "Tanker uçağa RİFYUEL (refuel) için yanaştı; YAKIT İKMALİ yapılıyordu. REFUEL = YAKIT İKMALİ YAPMAK.",
-    "storyTr": "Tanker uçağa RİFYUEL (refuel) için yanaştı; YAKIT İKMALİ yapılıyordu. REFUEL = YAKIT İKMALİ YAPMAK.",
-    "storyEn": "Mnemonic: [RİFYUEL] -> YAKIT IKMALI YAPMAK",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "Refuel the aircraft now.",
     "exampleTr": "Uçağa şimdi yakıt ikmali yap.",
     "level": "A1",
@@ -6407,10 +6407,10 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "turkish": "yakıt boşaltmak",
     "phonetic": "/di fyul/",
     "pronunciationTr": "di fyul",
-    "mnemonicHook": "DİFYUEL",
-    "mnemonicScene": "Tanker DİFYUEL (defuel) yaptı; tanktaki fazla yakıt BOŞALTILDI. DEFUEL = YAKIT BOŞALTMAK.",
-    "storyTr": "Tanker DİFYUEL (defuel) yaptı; tanktaki fazla yakıt BOŞALTILDI. DEFUEL = YAKIT BOŞALTMAK.",
-    "storyEn": "Mnemonic: [DİFYUEL] -> YAKIT BOŞALTMAK",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "Defuel the tank safely.",
     "exampleTr": "Tankın yakıtını güvenle boşalt.",
     "level": "A1",
@@ -6431,8 +6431,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The DC power is on.",
     "exampleTr": "DC gücü açıktır.",
-    "storyEn": "Mnemonic: [DİSİ] -> DOĞRU AKIM",
-    "storyTr": "Pil DİSİ (DC) ile hep aynı yönde DOĞRU AKIM verir. DC = DOĞRU AKIM.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component DC (Direct Current), aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6443,8 +6443,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "di si",
-    "mnemonicHook": "DİSİ",
-    "mnemonicScene": "Pil DİSİ (DC) ile hep aynı yönde DOĞRU AKIM verir. DC = DOĞRU AKIM."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "AC (Alternating Current)",
@@ -6454,8 +6454,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The AC power is off.",
     "exampleTr": "AC gücü kapalıdır.",
-    "storyEn": "Mnemonic: [EYSİ] -> ALTERNATIF AKIM",
-    "storyTr": "Prizdeki EYSİ (AC) her saniye yön değiştiren ALTERNATİF AKIM'dır. AC = ALTERNATİF AKIM.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component AC (Alternating Current), aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6466,8 +6466,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ey si",
-    "mnemonicHook": "EYSİ",
-    "mnemonicScene": "Prizdeki EYSİ (AC) her saniye yön değiştiren ALTERNATİF AKIM'dır. AC = ALTERNATİF AKIM."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Occur, Cause, Be Due To",
@@ -6477,8 +6477,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Errors can occur.",
     "exampleTr": "Hatalar meydana gelebilir.",
-    "storyEn": "Mnemonic: [OKÜR] -> MEYDANA GELMEK",
-    "storyTr": "Gökyüzünde OKÜR (occur) eden bir ışık çakması MEYDANA GELMEK üzereydi; herkes izledi. OCCUR = MEYDANA GELMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Occur, Cause, Be Due To, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6489,8 +6489,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ıkör",
-    "mnemonicHook": "OKÜR",
-    "mnemonicScene": "Gökyüzünde OKÜR (occur) eden bir ışık çakması MEYDANA GELMEK üzereydi; herkes izledi. OCCUR = MEYDANA GELMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Cause",
@@ -6500,8 +6500,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Heat can cause damage.",
     "exampleTr": "Isı hasara neden olabilir.",
-    "storyEn": "Mnemonic: [KOZ] -> NEDEN OLMAK",
-    "storyTr": "Gecikmeye KOZ (cause) olan şey, yolda kalan bir kamyondu: NEDEN OLMAK. CAUSE = NEDEN OLMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Cause, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6512,8 +6512,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "koz",
-    "mnemonicHook": "KOZ",
-    "mnemonicScene": "Gecikmeye KOZ (cause) olan şey, yolda kalan bir kamyondu: NEDEN OLMAK. CAUSE = NEDEN OLMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Height",
@@ -6523,8 +6523,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The height is two meters.",
     "exampleTr": "Yükseklik iki metredir.",
-    "storyEn": "Mnemonic: [HAYT] -> YÜKSEKLIK",
-    "storyTr": "Çocuğun HAYT (height) ölçüsü kapı çerçevesine çizildi: YÜKSEKLİK. HEIGHT = YÜKSEKLİK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component height, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6535,18 +6535,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "hayt",
-    "mnemonicHook": "HAYT",
-    "mnemonicScene": "Çocuğun HAYT (height) ölçüsü kapı çerçevesine çizildi: YÜKSEKLİK. HEIGHT = YÜKSEKLİK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Altitude",
     "turkish": "irtifa",
     "phonetic": "/eltıtüd/",
     "pronunciationTr": "eltıtüd",
-    "mnemonicHook": "ALTİTYUD",
-    "mnemonicScene": "Uçak ALTİTYUD'a çıkınca bulutların üstüne yükseldi ve ekrandaki değerler artmaya başladı. İRTİFA göstergesi yolcuların gözünü ayırmadığı tek ekrandı. ALTITUDE = İRTİFA.",
-    "storyTr": "Uçak ALTİTYUD'a çıkınca bulutların üstüne yükseldi ve ekrandaki değerler artmaya başladı. İRTİFA göstergesi yolcuların gözünü ayırmadığı tek ekrandı. ALTITUDE = İRTİFA.",
-    "storyEn": "Mnemonic: [ALTİTYUD] -> IRTIFA",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "The aircraft is at high altitude.",
     "exampleTr": "Uçak yüksek irtifadadır.",
     "level": "A1",
@@ -6564,10 +6564,10 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "turkish": "menzil, aralık",
     "phonetic": "/reync/",
     "pronunciationTr": "reync",
-    "mnemonicHook": "REYNCİ",
-    "mnemonicScene": "Roketin REYNCİ'si o kadar uzundu ki hedef MENZİL'in tam içinde kaldı. Mühendisler yolun sonunda hedefin tam vurulduğunu gördüklerinde çok sevindiler. RANGE = MENZİL, ARALIK.",
-    "storyTr": "Roketin REYNCİ'si o kadar uzundu ki hedef MENZİL'in tam içinde kaldı. Mühendisler yolun sonunda hedefin tam vurulduğunu gördüklerinde çok sevindiler. RANGE = MENZİL, ARALIK.",
-    "storyEn": "Mnemonic: [REYNCİ] -> MENZIL",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "The range is short.",
     "exampleTr": "Menzil kısadır.",
     "level": "A1",
@@ -6585,10 +6585,10 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "turkish": "ev aleti, cihaz",
     "phonetic": "/ıplayıns/",
     "pronunciationTr": "ıplayıns",
-    "mnemonicHook": "APLİYENS",
-    "mnemonicScene": "APLİYENS denilen çamaşır makinesi mutfakta sessizce dönmeye başladı. Bu EV ALETİ sayesinde ev işleri bir anda çok kolaylaştı. APPLIANCE = EV ALETİ.",
-    "storyTr": "APLİYENS denilen çamaşır makinesi mutfakta sessizce dönmeye başladı. Bu EV ALETİ sayesinde ev işleri bir anda çok kolaylaştı. APPLIANCE = EV ALETİ.",
-    "storyEn": "Mnemonic: [APLİYENS] -> EV ALETI",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "This appliance is useful.",
     "exampleTr": "Bu cihaz kullanışlıdır.",
     "level": "A1",
@@ -6609,8 +6609,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Surface painting is complete.",
     "exampleTr": "Yüzey boyama tamamlandı.",
-    "storyEn": "Mnemonic: [SÜRFİS PEYNTİNG] -> YÜZEY BOYAMA",
-    "storyTr": "Duvarda SÜRFİS PEYNTİNG (surface painting) yapıldı; YÜZEY BOYAMA ile her köşe renklendi. SURFACE PAINTING = YÜZEY BOYAMA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Surface Painting, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6621,8 +6621,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "sörfıs peynting",
-    "mnemonicHook": "SÜRFİS PEYNTİNG",
-    "mnemonicScene": "Duvarda SÜRFİS PEYNTİNG (surface painting) yapıldı; YÜZEY BOYAMA ile her köşe renklendi. SURFACE PAINTING = YÜZEY BOYAMA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Refueling",
@@ -6632,8 +6632,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Refueling starts now.",
     "exampleTr": "Yakıt ikmali şimdi başlıyor.",
-    "storyEn": "Mnemonic: [RİFYUELİNG] -> YAKIT IKMALI",
-    "storyTr": "Tankerde RİFYUELİNG (refueling) sırasında hortum yakıt ikmali için bağlandı. REFUELING = YAKIT İKMALİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Refueling, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6644,18 +6644,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ri fyueling",
-    "mnemonicHook": "RİFYUELİNG",
-    "mnemonicScene": "Tankerde RİFYUELİNG (refueling) sırasında hortum yakıt ikmali için bağlandı. REFUELING = YAKIT İKMALİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel",
     "turkish": "yakıt",
     "phonetic": "/fyul/",
     "pronunciationTr": "fyul",
-    "mnemonicHook": "FYUEL",
-    "mnemonicScene": "Motor FYUEL (fuel) bitince sustu; YAKIT yoktu. FUEL = YAKIT.",
-    "storyTr": "Motor FYUEL (fuel) bitince sustu; YAKIT yoktu. FUEL = YAKIT.",
-    "storyEn": "Mnemonic: [FYUEL] -> YAKIT",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "The fuel is clean.",
     "exampleTr": "Yakıt temizdir.",
     "level": "A1",
@@ -6676,8 +6676,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The fuel tank is full.",
     "exampleTr": "Yakıt tankı doludur.",
-    "storyEn": "Mnemonic: [FYUEL TANK] -> YAKIT TANKI",
-    "storyTr": "FYUEL TANK (fuel tank) tamamen dolu; YAKIT TANKI'nın kapağı benzin kokuyordu. FUEL TANK = YAKIT TANKI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Tank, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6688,8 +6688,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul tenk",
-    "mnemonicHook": "FYUEL TANK",
-    "mnemonicScene": "FYUEL TANK (fuel tank) tamamen dolu; YAKIT TANKI'nın kapağı benzin kokuyordu. FUEL TANK = YAKIT TANKI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel Level",
@@ -6699,8 +6699,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Check the fuel level.",
     "exampleTr": "Yakıt seviyesini kontrol et.",
-    "storyEn": "Mnemonic: [FYUEL LEVEL] -> YAKIT SEVIYESI",
-    "storyTr": "FYUEL LEVEL (fuel level) göstergesi YAKIT SEVİYESİ'nin iyice düştüğünü söyledi. FUEL LEVEL = YAKIT SEVİYESİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Level, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6711,8 +6711,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul levıl",
-    "mnemonicHook": "FYUEL LEVEL",
-    "mnemonicScene": "FYUEL LEVEL (fuel level) göstergesi YAKIT SEVİYESİ'nin iyice düştüğünü söyledi. FUEL LEVEL = YAKIT SEVİYESİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel Cap",
@@ -6722,8 +6722,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Close the fuel cap.",
     "exampleTr": "Yakıt deposu kapağını kapat.",
-    "storyEn": "Mnemonic: [FYUEL KAP] -> YAKIT DEPOSU KAPAĞI",
-    "storyTr": "FYUEL KAP (fuel cap) olan YAKIT DEPOSU KAPAĞI sıkıca kapatıldı, damla sızmadı. FUEL CAP = YAKIT DEPOSU KAPAĞI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Cap, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6734,8 +6734,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul kep",
-    "mnemonicHook": "FYUEL KAP",
-    "mnemonicScene": "FYUEL KAP (fuel cap) olan YAKIT DEPOSU KAPAĞI sıkıca kapatıldı, damla sızmadı. FUEL CAP = YAKIT DEPOSU KAPAĞI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel Filter",
@@ -6745,8 +6745,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The fuel filter is clean.",
     "exampleTr": "Yakıt filtresi temizdir.",
-    "storyEn": "Mnemonic: [FYUEL FİLTER] -> YAKIT FILTRESI",
-    "storyTr": "FYUEL FİLTER (fuel filter) pislikle dolunca YAKIT FİLTRESİ değiştirildi. FUEL FILTER = YAKIT FİLTRESİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Filter, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6757,8 +6757,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul filtır",
-    "mnemonicHook": "FYUEL FİLTER",
-    "mnemonicScene": "FYUEL FİLTER (fuel filter) pislikle dolunca YAKIT FİLTRESİ değiştirildi. FUEL FILTER = YAKIT FİLTRESİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel Line",
@@ -6768,8 +6768,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Check the fuel line.",
     "exampleTr": "Yakıt hattını kontrol et.",
-    "storyEn": "Mnemonic: [FYUEL LAYN] -> YAKIT HATTI",
-    "storyTr": "FYUEL LAYN (fuel line) yakıtı taşıyan YAKIT HATTI, motorun en uzun damarıydı. FUEL LINE = YAKIT HATTI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Line, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6780,8 +6780,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul layn",
-    "mnemonicHook": "FYUEL LAYN",
-    "mnemonicScene": "FYUEL LAYN (fuel line) yakıtı taşıyan YAKIT HATTI, motorun en uzun damarıydı. FUEL LINE = YAKIT HATTI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel Pump",
@@ -6791,8 +6791,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The fuel pump is working.",
     "exampleTr": "Yakıt pompası çalışıyor.",
-    "storyEn": "Mnemonic: [FYUEL PAMP] -> YAKIT POMPASI",
-    "storyTr": "FYUEL PAMP (fuel pump) yakıtı tanktan çeken YAKIT POMPASI'nın sesi duyuluyordu. FUEL PUMP = YAKIT POMPASI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Pump, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6803,8 +6803,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul pamp",
-    "mnemonicHook": "FYUEL PAMP",
-    "mnemonicScene": "FYUEL PAMP (fuel pump) yakıtı tanktan çeken YAKIT POMPASI'nın sesi duyuluyordu. FUEL PUMP = YAKIT POMPASI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel Injector",
@@ -6814,8 +6814,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The fuel injector is new.",
     "exampleTr": "Yakıt enjektörü yenidir.",
-    "storyEn": "Mnemonic: [FYUEL İNJEKTÖR] -> YAKIT ENJEKTÖRÜ",
-    "storyTr": "FYUEL İNJEKTÖR (fuel injector) her silindire YAKIT ENJEKTÖRÜ ile ince bir sis püskürttü. FUEL INJECTOR = YAKIT ENJEKTÖRÜ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Injector, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6826,8 +6826,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul incjektır",
-    "mnemonicHook": "FYUEL İNJEKTÖR",
-    "mnemonicScene": "FYUEL İNJEKTÖR (fuel injector) her silindire YAKIT ENJEKTÖRÜ ile ince bir sis püskürttü. FUEL INJECTOR = YAKIT ENJEKTÖRÜ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel Rail",
@@ -6837,8 +6837,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The fuel rail is clean.",
     "exampleTr": "Yakıt dağıtım borusu temizdir.",
-    "storyEn": "Mnemonic: [FYUEL REYL] -> YAKIT DAĞITIM BORUSU",
-    "storyTr": "FYUEL REYL (fuel rail) denilen YAKIT DAĞITIM BORUSU, enjektörleri tek bir sırada bağladı. FUEL RAIL = YAKIT DAĞITIM BORUSU.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Rail, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6849,8 +6849,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul reyl",
-    "mnemonicHook": "FYUEL REYL",
-    "mnemonicScene": "FYUEL REYL (fuel rail) denilen YAKIT DAĞITIM BORUSU, enjektörleri tek bir sırada bağladı. FUEL RAIL = YAKIT DAĞITIM BORUSU."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel Pressure",
@@ -6860,8 +6860,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Fuel pressure is low.",
     "exampleTr": "Yakıt basıncı düşüktür.",
-    "storyEn": "Mnemonic: [FYUEL PREŞÜR] -> YAKIT BASINCI",
-    "storyTr": "FYUEL PREŞÜR (fuel pressure) göstergesi YAKIT BASINCI'nın yükseldiğini gösterdi. FUEL PRESSURE = YAKIT BASINCI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Pressure, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6872,8 +6872,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul preşır",
-    "mnemonicHook": "FYUEL PREŞÜR",
-    "mnemonicScene": "FYUEL PREŞÜR (fuel pressure) göstergesi YAKIT BASINCI'nın yükseldiğini gösterdi. FUEL PRESSURE = YAKIT BASINCI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel Return Line",
@@ -6883,8 +6883,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Check the fuel return line.",
     "exampleTr": "Yakıt geri dönüş hattını kontrol et.",
-    "storyEn": "Mnemonic: [FYUEL RİTÖRN LAYN] -> YAKIT GERI DÖNÜŞ HATTI",
-    "storyTr": "FYUEL RİTÖRN LAYN (fuel return line) fazla yakıtı tanka geri gönderen YAKIT GERİ DÖNÜŞ HATTI'ydı. FUEL RETURN LINE = YAKIT GERİ DÖNÜŞ HATTI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Return Line, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6895,8 +6895,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul ritörn layn",
-    "mnemonicHook": "FYUEL RİTÖRN LAYN",
-    "mnemonicScene": "FYUEL RİTÖRN LAYN (fuel return line) fazla yakıtı tanka geri gönderen YAKIT GERİ DÖNÜŞ HATTI'ydı. FUEL RETURN LINE = YAKIT GERİ DÖNÜŞ HATTI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel Gauge",
@@ -6906,8 +6906,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The fuel gauge is clear.",
     "exampleTr": "Yakıt göstergesi nettir.",
-    "storyEn": "Mnemonic: [FYUEL GEYC] -> YAKIT GÖSTERGESI",
-    "storyTr": "FYUEL GEYC (fuel gauge) ibresi kırmızıya düşünce sürücü YAKIT GÖSTERGESİ'ne baktı. FUEL GAUGE = YAKIT GÖSTERGESİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Gauge, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6918,8 +6918,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul geyc",
-    "mnemonicHook": "FYUEL GEYC",
-    "mnemonicScene": "FYUEL GEYC (fuel gauge) ibresi kırmızıya düşünce sürücü YAKIT GÖSTERGESİ'ne baktı. FUEL GAUGE = YAKIT GÖSTERGESİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel Economy",
@@ -6929,8 +6929,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Fuel economy is important.",
     "exampleTr": "Yakıt ekonomisi önemlidir.",
-    "storyEn": "Mnemonic: [FYUEL İKONOMİ] -> YAKIT EKONOMISI",
-    "storyTr": "FYUEL İKONOMİ (fuel economy) sayesinde bu araba bir depoyla yüzlerce kilometre gitti: YAKIT EKONOMİSİ. FUEL ECONOMY = YAKIT EKONOMİSİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Economy, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6941,8 +6941,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul ikonımi",
-    "mnemonicHook": "FYUEL İKONOMİ",
-    "mnemonicScene": "FYUEL İKONOMİ (fuel economy) sayesinde bu araba bir depoyla yüzlerce kilometre gitti: YAKIT EKONOMİSİ. FUEL ECONOMY = YAKIT EKONOMİSİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel Consumption",
@@ -6952,8 +6952,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Fuel consumption is high.",
     "exampleTr": "Yakıt tüketimi yüksektir.",
-    "storyEn": "Mnemonic: [FYUEL KONSAMPŞN] -> YAKIT TÜKETIMI",
-    "storyTr": "FYUEL KONSAMPŞN (fuel consumption) ölçüldü: her yüz kilometrede kaç litre YAKIT TÜKETİMİ yapıldığı yazılıydı. FUEL CONSUMPTION = YAKIT TÜKETİMİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Consumption, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6964,8 +6964,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul kınsampşın",
-    "mnemonicHook": "FYUEL KONSAMPŞN",
-    "mnemonicScene": "FYUEL KONSAMPŞN (fuel consumption) ölçüldü: her yüz kilometrede kaç litre YAKIT TÜKETİMİ yapıldığı yazılıydı. FUEL CONSUMPTION = YAKIT TÜKETİMİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel Efficiency",
@@ -6975,8 +6975,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Fuel efficiency is good.",
     "exampleTr": "Yakıt verimliliği iyidir.",
-    "storyEn": "Mnemonic: [FYUEL İFİŞİYENSİ] -> YAKIT VERIMLILIĞI",
-    "storyTr": "FYUEL İFİŞİYENSİ (fuel efficiency) yüksekti; az benzinle çok yol gidildi: YAKIT VERİMLİLİĞİ. FUEL EFFICIENCY = YAKIT VERİMLİLİĞİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Efficiency, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -6987,8 +6987,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul ifişınsi",
-    "mnemonicHook": "FYUEL İFİŞİYENSİ",
-    "mnemonicScene": "FYUEL İFİŞİYENSİ (fuel efficiency) yüksekti; az benzinle çok yol gidildi: YAKIT VERİMLİLİĞİ. FUEL EFFICIENCY = YAKIT VERİMLİLİĞİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel Emissions",
@@ -6998,8 +6998,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Fuel emissions are low.",
     "exampleTr": "Yakıt emisyonları düşüktür.",
-    "storyEn": "Mnemonic: [FYUEL İMİŞİNZ] -> YAKIT EMISYONLARI",
-    "storyTr": "FYUEL İMİŞİNZ (fuel emissions) egzozdan siyah dumanla çıktı; YAKIT EMİSYONLARI havayı kirletti. FUEL EMISSIONS = YAKIT EMİSYONLARI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Emissions, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7010,8 +7010,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul imişınz",
-    "mnemonicHook": "FYUEL İMİŞİNZ",
-    "mnemonicScene": "FYUEL İMİŞİNZ (fuel emissions) egzozdan siyah dumanla çıktı; YAKIT EMİSYONLARI havayı kirletti. FUEL EMISSIONS = YAKIT EMİSYONLARI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel Additive",
@@ -7021,8 +7021,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Use the fuel additive.",
     "exampleTr": "Yakıt katkısını kullan.",
-    "storyEn": "Mnemonic: [FYUEL ADİTİV] -> YAKIT KATKISI",
-    "storyTr": "Usta FYUEL ADİTİV'i depoya dökünce motorun sesi değişti ve rölantide pürüzsüz döndü. YAKIT KATKISI sayesinde motor gücünü hiç kaybetmedi. FUEL ADDITIVE = YAKIT KATKISI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Additive, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7033,8 +7033,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul edıtiv",
-    "mnemonicHook": "FYUEL ADİTİV",
-    "mnemonicScene": "Usta FYUEL ADİTİV'i depoya dökünce motorun sesi değişti ve rölantide pürüzsüz döndü. YAKIT KATKISI sayesinde motor gücünü hiç kaybetmedi. FUEL ADDITIVE = YAKIT KATKISI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel System",
@@ -7044,8 +7044,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The fuel system is safe.",
     "exampleTr": "Yakıt sistemi güvenlidir.",
-    "storyEn": "Mnemonic: [FYUEL SİSTEM] -> YAKIT SISTEMI",
-    "storyTr": "FYUEL SİSTEM (fuel system) tanktan enjektöre kadar bütün borularla YAKIT SİSTEMİ'ni oluşturdu. FUEL SYSTEM = YAKIT SİSTEMİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel System, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7056,8 +7056,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul sistım",
-    "mnemonicHook": "FYUEL SİSTEM",
-    "mnemonicScene": "FYUEL SİSTEM (fuel system) tanktan enjektöre kadar bütün borularla YAKIT SİSTEMİ'ni oluşturdu. FUEL SYSTEM = YAKIT SİSTEMİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel Tank Sender",
@@ -7067,8 +7067,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The sender sends a signal.",
     "exampleTr": "Gönderici sinyal gönderir.",
-    "storyEn": "Mnemonic: [FYUEL TANK SENDER] -> YAKIT TANKI GÖNDERICISI",
-    "storyTr": "FYUEL TANK SENDER (fuel tank sender) tanktaki seviyeyi panele gönderen YAKIT TANKI GÖNDERİCİSİ'ydi. FUEL TANK SENDER = YAKIT TANKI GÖNDERİCİSİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Tank Sender, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7079,8 +7079,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul tenk sendır",
-    "mnemonicHook": "FYUEL TANK SENDER",
-    "mnemonicScene": "FYUEL TANK SENDER (fuel tank sender) tanktaki seviyeyi panele gönderen YAKIT TANKI GÖNDERİCİSİ'ydi. FUEL TANK SENDER = YAKIT TANKI GÖNDERİCİSİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel Tank Sensor",
@@ -7090,8 +7090,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The fuel tank sensor works.",
     "exampleTr": "Yakıt tankı sensörü çalışır.",
-    "storyEn": "Mnemonic: [FYUEL TANK SENSÖR] -> YAKIT TANKI SENSÖRÜ",
-    "storyTr": "FYUEL TANK SENSÖR (fuel tank sensor) doluluk oranını ölçen YAKIT TANKI SENSÖRÜ, ibreyi sessizce oynattı. FUEL TANK SENSOR = YAKIT TANKI SENSÖRÜ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Tank Sensor, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7102,8 +7102,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul tenk sensır",
-    "mnemonicHook": "FYUEL TANK SENSÖR",
-    "mnemonicScene": "FYUEL TANK SENSÖR (fuel tank sensor) doluluk oranını ölçen YAKIT TANKI SENSÖRÜ, ibreyi sessizce oynattı. FUEL TANK SENSOR = YAKIT TANKI SENSÖRÜ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel Level Sensor",
@@ -7113,8 +7113,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The level sensor is new.",
     "exampleTr": "Seviye sensörü yenidir.",
-    "storyEn": "Mnemonic: [FYUEL LEVEL SENSÖR] -> YAKIT SEVIYESI SENSÖRÜ",
-    "storyTr": "FYUEL LEVEL SENSÖR (fuel level sensor) sıvının yüksekliğini algılayan YAKIT SEVİYE SENSÖRÜ'ydi. FUEL LEVEL SENSOR = YAKIT SEVİYE SENSÖRÜ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Level Sensor, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7125,8 +7125,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul levıl sensır",
-    "mnemonicHook": "FYUEL LEVEL SENSÖR",
-    "mnemonicScene": "FYUEL LEVEL SENSÖR (fuel level sensor) sıvının yüksekliğini algılayan YAKIT SEVİYE SENSÖRÜ'ydi. FUEL LEVEL SENSOR = YAKIT SEVİYE SENSÖRÜ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel Tank Float",
@@ -7136,8 +7136,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The float is inside the tank.",
     "exampleTr": "Şamandıra tankın içindedir.",
-    "storyEn": "Mnemonic: [FYUEL TANK FLOT] -> YAKIT TANKI ŞAMANDIRASI",
-    "storyTr": "Tankın içinde FYUEL TANK FLOT yüzüp seviyeyi yukarı taşıdı ve ibre hareket etti. ŞAMANDIRA gibi çalışan bu parça, yakıt azaldıkça sessizce aşağı indi. FUEL TANK FLOAT = YAKIT TANKI ŞAMANDIRASI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Tank Float, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7148,8 +7148,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul tenk flout",
-    "mnemonicHook": "FYUEL TANK FLOT",
-    "mnemonicScene": "Tankın içinde FYUEL TANK FLOT yüzüp seviyeyi yukarı taşıdı ve ibre hareket etti. ŞAMANDIRA gibi çalışan bu parça, yakıt azaldıkça sessizce aşağı indi. FUEL TANK FLOAT = YAKIT TANKI ŞAMANDIRASI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel Tank Strainer",
@@ -7159,8 +7159,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Clean the strainer.",
     "exampleTr": "Süzgeci temizle.",
-    "storyEn": "Mnemonic: [FYUEL TANK STRENER] -> YAKIT TANKI SÜZGECI",
-    "storyTr": "Yakıtın içindeki pislik FYUEL TANK STRENER'e takıldı ve tanka giden yola ulaşamadı. Bu SÜZGEÇ sayesinde motor temiz yakıtla çalıştı. FUEL TANK STRAINER = YAKIT TANKI SÜZGECİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Tank Strainer, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7171,8 +7171,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul tenk streynır",
-    "mnemonicHook": "FYUEL TANK STRENER",
-    "mnemonicScene": "Yakıtın içindeki pislik FYUEL TANK STRENER'e takıldı ve tanka giden yola ulaşamadı. Bu SÜZGEÇ sayesinde motor temiz yakıtla çalıştı. FUEL TANK STRAINER = YAKIT TANKI SÜZGECİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel Tank Breather",
@@ -7182,8 +7182,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Check the tank breather.",
     "exampleTr": "Tank havalandırmasını kontrol et.",
-    "storyEn": "Mnemonic: [FYUEL TANK BRİDER] -> YAKIT TANKI HAVALANDIRMASI",
-    "storyTr": "FYUEL TANK BRİDER nefes alır gibi havalandı ve tankın içindeki basınç dengelendi. YAKIT TANKI HAVALANDIRMASI sayesinde yakıt sorunsuz akmaya devam etti. FUEL TANK BREATHER = YAKIT TANKI HAVALANDIRMASI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Tank Breather, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7194,8 +7194,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul tenk briidır",
-    "mnemonicHook": "FYUEL TANK BRİDER",
-    "mnemonicScene": "FYUEL TANK BRİDER nefes alır gibi havalandı ve tankın içindeki basınç dengelendi. YAKIT TANKI HAVALANDIRMASI sayesinde yakıt sorunsuz akmaya devam etti. FUEL TANK BREATHER = YAKIT TANKI HAVALANDIRMASI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel Tank Vent",
@@ -7205,8 +7205,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The tank vent is open.",
     "exampleTr": "Tank havalandırma deliği açıktır.",
-    "storyEn": "Mnemonic: [FYUEL TANK VENT] -> YAKIT TANKI HAVALANDIRMA DELIĞI",
-    "storyTr": "Tankın kenarındaki FYUEL TANK VENT deliğinden hava içeri girdi ve basıncı dengeledi. Bu HAVALANDIRMA DELİĞİ olmasa yakıt akışı durabilirdi. FUEL TANK VENT = YAKIT TANKI HAVALANDIRMA DELİĞİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Tank Vent, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7217,8 +7217,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul tenk vent",
-    "mnemonicHook": "FYUEL TANK VENT",
-    "mnemonicScene": "Tankın kenarındaki FYUEL TANK VENT deliğinden hava içeri girdi ve basıncı dengeledi. Bu HAVALANDIRMA DELİĞİ olmasa yakıt akışı durabilirdi. FUEL TANK VENT = YAKIT TANKI HAVALANDIRMA DELİĞİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel Tank Cap Gasket",
@@ -7228,8 +7228,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Check the cap gasket.",
     "exampleTr": "Kapak contasını kontrol et.",
-    "storyEn": "Mnemonic: [FYUEL TANK KAP GASKET] -> YAKIT TANKI KAPAĞI CONTASI",
-    "storyTr": "Kapağın altındaki FYUEL TANK KAP GASKET sızıntıyı tam kapattı. CONTA sıkıca oturduğu için yakıt tanktan hiç dışarı sızmadı. FUEL TANK CAP GASKET = YAKIT TANKI KAPAĞI CONTASI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Tank Cap Gasket, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7240,8 +7240,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul tenk kep geskit",
-    "mnemonicHook": "FYUEL TANK KAP GASKET",
-    "mnemonicScene": "Kapağın altındaki FYUEL TANK KAP GASKET sızıntıyı tam kapattı. CONTA sıkıca oturduğu için yakıt tanktan hiç dışarı sızmadı. FUEL TANK CAP GASKET = YAKIT TANKI KAPAĞI CONTASI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel Tank Cap Seal",
@@ -7251,8 +7251,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The cap seal is good.",
     "exampleTr": "Kapak sızdırmazlığı iyidir.",
-    "storyEn": "Mnemonic: [FYUEL TANK KAP SİL] -> YAKIT TANKI KAPAĞI SIZDIRMAZLIĞI",
-    "storyTr": "FYUEL TANK KAP SİL kapağı mühürleyip tankı tamamen kapalı hale getirdi. SIZDIRMAZLIK sağlandığı için benzin kokusu araca hiç yayılmadı. FUEL TANK CAP SEAL = YAKIT TANKI KAPAĞI SIZDIRMAZLIĞI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Tank Cap Seal, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7263,8 +7263,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul tenk kep siil",
-    "mnemonicHook": "FYUEL TANK KAP SİL",
-    "mnemonicScene": "FYUEL TANK KAP SİL kapağı mühürleyip tankı tamamen kapalı hale getirdi. SIZDIRMAZLIK sağlandığı için benzin kokusu araca hiç yayılmadı. FUEL TANK CAP SEAL = YAKIT TANKI KAPAĞI SIZDIRMAZLIĞI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel Tank Cap Vent",
@@ -7274,8 +7274,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Check the cap vent.",
     "exampleTr": "Kapak havalandırmasını kontrol et.",
-    "storyEn": "Mnemonic: [FYUEL TANK KAP VENT] -> YAKIT TANKI KAPAĞI HAVALANDIRMA DELIĞI",
-    "storyTr": "Kapaktaki FYUEL TANK KAP VENT küçük bir delik gibi basıncı dengeledi. HAVALANDIRMA DELİĞİ sayesinde kapağı açmak zorlaşmadı. FUEL TANK CAP VENT = KAPAK HAVALANDIRMA DELİĞİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Tank Cap Vent, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7286,8 +7286,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul tenk kep vent",
-    "mnemonicHook": "FYUEL TANK KAP VENT",
-    "mnemonicScene": "Kapaktaki FYUEL TANK KAP VENT küçük bir delik gibi basıncı dengeledi. HAVALANDIRMA DELİĞİ sayesinde kapağı açmak zorlaşmadı. FUEL TANK CAP VENT = KAPAK HAVALANDIRMA DELİĞİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel Tank Cap Tether",
@@ -7297,8 +7297,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The cap tether is strong.",
     "exampleTr": "Kapak bağlantısı sağlamdır.",
-    "storyEn": "Mnemonic: [FYUEL TANK KAP TİZER] -> YAKIT TANKI KAPAĞI BAĞLANTI IPI",
-    "storyTr": "Kapak kaybolmasın diye FYUEL TANK KAP TİZER ile tanka bağlandı. BAĞLANTI İPİ sayesinde yolcu kapağı yerde bırakmadan yakıt ikmalini yapabildi. FUEL TANK CAP TETHER = KAPAK BAĞLANTI İPİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Tank Cap Tether, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7309,8 +7309,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul tenk kep tedır",
-    "mnemonicHook": "FYUEL TANK KAP TİZER",
-    "mnemonicScene": "Kapak kaybolmasın diye FYUEL TANK KAP TİZER ile tanka bağlandı. BAĞLANTI İPİ sayesinde yolcu kapağı yerde bırakmadan yakıt ikmalini yapabildi. FUEL TANK CAP TETHER = KAPAK BAĞLANTI İPİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel Tank Cap Lock",
@@ -7320,8 +7320,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Lock the fuel cap.",
     "exampleTr": "Yakıt kapağını kilitle.",
-    "storyEn": "Mnemonic: [FYUEL TANK KAP LOK] -> YAKIT TANKI KAPAĞI KILIDI",
-    "storyTr": "Yolcu FYUEL TANK KAP LOK ile kapağı kilitledi ve anahtarı cebine koydu. KİLİT sayesinde yakıt hırsızlığı mümkün olmadı. FUEL TANK CAP LOCK = YAKIT TANKI KAPAĞI KİLİDİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Tank Cap Lock, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7332,8 +7332,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul tenk kep lok",
-    "mnemonicHook": "FYUEL TANK KAP LOK",
-    "mnemonicScene": "Yolcu FYUEL TANK KAP LOK ile kapağı kilitledi ve anahtarı cebine koydu. KİLİT sayesinde yakıt hırsızlığı mümkün olmadı. FUEL TANK CAP LOCK = YAKIT TANKI KAPAĞI KİLİDİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fuel Tank Cap Key",
@@ -7343,8 +7343,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Find the cap key.",
     "exampleTr": "Kapak anahtarını bul.",
-    "storyEn": "Mnemonic: [FYUEL TANK KAP Kİ] -> YAKIT TANKI KAPAĞI ANAHTARI",
-    "storyTr": "FYUEL TANK KAP Kİ cebinde şıngırdarken yolcu kapağı açmaya hazırlandı. ANAHTAR kilidi çevirdiğinde tank güvenle açıldı. FUEL TANK CAP KEY = YAKIT TANKI KAPAĞI ANAHTARI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuel Tank Cap Key, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7355,8 +7355,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyul tenk kep kii",
-    "mnemonicHook": "FYUEL TANK KAP Kİ",
-    "mnemonicScene": "FYUEL TANK KAP Kİ cebinde şıngırdarken yolcu kapağı açmaya hazırlandı. ANAHTAR kilidi çevirdiğinde tank güvenle açıldı. FUEL TANK CAP KEY = YAKIT TANKI KAPAĞI ANAHTARI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Time tables",
@@ -7366,8 +7366,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Check the time table.",
     "exampleTr": "Zaman çizelgesini kontrol et.",
-    "storyEn": "Mnemonic: [TAYM TEYBIL] -> TARIFELER",
-    "storyTr": "Gar görevlisi TAYM TEYBIL'e (time tables) bakarak TARİFE'deki sefer saatini okudu. TIME TABLES = TARİFELER, ZAMAN ÇİZELGELERİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Time tables, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7378,8 +7378,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "taym teyblz",
-    "mnemonicHook": "TAYM TEYBIL",
-    "mnemonicScene": "Gar görevlisi TAYM TEYBIL'e (time tables) bakarak TARİFE'deki sefer saatini okudu. TIME TABLES = TARİFELER, ZAMAN ÇİZELGELERİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Aircraft",
@@ -7389,8 +7389,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The aircraft is ready.",
     "exampleTr": "Hava taşıtı hazır.",
-    "storyEn": "Mnemonic: [EYRKRAFT] -> HAVA TAŞITI",
-    "storyTr": "EYRKRAFT pistte beklerken motorları yavaş yavaş ısındı ve kalkış sırasını bekledi. HAVA TAŞITI'nın kanatları güneşte parladı ve birkaç dakika içinde gökyüzüne yükselmeye hazır oldu. AIRCRAFT = HAVA TAŞITI, UÇAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Aircraft, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7401,18 +7401,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "erkraft",
-    "mnemonicHook": "EYRKRAFT",
-    "mnemonicScene": "EYRKRAFT pistte beklerken motorları yavaş yavaş ısındı ve kalkış sırasını bekledi. HAVA TAŞITI'nın kanatları güneşte parladı ve birkaç dakika içinde gökyüzüne yükselmeye hazır oldu. AIRCRAFT = HAVA TAŞITI, UÇAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Become",
     "turkish": "olmak, hâline gelmek",
     "phonetic": "/bikam/",
     "pronunciationTr": "bikam",
-    "mnemonicHook": "BİKAM",
-    "mnemonicScene": "Çocuk BİKAM (become) isteyince pilot OLMAK için yıllarca çalıştı; sonunda kaptana HÂLİNE GELDİ. BECOME = OLMAK, HÂLİNE GELMEK.",
-    "storyTr": "Çocuk BİKAM (become) isteyince pilot OLMAK için yıllarca çalıştı; sonunda kaptana HÂLİNE GELDİ. BECOME = OLMAK, HÂLİNE GELMEK.",
-    "storyEn": "Mnemonic: [BİKAM] -> OLMAK",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "I want to become a pilot.",
     "exampleTr": "Pilot olmak istiyorum.",
     "level": "A1",
@@ -7433,8 +7433,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The aircraft will take off.",
     "exampleTr": "Uçak kalkış yapacak.",
-    "storyEn": "Mnemonic: [TEYK OF] -> KALKIŞ YAPMAK",
-    "storyTr": "Uçak TEYK OF (take off) yaparken pistte hızlanıp KALKIŞ YAPTI. TAKE OFF = KALKIŞ YAPMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Take off, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7445,8 +7445,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "teyk of",
-    "mnemonicHook": "TEYK OF",
-    "mnemonicScene": "Uçak TEYK OF (take off) yaparken pistte hızlanıp KALKIŞ YAPTI. TAKE OFF = KALKIŞ YAPMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Transmit",
@@ -7456,8 +7456,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The radio can transmit signals.",
     "exampleTr": "Telsiz sinyal iletebilir.",
-    "storyEn": "Mnemonic: [TRANSMİT] -> ILETMEK",
-    "storyTr": "Radyo sinyali TRANSMİT (transmit) edilirken her ev sesi İLETMEK için kulak verdi. TRANSMIT = İLETMEK, YAYMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Transmit, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7468,18 +7468,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "transmit",
-    "mnemonicHook": "TRANSMİT",
-    "mnemonicScene": "Radyo sinyali TRANSMİT (transmit) edilirken her ev sesi İLETMEK için kulak verdi. TRANSMIT = İLETMEK, YAYMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Method",
     "turkish": "yöntem, metot",
     "phonetic": "/metıd/",
     "pronunciationTr": "metıd",
-    "mnemonicHook": "METOD",
-    "mnemonicScene": "METOD'a göre her adım sırayla kâğıda yazıldı ve öğrenci hiçbirini atlamadı. YÖNTEM'in düzeni sayesinde sınav kâğıdı derli toplu göründü. METHOD = YÖNTEM, METOT.",
-    "storyTr": "METOD'a göre her adım sırayla kâğıda yazıldı ve öğrenci hiçbirini atlamadı. YÖNTEM'in düzeni sayesinde sınav kâğıdı derli toplu göründü. METHOD = YÖNTEM, METOT.",
-    "storyEn": "Mnemonic: [METOD] -> YÖNTEM",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "This method is simple.",
     "exampleTr": "Bu yöntem basittir.",
     "level": "A1",
@@ -7500,8 +7500,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The task is repetitive.",
     "exampleTr": "Görev tekrarlamalıdır.",
-    "storyEn": "Mnemonic: [REPETİTİV] -> TEKRARLAMALI",
-    "storyTr": "Üretim bandında REPETİTİV (repetitive) hareketler yapılıyordu; işçi aynı şeyi tekrar tekrar TEKRARLAMALI yapıyordu. REPETITIVE = TEKRARLAMALI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Repetitive, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7512,8 +7512,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ripetıtiv",
-    "mnemonicHook": "REPETİTİV",
-    "mnemonicScene": "Üretim bandında REPETİTİV (repetitive) hareketler yapılıyordu; işçi aynı şeyi tekrar tekrar TEKRARLAMALI yapıyordu. REPETITIVE = TEKRARLAMALI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Phenomena",
@@ -7523,8 +7523,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "These phenomena are rare.",
     "exampleTr": "Bu olgular nadirdir.",
-    "storyEn": "Mnemonic: [FENOMENA] -> OLGULAR",
-    "storyTr": "Gökyüzünde FENOMENA (phenomena) denen tuhaf olgular belirdi; bilim insanları OLGULAR'ı not etti. PHENOMENA = OLGULAR, FENOMENLER.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Phenomena, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7535,8 +7535,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "finomina",
-    "mnemonicHook": "FENOMENA",
-    "mnemonicScene": "Gökyüzünde FENOMENA (phenomena) denen tuhaf olgular belirdi; bilim insanları OLGULAR'ı not etti. PHENOMENA = OLGULAR, FENOMENLER."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Laws",
@@ -7546,8 +7546,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "We must follow the laws.",
     "exampleTr": "Yasalara uymalıyız.",
-    "storyEn": "Mnemonic: [LOZ] -> YASALAR",
-    "storyTr": "LOZ adlı kitap ülkenin kanunlarını tek tek sıraladı ve her maddeyi açıkça anlattı. YASALAR, herkesin uyması gereken kuralları bir arada tutuyordu. LAWS = YASALAR, KANUNLAR.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Laws, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7558,8 +7558,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "loz",
-    "mnemonicHook": "LOZ",
-    "mnemonicScene": "LOZ adlı kitap ülkenin kanunlarını tek tek sıraladı ve her maddeyi açıkça anlattı. YASALAR, herkesin uyması gereken kuralları bir arada tutuyordu. LAWS = YASALAR, KANUNLAR."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Seat height",
@@ -7569,8 +7569,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Check the seat height.",
     "exampleTr": "Koltuk yüksekliğini kontrol et.",
-    "storyEn": "Mnemonic: [SİT HAYT] -> KOLTUK YÜKSEKLIĞI",
-    "storyTr": "Koltuğun SİT HAYT ayarı bir tuşla değiştirildi ve oturan kişi rahat bir yüksekliğe ulaştı. KOLTUK YÜKSEKLİĞİ herkes için kolayca ayarlanabiliyordu. SEAT HEIGHT = KOLTUK YÜKSEKLİĞİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Seat height, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7581,8 +7581,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "siit hayt",
-    "mnemonicHook": "SİT HAYT",
-    "mnemonicScene": "Koltuğun SİT HAYT ayarı bir tuşla değiştirildi ve oturan kişi rahat bir yüksekliğe ulaştı. KOLTUK YÜKSEKLİĞİ herkes için kolayca ayarlanabiliyordu. SEAT HEIGHT = KOLTUK YÜKSEKLİĞİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Overheat",
@@ -7592,8 +7592,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The motor can overheat.",
     "exampleTr": "Motor aşırı ısınabilir.",
-    "storyEn": "Mnemonic: [OVERHİT] -> AŞIRI ISINMAK",
-    "storyTr": "Yokuşta motor OVERHİT (overheat) oldu, sıcaklık göstergesi AŞIRI ISINMAK'ı gösterdi. OVERHEAT = AŞIRI ISINMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Overheat, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7604,8 +7604,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ouvır hiit",
-    "mnemonicHook": "OVERHİT",
-    "mnemonicScene": "Yokuşta motor OVERHİT (overheat) oldu, sıcaklık göstergesi AŞIRI ISINMAK'ı gösterdi. OVERHEAT = AŞIRI ISINMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Illuminate",
@@ -7615,8 +7615,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The lamp can illuminate the room.",
     "exampleTr": "Lamba odayı aydınlatabilir.",
-    "storyEn": "Mnemonic: [İLUMİNEYT] -> AYDINLATMAK",
-    "storyTr": "Gece projektör İLUMİNEYT edince sahne ışıl ışıl oldu; İLUMİNEYT ile ışık saçıldı. ILLUMINATE = AYDINLATMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Illuminate, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7627,8 +7627,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "iluumineyt",
-    "mnemonicHook": "İLUMİNEYT",
-    "mnemonicScene": "Gece projektör İLUMİNEYT edince sahne ışıl ışıl oldu; İLUMİNEYT ile ışık saçıldı. ILLUMINATE = AYDINLATMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Bottom",
@@ -7638,8 +7638,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The tool is at the bottom.",
     "exampleTr": "Alet en alttadır.",
-    "storyEn": "Mnemonic: [BOTUM] -> ALT",
-    "storyTr": "BOTUM adlı çuval deponun en ALT'ına çökmüştü ve kimse onu oradan çıkaramadı. Yıllarca altta kalan çuvalın üstüne başka kutular dizildi. BOTTOM = ALT, DİP.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Bottom, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7650,8 +7650,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "botım",
-    "mnemonicHook": "BOTUM",
-    "mnemonicScene": "BOTUM adlı çuval deponun en ALT'ına çökmüştü ve kimse onu oradan çıkaramadı. Yıllarca altta kalan çuvalın üstüne başka kutular dizildi. BOTTOM = ALT, DİP."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Buoyant",
@@ -7661,8 +7661,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This material is buoyant.",
     "exampleTr": "Bu malzeme yüzer.",
-    "storyEn": "Mnemonic: [BOYYANT] -> YÜZEN",
-    "storyTr": "BOYYANT sal dalgaların üstünde kaldı ve sallanırken bile batmadı. YÜZEN yapısı sayesinde tekne sakin suda yavaşça ilerledi. BUOYANT = YÜZEN, BATMAZ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Buoyant, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7673,8 +7673,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "boyınt",
-    "mnemonicHook": "BOYYANT",
-    "mnemonicScene": "BOYYANT sal dalgaların üstünde kaldı ve sallanırken bile batmadı. YÜZEN yapısı sayesinde tekne sakin suda yavaşça ilerledi. BUOYANT = YÜZEN, BATMAZ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Lining",
@@ -7684,8 +7684,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The lining is damaged.",
     "exampleTr": "Astar hasarlıdır.",
-    "storyEn": "Mnemonic: [LAYNİNG] -> ASTAR",
-    "storyTr": "LAYNİNG kaportanın içini sarıp yumuşak bir ASTAR tabakası oluşturdu. Bu iç kaplama sayesinde metal yüzey sürtünmeden korundu. LINING = ASTAR, İÇ KAPLAMA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Lining, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7696,8 +7696,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "layning",
-    "mnemonicHook": "LAYNİNG",
-    "mnemonicScene": "LAYNİNG kaportanın içini sarıp yumuşak bir ASTAR tabakası oluşturdu. Bu iç kaplama sayesinde metal yüzey sürtünmeden korundu. LINING = ASTAR, İÇ KAPLAMA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Stain-resistant",
@@ -7707,8 +7707,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This fabric is stain-resistant.",
     "exampleTr": "Bu kumaş leke tutmaz.",
-    "storyEn": "Mnemonic: [STEYN RESİSTANT] -> LEKE TUTMAZ",
-    "storyTr": "Koltuk kumaşı STEYN RESİSTANT (stain-resistant) çıktı; kahve dökülse bile LEKE TUTMAZ bir yüzeye sahipti. STAIN-RESISTANT = LEKE TUTMAZ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Stain-resistant, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7719,8 +7719,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "steyn rizistınt",
-    "mnemonicHook": "STEYN RESİSTANT",
-    "mnemonicScene": "Koltuk kumaşı STEYN RESİSTANT (stain-resistant) çıktı; kahve dökülse bile LEKE TUTMAZ bir yüzeye sahipti. STAIN-RESISTANT = LEKE TUTMAZ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Inner pane",
@@ -7730,8 +7730,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The inner pane is clear.",
     "exampleTr": "İç cam nettir.",
-    "storyEn": "Mnemonic: [İNNER PEYN] -> IÇ PENCERE CAMI",
-    "storyTr": "İNNER PEYN çerçevenin içine sıkıca oturdu ve pencerenin ikinci katmanını oluşturdu. İÇ PENCERE CAMI sayesinde odanın sıcağı dışarı kaçmadı. INNER PANE = İÇ PENCERE CAMI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Inner pane, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7742,8 +7742,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "inır peyn",
-    "mnemonicHook": "İNNER PEYN",
-    "mnemonicScene": "İNNER PEYN çerçevenin içine sıkıca oturdu ve pencerenin ikinci katmanını oluşturdu. İÇ PENCERE CAMI sayesinde odanın sıcağı dışarı kaçmadı. INNER PANE = İÇ PENCERE CAMI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Clear plastic",
@@ -7753,8 +7753,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The clear plastic is clean.",
     "exampleTr": "Şeffaf plastik temizdir.",
-    "storyEn": "Mnemonic: [PEYN] -> ŞEFFAF PLASTIK",
-    "storyTr": "Cam kırılınca PEYN (pane) parçaları yere düştü; tek bir CAM LEVHA bile sağlam kalmadı. PANE = CAM LEVHA, PENCERE CAMI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Clear plastic, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7765,8 +7765,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "klir plastik",
-    "mnemonicHook": "PEYN",
-    "mnemonicScene": "Cam kırılınca PEYN (pane) parçaları yere düştü; tek bir CAM LEVHA bile sağlam kalmadı. PANE = CAM LEVHA, PENCERE CAMI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Inner",
@@ -7776,8 +7776,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The inner door is open.",
     "exampleTr": "İç kapı açıktır.",
-    "storyEn": "Mnemonic: [İNNER] -> IÇ",
-    "storyTr": "İNNER kapısını açınca odanın İÇ kısmı gözlerin önüne serildi. Sessiz koridor bu DAHİLİ bölümü bir saklı oda gibi gösteriyordu. INNER = İÇ, DAHİLİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Inner, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7788,8 +7788,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "inır",
-    "mnemonicHook": "İNNER",
-    "mnemonicScene": "İNNER kapısını açınca odanın İÇ kısmı gözlerin önüne serildi. Sessiz koridor bu DAHİLİ bölümü bir saklı oda gibi gösteriyordu. INNER = İÇ, DAHİLİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Pane",
@@ -7799,8 +7799,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The pane is broken.",
     "exampleTr": "Cam kırılmıştır.",
-    "storyEn": "Mnemonic: [CLİYR PLASTİK] -> CAM LEVHA",
-    "storyTr": "Kapak CLİYR PLASTİK (clear plastic) olduğu için ürün ŞEFFAF PLASTİK'in ardından net görünüyordu. CLEAR PLASTIC = ŞEFFAF PLASTİK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Pane, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7811,8 +7811,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "peyn",
-    "mnemonicHook": "CLİYR PLASTİK",
-    "mnemonicScene": "Kapak CLİYR PLASTİK (clear plastic) olduğu için ürün ŞEFFAF PLASTİK'in ardından net görünüyordu. CLEAR PLASTIC = ŞEFFAF PLASTİK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Wooden",
@@ -7822,8 +7822,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The wooden door is old.",
     "exampleTr": "Ahşap kapı eskidir.",
-    "storyEn": "Mnemonic: [VUDN] -> AHŞAP",
-    "storyTr": "VUDN masa tamamen ahşaptan yapılmıştı ve dokunduğunda sıcak bir his veriyordu. AHŞAP kokusu odayı sarıp misafirlerin hepsini içeri çekti. WOODEN = AHŞAP, TAHTA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Wooden, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7834,8 +7834,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "vudın",
-    "mnemonicHook": "VUDN",
-    "mnemonicScene": "VUDN masa tamamen ahşaptan yapılmıştı ve dokunduğunda sıcak bir his veriyordu. AHŞAP kokusu odayı sarıp misafirlerin hepsini içeri çekti. WOODEN = AHŞAP, TAHTA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Lap belt",
@@ -7845,8 +7845,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Fasten the lap belt.",
     "exampleTr": "Karın kemerini bağla.",
-    "storyEn": "Mnemonic: [LEP BELT] -> KARIN KEMERI",
-    "storyTr": "LEP BELT yolcunun kucağına sıkıca bağlandı ve sarsıntıda yerinden kıpırdamadı. KARIN KEMERİ sayesinde yolcu uçuş boyunca güvende kaldı. LAP BELT = KARIN KEMERİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Lap belt, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7857,8 +7857,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "lep belt",
-    "mnemonicHook": "LEP BELT",
-    "mnemonicScene": "LEP BELT yolcunun kucağına sıkıca bağlandı ve sarsıntıda yerinden kıpırdamadı. KARIN KEMERİ sayesinde yolcu uçuş boyunca güvende kaldı. LAP BELT = KARIN KEMERİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Indicate",
@@ -7868,8 +7868,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The light indicates a fault.",
     "exampleTr": "Işık bir arızayı gösterir.",
-    "storyEn": "Mnemonic: [İNDİKEYT] -> GÖSTERMEK",
-    "storyTr": "Sürücü sinyali İNDİKEYT (indicate) için yaktı; lamba GÖSTERMEK üzere yanıp söndü. INDICATE = GÖSTERMEK, BELİRTMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Indicate, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7880,8 +7880,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "indıkeyt",
-    "mnemonicHook": "İNDİKEYT",
-    "mnemonicScene": "Sürücü sinyali İNDİKEYT (indicate) için yaktı; lamba GÖSTERMEK üzere yanıp söndü. INDICATE = GÖSTERMEK, BELİRTMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Possession",
@@ -7891,8 +7891,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The book is in my possession.",
     "exampleTr": "Kitap benim mülkiyetimdedir.",
-    "storyEn": "Mnemonic: [POZESYON] -> SAHIPLIK",
-    "storyTr": "Adanın POZESYON'u artık benim; kâğıtlar imzalanınca bütün toprak üzerimde kaldı. SAHİPLİK belgeleriyle herkes bu hakkı tanıdı. POSSESSION = SAHİPLİK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Possession, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7903,8 +7903,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "pızeşın",
-    "mnemonicHook": "POZESYON",
-    "mnemonicScene": "Adanın POZESYON'u artık benim; kâğıtlar imzalanınca bütün toprak üzerimde kaldı. SAHİPLİK belgeleriyle herkes bu hakkı tanıdı. POSSESSION = SAHİPLİK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Attribute",
@@ -7914,8 +7914,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Do not attribute the fault to him.",
     "exampleTr": "Arızayı ona atfetme.",
-    "storyEn": "Mnemonic: [ETRİBYUT] -> ATFETMEK",
-    "storyTr": "Başarı, ekibin çalışmasına ETRİBYUT (attribute) edildi: takıma ATFETMEK üzere herkes adını söyledi. ATTRIBUTE = ATFETMEK, BAĞLAMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Attribute, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7926,8 +7926,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "etribyut",
-    "mnemonicHook": "ETRİBYUT",
-    "mnemonicScene": "Başarı, ekibin çalışmasına ETRİBYUT (attribute) edildi: takıma ATFETMEK üzere herkes adını söyledi. ATTRIBUTE = ATFETMEK, BAĞLAMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Restraint system",
@@ -7937,8 +7937,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The restraint system is safe.",
     "exampleTr": "Bağlama sistemi güvenlidir.",
-    "storyEn": "Mnemonic: [RİSTREYNT] -> BAĞLAMA",
-    "storyTr": "RİSTREYNT sistemi çocuğu koltuğa sıkıca bağladı ve çocuk hiç kıpırdayamadı. BAĞLAMA SİSTEMİ sayesinde yolculuk boyunca güvenli kaldı. RESTRAINT SYSTEM = BAĞLAMA SİSTEMİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Restraint system, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7949,8 +7949,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ristre int sistım",
-    "mnemonicHook": "RİSTREYNT",
-    "mnemonicScene": "RİSTREYNT sistemi çocuğu koltuğa sıkıca bağladı ve çocuk hiç kıpırdayamadı. BAĞLAMA SİSTEMİ sayesinde yolculuk boyunca güvenli kaldı. RESTRAINT SYSTEM = BAĞLAMA SİSTEMİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Shoulder harness",
@@ -7960,8 +7960,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Check the shoulder harness.",
     "exampleTr": "Omuz kemerini kontrol et.",
-    "storyEn": "Mnemonic: [ŞOLDER HARNES] -> OMUZ KEMERI",
-    "storyTr": "ŞOLDER HARNESS pilotun omzuna oturdu ve gövdesini koltuğa sabitledi. OMUZ KEMERİ sert frenlerde bile onu yerinde tuttu. SHOULDER HARNESS = OMUZ KEMERİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Shoulder harness, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7972,8 +7972,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "şoldır harnıs",
-    "mnemonicHook": "ŞOLDER HARNES",
-    "mnemonicScene": "ŞOLDER HARNESS pilotun omzuna oturdu ve gövdesini koltuğa sabitledi. OMUZ KEMERİ sert frenlerde bile onu yerinde tuttu. SHOULDER HARNESS = OMUZ KEMERİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Tray",
@@ -7983,8 +7983,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The tray is clean.",
     "exampleTr": "Tepsi temizdir.",
-    "storyEn": "Mnemonic: [TREY] -> TEPSI",
-    "storyTr": "TREY'in üstünde çay bardakları sıra sıra dizilmişti ve garson onu dikkatle taşıdı. TEPSİ hiç sallanmadan masaya ulaşıp hepsini düzgünce bıraktı. TRAY = TEPSİ, TABLA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Tray, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -7995,8 +7995,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "trey",
-    "mnemonicHook": "TREY",
-    "mnemonicScene": "TREY'in üstünde çay bardakları sıra sıra dizilmişti ve garson onu dikkatle taşıdı. TEPSİ hiç sallanmadan masaya ulaşıp hepsini düzgünce bıraktı. TRAY = TEPSİ, TABLA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fold down",
@@ -8006,8 +8006,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Fold down the tray.",
     "exampleTr": "Tepsiyi aşağı katla.",
-    "storyEn": "Mnemonic: [FOLD DAUN] -> AŞAĞI KATLAMAK",
-    "storyTr": "Masa FOLD DAUN düğmesiyle AŞAĞI KATLANDI; FOLD DAUN komutu masayı yolcunun önüne indirdi. FOLD DOWN = AŞAĞI KATLAMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fold down, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8018,18 +8018,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fold daun",
-    "mnemonicHook": "FOLD DAUN",
-    "mnemonicScene": "Masa FOLD DAUN düğmesiyle AŞAĞI KATLANDI; FOLD DAUN komutu masayı yolcunun önüne indirdi. FOLD DOWN = AŞAĞI KATLAMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Windscreen",
     "turkish": "ön cam",
     "phonetic": "/vindskriin/",
     "pronunciationTr": "vindskriin",
-    "mnemonicHook": "WİND SKRİN",
-    "mnemonicScene": "WİND SKRİN'e vuran yağmur damlaları silecekle temizlendi ve camın önü açıldı. ÖN CAM tertemiz kalınca sürücü yolu net gördü. WINDSCREEN = ÖN CAM.",
-    "storyTr": "WİND SKRİN'e vuran yağmur damlaları silecekle temizlendi ve camın önü açıldı. ÖN CAM tertemiz kalınca sürücü yolu net gördü. WINDSCREEN = ÖN CAM.",
-    "storyEn": "Mnemonic: [WİND SKRİN] -> ÖN CAM",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "The windscreen is clean.",
     "exampleTr": "Ön cam temizdir.",
     "level": "A1",
@@ -8050,8 +8050,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The stowage is full.",
     "exampleTr": "Depolama alanı doludur.",
-    "storyEn": "Mnemonic: [STOUİJ] -> EŞYA KOYMA ALANI",
-    "storyTr": "STOUİJ bölmesinde her eşyanın yeri belliydi ve kimse bir şeyi kaybetmedi. EŞYA KOYMA ALANI düzenli tutulduğu için yolculuk boyunca her şey elin altındaydı. STOWAGE = EŞYA KOYMA ALANI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Stowage, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8062,8 +8062,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "stouıc",
-    "mnemonicHook": "STOUİJ",
-    "mnemonicScene": "STOUİJ bölmesinde her eşyanın yeri belliydi ve kimse bir şeyi kaybetmedi. EŞYA KOYMA ALANI düzenli tutulduğu için yolculuk boyunca her şey elin altındaydı. STOWAGE = EŞYA KOYMA ALANI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Unit",
@@ -8073,8 +8073,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This unit is small.",
     "exampleTr": "Bu birim küçüktür.",
-    "storyEn": "Mnemonic: [YUNİT] -> BIRIM",
-    "storyTr": "Bina YUNİT (unit) denilen bağımsız bölümlerden oluşuyordu; her BİRİM kendi kapısına sahipti. UNIT = BİRİM.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Unit, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8085,18 +8085,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "yunıt",
-    "mnemonicHook": "YUNİT",
-    "mnemonicScene": "Bina YUNİT (unit) denilen bağımsız bölümlerden oluşuyordu; her BİRİM kendi kapısına sahipti. UNIT = BİRİM."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Closet",
     "turkish": "dolap",
     "phonetic": "/klozıt/",
     "pronunciationTr": "klozıt",
-    "mnemonicHook": "KLOZET",
-    "mnemonicScene": "KLOZET kapısını açtığında içindeki elbiseler birden dışarı döküldü. DOLAP'ın doluluğu bu kadar fazla olunca kapıyı kapatmak zor oldu. CLOSET = DOLAP.",
-    "storyTr": "KLOZET kapısını açtığında içindeki elbiseler birden dışarı döküldü. DOLAP'ın doluluğu bu kadar fazla olunca kapıyı kapatmak zor oldu. CLOSET = DOLAP.",
-    "storyEn": "Mnemonic: [KLOZET] -> DOLAP",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "The closet is empty.",
     "exampleTr": "Dolap boştur.",
     "level": "A1",
@@ -8117,8 +8117,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The sensor can detect smoke.",
     "exampleTr": "Sensör dumanı algılayabilir.",
-    "storyEn": "Mnemonic: [DİTEKT] -> ALGILAMAK",
-    "storyTr": "Yangın sensörü dumanı DİTEKT (detect) etti; alarm ALGILAMAK için hemen çalmaya başladı. DETECT = ALGILAMAK, TESPİT ETMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Detect, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8129,8 +8129,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ditekt",
-    "mnemonicHook": "DİTEKT",
-    "mnemonicScene": "Yangın sensörü dumanı DİTEKT (detect) etti; alarm ALGILAMAK için hemen çalmaya başladı. DETECT = ALGILAMAK, TESPİT ETMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Provide",
@@ -8140,8 +8140,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "We provide clean water.",
     "exampleTr": "Temiz su sağlarız.",
-    "storyEn": "Mnemonic: [PROVAYD] -> SAĞLAMAK",
-    "storyTr": "Otel, misafirlere yemek PROVAYD edip SAĞLAMAK için şef tuttu; PROVAYD sözü herkesi rahatlattı. PROVIDE = SAĞLAMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Provide, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8152,8 +8152,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "provayd",
-    "mnemonicHook": "PROVAYD",
-    "mnemonicScene": "Otel, misafirlere yemek PROVAYD edip SAĞLAMAK için şef tuttu; PROVAYD sözü herkesi rahatlattı. PROVIDE = SAĞLAMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Adjustable seat",
@@ -8163,8 +8163,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The seat is adjustable.",
     "exampleTr": "Koltuk ayarlanabilir.",
-    "storyEn": "Mnemonic: [ADCUSTİBIL SİT] -> AYARLANABILIR KOLTUK",
-    "storyTr": "Sürücü ADCUSTİBIL SİT'i kendi boyuna göre AYARLANABİLİR KOLTUK olarak ayarladı. ADJUSTABLE SEAT = AYARLANABİLİR KOLTUK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Adjustable seat, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8175,8 +8175,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ıc cestıbıl siit",
-    "mnemonicHook": "ADCUSTİBIL SİT",
-    "mnemonicScene": "Sürücü ADCUSTİBIL SİT'i kendi boyuna göre AYARLANABİLİR KOLTUK olarak ayarladı. ADJUSTABLE SEAT = AYARLANABİLİR KOLTUK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Flight crew",
@@ -8186,8 +8186,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The flight crew is ready.",
     "exampleTr": "Uçuş ekibi hazır.",
-    "storyEn": "Mnemonic: [FLAYT KREW] -> UÇUŞ EKIBI",
-    "storyTr": "FLAYT KREW pilot ve hosteslerden oluşuyordu ve herkes kendi görevini biliyordu. UÇUŞ EKİBİ, yolcuları güvenle hedefe ulaştırmak için hazırdı. FLIGHT CREW = UÇUŞ EKİBİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Flight crew, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8198,8 +8198,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "flayt kruu",
-    "mnemonicHook": "FLAYT KREW",
-    "mnemonicScene": "FLAYT KREW pilot ve hosteslerden oluşuyordu ve herkes kendi görevini biliyordu. UÇUŞ EKİBİ, yolcuları güvenle hedefe ulaştırmak için hazırdı. FLIGHT CREW = UÇUŞ EKİBİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "RH (Right Hand)",
@@ -8209,8 +8209,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The part is on the RH side.",
     "exampleTr": "Parça sağ taraftadır.",
-    "storyEn": "Mnemonic: [RH] -> SAĞ TARAF",
-    "storyTr": "RH (right hand) butonu kenarda: SAĞ TARAF'a dönülünce sadece sağ elle basılabiliyordu. RH = SAĞ TARAF.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component RH (Right Hand), aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8221,8 +8221,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ar eyç",
-    "mnemonicHook": "RH",
-    "mnemonicScene": "RH (right hand) butonu kenarda: SAĞ TARAF'a dönülünce sadece sağ elle basılabiliyordu. RH = SAĞ TARAF."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "LH (Left Hand)",
@@ -8232,8 +8232,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The part is on the LH side.",
     "exampleTr": "Parça sol taraftadır.",
-    "storyEn": "Mnemonic: [LH] -> SOL TARAF",
-    "storyTr": "LH (left hand) düğmesi SOL TARAF'ta; kolu sol elle kavrayınca tam yerine oturdu. LH = SOL TARAF.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component LH (Left Hand), aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8244,8 +8244,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "el eyç",
-    "mnemonicHook": "LH",
-    "mnemonicScene": "LH (left hand) düğmesi SOL TARAF'ta; kolu sol elle kavrayınca tam yerine oturdu. LH = SOL TARAF."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Hook and loop",
@@ -8255,8 +8255,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The hook and loop is closed.",
     "exampleTr": "Cırt cırt kapalıdır.",
-    "storyEn": "Mnemonic: [HUK VE LUP] -> CIRT CIRT",
-    "storyTr": "Çocuk HUK VE LUP (hook and loop) bandını açınca \"CIRT CIRT\" diye ses çıktı; kâğıt yapışıp tuttu. HOOK AND LOOP = CIRT CIRT.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Hook and loop, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8267,8 +8267,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "huk end luup",
-    "mnemonicHook": "HUK VE LUP",
-    "mnemonicScene": "Çocuk HUK VE LUP (hook and loop) bandını açınca \"CIRT CIRT\" diye ses çıktı; kâğıt yapışıp tuttu. HOOK AND LOOP = CIRT CIRT."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Observer",
@@ -8278,8 +8278,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The observer is here.",
     "exampleTr": "Gözlemci burada.",
-    "storyEn": "Mnemonic: [OBZÖRVER] -> GÖZLEMCI",
-    "storyTr": "OBZÖRVER (observer) köşede oturan GÖZLEMCİ, sessizce her hareketi kaydetti. OBSERVER = GÖZLEMCİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Observer, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8290,8 +8290,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ıbzörvır",
-    "mnemonicHook": "OBZÖRVER",
-    "mnemonicScene": "OBZÖRVER (observer) köşede oturan GÖZLEMCİ, sessizce her hareketi kaydetti. OBSERVER = GÖZLEMCİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "First officer",
@@ -8301,8 +8301,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The first officer is ready.",
     "exampleTr": "Yardımcı pilot hazır.",
-    "storyEn": "Mnemonic: [FÖRST ÖFİSER] -> IKINCI PILOT",
-    "storyTr": "FÖRST ÖFİSER kaptanın yanında oturup panel düğmelerini tek tek kontrol etti. İKİNCİ PİLOT, uçuşun her aşamasında ekibe destek oldu. FIRST OFFICER = İKİNCİ PİLOT.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component First officer, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8313,8 +8313,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "först ofisır",
-    "mnemonicHook": "FÖRST ÖFİSER",
-    "mnemonicScene": "FÖRST ÖFİSER kaptanın yanında oturup panel düğmelerini tek tek kontrol etti. İKİNCİ PİLOT, uçuşun her aşamasında ekibe destek oldu. FIRST OFFICER = İKİNCİ PİLOT."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Flight compartment",
@@ -8324,8 +8324,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The flight compartment is clean.",
     "exampleTr": "Kokpit temizdir.",
-    "storyEn": "Mnemonic: [FLAYT KOMPARTMENT] -> UÇUŞ KOMPARTIMANI",
-    "storyTr": "FLAYT KOMPARTMENT'ın kapısı kilitliydi ve dışarıdan kimse içeri giremedi. UÇUŞ KOMPARTIMANI'nın güvenliği, uçuş boyunca titizlikle korunuyordu. FLIGHT COMPARTMENT = UÇUŞ KOMPARTIMANI, KOKPİT.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Flight compartment, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8336,8 +8336,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "flayt kımpartmınt",
-    "mnemonicHook": "FLAYT KOMPARTMENT",
-    "mnemonicScene": "FLAYT KOMPARTMENT'ın kapısı kilitliydi ve dışarıdan kimse içeri giremedi. UÇUŞ KOMPARTIMANI'nın güvenliği, uçuş boyunca titizlikle korunuyordu. FLIGHT COMPARTMENT = UÇUŞ KOMPARTIMANI, KOKPİT."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Safety harness",
@@ -8347,8 +8347,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Wear the safety harness.",
     "exampleTr": "Emniyet kemerini tak.",
-    "storyEn": "Mnemonic: [SEYFTİ HARNES] -> EMNIYET KEMERI TAKIMI",
-    "storyTr": "SEYFTİ HARNES teknisyenin belini sarıp omzuna doğru bağlandı. EMNİYET KEMERİ TAKIMI onu yüksekte bile sağlam tuttu ve düşmesini önledi. SAFETY HARNESS = EMNİYET KEMERİ TAKIMI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Safety harness, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8359,8 +8359,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "seyfti harnıs",
-    "mnemonicHook": "SEYFTİ HARNES",
-    "mnemonicScene": "SEYFTİ HARNES teknisyenin belini sarıp omzuna doğru bağlandı. EMNİYET KEMERİ TAKIMI onu yüksekte bile sağlam tuttu ve düşmesini önledi. SAFETY HARNESS = EMNİYET KEMERİ TAKIMI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Flotation device",
@@ -8370,8 +8370,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The flotation device is ready.",
     "exampleTr": "Yüzdürme cihazı hazır.",
-    "storyEn": "Mnemonic: [FLOTEYŞN DİVAYS] -> YÜZDÜRME CIHAZI",
-    "storyTr": "FLOTEYŞN DİVAYS yolcuyu suda tuttu ve başını suyun üstünde bıraktı. YÜZDÜRME CİHAZI sayesinde kimse batmadan kıyıya ulaştı. FLOTATION DEVICE = YÜZDÜRME CİHAZI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Flotation device, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8382,8 +8382,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "flouteyşın divays",
-    "mnemonicHook": "FLOTEYŞN DİVAYS",
-    "mnemonicScene": "FLOTEYŞN DİVAYS yolcuyu suda tuttu ve başını suyun üstünde bıraktı. YÜZDÜRME CİHAZI sayesinde kimse batmadan kıyıya ulaştı. FLOTATION DEVICE = YÜZDÜRME CİHAZI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Ditching",
@@ -8393,8 +8393,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Ditching is an emergency.",
     "exampleTr": "Denize zorunlu iniş acil durumdur.",
-    "storyEn": "Mnemonic: [DİTİNG] -> DENIZE ZORUNLU INIŞ",
-    "storyTr": "Arızalı uçak DİTİNG (ditching) yaptı: DENİZE ZORUNLU İNİŞ ile suya kondu, yolcular güvendeydi. DITCHING = DENİZE ZORUNLU İNİŞ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Ditching, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8405,8 +8405,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "diçing",
-    "mnemonicHook": "DİTİNG",
-    "mnemonicScene": "Arızalı uçak DİTİNG (ditching) yaptı: DENİZE ZORUNLU İNİŞ ile suya kondu, yolcular güvendeydi. DITCHING = DENİZE ZORUNLU İNİŞ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Recess",
@@ -8416,8 +8416,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The screw is in the recess.",
     "exampleTr": "Vida girintinin içindedir.",
-    "storyEn": "Mnemonic: [RİSES] -> GIRINTI",
-    "storyTr": "Duvarın RİSES'inde gizli bir anahtar bulundu ve küçük bir yuvaya sığmıştı. GİRİNTİ'nin dibinde saklanan anahtar yıllarca kimseye görünmemişti. RECESS = GİRİNTİ, YUVA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Recess, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8428,8 +8428,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "riises",
-    "mnemonicHook": "RİSES",
-    "mnemonicScene": "Duvarın RİSES'inde gizli bir anahtar bulundu ve küçük bir yuvaya sığmıştı. GİRİNTİ'nin dibinde saklanan anahtar yıllarca kimseye görünmemişti. RECESS = GİRİNTİ, YUVA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Wheel",
@@ -8439,8 +8439,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The wheel is large.",
     "exampleTr": "Tekerlek büyüktür.",
-    "storyEn": "Mnemonic: [WİYL] -> TEKERLEK",
-    "storyTr": "WİYL bisikletin ön tarafında hızla döndü ve yolu bir anda yuttu. TEKERLEK'in hızı sayesinde bisiklet tepeyi kolayca aştı. WHEEL = TEKERLEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Wheel, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8451,8 +8451,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "viil",
-    "mnemonicHook": "WİYL",
-    "mnemonicScene": "WİYL bisikletin ön tarafında hızla döndü ve yolu bir anda yuttu. TEKERLEK'in hızı sayesinde bisiklet tepeyi kolayca aştı. WHEEL = TEKERLEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Tight pad",
@@ -8462,8 +8462,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The pad is tight.",
     "exampleTr": "Ped sıkıdır.",
-    "storyEn": "Mnemonic: [TAYT PEYD] -> SIKI YASTIK",
-    "storyTr": "Dizi TAYT PEYD'e oturdu ve yastık bacağı sıkıca sardı. SIKI YASTIK destek olarak dizi koruyup ağrıyı hafifletti. TIGHT PAD = SIKI YASTIK, DESTEK PEDİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Tight pad, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8474,18 +8474,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "tayt ped",
-    "mnemonicHook": "TAYT PEYD",
-    "mnemonicScene": "Dizi TAYT PEYD'e oturdu ve yastık bacağı sıkıca sardı. SIKI YASTIK destek olarak dizi koruyup ağrıyı hafifletti. TIGHT PAD = SIKI YASTIK, DESTEK PEDİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Bogie unit",
     "turkish": "raylı kızak takımı",
     "phonetic": "/bogi yunıt/",
     "pronunciationTr": "bogi yunıt",
-    "mnemonicHook": "BOGİ YUNİT",
-    "mnemonicScene": "BOGİ YUNİT raylarda vagonu taşıdı ve tren sessizce ilerledi. RAYLI KIZAK TAKIMI sayesinde vagonlar virajlarda bile sağlam kaldı. BOGIE UNIT = RAYLI KIZAK TAKIMI.",
-    "storyTr": "BOGİ YUNİT raylarda vagonu taşıdı ve tren sessizce ilerledi. RAYLI KIZAK TAKIMI sayesinde vagonlar virajlarda bile sağlam kaldı. BOGIE UNIT = RAYLI KIZAK TAKIMI.",
-    "storyEn": "Mnemonic: [BOGİ YUNİT] -> RAYLI KIZAK TAKIMI",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "The bogie unit moves smoothly.",
     "exampleTr": "Raylı kızak takımı rahatça hareket eder.",
     "level": "A1",
@@ -8506,8 +8506,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This tool makes work easy.",
     "exampleTr": "Bu alet işi kolaylaştırır.",
-    "storyEn": "Mnemonic: [MEYK İZİ] -> KOLAYLAŞTIRMAK",
-    "storyTr": "MEYK İZİ rampası yapıldı ve yaşlı adamın merdiven çıkma zorluğu ortadan kalktı. KOLAYLAŞTIRMAK için yapılan bu düzenleme herkesin işini hafifletti. MAKE EASY = KOLAYLAŞTIRMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Make easy, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8518,8 +8518,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "meyk iizi",
-    "mnemonicHook": "MEYK İZİ",
-    "mnemonicScene": "MEYK İZİ rampası yapıldı ve yaşlı adamın merdiven çıkma zorluğu ortadan kalktı. KOLAYLAŞTIRMAK için yapılan bu düzenleme herkesin işini hafifletti. MAKE EASY = KOLAYLAŞTIRMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Spring-loaded",
@@ -8529,8 +8529,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The switch is spring-loaded.",
     "exampleTr": "Anahtar yaylıdır.",
-    "storyEn": "Mnemonic: [SPRİNG LOUDED] -> YAYLI",
-    "storyTr": "SPRİNG LOUDED kapak bastırılınca kendiliğinden kapandı ve hiç takılmadı. YAYLI mekanizma sayesinde kapak her defasında düzgün kapandı. SPRING-LOADED = YAYLI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Spring-loaded, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8541,8 +8541,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "spring loudıd",
-    "mnemonicHook": "SPRİNG LOUDED",
-    "mnemonicScene": "SPRİNG LOUDED kapak bastırılınca kendiliğinden kapandı ve hiç takılmadı. YAYLI mekanizma sayesinde kapak her defasında düzgün kapandı. SPRING-LOADED = YAYLI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Knob",
@@ -8552,8 +8552,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Turn the knob slowly.",
     "exampleTr": "Düğmeyi yavaşça çevir.",
-    "storyEn": "Mnemonic: [NOB] -> DÜĞME",
-    "storyTr": "NOB çevrildi ve radyonun sesi yavaş yavaş açıldı. DÜĞME'nin tek bir dokunuşu bile müziği tam istediğin seviyeye getirdi. KNOB = DÜĞME, TOPUZ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Knob, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8564,8 +8564,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "nab",
-    "mnemonicHook": "NOB",
-    "mnemonicScene": "NOB çevrildi ve radyonun sesi yavaş yavaş açıldı. DÜĞME'nin tek bir dokunuşu bile müziği tam istediğin seviyeye getirdi. KNOB = DÜĞME, TOPUZ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Dim knob",
@@ -8575,8 +8575,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Turn the dim knob.",
     "exampleTr": "Parlaklık düğmesini çevir.",
-    "storyEn": "Mnemonic: [DİM NOB] -> PARLAKLIK AYAR DÜĞMESI",
-    "storyTr": "DİM NOB ekranı karartıp tekrar açtı ve gözler rahatladı. PARLAKLIK AYAR DÜĞMESİ sayesinde gece kullanımı da çok daha konforlu oldu. DIM KNOB = PARLAKLIK AYAR DÜĞMESİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Dim knob, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8587,8 +8587,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "dim nab",
-    "mnemonicHook": "DİM NOB",
-    "mnemonicScene": "DİM NOB ekranı karartıp tekrar açtı ve gözler rahatladı. PARLAKLIK AYAR DÜĞMESİ sayesinde gece kullanımı da çok daha konforlu oldu. DIM KNOB = PARLAKLIK AYAR DÜĞMESİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fold",
@@ -8598,8 +8598,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Fold the paper once.",
     "exampleTr": "Kâğıdı bir kez katla.",
-    "storyEn": "Mnemonic: [FOLD] -> KATLAMAK",
-    "storyTr": "FOLD edilen kâğıt küçük bir kareye dönüştü ve cebe rahatça sığdı. KATLAMAK işi bitince kâğıt hem düzgün hem sağlam kaldı. FOLD = KATLAMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fold, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8610,8 +8610,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fould",
-    "mnemonicHook": "FOLD",
-    "mnemonicScene": "FOLD edilen kâğıt küçük bir kareye dönüştü ve cebe rahatça sığdı. KATLAMAK işi bitince kâğıt hem düzgün hem sağlam kaldı. FOLD = KATLAMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Interior",
@@ -8621,8 +8621,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The interior is clean.",
     "exampleTr": "İç bölüm temizdir.",
-    "storyEn": "Mnemonic: [İNTİRİYÖR] -> IÇ BÖLÜM",
-    "storyTr": "İNTİRİYÖR ahşap ve deriyle döşenmişti ve girenlerin hepsi bu lüks havayı hemen fark etti. İÇ BÖLÜM'ün sıcaklığı odayı hem şık hem davetkâr yaptı. INTERIOR = İÇ BÖLÜM.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Interior, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8633,8 +8633,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "intiriyır",
-    "mnemonicHook": "İNTİRİYÖR",
-    "mnemonicScene": "İNTİRİYÖR ahşap ve deriyle döşenmişti ve girenlerin hepsi bu lüks havayı hemen fark etti. İÇ BÖLÜM'ün sıcaklığı odayı hem şık hem davetkâr yaptı. INTERIOR = İÇ BÖLÜM."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Attractive",
@@ -8644,8 +8644,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The design is attractive.",
     "exampleTr": "Tasarım çekicidir.",
-    "storyEn": "Mnemonic: [ATRAKTİV] -> ÇEKICI",
-    "storyTr": "ATRAKTİV vitrin herkesi durdurdu ve yoldan geçenler elbiseye bakmadan geçemedi. ÇEKİCİ görünüm sayesinde mağaza o gün çok müşteri ağırladı. ATTRACTIVE = ÇEKİCİ, GÜZEL GÖRÜNÜMLÜ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Attractive, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8656,8 +8656,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ıtraktiv",
-    "mnemonicHook": "ATRAKTİV",
-    "mnemonicScene": "ATRAKTİV vitrin herkesi durdurdu ve yoldan geçenler elbiseye bakmadan geçemedi. ÇEKİCİ görünüm sayesinde mağaza o gün çok müşteri ağırladı. ATTRACTIVE = ÇEKİCİ, GÜZEL GÖRÜNÜMLÜ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Crushed-core",
@@ -8667,8 +8667,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The panel has a crushed core.",
     "exampleTr": "Panelin çekirdeği ezilmiştir.",
-    "storyEn": "Mnemonic: [KRÜŞT KOR] -> EZILMIŞ ÇEKIRDEKLI",
-    "storyTr": "KRÜŞT KOR sandviçin içindeydi ve malzeme hafif ama sağlam kaldı. EZİLMİŞ ÇEKİRDEK yapısı sayesinde yük altında bile şekil bozulmadı. CRUSHED-CORE = EZİLMİŞ ÇEKİRDEKLİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Crushed-core, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8679,8 +8679,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kraşt kor",
-    "mnemonicHook": "KRÜŞT KOR",
-    "mnemonicScene": "KRÜŞT KOR sandviçin içindeydi ve malzeme hafif ama sağlam kaldı. EZİLMİŞ ÇEKİRDEK yapısı sayesinde yük altında bile şekil bozulmadı. CRUSHED-CORE = EZİLMİŞ ÇEKİRDEKLİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Screw",
@@ -8690,8 +8690,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Tighten the screw.",
     "exampleTr": "Vidayı sık.",
-    "storyEn": "Mnemonic: [SKRU] -> VIDA",
-    "storyTr": "SKRU tahtaya sıkıca girdi ve yıllarca yerinden hiç oynamadı. VİDA'nın gücü sayesinde raf her yükü taşıdı. SCREW = VİDA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Screw, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8702,8 +8702,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "skruu",
-    "mnemonicHook": "SKRU",
-    "mnemonicScene": "SKRU tahtaya sıkıca girdi ve yıllarca yerinden hiç oynamadı. VİDA'nın gücü sayesinde raf her yükü taşıdı. SCREW = VİDA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Ceiling",
@@ -8713,8 +8713,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The ceiling is white.",
     "exampleTr": "Tavan beyazdır.",
-    "storyEn": "Mnemonic: [SİLİNG] -> TAVAN",
-    "storyTr": "SİLİNG'de bir çatlak belirdi ve TAVAN nemden kabarmaya başladı. Ustanın gelip tavanı onarmasına kadar oda hep rutubetli kaldı. CEILING = TAVAN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Ceiling, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8725,8 +8725,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "siiling",
-    "mnemonicHook": "SİLİNG",
-    "mnemonicScene": "SİLİNG'de bir çatlak belirdi ve TAVAN nemden kabarmaya başladı. Ustanın gelip tavanı onarmasına kadar oda hep rutubetli kaldı. CEILING = TAVAN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Reduce",
@@ -8736,8 +8736,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Reduce the pressure slowly.",
     "exampleTr": "Basıncı yavaşça azalt.",
-    "storyEn": "Mnemonic: [RİDYUS] -> AZALTMAK",
-    "storyTr": "Kayganlıkta RİDYUS (reduce) komutuyla gaz kesildi; hız AZALTMAK için düşürüldü. REDUCE = AZALTMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Reduce, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8748,8 +8748,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ridyus",
-    "mnemonicHook": "RİDYUS",
-    "mnemonicScene": "Kayganlıkta RİDYUS (reduce) komutuyla gaz kesildi; hız AZALTMAK için düşürüldü. REDUCE = AZALTMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Transfer",
@@ -8759,8 +8759,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Transfer the data now.",
     "exampleTr": "Veriyi şimdi aktar.",
-    "storyEn": "Mnemonic: [TRANSFER] -> AKTARMAK",
-    "storyTr": "Uygulamadan TRANSFER (transfer) yapınca para hesaba AKTARILDI. TRANSFER = AKTARMAK, DEVRETMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component transfer, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8771,8 +8771,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "transfır",
-    "mnemonicHook": "TRANSFER",
-    "mnemonicScene": "Uygulamadan TRANSFER (transfer) yapınca para hesaba AKTARILDI. TRANSFER = AKTARMAK, DEVRETMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Slit",
@@ -8782,8 +8782,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "There is a slit here.",
     "exampleTr": "Burada bir yarık var.",
-    "storyEn": "Mnemonic: [SLİT] -> YARIK",
-    "storyTr": "Eteğin kenarında SLİT açıldı ve kumaş ince bir YARIK ile ayrıldı. Dikiş ustası yarığı tekrar birleştirmek için iğneyi dikkatle kullandı. SLIT = YARIK, İNCE KESİK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Slit, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8794,8 +8794,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "slit",
-    "mnemonicHook": "SLİT",
-    "mnemonicScene": "Eteğin kenarında SLİT açıldı ve kumaş ince bir YARIK ile ayrıldı. Dikiş ustası yarığı tekrar birleştirmek için iğneyi dikkatle kullandı. SLIT = YARIK, İNCE KESİK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Bound",
@@ -8805,8 +8805,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The cable is bound.",
     "exampleTr": "Kablo bağlanmıştır.",
-    "storyEn": "Mnemonic: [BAUND] -> BAĞLI",
-    "storyTr": "BAUND paketi ipe sarılmıştı ve BAĞLI olduğu için kimse açamadı. Kutunun sıkıca sarılmış hali, içindekileri uzun süre korudu. BOUND = BAĞLI, SARMALANMIŞ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Bound, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8817,8 +8817,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "baund",
-    "mnemonicHook": "BAUND",
-    "mnemonicScene": "BAUND paketi ipe sarılmıştı ve BAĞLI olduğu için kimse açamadı. Kutunun sıkıca sarılmış hali, içindekileri uzun süre korudu. BOUND = BAĞLI, SARMALANMIŞ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Trim",
@@ -8828,8 +8828,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Trim the edge carefully.",
     "exampleTr": "Kenarını dikkatle düzelt.",
-    "storyEn": "Mnemonic: [TRİM] -> KESIP DÜZELTMEK",
-    "storyTr": "Berber saçın uçlarını TRİM (trim) yaptı; KESİP DÜZELTMEK işi bitti. TRIM = KESİP DÜZELTMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Trim, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8840,8 +8840,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "trim",
-    "mnemonicHook": "TRİM",
-    "mnemonicScene": "Berber saçın uçlarını TRİM (trim) yaptı; KESİP DÜZELTMEK işi bitti. TRIM = KESİP DÜZELTMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Strip",
@@ -8851,8 +8851,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The strip is yellow.",
     "exampleTr": "Şerit sarıdır.",
-    "storyEn": "Mnemonic: [STRİP] -> ŞERIT",
-    "storyTr": "STRİP bantlar kapının kenarına yapıştırıldı ve ince bir ŞERİT halinde rüzgârı kesti. Bu kenar sayesinde oda artık hiç üşümüyordu. STRIP = ŞERİT.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Strip, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8863,8 +8863,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "strip",
-    "mnemonicHook": "STRİP",
-    "mnemonicScene": "STRİP bantlar kapının kenarına yapıştırıldı ve ince bir ŞERİT halinde rüzgârı kesti. Bu kenar sayesinde oda artık hiç üşümüyordu. STRIP = ŞERİT."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Consist of",
@@ -8874,8 +8874,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The team consists of ten people.",
     "exampleTr": "Takım on kişiden oluşur.",
-    "storyEn": "Mnemonic: [KONSİST OF] -> -DEN OLUŞMAK",
-    "storyTr": "Yemek KONSİST OF (-den oluşmak) bir tabak: CONSIST OF pirinç ve etten oluşuyor. CONSIST OF = -DEN OLUŞMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Consist of, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8886,8 +8886,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kınsist ov",
-    "mnemonicHook": "KONSİST OF",
-    "mnemonicScene": "Yemek KONSİST OF (-den oluşmak) bir tabak: CONSIST OF pirinç ve etten oluşuyor. CONSIST OF = -DEN OLUŞMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Cemented",
@@ -8897,8 +8897,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The parts are cemented together.",
     "exampleTr": "Parçalar birbirine yapıştırılmıştır.",
-    "storyEn": "Mnemonic: [SEMENTİD] -> ÇIMENTOLANMIŞ",
-    "storyTr": "SEMENTİD taşlar yıllarca ayakta kaldı ve duvar hiç çökmedi. ÇİMENTOLANMIŞ yapı sayesinde kışın yağmurları bile binayı zayıflatamadı. CEMENTED = ÇİMENTOLANMIŞ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Cemented, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8909,8 +8909,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "simentıd",
-    "mnemonicHook": "SEMENTİD",
-    "mnemonicScene": "SEMENTİD taşlar yıllarca ayakta kaldı ve duvar hiç çökmedi. ÇİMENTOLANMIŞ yapı sayesinde kışın yağmurları bile binayı zayıflatamadı. CEMENTED = ÇİMENTOLANMIŞ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Condensate",
@@ -8920,8 +8920,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Drain the condensate.",
     "exampleTr": "Yoğuşma suyunu boşalt.",
-    "storyEn": "Mnemonic: [KONDENSEYT] -> YOĞUŞMA SUYU",
-    "storyTr": "Soğuk camın üstünde KONDENSEYT damlaları birikti; KONDENSEYT dediğimiz şey YOĞUŞMA SUYU'ydu. CONDENSATE = YOĞUŞMA SUYU.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Condensate, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8932,8 +8932,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kondınseyt",
-    "mnemonicHook": "KONDENSEYT",
-    "mnemonicScene": "Soğuk camın üstünde KONDENSEYT damlaları birikti; KONDENSEYT dediğimiz şey YOĞUŞMA SUYU'ydu. CONDENSATE = YOĞUŞMA SUYU."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Above",
@@ -8943,8 +8943,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The lamp is above the table.",
     "exampleTr": "Lamba masanın üstündedir.",
-    "storyEn": "Mnemonic: [ABOV] -> ÜSTÜNDE",
-    "storyTr": "Tablonun ABOVE (üstünde, yukarısında) olan kısmında bir yıldız vardı; ABOVE ile işaretlendi. ABOVE = ÜSTÜNDE, YUKARISINDA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Above, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8955,8 +8955,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ıbav",
-    "mnemonicHook": "ABOV",
-    "mnemonicScene": "Tablonun ABOVE (üstünde, yukarısında) olan kısmında bir yıldız vardı; ABOVE ile işaretlendi. ABOVE = ÜSTÜNDE, YUKARISINDA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Overhead",
@@ -8966,8 +8966,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The bag is in the overhead bin.",
     "exampleTr": "Çanta baş üstü dolaptadır.",
-    "storyEn": "Mnemonic: [OVERHED] -> BAŞ ÜSTÜ",
-    "storyTr": "Raftaki OVERHED (baş üstü) bavulu kimse indirmek istemedi; OVERHED bölmesi çok yüksekteydi. OVERHEAD = BAŞ ÜSTÜ, YUKARIDAKİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Overhead, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -8978,8 +8978,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ouvırhed",
-    "mnemonicHook": "OVERHED",
-    "mnemonicScene": "Raftaki OVERHED (baş üstü) bavulu kimse indirmek istemedi; OVERHED bölmesi çok yüksekteydi. OVERHEAD = BAŞ ÜSTÜ, YUKARIDAKİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Instrument",
@@ -8989,8 +8989,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The instrument is new.",
     "exampleTr": "Alet yenidir.",
-    "storyEn": "Mnemonic: [İNSTRÜMENT] -> ALET",
-    "storyTr": "İNSTRÜMENT paneli tek tek kalibre edildi ve her gösterge doğru değeri verdi. ALET'in hassasiyeti sayesinde pilot hiçbir değeri yanlış okumadı. INSTRUMENT = ALET, GÖSTERGE.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Instrument, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9001,8 +9001,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "instrumınt",
-    "mnemonicHook": "İNSTRÜMENT",
-    "mnemonicScene": "İNSTRÜMENT paneli tek tek kalibre edildi ve her gösterge doğru değeri verdi. ALET'in hassasiyeti sayesinde pilot hiçbir değeri yanlış okumadı. INSTRUMENT = ALET, GÖSTERGE."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Condensation",
@@ -9012,8 +9012,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Condensation is visible here.",
     "exampleTr": "Burada yoğuşma görülüyor.",
-    "storyEn": "Mnemonic: [KONDENSEYŞN] -> YOĞUŞMA",
-    "storyTr": "Pencerelerde KONDENSEYŞN oluştu; KONDENSEYŞN yüzünden cam buğu buğu oldu. CONDENSATION = YOĞUŞMA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Condensation, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9024,8 +9024,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kondenseyşın",
-    "mnemonicHook": "KONDENSEYŞN",
-    "mnemonicScene": "Pencerelerde KONDENSEYŞN oluştu; KONDENSEYŞN yüzünden cam buğu buğu oldu. CONDENSATION = YOĞUŞMA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Collect",
@@ -9035,8 +9035,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Collect the small parts.",
     "exampleTr": "Küçük parçaları topla.",
-    "storyEn": "Mnemonic: [KOLEKT] -> TOPLAMAK",
-    "storyTr": "Market, kırık ürünleri KOLEKT edip poşete TOPLADI; KOLEKT ile her parça BİRİKTİ. COLLECT = TOPLAMAK, BİRİKMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Collect, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9047,8 +9047,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kolekt",
-    "mnemonicHook": "KOLEKT",
-    "mnemonicScene": "Market, kırık ürünleri KOLEKT edip poşete TOPLADI; KOLEKT ile her parça BİRİKTİ. COLLECT = TOPLAMAK, BİRİKMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Drain",
@@ -9058,8 +9058,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Drain the water.",
     "exampleTr": "Suyu boşalt.",
-    "storyEn": "Mnemonic: [DREYN] -> BOŞALTMAK",
-    "storyTr": "Lavabonun DREYN'i (drain) tıkandığı için su BOŞALTILAMADI; DREYN açılınca su BOŞALTILDI. DRAIN = BOŞALTMAK, TAHLİYE ETMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Drain, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9070,8 +9070,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "dreyn",
-    "mnemonicHook": "DREYN",
-    "mnemonicScene": "Lavabonun DREYN'i (drain) tıkandığı için su BOŞALTILAMADI; DREYN açılınca su BOŞALTILDI. DRAIN = BOŞALTMAK, TAHLİYE ETMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Emergency",
@@ -9081,8 +9081,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This is an emergency.",
     "exampleTr": "Bu bir acil durumdur.",
-    "storyEn": "Mnemonic: [İMERCENSİ] -> ACIL DURUM",
-    "storyTr": "Bina alarmı İMERCENSİ (emergency) sinyali verince herkes ACİL DURUM toplanma yerine koştu. EMERGENCY = ACİL DURUM.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Emergency, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9093,8 +9093,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "imörcınsi",
-    "mnemonicHook": "İMERCENSİ",
-    "mnemonicScene": "Bina alarmı İMERCENSİ (emergency) sinyali verince herkes ACİL DURUM toplanma yerine koştu. EMERGENCY = ACİL DURUM."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Include",
@@ -9104,8 +9104,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The box includes a tool.",
     "exampleTr": "Kutu bir alet içerir.",
-    "storyEn": "Mnemonic: [İNKLUD] -> IÇERMEK",
-    "storyTr": "İNKLUD paketinde hem kıyafet hem ayakkabı vardı ve her şey tek kutuya sığmıştı. İÇERMEK için hazırlanan bu paket, yolculuğa eksiksiz hazır çıkmayı sağladı. INCLUDE = İÇERMEK, DAHİL ETMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Include, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9116,8 +9116,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "inklud",
-    "mnemonicHook": "İNKLUD",
-    "mnemonicScene": "İNKLUD paketinde hem kıyafet hem ayakkabı vardı ve her şey tek kutuya sığmıştı. İÇERMEK için hazırlanan bu paket, yolculuğa eksiksiz hazır çıkmayı sağladı. INCLUDE = İÇERMEK, DAHİL ETMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Escape lanyard",
@@ -9127,8 +9127,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The escape lanyard is ready.",
     "exampleTr": "Kaçış halatı hazırdır.",
-    "storyEn": "Mnemonic: [ESKEP LENYARD] -> KAÇIŞ HALATI",
-    "storyTr": "ESKEP LENYARD pencereye sıkıca bağlandı ve yüksek binadan aşağı kaydırdı. KAÇIŞ HALATI sayesinde herkes zarar görmeden yere ulaştı. ESCAPE LANYARD = KAÇIŞ HALATI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Escape lanyard, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9139,18 +9139,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "iskeyp lenyırd",
-    "mnemonicHook": "ESKEP LENYARD",
-    "mnemonicScene": "ESKEP LENYARD pencereye sıkıca bağlandı ve yüksek binadan aşağı kaydırdı. KAÇIŞ HALATI sayesinde herkes zarar görmeden yere ulaştı. ESCAPE LANYARD = KAÇIŞ HALATI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Smoke goggles",
     "turkish": "duman gözlüğü",
     "phonetic": "/smouk gogılz/",
     "pronunciationTr": "smouk gogılz",
-    "mnemonicHook": "SMOK GOGLS",
-    "mnemonicScene": "SMOK GOGLS gözleri dumandan korudu ve kimse yanarak ağlamadı. DUMAN GÖZLÜĞÜ takan itfaiyeci dumanlı odada rahatça ilerleyebildi. SMOKE GOGGLES = DUMAN GÖZLÜĞÜ.",
-    "storyTr": "SMOK GOGLS gözleri dumandan korudu ve kimse yanarak ağlamadı. DUMAN GÖZLÜĞÜ takan itfaiyeci dumanlı odada rahatça ilerleyebildi. SMOKE GOGGLES = DUMAN GÖZLÜĞÜ.",
-    "storyEn": "Mnemonic: [SMOK GOGLS] -> DUMAN GÖZLÜĞÜ",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "Wear the smoke goggles.",
     "exampleTr": "Duman gözlüğünü tak.",
     "level": "A1",
@@ -9171,8 +9171,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Wear your life vest.",
     "exampleTr": "Can yeleğini giy.",
-    "storyEn": "Mnemonic: [LAYF VEST] -> CAN YELEĞI",
-    "storyTr": "LAYF VEST suya düşen yolcuyu yüzdürdü ve başını suyun üstünde tuttu. CAN YELEĞİ'nin gücüyle yolcu kıyıya kadar sakin kalabildi. LIFE VEST = CAN YELEĞİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Life vest, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9183,8 +9183,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "layf vest",
-    "mnemonicHook": "LAYF VEST",
-    "mnemonicScene": "LAYF VEST suya düşen yolcuyu yüzdürdü ve başını suyun üstünde tuttu. CAN YELEĞİ'nin gücüyle yolcu kıyıya kadar sakin kalabildi. LIFE VEST = CAN YELEĞİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Convenience",
@@ -9194,8 +9194,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This feature adds convenience.",
     "exampleTr": "Bu özellik kolaylık sağlar.",
-    "storyEn": "Mnemonic: [KONVİNİYANS] -> KOLAYLIK",
-    "storyTr": "KONVİNİYANS marketi sabah sekizde açıldı ve işe giden herkes hazır sandviçini aldı. KOLAYLIK sağlayan bu dükkân, sabahın yoğun saatlerinde herkesin gözdesi oldu. CONVENIENCE = KOLAYLIK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Convenience, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9206,8 +9206,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kınviinyıns",
-    "mnemonicHook": "KONVİNİYANS",
-    "mnemonicScene": "KONVİNİYANS marketi sabah sekizde açıldı ve işe giden herkes hazır sandviçini aldı. KOLAYLIK sağlayan bu dükkân, sabahın yoğun saatlerinde herkesin gözdesi oldu. CONVENIENCE = KOLAYLIK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Aesthetic",
@@ -9217,8 +9217,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The cabin has an aesthetic design.",
     "exampleTr": "Kabin estetik bir tasarıma sahiptir.",
-    "storyEn": "Mnemonic: [ESTETİK] -> ESTETIK",
-    "storyTr": "ESTETİK dekor gözleri okşuyordu ve her köşesi zarif bir uyum taşıyordu. Tasarımcı tüm mekânı görsel bir keyif için ESTETİK kaygıyla kurmuştu. AESTHETIC = ESTETİK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Aesthetic, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9229,8 +9229,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "es thetik",
-    "mnemonicHook": "ESTETİK",
-    "mnemonicScene": "ESTETİK dekor gözleri okşuyordu ve her köşesi zarif bir uyum taşıyordu. Tasarımcı tüm mekânı görsel bir keyif için ESTETİK kaygıyla kurmuştu. AESTHETIC = ESTETİK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Acoustical",
@@ -9240,8 +9240,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The acoustical panel is clean.",
     "exampleTr": "Akustik panel temizdir.",
-    "storyEn": "Mnemonic: [AKUSTİKAL] -> AKUSTIK",
-    "storyTr": "AKUSTİKAL salon en küçük fısıltıyı bile arka sıralara taşıyordu. AKUSTİK yapının mükemmelliği sayesinde konser herkes için kusursuz duyuldu. ACOUSTICAL = AKUSTİK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Acoustical, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9252,8 +9252,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ıkustikıl",
-    "mnemonicHook": "AKUSTİKAL",
-    "mnemonicScene": "AKUSTİKAL salon en küçük fısıltıyı bile arka sıralara taşıyordu. AKUSTİK yapının mükemmelliği sayesinde konser herkes için kusursuz duyuldu. ACOUSTICAL = AKUSTİK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Thermal",
@@ -9263,8 +9263,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The thermal cover is hot.",
     "exampleTr": "Termal kaplama sıcaktır.",
-    "storyEn": "Mnemonic: [TERMAL] -> ISIL",
-    "storyTr": "Termal (thermal) kamera, binanın sıcak noktasını kırmızı gösterdi: ISIL görüntü. THERMAL = ISIL, TERMAL.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Thermal, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9275,18 +9275,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "thörmıl",
-    "mnemonicHook": "TERMAL",
-    "mnemonicScene": "Termal (thermal) kamera, binanın sıcak noktasını kırmızı gösterdi: ISIL görüntü. THERMAL = ISIL, TERMAL."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fiberglass",
     "turkish": "cam elyafı",
     "phonetic": "/faybırglas/",
     "pronunciationTr": "faybırglas",
-    "mnemonicHook": "FAYBERGLAS",
-    "mnemonicScene": "FAYBERGLAS gövde hafif ve dayanıklıydı ve sert darbelerde bile kırılmadı. CAM ELYAFI'ndan yapılmış tekne, yıllarca sağlam kalarak denizi güvenle aştı. FIBERGLASS = CAM ELYAFI.",
-    "storyTr": "FAYBERGLAS gövde hafif ve dayanıklıydı ve sert darbelerde bile kırılmadı. CAM ELYAFI'ndan yapılmış tekne, yıllarca sağlam kalarak denizi güvenle aştı. FIBERGLASS = CAM ELYAFI.",
-    "storyEn": "Mnemonic: [FAYBERGLAS] -> CAM ELYAFI",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "The fiberglass panel is light.",
     "exampleTr": "Cam elyafı panel hafiftir.",
     "level": "A1",
@@ -9307,8 +9307,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This is the fuselage of the plane.",
     "exampleTr": "Bu, uçağın gövdesidir.",
-    "storyEn": "Mnemonic: [FYUSLAJ] -> UÇAK GÖVDESI",
-    "storyTr": "FYUSLAJ pistte koca bir boru gibi uzanıyordu ve bütün yolcuları kendi içinde taşıyordu. UÇAK GÖVDESİ, sert hava koşullarında bile sağlamlığını korudu. FUSELAGE = UÇAK GÖVDESİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fuselage, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9319,8 +9319,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fyuuzılaj",
-    "mnemonicHook": "FYUSLAJ",
-    "mnemonicScene": "FYUSLAJ pistte koca bir boru gibi uzanıyordu ve bütün yolcuları kendi içinde taşıyordu. UÇAK GÖVDESİ, sert hava koşullarında bile sağlamlığını korudu. FUSELAGE = UÇAK GÖVDESİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Skin",
@@ -9330,8 +9330,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The skin is damaged.",
     "exampleTr": "Kaplama hasarlıdır.",
-    "storyEn": "Mnemonic: [SKİN] -> KAPLAMA",
-    "storyTr": "SKİN uçağın dış yüzeyini sardı ve rüzgârın etkisini kendi üzerinde tuttu. KAPLAMA ince olmasına rağmen yüksek hızda bile yerinden kalkmadı. SKIN = KAPLAMA, DERİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Skin, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9342,8 +9342,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "skin",
-    "mnemonicHook": "SKİN",
-    "mnemonicScene": "SKİN uçağın dış yüzeyini sardı ve rüzgârın etkisini kendi üzerinde tuttu. KAPLAMA ince olmasına rağmen yüksek hızda bile yerinden kalkmadı. SKIN = KAPLAMA, DERİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Throughout",
@@ -9353,8 +9353,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Clean the area throughout the day.",
     "exampleTr": "Alanı gün boyunca temizle.",
-    "storyEn": "Mnemonic: [THRUAUT] -> BOYUNCA",
-    "storyTr": "THRUAUT gece boyunca yağmur yağdı ve yağmur şehrin her yerine damladı. BOYUNCA süren bu yağış sabah olunca sokakların her köşesini ıslatmıştı. THROUGHOUT = BOYUNCA, HER TARAFINDA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Throughout, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9365,8 +9365,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "thruaut",
-    "mnemonicHook": "THRUAUT",
-    "mnemonicScene": "THRUAUT gece boyunca yağmur yağdı ve yağmur şehrin her yerine damladı. BOYUNCA süren bu yağış sabah olunca sokakların her köşesini ıslatmıştı. THROUGHOUT = BOYUNCA, HER TARAFINDA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Waterproof",
@@ -9376,8 +9376,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This bag is waterproof.",
     "exampleTr": "Bu çanta su geçirmez.",
-    "storyEn": "Mnemonic: [VOTERPRUF] -> SU GEÇIRMEZ",
-    "storyTr": "VOTERPRUF ceket fırtınada bile ıslanmadı ve sırtındaki yolcu kuru kaldı. SU GEÇİRMEZ kumaş yağmuru tamamen itti, bu yüzden kimse üşümedi. WATERPROOF = SU GEÇİRMEZ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Waterproof, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9388,8 +9388,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "votır pruuf",
-    "mnemonicHook": "VOTERPRUF",
-    "mnemonicScene": "VOTERPRUF ceket fırtınada bile ıslanmadı ve sırtındaki yolcu kuru kaldı. SU GEÇİRMEZ kumaş yağmuru tamamen itti, bu yüzden kimse üşümedi. WATERPROOF = SU GEÇİRMEZ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Shingled",
@@ -9399,8 +9399,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The roof is shingled.",
     "exampleTr": "Çatı bindirmeli kaplıdır.",
-    "storyEn": "Mnemonic: [ŞİNGLD] -> BINDIRMELI KAPLAMA",
-    "storyTr": "ŞİNGLD çatıda kiremitler üst üste bindi ve yağmur hiç içeri sızmadı. BİNDİRMELİ KAPLAMA sayesinde evin tavanı yıllarca kuru kaldı. SHINGLED = BİNDİRMELİ KAPLAMA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Shingled, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9411,8 +9411,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "şingıld",
-    "mnemonicHook": "ŞİNGLD",
-    "mnemonicScene": "ŞİNGLD çatıda kiremitler üst üste bindi ve yağmur hiç içeri sızmadı. BİNDİRMELİ KAPLAMA sayesinde evin tavanı yıllarca kuru kaldı. SHINGLED = BİNDİRMELİ KAPLAMA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Self-operating",
@@ -9422,8 +9422,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The door is self-operating.",
     "exampleTr": "Kapı kendi kendine çalışır.",
-    "storyEn": "Mnemonic: [SELF OPEREYTİNG] -> KENDI KENDINE ÇALIŞAN",
-    "storyTr": "Makine SELF OPEREYTİNG (self-operating) olduğu için düğmeye basılmadan çalıştı; SELF OPEREYTİNG bir sistemdi. SELF-OPERATING = KENDİ KENDİNE ÇALIŞAN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component self-operating, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9434,8 +9434,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "self opereyting",
-    "mnemonicHook": "SELF OPEREYTİNG",
-    "mnemonicScene": "Makine SELF OPEREYTİNG (self-operating) olduğu için düğmeye basılmadan çalıştı; SELF OPEREYTİNG bir sistemdi. SELF-OPERATING = KENDİ KENDİNE ÇALIŞAN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Detailed",
@@ -9445,8 +9445,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Read the detailed report.",
     "exampleTr": "Ayrıntılı raporu oku.",
-    "storyEn": "Mnemonic: [DİTEYLD] -> AYRINTILI",
-    "storyTr": "DİTEYLD rapor her adımı tek tek anlatıyordu ve okuyan kişi hiçbir noktayı kaçırmadı. AYRINTILI belgede her ölçü ve her karar açıkça yazılıydı. DETAILED = AYRINTILI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component detailed, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9457,8 +9457,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "diiteyld",
-    "mnemonicHook": "DİTEYLD",
-    "mnemonicScene": "DİTEYLD rapor her adımı tek tek anlatıyordu ve okuyan kişi hiçbir noktayı kaçırmadı. AYRINTILI belgede her ölçü ve her karar açıkça yazılıydı. DETAILED = AYRINTILI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Mention",
@@ -9468,8 +9468,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Do not mention the error.",
     "exampleTr": "Hatadan bahsetme.",
-    "storyEn": "Mnemonic: [MENŞN] -> BAHSETMEK",
-    "storyTr": "MENŞN diye adımı andılar ve öğretmen dersin başında beni BAHSETMEK için öne çıkardı. Sınıftaki herkes birdenbire bana döndü ve gülümsedi. MENTION = BAHSETMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component mention, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9480,8 +9480,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "menşın",
-    "mnemonicHook": "MENŞN",
-    "mnemonicScene": "MENŞN diye adımı andılar ve öğretmen dersin başında beni BAHSETMEK için öne çıkardı. Sınıftaki herkes birdenbire bana döndü ve gülümsedi. MENTION = BAHSETMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Combine",
@@ -9491,8 +9491,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Combine the two parts.",
     "exampleTr": "İki parçayı birleştir.",
-    "storyEn": "Mnemonic: [KOMBAYN] -> BIRLEŞTIRMEK",
-    "storyTr": "Çiftçi iki makineyi COMBINE (birleştirmek) ederek tek bir KOMBAYN yaptı. COMBINE = BİRLEŞTİRMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component combine, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9503,8 +9503,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kımbayn",
-    "mnemonicHook": "KOMBAYN",
-    "mnemonicScene": "Çiftçi iki makineyi COMBINE (birleştirmek) ederek tek bir KOMBAYN yaptı. COMBINE = BİRLEŞTİRMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Land",
@@ -9514,8 +9514,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The aircraft will land soon.",
     "exampleTr": "Uçak yakında inecek.",
-    "storyEn": "Mnemonic: [LEND] -> INMEK",
-    "storyTr": "Uçak LEND dediği anda pisti tuttu ve yavaşça YERE KONMAK için alçaldı. Tekerlekler piste değdiğinde yolcular rahat bir nefes aldı. LAND = İNMEK, YERE KONMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component land, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9526,8 +9526,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "lend",
-    "mnemonicHook": "LEND",
-    "mnemonicScene": "Uçak LEND dediği anda pisti tuttu ve yavaşça YERE KONMAK için alçaldı. Tekerlekler piste değdiğinde yolcular rahat bir nefes aldı. LAND = İNMEK, YERE KONMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Upward pivoting",
@@ -9537,8 +9537,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The panel is upward pivoting.",
     "exampleTr": "Panel yukarı doğru açılır.",
-    "storyEn": "Mnemonic: [APVOTİNG PİVOTİNG] -> YUKARI DOĞRU AÇILAN",
-    "storyTr": "Dolap kapağı APVOTİNG PİVOTİNG menteşesiyle yukarı kalktı; APVOTİNG PİVOTİNG bir YUKARI DOĞRU AÇILAN kapaktı. UPWARD PIVOTING = YUKARI DOĞRU AÇILAN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component upward pivoting, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9549,8 +9549,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "apvırd pivoting",
-    "mnemonicHook": "APVOTİNG PİVOTİNG",
-    "mnemonicScene": "Dolap kapağı APVOTİNG PİVOTİNG menteşesiyle yukarı kalktı; APVOTİNG PİVOTİNG bir YUKARI DOĞRU AÇILAN kapaktı. UPWARD PIVOTING = YUKARI DOĞRU AÇILAN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Downward pivoting",
@@ -9560,8 +9560,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The panel is downward pivoting.",
     "exampleTr": "Panel aşağı doğru açılır.",
-    "storyEn": "Mnemonic: [DAVNVOTİNG PİVOTİNG] -> AŞAĞI DOĞRU AÇILAN",
-    "storyTr": "Kapak DAVNVOTİNG PİVOTİNG menteşesiyle aşağı kıvrıldı; DAVNVOTİNG PİVOTİNG kapak AŞAĞI DOĞRU AÇILAN türdendi. DOWNWARD PIVOTING = AŞAĞI DOĞRU AÇILAN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component downward pivoting, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9572,8 +9572,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "daunvırd pivoting",
-    "mnemonicHook": "DAVNVOTİNG PİVOTİNG",
-    "mnemonicScene": "Kapak DAVNVOTİNG PİVOTİNG menteşesiyle aşağı kıvrıldı; DAVNVOTİNG PİVOTİNG kapak AŞAĞI DOĞRU AÇILAN türdendi. DOWNWARD PIVOTING = AŞAĞI DOĞRU AÇILAN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Shatter",
@@ -9583,8 +9583,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The glass can shatter.",
     "exampleTr": "Cam paramparça olabilir.",
-    "storyEn": "Mnemonic: [ŞATER] -> PARAMPARÇA OLMAK",
-    "storyTr": "Yüksekten düşen vazo ŞATER olup paramparça oldu; ŞATER dediğimiz an, cam PARAMPARÇA OLMAK. SHATTER = PARAMPARÇA OLMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component shatter, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9595,8 +9595,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "şetır",
-    "mnemonicHook": "ŞATER",
-    "mnemonicScene": "Yüksekten düşen vazo ŞATER olup paramparça oldu; ŞATER dediğimiz an, cam PARAMPARÇA OLMAK. SHATTER = PARAMPARÇA OLMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Reset",
@@ -9606,8 +9606,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Reset the system now.",
     "exampleTr": "Sistemi şimdi sıfırla.",
-    "storyEn": "Mnemonic: [RİSET] -> SIFIRLAMAK",
-    "storyTr": "Sayaç RİSET (reset) düğmesine basılınca SIFIRLANDI ve rakamlar sıfıra döndü. RESET = SIFIRLAMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component reset, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9618,8 +9618,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ri set",
-    "mnemonicHook": "RİSET",
-    "mnemonicScene": "Sayaç RİSET (reset) düğmesine basılınca SIFIRLANDI ve rakamlar sıfıra döndü. RESET = SIFIRLAMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Return",
@@ -9629,8 +9629,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Return the tool after use.",
     "exampleTr": "Kullandıktan sonra aleti geri ver.",
-    "storyEn": "Mnemonic: [RİTÖRN] -> GERI DÖNMEK",
-    "storyTr": "RİTÖRN ile kargo kapıya geri döndü ve GERİ DÖNMEK zorunda kaldı. Yanlış adrese gittiği için paket hemen yeniden gönderildi. RETURN = GERİ DÖNMEK, İADE ETMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component return, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9641,8 +9641,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ritörn",
-    "mnemonicHook": "RİTÖRN",
-    "mnemonicScene": "RİTÖRN ile kargo kapıya geri döndü ve GERİ DÖNMEK zorunda kaldı. Yanlış adrese gittiği için paket hemen yeniden gönderildi. RETURN = GERİ DÖNMEK, İADE ETMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Brace",
@@ -9652,8 +9652,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The brace is strong.",
     "exampleTr": "Destek sağlamdır.",
-    "storyEn": "Mnemonic: [BREYS] -> DESTEK",
-    "storyTr": "BREYS payandası duvarı tuttu ve yan tarafından gelen rüzgârı kesti. DESTEK olmadan bu duvar yıkılabilirdi, ama payanda onu sağlam ayakta tuttu. BRACE = DESTEK, PAYANDA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component brace, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9664,8 +9664,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "breys",
-    "mnemonicHook": "BREYS",
-    "mnemonicScene": "BREYS payandası duvarı tuttu ve yan tarafından gelen rüzgârı kesti. DESTEK olmadan bu duvar yıkılabilirdi, ama payanda onu sağlam ayakta tuttu. BRACE = DESTEK, PAYANDA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Mask",
@@ -9675,8 +9675,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Wear a mask here.",
     "exampleTr": "Burada maske tak.",
-    "storyEn": "Mnemonic: [MASK] -> MASKE",
-    "storyTr": "Dükkâncı MASK (mask) takıp toz içeri girmesin diye MASKE'sini yüzüne geçirdi. MASK = MASKE.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component mask, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9687,8 +9687,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "mask",
-    "mnemonicHook": "MASK",
-    "mnemonicScene": "Dükkâncı MASK (mask) takıp toz içeri girmesin diye MASKE'sini yüzüne geçirdi. MASK = MASKE."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Pull",
@@ -9698,8 +9698,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Pull the handle slowly.",
     "exampleTr": "Kolu yavaşça çek.",
-    "storyEn": "Mnemonic: [PUL] -> ÇEKMEK",
-    "storyTr": "Kapıyı PUL (pull) diyerek içeriye doğru ÇEKTİ; tokmak elinde kaldı. PULL = ÇEKMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Pull, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9710,8 +9710,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "pul",
-    "mnemonicHook": "PUL",
-    "mnemonicScene": "Kapıyı PUL (pull) diyerek içeriye doğru ÇEKTİ; tokmak elinde kaldı. PULL = ÇEKMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Shut off",
@@ -9721,8 +9721,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Shut off the power.",
     "exampleTr": "Gücü kapat.",
-    "storyEn": "Mnemonic: [ŞAT OF] -> KAPATMAK",
-    "storyTr": "Makinenin ŞAT OF (shut off) düğmesine basılınca elektrik KESİLDİ ve sessizlik geldi. SHUT OFF = KAPATMAK, KESMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component shut off, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9733,8 +9733,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "şat of",
-    "mnemonicHook": "ŞAT OF",
-    "mnemonicScene": "Makinenin ŞAT OF (shut off) düğmesine basılınca elektrik KESİLDİ ve sessizlik geldi. SHUT OFF = KAPATMAK, KESMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Valve",
@@ -9744,8 +9744,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The valve is closed.",
     "exampleTr": "Vana kapalıdır.",
-    "storyEn": "Mnemonic: [VALV] -> VALF",
-    "storyTr": "VALV kapandı ve boruda akan su bir anda kesildi. VANA'nın hızlı tepkisi sayesinde taşkın tam zamanında önlendi. VALVE = VALF, VANA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component valve, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9756,8 +9756,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "valv",
-    "mnemonicHook": "VALV",
-    "mnemonicScene": "VALV kapandı ve boruda akan su bir anda kesildi. VANA'nın hızlı tepkisi sayesinde taşkın tam zamanında önlendi. VALVE = VALF, VANA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Balance",
@@ -9767,8 +9767,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Keep your balance.",
     "exampleTr": "Dengeni koru.",
-    "storyEn": "Mnemonic: [BALANS] -> DENGE",
-    "storyTr": "BALANS çubuğu ortada durdu ve iki kefe sonunda eşitlendi. DENGE sağlandığı için terazi hiç sallanmadı. BALANCE = DENGE.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component balance, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9779,8 +9779,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "belıns",
-    "mnemonicHook": "BALANS",
-    "mnemonicScene": "BALANS çubuğu ortada durdu ve iki kefe sonunda eşitlendi. DENGE sağlandığı için terazi hiç sallanmadı. BALANCE = DENGE."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Prior",
@@ -9790,8 +9790,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Read the prior report.",
     "exampleTr": "Önceki raporu oku.",
-    "storyEn": "Mnemonic: [PRAYR] -> ÖNCEKI",
-    "storyTr": "PRAYR (prior) olan kayıt hâlâ yerinde; ÖNCEKİ bilgi silinmemişti. PRIOR = ÖNCEKİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component prior, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9802,8 +9802,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "prayır",
-    "mnemonicHook": "PRAYR",
-    "mnemonicScene": "PRAYR (prior) olan kayıt hâlâ yerinde; ÖNCEKİ bilgi silinmemişti. PRIOR = ÖNCEKİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Rescue",
@@ -9813,8 +9813,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "They rescue the child.",
     "exampleTr": "Çocuğu kurtarıyorlar.",
-    "storyEn": "Mnemonic: [RİSKYU] -> KURTARMAK",
-    "storyTr": "Dağda kaybolan turistleri RİSKYU (rescue) ekibi KURTARMAK için yola çıktı. RESCUE = KURTARMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component rescue, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9825,8 +9825,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "reskyu",
-    "mnemonicHook": "RİSKYU",
-    "mnemonicScene": "Dağda kaybolan turistleri RİSKYU (rescue) ekibi KURTARMAK için yola çıktı. RESCUE = KURTARMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Getting into",
@@ -9836,8 +9836,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "I am getting into the car.",
     "exampleTr": "Arabaya biniyorum.",
-    "storyEn": "Mnemonic: [GETİNG İNTU] -> IÇINE GIRMEK",
-    "storyTr": "GETİNG İNTU sırasında herkes kapıya yığıldı ve içeri girmek için sabırla bekledi. Kapı açıldığında yolcular sırayla İÇİNE GİRMEK'te zorlanmadı. GETTING INTO = İÇİNE GİRMEK, BİNMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component getting into, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9848,8 +9848,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "geting intu",
-    "mnemonicHook": "GETİNG İNTU",
-    "mnemonicScene": "GETİNG İNTU sırasında herkes kapıya yığıldı ve içeri girmek için sabırla bekledi. Kapı açıldığında yolcular sırayla İÇİNE GİRMEK'te zorlanmadı. GETTING INTO = İÇİNE GİRMEK, BİNMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Liferaft",
@@ -9859,8 +9859,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The liferaft is ready.",
     "exampleTr": "Can kurtarma salı hazırdır.",
-    "storyEn": "Mnemonic: [LAYF RAFT] -> CAN KURTARMA SALI",
-    "storyTr": "LAYF RAFT denize indirildi ve hemen şişip yüzmeye başladı. CAN KURTARMA SALI bütün mürettebatı taşıyıp kıyıya güvenle yaklaştırdı. LIFERAFT = CAN KURTARMA SALI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component liferaft, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9871,8 +9871,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "layf raft",
-    "mnemonicHook": "LAYF RAFT",
-    "mnemonicScene": "LAYF RAFT denize indirildi ve hemen şişip yüzmeye başladı. CAN KURTARMA SALI bütün mürettebatı taşıyıp kıyıya güvenle yaklaştırdı. LIFERAFT = CAN KURTARMA SALI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Slide raft",
@@ -9882,8 +9882,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The slide raft is outside.",
     "exampleTr": "Kaydıraklı sal dışarıdadır.",
-    "storyEn": "Mnemonic: [SLAYD RAFT] -> KAYDIRAKLI CAN SALI",
-    "storyTr": "SLAYD RAFT uçaktan açılınca kaydırak gibi yere uzandı ve suya doğru kaydı. KAYDIRAKLI CAN SALI sayesinde yolcular birkaç saniyede güvenle indi. SLIDE RAFT = KAYDIRAKLI CAN SALI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component slide raft, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9894,8 +9894,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "slayd raft",
-    "mnemonicHook": "SLAYD RAFT",
-    "mnemonicScene": "SLAYD RAFT uçaktan açılınca kaydırak gibi yere uzandı ve suya doğru kaydı. KAYDIRAKLI CAN SALI sayesinde yolcular birkaç saniyede güvenle indi. SLIDE RAFT = KAYDIRAKLI CAN SALI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Escape strap",
@@ -9905,8 +9905,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Hold the escape strap.",
     "exampleTr": "Kaçış kayışını tut.",
-    "storyEn": "Mnemonic: [ESKEP STRAP] -> KAÇIŞ KAYIŞI",
-    "storyTr": "ESKEP STRAP sıkıca bağlandı ve yolcu kayışa tutunarak yavaşça aşağı indi. KAÇIŞ KAYIŞI tehlikeden uzaklaşmasını sağladı. ESCAPE STRAP = KAÇIŞ KAYIŞI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component escape strap, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9917,8 +9917,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "iskeyp strep",
-    "mnemonicHook": "ESKEP STRAP",
-    "mnemonicScene": "ESKEP STRAP sıkıca bağlandı ve yolcu kayışa tutunarak yavaşça aşağı indi. KAÇIŞ KAYIŞI tehlikeden uzaklaşmasını sağladı. ESCAPE STRAP = KAÇIŞ KAYIŞI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Come on",
@@ -9928,8 +9928,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The lights come on now.",
     "exampleTr": "Işıklar şimdi yanıyor.",
-    "storyEn": "Mnemonic: [KAM ON] -> YANMAK",
-    "storyTr": "Karanlık koridorda KAM ON komutu verildi ve lambalar bir anda YANDI. Işıklar yanınca herkes yolu rahatça görüp çıkışa yöneldi. COME ON = YANMAK, DEVREYE GİRMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component come on, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9940,8 +9940,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kam on",
-    "mnemonicHook": "KAM ON",
-    "mnemonicScene": "Karanlık koridorda KAM ON komutu verildi ve lambalar bir anda YANDI. Işıklar yanınca herkes yolu rahatça görüp çıkışa yöneldi. COME ON = YANMAK, DEVREYE GİRMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Discharge",
@@ -9951,8 +9951,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Discharge the battery safely.",
     "exampleTr": "Bataryayı güvenle deşarj et.",
-    "storyEn": "Mnemonic: [DİSCHARCH] -> BOŞALTMAK",
-    "storyTr": "Telefon pili DİSCHARCH (discharge) olunca tamamen BOŞALTILDI, deşarj oldu. DISCHARGE = BOŞALTMAK, DEŞARJ ETMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component discharge, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9963,8 +9963,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "disçarc",
-    "mnemonicHook": "DİSCHARCH",
-    "mnemonicScene": "Telefon pili DİSCHARCH (discharge) olunca tamamen BOŞALTILDI, deşarj oldu. DISCHARGE = BOŞALTMAK, DEŞARJ ETMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Necessary",
@@ -9974,8 +9974,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This tool is necessary.",
     "exampleTr": "Bu alet gereklidir.",
-    "storyEn": "Mnemonic: [NESESARİ] -> GEREKLI",
-    "storyTr": "Ekip, NESESARİ (necessary) olan her şeyi çantasına koydu; gereksiz bir eşya yoktu. NECESSARY = GEREKLİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component necessary, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -9986,8 +9986,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "nesıseri",
-    "mnemonicHook": "NESESARİ",
-    "mnemonicScene": "Ekip, NESESARİ (necessary) olan her şeyi çantasına koydu; gereksiz bir eşya yoktu. NECESSARY = GEREKLİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "When necessary",
@@ -9997,8 +9997,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Use it when necessary.",
     "exampleTr": "Gerektiğinde kullan.",
-    "storyEn": "Mnemonic: [VEN NESESARİ] -> GEREKTIĞINDE",
-    "storyTr": "WHEN NECESSARY (gerektiğinde) çağrılınca VEN NESESARİ diye doktor hemen geldi. WHEN NECESSARY = GEREKTİĞİNDE.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component when necessary, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10009,18 +10009,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ven nesıseri",
-    "mnemonicHook": "VEN NESESARİ",
-    "mnemonicScene": "WHEN NECESSARY (gerektiğinde) çağrılınca VEN NESESARİ diye doktor hemen geldi. WHEN NECESSARY = GEREKTİĞİNDE."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fill",
     "turkish": "doldurmak",
     "phonetic": "/fil/",
     "pronunciationTr": "fil",
-    "mnemonicHook": "FİL",
-    "mnemonicScene": "FİL (fill) diye bağırınca bardağı su ile DOLDURDU; taşmadan tam doldu. FILL = DOLDURMAK.",
-    "storyTr": "FİL (fill) diye bağırınca bardağı su ile DOLDURDU; taşmadan tam doldu. FILL = DOLDURMAK.",
-    "storyEn": "Mnemonic: [FİL] -> DOLDURMAK",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "Fill the tank with water.",
     "exampleTr": "Tankı suyla doldur.",
     "level": "A1",
@@ -10041,8 +10041,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The table is in the stowed position.",
     "exampleTr": "Masa kapalı konumdadır.",
-    "storyEn": "Mnemonic: [STOUD POZİŞN] -> ISTIFLENMIŞ",
-    "storyTr": "Koltuk STOUD POZİŞN (stowed position) düğmesiyle yukarı kapandı; STOUD POZİŞN'da sırtlık duvara yapıştı. STOWED POSITION = İSTİFLENMİŞ KONUM.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component stowed position, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10053,8 +10053,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "stoud poz işın",
-    "mnemonicHook": "STOUD POZİŞN",
-    "mnemonicScene": "Koltuk STOUD POZİŞN (stowed position) düğmesiyle yukarı kapandı; STOUD POZİŞN'da sırtlık duvara yapıştı. STOWED POSITION = İSTİFLENMİŞ KONUM."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Basic",
@@ -10064,8 +10064,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This is a basic rule.",
     "exampleTr": "Bu temel bir kuraldır.",
-    "storyEn": "Mnemonic: [BEYSİK] -> TEMEL",
-    "storyTr": "BEYSİK (basic) bir kural: temel bilgi, BASIC düzeyde ve sade yazılmıştı. BASIC = TEMEL.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component basic, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10076,8 +10076,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "beysik",
-    "mnemonicHook": "BEYSİK",
-    "mnemonicScene": "BEYSİK (basic) bir kural: temel bilgi, BASIC düzeyde ve sade yazılmıştı. BASIC = TEMEL."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Conjunction",
@@ -10087,8 +10087,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Use a conjunction here.",
     "exampleTr": "Burada bir bağlaç kullan.",
-    "storyEn": "Mnemonic: [KANCANKŞN] -> BAĞLAÇ",
-    "storyTr": "KANCANKŞN iki cümleyi kenetleyip aralarına girdi ve metni akıcı hale getirdi. BAĞLAÇ sayesinde iki ayrı düşünce tek bir fikir gibi okundu. CONJUNCTION = BAĞLAÇ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component conjunction, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10099,8 +10099,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kıncankşın",
-    "mnemonicHook": "KANCANKŞN",
-    "mnemonicScene": "KANCANKŞN iki cümleyi kenetleyip aralarına girdi ve metni akıcı hale getirdi. BAĞLAÇ sayesinde iki ayrı düşünce tek bir fikir gibi okundu. CONJUNCTION = BAĞLAÇ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Connect",
@@ -10110,8 +10110,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Connect the two wires.",
     "exampleTr": "İki kabloyu bağla.",
-    "storyEn": "Mnemonic: [KANEKT] -> BAĞLAMAK",
-    "storyTr": "Laptop, kabloyla KANEKT (connect) edilince telefon hemen BAĞLANDI; KANEKT ile sistem tek parça oldu. CONNECT = BAĞLAMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component connect, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10122,8 +10122,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kınekt",
-    "mnemonicHook": "KANEKT",
-    "mnemonicScene": "Laptop, kabloyla KANEKT (connect) edilince telefon hemen BAĞLANDI; KANEKT ile sistem tek parça oldu. CONNECT = BAĞLAMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Define",
@@ -10133,8 +10133,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Define this word.",
     "exampleTr": "Bu kelimeyi tanımla.",
-    "storyEn": "Mnemonic: [DİFAYN] -> TANIMLAMAK",
-    "storyTr": "Sözlükte her kelime DİFAYN (define) edilmişti; DİFAYN sayesinde hiçbiri belirsiz kalmadı. DEFINE = TANIMLAMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component define, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10145,8 +10145,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "difayn",
-    "mnemonicHook": "DİFAYN",
-    "mnemonicScene": "Sözlükte her kelime DİFAYN (define) edilmişti; DİFAYN sayesinde hiçbiri belirsiz kalmadı. DEFINE = TANIMLAMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Logical",
@@ -10156,8 +10156,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This answer is logical.",
     "exampleTr": "Bu cevap mantıklıdır.",
-    "storyEn": "Mnemonic: [LOJİKAL] -> MANTIKLI",
-    "storyTr": "LOJİKAL açıklama herkesi ikna etti ve her adım birbirine tutarlı bağlandı. MANTIKLI bir akıl yürütme olduğu için kimse itiraz edemedi. LOGICAL = MANTIKLI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component logical, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10168,8 +10168,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "locikıl",
-    "mnemonicHook": "LOJİKAL",
-    "mnemonicScene": "LOJİKAL açıklama herkesi ikna etti ve her adım birbirine tutarlı bağlandı. MANTIKLI bir akıl yürütme olduğu için kimse itiraz edemedi. LOGICAL = MANTIKLI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Relation",
@@ -10179,8 +10179,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "There is a relation between them.",
     "exampleTr": "Aralarında bir ilişki var.",
-    "storyEn": "Mnemonic: [RİLEYŞN] -> ILIŞKI",
-    "storyTr": "RİLEYŞN iki kardeşi güçlü bir bağla birbirine bağladı. Yıllar geçse de bu İLİŞKİ hiç kopmadı. RELATION = İLİŞKİ, BAĞLANTI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component relation, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10191,8 +10191,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "rileyşın",
-    "mnemonicHook": "RİLEYŞN",
-    "mnemonicScene": "RİLEYŞN iki kardeşi güçlü bir bağla birbirine bağladı. Yıllar geçse de bu İLİŞKİ hiç kopmadı. RELATION = İLİŞKİ, BAĞLANTI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Ideas",
@@ -10202,8 +10202,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "I have two ideas.",
     "exampleTr": "İki fikrim var.",
-    "storyEn": "Mnemonic: [AYDİYAZ] -> FIKIRLER",
-    "storyTr": "AYDİYAZ toplantıda havada uçuştu ve herkes kendi düşüncelerini paylaştı. FİKİRLER tek tek kâğıda döküldü ve yeni bir proje doğdu. IDEAS = FİKİRLER.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component ideas, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10214,8 +10214,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "aydiız",
-    "mnemonicHook": "AYDİYAZ",
-    "mnemonicScene": "AYDİYAZ toplantıda havada uçuştu ve herkes kendi düşüncelerini paylaştı. FİKİRLER tek tek kâğıda döküldü ve yeni bir proje doğdu. IDEAS = FİKİRLER."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Frequent",
@@ -10225,8 +10225,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "These errors are frequent.",
     "exampleTr": "Bu hatalar sık görülür.",
-    "storyEn": "Mnemonic: [FRİKVENT] -> SIK GÖRÜLEN",
-    "storyTr": "FRİKVENT müşteriler her gün aynı saatte gelen tanıdık yüzlerdi. SIK GÖRÜLEN bu kişiler artık garsonun bile adını bildiği müdavimlerdi. FREQUENT = SIK GÖRÜLEN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component frequent, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10237,8 +10237,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "friikvınt",
-    "mnemonicHook": "FRİKVENT",
-    "mnemonicScene": "FRİKVENT müşteriler her gün aynı saatte gelen tanıdık yüzlerdi. SIK GÖRÜLEN bu kişiler artık garsonun bile adını bildiği müdavimlerdi. FREQUENT = SIK GÖRÜLEN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Notice",
@@ -10248,8 +10248,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "I notice a small mark.",
     "exampleTr": "Küçük bir işaret fark ediyorum.",
-    "storyEn": "Mnemonic: [NOTİS] -> FARK ETMEK",
-    "storyTr": "NOTİS panoya asılınca herkes DUYURU'yu FARK ETTİ. Bir sonraki toplantının saatini hiç kimse kaçırmadı. NOTICE = FARK ETMEK, DUYURU.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component notice, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10260,8 +10260,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "noutis",
-    "mnemonicHook": "NOTİS",
-    "mnemonicScene": "NOTİS panoya asılınca herkes DUYURU'yu FARK ETTİ. Bir sonraki toplantının saatini hiç kimse kaçırmadı. NOTICE = FARK ETMEK, DUYURU."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Serviceable",
@@ -10271,8 +10271,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The unit is serviceable.",
     "exampleTr": "Ünite kullanılabilir durumdadır.",
-    "storyEn": "Mnemonic: [SÖRVİSABIL] -> KULLANILABILIR",
-    "storyTr": "SÖRVİSABIL motor tamirden çıkınca tekrar çalışmaya başladı ve sesi düzgündü. KULLANILABİLİR hale gelen makine, o günden sonra hiç arıza yapmadı. SERVICEABLE = KULLANILABİLİR, FAAL.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component serviceable, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10283,8 +10283,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "sörvısıbıl",
-    "mnemonicHook": "SÖRVİSABIL",
-    "mnemonicScene": "SÖRVİSABIL motor tamirden çıkınca tekrar çalışmaya başladı ve sesi düzgündü. KULLANILABİLİR hale gelen makine, o günden sonra hiç arıza yapmadı. SERVICEABLE = KULLANILABİLİR, FAAL."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Unserviceable",
@@ -10294,8 +10294,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The unit is unserviceable.",
     "exampleTr": "Ünite kullanılamaz durumdadır.",
-    "storyEn": "Mnemonic: [ANSÖRVİSABIL] -> KULLANILAMAZ",
-    "storyTr": "Arızalı makine ANSÖRVİSABIL (unserviceable) kaldı; ANSÖRVİSABIL olduğu için hiçbir işe KULLANILAMADI. UNSERVICEABLE = KULLANILAMAZ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component unserviceable, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10306,8 +10306,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ansıörvısıbıl",
-    "mnemonicHook": "ANSÖRVİSABIL",
-    "mnemonicScene": "Arızalı makine ANSÖRVİSABIL (unserviceable) kaldı; ANSÖRVİSABIL olduğu için hiçbir işe KULLANILAMADI. UNSERVICEABLE = KULLANILAMAZ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Leak",
@@ -10317,8 +10317,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "There is a fuel leak.",
     "exampleTr": "Yakıt kaçağı var.",
-    "storyEn": "Mnemonic: [LİYK] -> SIZINTI",
-    "storyTr": "LİYK borudan damlamaya başladı ve zemine yayılan su halıyı sırılsıklam etti. SIZINTI yüzünden tamircinin hemen gelmesi gerekti. LEAK = SIZINTI, KAÇAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component leak, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10329,8 +10329,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "liik",
-    "mnemonicHook": "LİYK",
-    "mnemonicScene": "LİYK borudan damlamaya başladı ve zemine yayılan su halıyı sırılsıklam etti. SIZINTI yüzünden tamircinin hemen gelmesi gerekti. LEAK = SIZINTI, KAÇAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Set",
@@ -10340,8 +10340,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The parking brake is set.",
     "exampleTr": "Park freni çekilidir.",
-    "storyEn": "Mnemonic: [SET] -> ÇEKILI",
-    "storyTr": "SET diye ayarlanan alarm sabah tam sekizde çaldı ve herkes uyandı. ÇEKİLİ kalan saat sayesinde kimse işe geç kalmadı. SET = ÇEKİLİ, AYARLANMIŞ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component set, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10352,8 +10352,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "set",
-    "mnemonicHook": "SET",
-    "mnemonicScene": "SET diye ayarlanan alarm sabah tam sekizde çaldı ve herkes uyandı. ÇEKİLİ kalan saat sayesinde kimse işe geç kalmadı. SET = ÇEKİLİ, AYARLANMIŞ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "PES (Passenger Entertaiment System)",
@@ -10363,8 +10363,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The PES screen is on.",
     "exampleTr": "PES ekranı açıktır.",
-    "storyEn": "Mnemonic: [PES] -> YOLCU EĞLENCE SISTEMI",
-    "storyTr": "PES sistemi koltukta filmi açtı ve yolcular ekrana gömüldü. YOLCU EĞLENCE SİSTEMİ sayesinde uzun yolculuk hiç sıkıcı geçmedi. PASSENGER ENTERTAINMENT SYSTEM = YOLCU EĞLENCE SİSTEMİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component PES (Passenger Entertaiment System), aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10375,8 +10375,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "pi i es",
-    "mnemonicHook": "PES",
-    "mnemonicScene": "PES sistemi koltukta filmi açtı ve yolcular ekrana gömüldü. YOLCU EĞLENCE SİSTEMİ sayesinde uzun yolculuk hiç sıkıcı geçmedi. PASSENGER ENTERTAINMENT SYSTEM = YOLCU EĞLENCE SİSTEMİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Contrasting",
@@ -10386,8 +10386,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The colors are contrasting.",
     "exampleTr": "Renkler zıtlık oluşturuyor.",
-    "storyEn": "Mnemonic: [KONTRESTİNG] -> ZITLIK OLUŞTURAN",
-    "storyTr": "Duvarda KONTRESTİNG (contrasting) renkler yan yana duruyordu; KONTRESTİNG olduğu için ZITLIK vardı. CONTRASTING = ZITLIK OLUŞTURAN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component contrasting, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10398,8 +10398,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kıntrasting",
-    "mnemonicHook": "KONTRESTİNG",
-    "mnemonicScene": "Duvarda KONTRESTİNG (contrasting) renkler yan yana duruyordu; KONTRESTİNG olduğu için ZITLIK vardı. CONTRASTING = ZITLIK OLUŞTURAN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Opposite",
@@ -10409,8 +10409,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The door is opposite the desk.",
     "exampleTr": "Kapı masanın karşısındadır.",
-    "storyEn": "Mnemonic: [OPPOZİT] -> KARŞI",
-    "storyTr": "Yolcu OPPOZİT (opposite) yöne baktı; OPPOZİT istikamette yürüyüp KARŞI tarafa geçti. OPPOSITE = KARŞI, ZIT.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component opposite, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10421,8 +10421,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "opızıt",
-    "mnemonicHook": "OPPOZİT",
-    "mnemonicScene": "Yolcu OPPOZİT (opposite) yöne baktı; OPPOZİT istikamette yürüyüp KARŞI tarafa geçti. OPPOSITE = KARŞI, ZIT."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Slightly",
@@ -10432,8 +10432,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The panel is slightly warm.",
     "exampleTr": "Panel biraz sıcaktır.",
-    "storyEn": "Mnemonic: [SLAYTLİ] -> BIRAZ",
-    "storyTr": "Yağmur SLAYTLİ (slightly) çiseledi; SLAYTLİ bir ıslatma, sadece BİRAZ. SLIGHTLY = BİRAZ, HAFİFÇE.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component slightly, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10444,8 +10444,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "slaytli",
-    "mnemonicHook": "SLAYTLİ",
-    "mnemonicScene": "Yağmur SLAYTLİ (slightly) çiseledi; SLAYTLİ bir ıslatma, sadece BİRAZ. SLIGHTLY = BİRAZ, HAFİFÇE."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Separately",
@@ -10455,8 +10455,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Pack the parts separately.",
     "exampleTr": "Parçaları ayrı ayrı paketle.",
-    "storyEn": "Mnemonic: [SEPARETLİ] -> AYRI AYRI",
-    "storyTr": "Kutular SEPARETLİ (separately) paketlendi; SEPARETLİ etiketlenen her biri AYRI AYRI işaretlendi. SEPARATELY = AYRI AYRI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component separately, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10467,8 +10467,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "sepırıtli",
-    "mnemonicHook": "SEPARETLİ",
-    "mnemonicScene": "Kutular SEPARETLİ (separately) paketlendi; SEPARETLİ etiketlenen her biri AYRI AYRI işaretlendi. SEPARATELY = AYRI AYRI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fit",
@@ -10478,8 +10478,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The cover does not fit.",
     "exampleTr": "Kapak uymuyor.",
-    "storyEn": "Mnemonic: [FİT] -> UYMAK",
-    "storyTr": "Ayakkabı ayağa FİT (fit) etti; FİT olduğu için tam oturdu, UYMAK zorunda kalmadı. FIT = UYMAK, OTURMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component fit, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10490,8 +10490,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fit",
-    "mnemonicHook": "FİT",
-    "mnemonicScene": "Ayakkabı ayağa FİT (fit) etti; FİT olduğu için tam oturdu, UYMAK zorunda kalmadı. FIT = UYMAK, OTURMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Delayed",
@@ -10501,8 +10501,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The flight is delayed.",
     "exampleTr": "Uçuş gecikmiştir.",
-    "storyEn": "Mnemonic: [DİLEYD] -> GECIKMIŞ",
-    "storyTr": "Uçuş DİLEYD (delayed) çıktı; DİLEYD olduğu için yolcular saatlerce bekledi. DELAYED = GECİKMİŞ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component delayed, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10513,8 +10513,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "dileyed",
-    "mnemonicHook": "DİLEYD",
-    "mnemonicScene": "Uçuş DİLEYD (delayed) çıktı; DİLEYD olduğu için yolcular saatlerce bekledi. DELAYED = GECİKMİŞ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Deadbolt",
@@ -10524,8 +10524,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The deadbolt is locked.",
     "exampleTr": "Sürgülü kilit kilitlidir.",
-    "storyEn": "Mnemonic: [DED BOLT] -> SÜRGÜLÜ KILIT",
-    "storyTr": "DED BOLT kapıyı sürdü ve içeriden kimse açamadı. SÜRGÜLÜ KİLİT sayesinde ev sabaha kadar tamamen güvende kaldı. DEADBOLT = SÜRGÜLÜ KİLİT.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component deadbolt, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10536,18 +10536,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "dedbolt",
-    "mnemonicHook": "DED BOLT",
-    "mnemonicScene": "DED BOLT kapıyı sürdü ve içeriden kimse açamadı. SÜRGÜLÜ KİLİT sayesinde ev sabaha kadar tamamen güvende kaldı. DEADBOLT = SÜRGÜLÜ KİLİT."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Express",
     "turkish": "ifade etmek",
     "phonetic": "/ikspres/",
     "pronunciationTr": "ikspres",
-    "mnemonicHook": "EKSPRES",
-    "mnemonicScene": "EKSPRES mektubunda duygularını açıkça yazdı ve sevgisini tek kelimeyle İFADE ETTİ. Mektubu okuyan kişi, yazarın ne kadar samimi olduğunu hemen hissetti. EXPRESS = İFADE ETMEK.",
-    "storyTr": "EKSPRES mektubunda duygularını açıkça yazdı ve sevgisini tek kelimeyle İFADE ETTİ. Mektubu okuyan kişi, yazarın ne kadar samimi olduğunu hemen hissetti. EXPRESS = İFADE ETMEK.",
-    "storyEn": "Mnemonic: [EKSPRES] -> IFADE ETMEK",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "Please express your opinion.",
     "exampleTr": "Lütfen fikrini ifade et.",
     "level": "A1",
@@ -10565,10 +10565,10 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "turkish": "atlamak, dahil etmemek",
     "phonetic": "/omit/",
     "pronunciationTr": "omit",
-    "mnemonicHook": "OMİT",
-    "mnemonicScene": "Listede bir isim OMİT (omit) edildi; OMİT yüzünden DAHİL ETMEMEK hatası oldu. OMIT = ATLAMAK, DAHİL ETMEMEK.",
-    "storyTr": "Listede bir isim OMİT (omit) edildi; OMİT yüzünden DAHİL ETMEMEK hatası oldu. OMIT = ATLAMAK, DAHİL ETMEMEK.",
-    "storyEn": "Mnemonic: [OMİT] -> ATLAMAK",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "Do not omit this step.",
     "exampleTr": "Bu adımı atlama.",
     "level": "A1",
@@ -10589,8 +10589,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The speech is short.",
     "exampleTr": "Konuşma kısadır.",
-    "storyEn": "Mnemonic: [SPİÇ] -> KONUŞMA",
-    "storyTr": "SPİÇ bitince salon alkışla doldu ve herkes ayağa kalktı. KONUŞMA'nın sade ama güçlü sözleri akılda kaldı. SPEECH = KONUŞMA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component speech, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10601,8 +10601,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "spiç",
-    "mnemonicHook": "SPİÇ",
-    "mnemonicScene": "SPİÇ bitince salon alkışla doldu ve herkes ayağa kalktı. KONUŞMA'nın sade ama güçlü sözleri akılda kaldı. SPEECH = KONUŞMA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Advisory Information",
@@ -10612,8 +10612,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Read the advisory information.",
     "exampleTr": "Danışma bilgisini oku.",
-    "storyEn": "Mnemonic: [ADVAYZIRİ] -> DANIŞMA BILGISI",
-    "storyTr": "Tabloda ADVAYZIRİ (advisory information) yazıyordu: DANIŞMA BİLGİSİ, ADVAYZIRİ ile verildi. ADVISORY INFORMATION = DANIŞMA BİLGİSİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Advisory Information, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10624,8 +10624,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ıdvayzıri informeyşın",
-    "mnemonicHook": "ADVAYZIRİ",
-    "mnemonicScene": "Tabloda ADVAYZIRİ (advisory information) yazıyordu: DANIŞMA BİLGİSİ, ADVAYZIRİ ile verildi. ADVISORY INFORMATION = DANIŞMA BİLGİSİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Short-Term Weather",
@@ -10635,8 +10635,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Check the short-term weather.",
     "exampleTr": "Kısa süreli hava durumunu kontrol et.",
-    "storyEn": "Mnemonic: [ŞORT TERM VEDER] -> KISA SÜRELI HAVA DURUMU",
-    "storyTr": "ŞORT TERM VEDER (short-term weather) yağmuru haber verdi; ŞORT TERM VEDER'e göre KISA SÜRELİ HAVA DURUMU değişti. SHORT-TERM WEATHER = KISA SÜRELİ HAVA DURUMU.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Short-Term Weather, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10647,8 +10647,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "şort törm vedır",
-    "mnemonicHook": "ŞORT TERM VEDER",
-    "mnemonicScene": "ŞORT TERM VEDER (short-term weather) yağmuru haber verdi; ŞORT TERM VEDER'e göre KISA SÜRELİ HAVA DURUMU değişti. SHORT-TERM WEATHER = KISA SÜRELİ HAVA DURUMU."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fasten Seat Belt (FSB)",
@@ -10658,8 +10658,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Fasten your seat belt now.",
     "exampleTr": "Şimdi kemerinizi bağlayın.",
-    "storyEn": "Mnemonic: [FEZTEN SİT BELT] -> KEMERLERINIZI BAĞLAYINIZ",
-    "storyTr": "FEZTEN SİT BELT anonsu uçakta yankılandı ve herkes kemerini bağlamaya başladı. KEMERLERİNİZİ BAĞLAYINIZ uyarısı, yolcuları sakin bir şekilde toparladı. FASTEN SEAT BELT = KEMERLERİNİZİ BAĞLAYINIZ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fasten Seat Belt (FSB), aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10670,8 +10670,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fesın siit belt",
-    "mnemonicHook": "FEZTEN SİT BELT",
-    "mnemonicScene": "FEZTEN SİT BELT anonsu uçakta yankılandı ve herkes kemerini bağlamaya başladı. KEMERLERİNİZİ BAĞLAYINIZ uyarısı, yolcuları sakin bir şekilde toparladı. FASTEN SEAT BELT = KEMERLERİNİZİ BAĞLAYINIZ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "No Smoking",
@@ -10681,8 +10681,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "No smoking is allowed here.",
     "exampleTr": "Burada sigara içilmez.",
-    "storyEn": "Mnemonic: [NO SMOKİNG] -> SIGARA IÇILMEZ",
-    "storyTr": "Kapıdaki NO SMOKİNG (no smoking) tabelası SİGARA İÇİLMEZ diye uyarıyordu. NO SMOKING = SİGARA İÇİLMEZ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component No Smoking, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10693,8 +10693,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "nou smouking",
-    "mnemonicHook": "NO SMOKİNG",
-    "mnemonicScene": "Kapıdaki NO SMOKİNG (no smoking) tabelası SİGARA İÇİLMEZ diye uyarıyordu. NO SMOKING = SİGARA İÇİLMEZ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Individual",
@@ -10704,8 +10704,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Each individual has a seat.",
     "exampleTr": "Her bireyin bir koltuğu vardır.",
-    "storyEn": "Mnemonic: [İNDİVİDYUEL] -> BIREYSEL",
-    "storyTr": "Öğrencinin İNDİVİDYUEL (individual) kâğıdı vardı; İNDİVİDYUEL olduğu için kimse kimseninkini görmedi. INDIVIDUAL = BİREYSEL, ŞAHSİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Individual, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10716,8 +10716,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "indıvicyuıl",
-    "mnemonicHook": "İNDİVİDYUEL",
-    "mnemonicScene": "Öğrencinin İNDİVİDYUEL (individual) kâğıdı vardı; İNDİVİDYUEL olduğu için kimse kimseninkini görmedi. INDIVIDUAL = BİREYSEL, ŞAHSİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Inside",
@@ -10727,8 +10727,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The tool is inside the box.",
     "exampleTr": "Alet kutunun içindedir.",
-    "storyEn": "Mnemonic: [İNSAYD] -> IÇINDE",
-    "storyTr": "İNSAYD kutuyu açtığımda içinde küçük bir hazine olduğunu gördüm. Kutunun İÇİNDE'de gizlenmiş eski bir harita vardı. INSIDE = İÇİNDE, İÇERİDE.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Inside, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10739,8 +10739,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "insayd",
-    "mnemonicHook": "İNSAYD",
-    "mnemonicScene": "İNSAYD kutuyu açtığımda içinde küçük bir hazine olduğunu gördüm. Kutunun İÇİNDE'de gizlenmiş eski bir harita vardı. INSIDE = İÇİNDE, İÇERİDE."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Outside",
@@ -10750,8 +10750,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Wait outside the room.",
     "exampleTr": "Odanın dışında bekle.",
-    "storyEn": "Mnemonic: [AUTSAYD] -> DIŞINDA",
-    "storyTr": "AUTSAYD (outside) bahçede oynuyorduk; AUTSAYD'daki bina bizi bekliyordu. OUTSIDE = DIŞINDA, DIŞARIDA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Outside, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10762,8 +10762,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "autsayd",
-    "mnemonicHook": "AUTSAYD",
-    "mnemonicScene": "AUTSAYD (outside) bahçede oynuyorduk; AUTSAYD'daki bina bizi bekliyordu. OUTSIDE = DIŞINDA, DIŞARIDA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Row",
@@ -10773,8 +10773,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This row is empty.",
     "exampleTr": "Bu sıra boştur.",
-    "storyEn": "Mnemonic: [ROU] -> SIRA",
-    "storyTr": "Tiyatroda ROU (row) numarasına bakıp ilk SIRA'ya oturduk; ROU, sıranın adıydı. ROW = SIRA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Row, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10785,8 +10785,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "rou",
-    "mnemonicHook": "ROU",
-    "mnemonicScene": "Tiyatroda ROU (row) numarasına bakıp ilk SIRA'ya oturduk; ROU, sıranın adıydı. ROW = SIRA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Hole",
@@ -10796,8 +10796,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "There is a hole here.",
     "exampleTr": "Burada bir delik var.",
-    "storyEn": "Mnemonic: [HOL] -> DELIK",
-    "storyTr": "Duvarda bir HOLE (delik) açıldı; kum akıyordu, ufacık bir OYUK'tu. HOLE = DELİK, OYUK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Hole, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10808,8 +10808,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "houl",
-    "mnemonicHook": "HOL",
-    "mnemonicScene": "Duvarda bir HOLE (delik) açıldı; kum akıyordu, ufacık bir OYUK'tu. HOLE = DELİK, OYUK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Limit",
@@ -10819,8 +10819,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Do not exceed the limit.",
     "exampleTr": "Sınırı aşma.",
-    "storyEn": "Mnemonic: [LİMİT] -> SINIR",
-    "storyTr": "Hız LİMİT (limit) 50'de; LİMİT tabelası SINIR'ı gösteriyordu. LIMIT = SINIR, SINIRLAMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Limit, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10831,8 +10831,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "limit",
-    "mnemonicHook": "LİMİT",
-    "mnemonicScene": "Hız LİMİT (limit) 50'de; LİMİT tabelası SINIR'ı gösteriyordu. LIMIT = SINIR, SINIRLAMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Self-Opening",
@@ -10842,8 +10842,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The door is self-opening.",
     "exampleTr": "Kapı kendiliğinden açılır.",
-    "storyEn": "Mnemonic: [SELF OPENİNG] -> KENDILIĞINDEN AÇILAN",
-    "storyTr": "Kapı SELF OPENİNG (self-opening) tipteydi; SELF OPENİNG olduğu için önüne gelince AÇILDI. SELF-OPENING = KENDİLİĞİNDEN AÇILAN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Self-Opening, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10854,8 +10854,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "self oupening",
-    "mnemonicHook": "SELF OPENİNG",
-    "mnemonicScene": "Kapı SELF OPENİNG (self-opening) tipteydi; SELF OPENİNG olduğu için önüne gelince AÇILDI. SELF-OPENING = KENDİLİĞİNDEN AÇILAN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Series",
@@ -10865,8 +10865,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This is a new series.",
     "exampleTr": "Bu yeni bir seridir.",
-    "storyEn": "Mnemonic: [SİRİYZ] -> DIZI",
-    "storyTr": "Dizi SİRİYZ (series) bölümleri peş peşe yayınlandı; SİRİYZ bir SERİ oluşturdu. SERIES = DİZİ, SERİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Series, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10877,8 +10877,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "siiriz",
-    "mnemonicHook": "SİRİYZ",
-    "mnemonicScene": "Dizi SİRİYZ (series) bölümleri peş peşe yayınlandı; SİRİYZ bir SERİ oluşturdu. SERIES = DİZİ, SERİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Mark",
@@ -10888,8 +10888,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Mark the correct part.",
     "exampleTr": "Doğru parçayı işaretle.",
-    "storyEn": "Mnemonic: [MARK] -> IŞARETLEMEK",
-    "storyTr": "Öğretmen kâğıdı kırmızı kalemle MARK (işaretlemek) etti; hatalar tek tek İŞARETLENDİ. MARK = İŞARETLEMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Mark, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10900,8 +10900,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "mark",
-    "mnemonicHook": "MARK",
-    "mnemonicScene": "Öğretmen kâğıdı kırmızı kalemle MARK (işaretlemek) etti; hatalar tek tek İŞARETLENDİ. MARK = İŞARETLEMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Extend",
@@ -10911,8 +10911,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Extend the handle.",
     "exampleTr": "Kolu uzat.",
-    "storyEn": "Mnemonic: [EKSTEND] -> UZATMAK",
-    "storyTr": "Yoga hocası kolunu EKSTEND (extend) edip UZATTI; EKSTEND ile gövdesi GENİŞLETİLDİ. EXTEND = UZATMAK, GENİŞLETMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Extend, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10923,8 +10923,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ikstend",
-    "mnemonicHook": "EKSTEND",
-    "mnemonicScene": "Yoga hocası kolunu EKSTEND (extend) edip UZATTI; EKSTEND ile gövdesi GENİŞLETİLDİ. EXTEND = UZATMAK, GENİŞLETMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Center",
@@ -10934,8 +10934,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Stand in the center.",
     "exampleTr": "Merkezde dur.",
-    "storyEn": "Mnemonic: [SENTER] -> MERKEZ",
-    "storyTr": "SENTER diye adlandırılan masa odanın tam MERKEZ'inde duruyordu. Herkes etrafında toplanıp sohbet ederken masa bütün odayı bir arada tuttu. CENTER = MERKEZ, ORTA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Center, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10946,8 +10946,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "sentır",
-    "mnemonicHook": "SENTER",
-    "mnemonicScene": "SENTER diye adlandırılan masa odanın tam MERKEZ'inde duruyordu. Herkes etrafında toplanıp sohbet ederken masa bütün odayı bir arada tuttu. CENTER = MERKEZ, ORTA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Shade",
@@ -10957,8 +10957,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Sit in the shade.",
     "exampleTr": "Gölgede otur.",
-    "storyEn": "Mnemonic: [ŞEYD] -> GÖLGELIK",
-    "storyTr": "ŞEYD'in altında serin bir GÖLGELİK vardı ve sıcak günde herkes oraya sığındı. Ağaç ışığı kesince bahçe bir anda huzurlu bir gölgeye büründü. SHADE = GÖLGELİK, GÖLGE.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Shade, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10969,8 +10969,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "şeyd",
-    "mnemonicHook": "ŞEYD",
-    "mnemonicScene": "ŞEYD'in altında serin bir GÖLGELİK vardı ve sıcak günde herkes oraya sığındı. Ağaç ışığı kesince bahçe bir anda huzurlu bir gölgeye büründü. SHADE = GÖLGELİK, GÖLGE."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Removable",
@@ -10980,8 +10980,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The cover is removable.",
     "exampleTr": "Kapak sökülebilirdir.",
-    "storyEn": "Mnemonic: [RİMUVEBIL] -> SÖKÜLEBILIR",
-    "storyTr": "Raf RİMUVEBIL (removable) yapıdaydı; RİMUVEBIL olduğu için vidası açılıp SÖKÜLEBİLİR oldu. REMOVABLE = SÖKÜLEBİLİR.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Removable, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -10992,8 +10992,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "rimuuvıbıl",
-    "mnemonicHook": "RİMUVEBIL",
-    "mnemonicScene": "Raf RİMUVEBIL (removable) yapıdaydı; RİMUVEBIL olduğu için vidası açılıp SÖKÜLEBİLİR oldu. REMOVABLE = SÖKÜLEBİLİR."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Count",
@@ -11003,8 +11003,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Count the screws.",
     "exampleTr": "Vidaları say.",
-    "storyEn": "Mnemonic: [KAUNT] -> SAYMAK",
-    "storyTr": "Kasiyer parayı KAUNT (count) etti; KAUNT dediği gibi her kuruşu SAYDI. COUNT = SAYMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Count, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11015,8 +11015,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kaunt",
-    "mnemonicHook": "KAUNT",
-    "mnemonicScene": "Kasiyer parayı KAUNT (count) etti; KAUNT dediği gibi her kuruşu SAYDI. COUNT = SAYMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Aisle",
@@ -11026,8 +11026,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Keep the aisle clear.",
     "exampleTr": "Koridoru açık tut.",
-    "storyEn": "Mnemonic: [EYL] -> KORIDOR",
-    "storyTr": "EYL boyunca yürüyüp koltuğumuza ulaştık ve kimse yolumuzu kesmedi. KORİDOR sayesinde yolcular birbirine çarpmadan uçağın içinde rahatça ilerledi. AISLE = KORİDOR.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Aisle, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11038,8 +11038,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ayl",
-    "mnemonicHook": "EYL",
-    "mnemonicScene": "EYL boyunca yürüyüp koltuğumuza ulaştık ve kimse yolumuzu kesmedi. KORİDOR sayesinde yolcular birbirine çarpmadan uçağın içinde rahatça ilerledi. AISLE = KORİDOR."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Swinging",
@@ -11049,8 +11049,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The door is swinging.",
     "exampleTr": "Kapı sallanıyor.",
-    "storyEn": "Mnemonic: [SVİNGİNG] -> SALLANAN",
-    "storyTr": "SVİNGİNG (swinging) kapı rüzgârla sallanıyordu; SVİNGİNG hareketi gıcırtıyla devam etti. SWINGING = SALLANAN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Swinging, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11061,8 +11061,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "svinging",
-    "mnemonicHook": "SVİNGİNG",
-    "mnemonicScene": "SVİNGİNG (swinging) kapı rüzgârla sallanıyordu; SVİNGİNG hareketi gıcırtıyla devam etti. SWINGING = SALLANAN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Down",
@@ -11072,8 +11072,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Put the bag down.",
     "exampleTr": "Çantayı aşağı koy.",
-    "storyEn": "Mnemonic: [DAUN] -> AŞAĞI",
-    "storyTr": "Merdivenden DAUN (down) inerken tutunmaya dikkat ettik; DAUN yönünde AŞAĞI iniyorduk. DOWN = AŞAĞI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Down, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11084,8 +11084,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "daun",
-    "mnemonicHook": "DAUN",
-    "mnemonicScene": "Merdivenden DAUN (down) inerken tutunmaya dikkat ettik; DAUN yönünde AŞAĞI iniyorduk. DOWN = AŞAĞI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Floor",
@@ -11095,8 +11095,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The floor is clean.",
     "exampleTr": "Zemin temizdir.",
-    "storyEn": "Mnemonic: [FLOR] -> ZEMIN",
-    "storyTr": "FLOR parkeleri yıllardır aynı ZEMİN'de duruyordu ve üzerindeki her adım yankılanıyordu. Parkeler hâlâ sağlam bir şekilde ilk günkü hallerini koruyordu. FLOOR = ZEMİN, TABAN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Floor, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11107,8 +11107,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "flor",
-    "mnemonicHook": "FLOR",
-    "mnemonicScene": "FLOR parkeleri yıllardır aynı ZEMİN'de duruyordu ve üzerindeki her adım yankılanıyordu. Parkeler hâlâ sağlam bir şekilde ilk günkü hallerini koruyordu. FLOOR = ZEMİN, TABAN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Pedestal",
@@ -11118,8 +11118,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The pedestal is in the cockpit.",
     "exampleTr": "Kaide kokpittedir.",
-    "storyEn": "Mnemonic: [PEDESTAL] -> KAIDE",
-    "storyTr": "PEDESTAL heykeli taşıyan KAİDE'ydi ve heykel üzerinde sağlam durdu. Orta konsol da aynı mantıkla tasarlanmıştı, bu yüzden araç sağlam kaldı. PEDESTAL = KAİDE, ORTA KONSOL.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Pedestal, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11130,8 +11130,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "pedıstıl",
-    "mnemonicHook": "PEDESTAL",
-    "mnemonicScene": "PEDESTAL heykeli taşıyan KAİDE'ydi ve heykel üzerinde sağlam durdu. Orta konsol da aynı mantıkla tasarlanmıştı, bu yüzden araç sağlam kaldı. PEDESTAL = KAİDE, ORTA KONSOL."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Breathing Equipment",
@@ -11141,8 +11141,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Check the breathing equipment.",
     "exampleTr": "Solunum ekipmanını kontrol et.",
-    "storyEn": "Mnemonic: [BREDİNG İKVİPMENT] -> SOLUNUM EKIPMANI",
-    "storyTr": "Dalgıçlar BREDİNG İKVİPMENT (breathing equipment) takıp suya girdi; BREDİNG İKVİPMENT hazırdı. BREATHING EQUIPMENT = SOLUNUM EKİPMANI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Breathing Equipment, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11153,8 +11153,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "briiding ikvipment",
-    "mnemonicHook": "BREDİNG İKVİPMENT",
-    "mnemonicScene": "Dalgıçlar BREDİNG İKVİPMENT (breathing equipment) takıp suya girdi; BREDİNG İKVİPMENT hazırdı. BREATHING EQUIPMENT = SOLUNUM EKİPMANI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Crew",
@@ -11164,8 +11164,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The crew is ready.",
     "exampleTr": "Ekip hazır.",
-    "storyEn": "Mnemonic: [KREW] -> EKIP",
-    "storyTr": "KREW tam kadroyla hazırdı ve herkes kendi MÜRETTEBAT görevini bekliyordu. Gemi kalkmadan önce bütün ekip göreve geçti. CREW = EKİP, MÜRETTEBAT.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Crew, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11176,8 +11176,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kruu",
-    "mnemonicHook": "KREW",
-    "mnemonicScene": "KREW tam kadroyla hazırdı ve herkes kendi MÜRETTEBAT görevini bekliyordu. Gemi kalkmadan önce bütün ekip göreve geçti. CREW = EKİP, MÜRETTEBAT."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Evacuation",
@@ -11187,8 +11187,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Evacuation starts now.",
     "exampleTr": "Tahliye şimdi başlıyor.",
-    "storyEn": "Mnemonic: [İVAKYUEYŞN] -> TAHLIYE",
-    "storyTr": "Yangın çıkınca İVAKYUEYŞN (evacuation) başladı; İVAKYUEYŞN'da herkes kapılardan TAHLİYE edildi. EVACUATION = TAHLİYE.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Evacuation, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11199,8 +11199,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ivakyueyşın",
-    "mnemonicHook": "İVAKYUEYŞN",
-    "mnemonicScene": "Yangın çıkınca İVAKYUEYŞN (evacuation) başladı; İVAKYUEYŞN'da herkes kapılardan TAHLİYE edildi. EVACUATION = TAHLİYE."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Desired Level",
@@ -11210,8 +11210,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Set the desired level.",
     "exampleTr": "İstenen seviyeyi ayarla.",
-    "storyEn": "Mnemonic: [DİZYRD LEVEL] -> ISTENILEN SEVIYE",
-    "storyTr": "Basınç DİZYRD LEVEL (desired level) olan 3 bara düşünce vana kapandı; DİZYRD LEVEL'de sistem durdu. DESIRED LEVEL = İSTENİLEN SEVİYE.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Desired Level, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11222,8 +11222,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "dizayırd levıl",
-    "mnemonicHook": "DİZYRD LEVEL",
-    "mnemonicScene": "Basınç DİZYRD LEVEL (desired level) olan 3 bara düşünce vana kapandı; DİZYRD LEVEL'de sistem durdu. DESIRED LEVEL = İSTENİLEN SEVİYE."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Stow Properly",
@@ -11233,8 +11233,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Stow the bag properly.",
     "exampleTr": "Çantayı düzgün yerleştir.",
-    "storyEn": "Mnemonic: [STOU PROPERLİ] -> DÜZGÜN YERLEŞTIRMEK",
-    "storyTr": "STOU PROPERLİ çanta kabine düzgünce yerleştirildi ve yolcu kalkıştan önce rahatladı. DÜZGÜN YERLEŞTİRMEK sayesinde çanta hiçbir sarsıntıda yerinden oynamadı. STOW PROPERLY = DÜZGÜN YERLEŞTİRMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Stow Properly, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11245,8 +11245,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "stou properli",
-    "mnemonicHook": "STOU PROPERLİ",
-    "mnemonicScene": "STOU PROPERLİ çanta kabine düzgünce yerleştirildi ve yolcu kalkıştan önce rahatladı. DÜZGÜN YERLEŞTİRMEK sayesinde çanta hiçbir sarsıntıda yerinden oynamadı. STOW PROPERLY = DÜZGÜN YERLEŞTİRMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Agree",
@@ -11256,8 +11256,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "I agree with you.",
     "exampleTr": "Sana katılıyorum.",
-    "storyEn": "Mnemonic: [EGRİ] -> UYMAK",
-    "storyTr": "EGRİ diye bağlanan hakem ve kaptan aynı fikirdeydi ve bu konuda UYMAK zorunda kaldılar. İkisinin de kararı aynıydı, bu yüzden kimse itiraz etmedi. AGREE = UYMAK, AYNI FİKİRDE OLMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Agree, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11268,8 +11268,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ıgrii",
-    "mnemonicHook": "EGRİ",
-    "mnemonicScene": "EGRİ diye bağlanan hakem ve kaptan aynı fikirdeydi ve bu konuda UYMAK zorunda kaldılar. İkisinin de kararı aynıydı, bu yüzden kimse itiraz etmedi. AGREE = UYMAK, AYNI FİKİRDE OLMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Display",
@@ -11279,8 +11279,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The display is clear.",
     "exampleTr": "Ekran nettir.",
-    "storyEn": "Mnemonic: [DİSPLEY] -> EKRAN",
-    "storyTr": "Kokpitte DİSPLEY (display) uçuş bilgisini gösteriyordu; DİSPLEY ekranında her değer açıktı. DISPLAY = EKRAN, GÖSTERMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Display, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11291,8 +11291,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "displey",
-    "mnemonicHook": "DİSPLEY",
-    "mnemonicScene": "Kokpitte DİSPLEY (display) uçuş bilgisini gösteriyordu; DİSPLEY ekranında her değer açıktı. DISPLAY = EKRAN, GÖSTERMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Indication",
@@ -11302,8 +11302,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The indication is clear.",
     "exampleTr": "Gösterge nettir.",
-    "storyEn": "Mnemonic: [İNDİKEYŞN] -> GÖSTERGE",
-    "storyTr": "Lamba İNDİKEYŞN verdi ve GÖSTERGE sigortanın attığını açıkça söyledi. Teknisyen bu belirtiyi görünce hemen elektriği kontrol etti. INDICATION = GÖSTERGE, BELİRTİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Indication, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11314,8 +11314,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "indikeyşın",
-    "mnemonicHook": "İNDİKEYŞN",
-    "mnemonicScene": "Lamba İNDİKEYŞN verdi ve GÖSTERGE sigortanın attığını açıkça söyledi. Teknisyen bu belirtiyi görünce hemen elektriği kontrol etti. INDICATION = GÖSTERGE, BELİRTİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Indicated Values",
@@ -11325,8 +11325,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Read the indicated values.",
     "exampleTr": "Gösterilen değerleri oku.",
-    "storyEn": "Mnemonic: [İNDİKEYTİD VELYUZ] -> GÖSTERILEN DEĞERLER",
-    "storyTr": "Tabloda İNDİKEYTİD VELYUZ (indicated values) yazıyordu; İNDİKEYTİD VELYUZ panelde görünüyordu. INDICATED VALUES = GÖSTERİLEN DEĞERLER.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Indicated Values, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11337,8 +11337,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "indikeytıd valyuz",
-    "mnemonicHook": "İNDİKEYTİD VELYUZ",
-    "mnemonicScene": "Tabloda İNDİKEYTİD VELYUZ (indicated values) yazıyordu; İNDİKEYTİD VELYUZ panelde görünüyordu. INDICATED VALUES = GÖSTERİLEN DEĞERLER."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Roll Up",
@@ -11348,8 +11348,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Roll up the carpet.",
     "exampleTr": "Halıyı rulo yap.",
-    "storyEn": "Mnemonic: [RÖL AP] -> RULO YAPMAK",
-    "storyTr": "Halı RÖL AP (roll up) edilip yukarı SARILDI; RÖL AP'la halı odanın köşesine kaldırıldı. ROLL UP = RULO YAPMAK, YUKARI SARMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Roll Up, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11360,8 +11360,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "rol ap",
-    "mnemonicHook": "RÖL AP",
-    "mnemonicScene": "Halı RÖL AP (roll up) edilip yukarı SARILDI; RÖL AP'la halı odanın köşesine kaldırıldı. ROLL UP = RULO YAPMAK, YUKARI SARMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Carpet",
@@ -11371,8 +11371,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The carpet is clean.",
     "exampleTr": "Halı temizdir.",
-    "storyEn": "Mnemonic: [KARPET] -> HALI",
-    "storyTr": "KARPET salonun ortasına serilmişti ve ayak sesleri HALI'nın üzerinde boğuldu. Yumuşak kırmızı zemin, odayı sıcak ve sakin bir hale getirdi. CARPET = HALI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Carpet, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11383,8 +11383,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "karpit",
-    "mnemonicHook": "KARPET",
-    "mnemonicScene": "KARPET salonun ortasına serilmişti ve ayak sesleri HALI'nın üzerinde boğuldu. Yumuşak kırmızı zemin, odayı sıcak ve sakin bir hale getirdi. CARPET = HALI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Stack",
@@ -11394,8 +11394,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Stack the boxes carefully.",
     "exampleTr": "Kutuları dikkatlice istifle.",
-    "storyEn": "Mnemonic: [STEK] -> ISTIF",
-    "storyTr": "Kutular STEK (stack) halinde yığıldı; STEK, koca bir İSTİF oluşturdu. STACK = İSTİF, YIĞIN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Stack, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11406,8 +11406,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "stek",
-    "mnemonicHook": "STEK",
-    "mnemonicScene": "Kutular STEK (stack) halinde yığıldı; STEK, koca bir İSTİF oluşturdu. STACK = İSTİF, YIĞIN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Unlatch",
@@ -11417,8 +11417,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Unlatch the door.",
     "exampleTr": "Kapının mandalını aç.",
-    "storyEn": "Mnemonic: [ANLETÇ] -> MANDALINI AÇMAK",
-    "storyTr": "Kapı ANLETÇ (unlatch) edildi; ANLETÇ mandalının açılmasıyla kapı açıldı. UNLATCH = MANDALINI AÇMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Unlatch, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11429,8 +11429,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "anleç",
-    "mnemonicHook": "ANLETÇ",
-    "mnemonicScene": "Kapı ANLETÇ (unlatch) edildi; ANLETÇ mandalının açılmasıyla kapı açıldı. UNLATCH = MANDALINI AÇMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Align",
@@ -11440,8 +11440,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Align the two holes.",
     "exampleTr": "İki deliği hizala.",
-    "storyEn": "Mnemonic: [ELİGN] -> HIZALAMAK",
-    "storyTr": "Ressam çerçeveleri ELİGN (align) ederek HİZALAMAK yaptı; ELİGN'de duvarda düz bir çizgi oluştu. ALIGN = HİZALAMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Align, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11452,8 +11452,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ılayn",
-    "mnemonicHook": "ELİGN",
-    "mnemonicScene": "Ressam çerçeveleri ELİGN (align) ederek HİZALAMAK yaptı; ELİGN'de duvarda düz bir çizgi oluştu. ALIGN = HİZALAMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Replace",
@@ -11463,8 +11463,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Replace the old filter.",
     "exampleTr": "Eski filtreyi değiştir.",
-    "storyEn": "Mnemonic: [RİPLEYS] -> DEĞIŞTIRMEK",
-    "storyTr": "Usta eski lambayı RİPLEYS (replace) ederek DEĞİŞTİRDİ; RİPLEYS ile yeni lamba takıldı. REPLACE = DEĞİŞTİRMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Replace, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11475,8 +11475,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ripleys",
-    "mnemonicHook": "RİPLEYS",
-    "mnemonicScene": "Usta eski lambayı RİPLEYS (replace) ederek DEĞİŞTİRDİ; RİPLEYS ile yeni lamba takıldı. REPLACE = DEĞİŞTİRMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Layout",
@@ -11486,8 +11486,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Check the cabin layout.",
     "exampleTr": "Kabin yerleşimini kontrol et.",
-    "storyEn": "Mnemonic: [LEYAUT] -> YERLEŞIM",
-    "storyTr": "LEYAUT planı her odayı doğru YERLEŞİM'e oturttu ve ev düzenli görünmeye başladı. Mutfaktan salona kadar her bölüm birbirine uygun şekilde dizildi. LAYOUT = YERLEŞİM, DÜZEN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Layout, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11498,8 +11498,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "leyaut",
-    "mnemonicHook": "LEYAUT",
-    "mnemonicScene": "LEYAUT planı her odayı doğru YERLEŞİM'e oturttu ve ev düzenli görünmeye başladı. Mutfaktan salona kadar her bölüm birbirine uygun şekilde dizildi. LAYOUT = YERLEŞİM, DÜZEN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Exfoliate",
@@ -11509,8 +11509,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The paint can exfoliate.",
     "exampleTr": "Boya pul pul dökülebilir.",
-    "storyEn": "Mnemonic: [EKSFOLİYEYT] -> PUL PUL DÖKÜLMEK",
-    "storyTr": "EKSFOLİYEYT cilt parça parça PUL PUL DÖKÜLDÜ ve yüzün tabakası yavaş yavaş soyuldu. Güneşin etkisiyle deri kendini yenilemeye başladı. EXFOLIATE = PUL PUL DÖKÜLMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Exfoliate, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11521,8 +11521,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "eksfoliyeyt",
-    "mnemonicHook": "EKSFOLİYEYT",
-    "mnemonicScene": "EKSFOLİYEYT cilt parça parça PUL PUL DÖKÜLDÜ ve yüzün tabakası yavaş yavaş soyuldu. Güneşin etkisiyle deri kendini yenilemeye başladı. EXFOLIATE = PUL PUL DÖKÜLMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Longitudinal",
@@ -11532,8 +11532,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The crack is longitudinal.",
     "exampleTr": "Çatlak boyunadır.",
-    "storyEn": "Mnemonic: [LONCİTUDİNAL] -> BOYUNA",
-    "storyTr": "LONCİTUDİNAL kesit boydan boya BOYUNA uzanıyordu ve parçanın uzunluğunu net gösteriyordu. Mühendis bu kesiti çizerek parçanın dayanımını ölçtü. LONGITUDINAL = BOYUNA, UZUNLAMASINA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Longitudinal, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11544,8 +11544,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "loncitüdinıl",
-    "mnemonicHook": "LONCİTUDİNAL",
-    "mnemonicScene": "LONCİTUDİNAL kesit boydan boya BOYUNA uzanıyordu ve parçanın uzunluğunu net gösteriyordu. Mühendis bu kesiti çizerek parçanın dayanımını ölçtü. LONGITUDINAL = BOYUNA, UZUNLAMASINA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Transversal",
@@ -11555,8 +11555,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The line is transversal.",
     "exampleTr": "Çizgi eninedir.",
-    "storyEn": "Mnemonic: [TRANSVERSAL] -> ENINE",
-    "storyTr": "TRANSVERSAL kesit parçayı yana doğru ENİNE kesti ve iç yapıyı açıkça gösterdi. Mühendis, enine kesit sayesinde kalınlığın her yerde yeterli olduğunu gördü. TRANSVERSAL = ENİNE.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Transversal, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11567,8 +11567,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "transvörsıl",
-    "mnemonicHook": "TRANSVERSAL",
-    "mnemonicScene": "TRANSVERSAL kesit parçayı yana doğru ENİNE kesti ve iç yapıyı açıkça gösterdi. Mühendis, enine kesit sayesinde kalınlığın her yerde yeterli olduğunu gördü. TRANSVERSAL = ENİNE."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Moist",
@@ -11578,8 +11578,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The cloth is moist.",
     "exampleTr": "Bez nemlidir.",
-    "storyEn": "Mnemonic: [MOYST] -> NEMLI",
-    "storyTr": "MOYST toprak parmakları çamura gömdü ve zemin hafifçe kaymaya hazırdı. NEMLİ zemin üzerinde yürümek, yağmurdan sonra çok dikkat gerektiriyordu. MOIST = NEMLİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Moist, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11590,8 +11590,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "moyst",
-    "mnemonicHook": "MOYST",
-    "mnemonicScene": "MOYST toprak parmakları çamura gömdü ve zemin hafifçe kaymaya hazırdı. NEMLİ zemin üzerinde yürümek, yağmurdan sonra çok dikkat gerektiriyordu. MOIST = NEMLİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Wipe-off",
@@ -11601,8 +11601,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Wipe off the oil.",
     "exampleTr": "Yağı sil.",
-    "storyEn": "Mnemonic: [VAYP OF] -> SILIP ÇIKARMAK",
-    "storyTr": "VAYP OF lekeyi bezle yüzeyden SİLİP ÇIKARDI ve camın tertemiz olmasını sağladı. Kimse artık lekenin nerede olduğunu hatırlayamadı. WIPE-OFF = SİLİP ÇIKARMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Wipe-off, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11613,8 +11613,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "vayp of",
-    "mnemonicHook": "VAYP OF",
-    "mnemonicScene": "VAYP OF lekeyi bezle yüzeyden SİLİP ÇIKARDI ve camın tertemiz olmasını sağladı. Kimse artık lekenin nerede olduğunu hatırlayamadı. WIPE-OFF = SİLİP ÇIKARMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Backrest",
@@ -11624,8 +11624,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The backrest is firm.",
     "exampleTr": "Sırtlık sağlamdır.",
-    "storyEn": "Mnemonic: [BEK REST] -> SIRTLIK",
-    "storyTr": "BEK REST'e sırtımı yasladım ve SIRTLIK'ın yumuşaklığı yorgunluğumu aldı. Uzun bir günün sonunda bu destek bana tam bir rahatlık verdi. BACKREST = SIRTLIK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Backrest, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11636,8 +11636,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "bek rest",
-    "mnemonicHook": "BEK REST",
-    "mnemonicScene": "BEK REST'e sırtımı yasladım ve SIRTLIK'ın yumuşaklığı yorgunluğumu aldı. Uzun bir günün sonunda bu destek bana tam bir rahatlık verdi. BACKREST = SIRTLIK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Recline",
@@ -11647,8 +11647,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Recline the seat slowly.",
     "exampleTr": "Koltuğu yavaşça yatır.",
-    "storyEn": "Mnemonic: [RİKLAYN] -> YATIRMAK",
-    "storyTr": "RİKLAYN düğmesi sırtlığı geriye çekti ve koltuk yavaşça YATIRILDI. Yolcu kafasını yastığa bırakıp uykuya dalmadan önce rahat bir pozisyon buldu. RECLINE = YATIRMAK, GERİYE YASLAMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Recline, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11659,8 +11659,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "riklayn",
-    "mnemonicHook": "RİKLAYN",
-    "mnemonicScene": "RİKLAYN düğmesi sırtlığı geriye çekti ve koltuk yavaşça YATIRILDI. Yolcu kafasını yastığa bırakıp uykuya dalmadan önce rahat bir pozisyon buldu. RECLINE = YATIRMAK, GERİYE YASLAMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Upright",
@@ -11670,8 +11670,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Keep the seat upright.",
     "exampleTr": "Koltuğu dik konumda tut.",
-    "storyEn": "Mnemonic: [APRAYT] -> DIK",
-    "storyTr": "Eski bekçi APRAYT (upright) duruyordu; APRAYT'te sırtı DİK, kollarını kavuşturmuştu. UPRIGHT = DİK, DİK KONUMDA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Upright, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11682,8 +11682,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "aprayt",
-    "mnemonicHook": "APRAYT",
-    "mnemonicScene": "Eski bekçi APRAYT (upright) duruyordu; APRAYT'te sırtı DİK, kollarını kavuşturmuştu. UPRIGHT = DİK, DİK KONUMDA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Lumbar support",
@@ -11693,8 +11693,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The lumbar support is soft.",
     "exampleTr": "Bel desteği yumuşaktır.",
-    "storyEn": "Mnemonic: [LAMBER SAPORT] -> BEL DESTEĞI",
-    "storyTr": "LAMBER SAPORT beline oturup BEL DESTEĞİ verdi ve uzun oturuş yorgunluğunu azalttı. Sırt artık dik ve rahat kalabiliyordu. LUMBAR SUPPORT = BEL DESTEĞİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Lumbar support, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11705,8 +11705,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "lambır sıport",
-    "mnemonicHook": "LAMBER SAPORT",
-    "mnemonicScene": "LAMBER SAPORT beline oturup BEL DESTEĞİ verdi ve uzun oturuş yorgunluğunu azalttı. Sırt artık dik ve rahat kalabiliyordu. LUMBAR SUPPORT = BEL DESTEĞİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Foldable",
@@ -11716,8 +11716,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The table is foldable.",
     "exampleTr": "Masa katlanabilirdir.",
-    "storyEn": "Mnemonic: [FOLDABIL] -> KATLANABILIR",
-    "storyTr": "Masa FOLDABIL (foldable) yapıdaydı; FOLDABIL olduğu için iki kanadı katlanıp dolaba kaldırıldı. FOLDABLE = KATLANABİLİR.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Foldable, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11728,8 +11728,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fouldıbıl",
-    "mnemonicHook": "FOLDABIL",
-    "mnemonicScene": "Masa FOLDABIL (foldable) yapıdaydı; FOLDABIL olduğu için iki kanadı katlanıp dolaba kaldırıldı. FOLDABLE = KATLANABİLİR."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Literature pocket",
@@ -11739,8 +11739,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The literature pocket is empty.",
     "exampleTr": "Dergi cebi boştur.",
-    "storyEn": "Mnemonic: [LİTERİCHÖR POKET] -> DERGI CEBI",
-    "storyTr": "LİTERİCHÖR POKET koltuğun arkasında duran DERGİ CEBİ'ydi ve yolcular dergilerini oraya koyuyordu. Cep dolunca dergiler kolayca çıkarılıp okunabiliyordu. LITERATURE POCKET = DERGİ CEBİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Literature pocket, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11751,8 +11751,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "litırıçır pokıt",
-    "mnemonicHook": "LİTERİCHÖR POKET",
-    "mnemonicScene": "LİTERİCHÖR POKET koltuğun arkasında duran DERGİ CEBİ'ydi ve yolcular dergilerini oraya koyuyordu. Cep dolunca dergiler kolayca çıkarılıp okunabiliyordu. LITERATURE POCKET = DERGİ CEBİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Life preserver",
@@ -11762,8 +11762,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The life preserver is here.",
     "exampleTr": "Can kurtarma ekipmanı burada.",
-    "storyEn": "Mnemonic: [LAYF PRESERVER] -> CAN YELEĞI",
-    "storyTr": "LAYF PRESERVER denize atıldı ve CAN YELEĞİ'ne tutunan yolcu suda yüzmeye başladı. Bu can yeleği sayesinde kurtarma ekibi onu hızla kıyıya ulaştırdı. LIFE PRESERVER = CAN YELEĞİ, CAN SİMİDİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Life preserver, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11774,8 +11774,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "layf prizörvır",
-    "mnemonicHook": "LAYF PRESERVER",
-    "mnemonicScene": "LAYF PRESERVER denize atıldı ve CAN YELEĞİ'ne tutunan yolcu suda yüzmeye başladı. Bu can yeleği sayesinde kurtarma ekibi onu hızla kıyıya ulaştırdı. LIFE PRESERVER = CAN YELEĞİ, CAN SİMİDİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Emergency exit",
@@ -11785,8 +11785,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Find the nearest emergency exit.",
     "exampleTr": "En yakın acil çıkışı bul.",
-    "storyEn": "Mnemonic: [EMERCENSİ EKSİT] -> ACIL ÇIKIŞ",
-    "storyTr": "EMERCENSİ EKSİT kırmızı tabelasıyla ACİL ÇIKIŞ'ı gösterdi ve yolcular oraya yöneldi. Kapı açılınca herkes sakince dışarı çıktı. EMERGENCY EXIT = ACİL ÇIKIŞ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Emergency exit, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11797,8 +11797,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "imörcınsi egzıt",
-    "mnemonicHook": "EMERCENSİ EKSİT",
-    "mnemonicScene": "EMERCENSİ EKSİT kırmızı tabelasıyla ACİL ÇIKIŞ'ı gösterdi ve yolcular oraya yöneldi. Kapı açılınca herkes sakince dışarı çıktı. EMERGENCY EXIT = ACİL ÇIKIŞ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Unfasten",
@@ -11808,8 +11808,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Unfasten your seat belt.",
     "exampleTr": "Emniyet kemerini çöz.",
-    "storyEn": "Mnemonic: [ANFESTEN] -> ÇÖZMEK",
-    "storyTr": "ANFESTEN tokasını çekince kemer ÇÖZÜLDÜ ve yolcu rahatça ayağa kalktı. ÇÖZMEK işlemi kolay olduğu için yolcular uçaktan hızla indi. UNFASTEN = ÇÖZMEK, AÇMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Unfasten, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11820,8 +11820,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "anfesın",
-    "mnemonicHook": "ANFESTEN",
-    "mnemonicScene": "ANFESTEN tokasını çekince kemer ÇÖZÜLDÜ ve yolcu rahatça ayağa kalktı. ÇÖZMEK işlemi kolay olduğu için yolcular uçaktan hızla indi. UNFASTEN = ÇÖZMEK, AÇMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "In case of emergency",
@@ -11831,8 +11831,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "In case of emergency, stay calm.",
     "exampleTr": "Acil durumda sakin kal.",
-    "storyEn": "Mnemonic: [İN KEYS OF İMERCENSİ] -> ACIL DURUMDA",
-    "storyTr": "İN KEYS OF İMERCENSİ (in case of emergency) için kırmızı kutu açık tutuldu; İN KEYS OF İMERCENSİ'de herkes hazırdı. IN CASE OF EMERGENCY = ACİL DURUMDA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component In case of emergency, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11843,8 +11843,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "in keys ov imörcınsi",
-    "mnemonicHook": "İN KEYS OF İMERCENSİ",
-    "mnemonicScene": "İN KEYS OF İMERCENSİ (in case of emergency) için kırmızı kutu açık tutuldu; İN KEYS OF İMERCENSİ'de herkes hazırdı. IN CASE OF EMERGENCY = ACİL DURUMDA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Locate",
@@ -11854,8 +11854,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Locate the nearest exit.",
     "exampleTr": "En yakın çıkışı bul.",
-    "storyEn": "Mnemonic: [LOKEYT] -> YERINI BULMAK",
-    "storyTr": "Kurtarma ekibi LOKEYT (locate) edip kayıp kişinin YERİNİ BULMAK için dağa çıktı; LOKEYT sonunda işi çözdü. LOCATE = YERİNİ BULMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Locate, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11866,8 +11866,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "loukeyt",
-    "mnemonicHook": "LOKEYT",
-    "mnemonicScene": "Kurtarma ekibi LOKEYT (locate) edip kayıp kişinin YERİNİ BULMAK için dağa çıktı; LOKEYT sonunda işi çözdü. LOCATE = YERİNİ BULMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Nearest exit",
@@ -11877,8 +11877,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Use the nearest exit.",
     "exampleTr": "En yakın çıkışı kullan.",
-    "storyEn": "Mnemonic: [NİYREST EKSİT] -> EN YAKIN ÇIKIŞ",
-    "storyTr": "NİYREST EKSİT tabelasını bulan yolcu EN YAKIN ÇIKIŞ'a doğru koştu. Kapıya ulaşınca dışarı sakin bir şekilde çıktı. NEAREST EXIT = EN YAKIN ÇIKIŞ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Nearest exit, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11889,8 +11889,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "niırıst egzıt",
-    "mnemonicHook": "NİYREST EKSİT",
-    "mnemonicScene": "NİYREST EKSİT tabelasını bulan yolcu EN YAKIN ÇIKIŞ'a doğru koştu. Kapıya ulaşınca dışarı sakin bir şekilde çıktı. NEAREST EXIT = EN YAKIN ÇIKIŞ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Evacuate",
@@ -11900,8 +11900,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Evacuate the cabin now.",
     "exampleTr": "Kabini şimdi tahliye et.",
-    "storyEn": "Mnemonic: [İVAKYUEYT] -> TAHLIYE ETMEK",
-    "storyTr": "İVAKYUEYT çanı çalındığında itfaiye hemen binayı TAHLİYE ETTİ. Herkes sıraya girip sakince dışarı çıktı. EVACUATE = TAHLİYE ETMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Evacuate, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11912,8 +11912,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ivakyueyt",
-    "mnemonicHook": "İVAKYUEYT",
-    "mnemonicScene": "İVAKYUEYT çanı çalındığında itfaiye hemen binayı TAHLİYE ETTİ. Herkes sıraya girip sakince dışarı çıktı. EVACUATE = TAHLİYE ETMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Instructions",
@@ -11923,8 +11923,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Read the instructions first.",
     "exampleTr": "Önce talimatları oku.",
-    "storyEn": "Mnemonic: [İNSTRAKŞNZ] -> TALIMATLAR",
-    "storyTr": "İNSTRAKŞNZ kitabını açan çalışan TALİMATLAR'ı sırayla okudu ve her adımı tam olarak uyguladı. Hiçbir madde atlanmadan iş sorunsuz tamamlandı. INSTRUCTIONS = TALİMATLAR.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Instructions, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11935,8 +11935,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "instrakşınz",
-    "mnemonicHook": "İNSTRAKŞNZ",
-    "mnemonicScene": "İNSTRAKŞNZ kitabını açan çalışan TALİMATLAR'ı sırayla okudu ve her adımı tam olarak uyguladı. Hiçbir madde atlanmadan iş sorunsuz tamamlandı. INSTRUCTIONS = TALİMATLAR."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Read carefully",
@@ -11946,8 +11946,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Read the label carefully.",
     "exampleTr": "Etiketi dikkatlice oku.",
-    "storyEn": "Mnemonic: [RİD KERFULİ] -> DIKKATLICE OKUMAK",
-    "storyTr": "Sınav kâğıdında RİD KERFULİ (read carefully) yazıyordu; RİD KERFULİ diye öğrenci soruyu iki kez okudu. READ CAREFULLY = DİKKATLİCE OKUMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Read carefully, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11958,8 +11958,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "riid kerfıli",
-    "mnemonicHook": "RİD KERFULİ",
-    "mnemonicScene": "Sınav kâğıdında RİD KERFULİ (read carefully) yazıyordu; RİD KERFULİ diye öğrenci soruyu iki kez okudu. READ CAREFULLY = DİKKATLİCE OKUMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Important",
@@ -11969,8 +11969,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This rule is important.",
     "exampleTr": "Bu kural önemlidir.",
-    "storyEn": "Mnemonic: [İMPORTANT] -> ÖNEMLI",
-    "storyTr": "İMPORTANT notunu kimse atlamamalıydı, çünkü ÖNEMLİ bir bilgi yazıyordu. Kâğıdı dikkatle saklayan kişi, sonradan çok şey kazandı. IMPORTANT = ÖNEMLİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Important, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -11981,8 +11981,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "importınt",
-    "mnemonicHook": "İMPORTANT",
-    "mnemonicScene": "İMPORTANT notunu kimse atlamamalıydı, çünkü ÖNEMLİ bir bilgi yazıyordu. Kâğıdı dikkatle saklayan kişi, sonradan çok şey kazandı. IMPORTANT = ÖNEMLİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Around",
@@ -11992,8 +11992,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Walk around the aircraft.",
     "exampleTr": "Uçağın etrafında yürü.",
-    "storyEn": "Mnemonic: [ERAUND] -> ETRAFINDA",
-    "storyTr": "ERAUND dönüp çocuklar masanın ETRAFINDA koştu ve herkes kahkahalarla güldü. Oyun, masanın her yanını sarıp uzun süre devam etti. AROUND = ETRAFINDA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component around, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12004,8 +12004,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ıraund",
-    "mnemonicHook": "ERAUND",
-    "mnemonicScene": "ERAUND dönüp çocuklar masanın ETRAFINDA koştu ve herkes kahkahalarla güldü. Oyun, masanın her yanını sarıp uzun süre devam etti. AROUND = ETRAFINDA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Loop",
@@ -12015,8 +12015,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Make a small loop.",
     "exampleTr": "Küçük bir halka yap.",
-    "storyEn": "Mnemonic: [LUP] -> HALKA",
-    "storyTr": "İpin ucuyla LUP (loop) yaptı; LUP'un ortasında küçük bir HALKA kaldı. LOOP = HALKA, İLMİK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component loop, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12027,8 +12027,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "luup",
-    "mnemonicHook": "LUP",
-    "mnemonicScene": "İpin ucuyla LUP (loop) yaptı; LUP'un ortasında küçük bir HALKA kaldı. LOOP = HALKA, İLMİK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Entrance",
@@ -12038,8 +12038,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Use the main entrance.",
     "exampleTr": "Ana girişi kullan.",
-    "storyEn": "Mnemonic: [ENTRANS] -> GIRIŞ",
-    "storyTr": "ENTRANS kapısında görevli duruyordu ve herkes GİRİŞ'e sıra olmadan geçemedi. Görevlinin kontrolünde kalabalık düzenli bir şekilde içeri aktı. ENTRANCE = GİRİŞ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component entrance, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12050,8 +12050,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "entrıns",
-    "mnemonicHook": "ENTRANS",
-    "mnemonicScene": "ENTRANS kapısında görevli duruyordu ve herkes GİRİŞ'e sıra olmadan geçemedi. Görevlinin kontrolünde kalabalık düzenli bir şekilde içeri aktı. ENTRANCE = GİRİŞ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Arrive",
@@ -12061,8 +12061,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "We arrive at noon.",
     "exampleTr": "Öğlen varıyoruz.",
-    "storyEn": "Mnemonic: [ARRAYV] -> VARMAK",
-    "storyTr": "ARRAYV ile sabah istasyona VARDI ve trenden inen yolcu hemen peronu geçti. ULAŞMAK için sadece birkaç dakika beklemek yeterliydi. ARRIVE = VARMAK, ULAŞMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component arrive, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12073,8 +12073,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ırayv",
-    "mnemonicHook": "ARRAYV",
-    "mnemonicScene": "ARRAYV ile sabah istasyona VARDI ve trenden inen yolcu hemen peronu geçti. ULAŞMAK için sadece birkaç dakika beklemek yeterliydi. ARRIVE = VARMAK, ULAŞMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Explain",
@@ -12084,8 +12084,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Please explain the problem.",
     "exampleTr": "Lütfen sorunu açıkla.",
-    "storyEn": "Mnemonic: [EKSPLEYN] -> AÇIKLAMAK",
-    "storyTr": "Öğretmen EKSPLEYN (explain) diyerek konuyu tahtaya çizip AÇIKLADI; EKSPLEYN ile her adım anlaşıldı. EXPLAIN = AÇIKLAMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component explain, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12096,8 +12096,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ikspleyn",
-    "mnemonicHook": "EKSPLEYN",
-    "mnemonicScene": "Öğretmen EKSPLEYN (explain) diyerek konuyu tahtaya çizip AÇIKLADI; EKSPLEYN ile her adım anlaşıldı. EXPLAIN = AÇIKLAMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fall",
@@ -12107,8 +12107,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Do not fall here.",
     "exampleTr": "Burada düşme.",
-    "storyEn": "Mnemonic: [FOL] -> DÜŞMEK",
-    "storyTr": "FOL sesiyle yapraklar DÜŞTÜ ve sonbahar yağmuru başladı. Ağaçtan ayrılan yapraklar yavaşça yere süzüldü. FALL = DÜŞMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component fall, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12119,8 +12119,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fol",
-    "mnemonicHook": "FOL",
-    "mnemonicScene": "FOL sesiyle yapraklar DÜŞTÜ ve sonbahar yağmuru başladı. Ağaçtan ayrılan yapraklar yavaşça yere süzüldü. FALL = DÜŞMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Bare",
@@ -12130,8 +12130,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Do not touch it with bare hands.",
     "exampleTr": "Ona çıplak elle dokunma.",
-    "storyEn": "Mnemonic: [BER] -> ÇIPLAK",
-    "storyTr": "BER dallar kış gelince ÇIPLAK kaldı ve gökyüzü ağaçların arasından görünür oldu. Yapraksız ağaçlar sessizce soğuk havayı beklemeye başladı. BARE = ÇIPLAK, ÖRTÜSÜZ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component bare, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12142,8 +12142,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ber",
-    "mnemonicHook": "BER",
-    "mnemonicScene": "BER dallar kış gelince ÇIPLAK kaldı ve gökyüzü ağaçların arasından görünür oldu. Yapraksız ağaçlar sessizce soğuk havayı beklemeye başladı. BARE = ÇIPLAK, ÖRTÜSÜZ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Injure",
@@ -12153,8 +12153,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Do not injure your hand.",
     "exampleTr": "Elini yaralama.",
-    "storyEn": "Mnemonic: [İNCÜR] -> YARALAMAK",
-    "storyTr": "Kiraz ağacından düşen çocuk İNCÜR (injure) edilmedi; İNCÜR olmadan sadece sıyrık aldı. INJURE = YARALAMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component injure, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12165,8 +12165,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "incır",
-    "mnemonicHook": "İNCÜR",
-    "mnemonicScene": "Kiraz ağacından düşen çocuk İNCÜR (injure) edilmedi; İNCÜR olmadan sadece sıyrık aldı. INJURE = YARALAMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Malfunction",
@@ -12176,8 +12176,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The system has a malfunction.",
     "exampleTr": "Sistemde arıza var.",
-    "storyEn": "Mnemonic: [MALFANKŞN] -> ARIZA",
-    "storyTr": "MALFANKŞN yüzünden makine durdu ve ekip hemen ARIZA'nın nedenini aramaya başladı. Sonunda sorunun tek bir gevşek vidadan kaynaklandığını buldular. MALFUNCTION = ARIZA, HATALI ÇALIŞMA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component malfunction, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12188,8 +12188,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "malfankşın",
-    "mnemonicHook": "MALFANKŞN",
-    "mnemonicScene": "MALFANKŞN yüzünden makine durdu ve ekip hemen ARIZA'nın nedenini aramaya başladı. Sonunda sorunun tek bir gevşek vidadan kaynaklandığını buldular. MALFUNCTION = ARIZA, HATALI ÇALIŞMA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Yield",
@@ -12199,8 +12199,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The machine has a good yield.",
     "exampleTr": "Makinenin verimi iyidir.",
-    "storyEn": "Mnemonic: [YİLD] -> VERIM",
-    "storyTr": "YİLD tarlasında bol VERİM aldı ve her sırada hasat sevinci yaşandı. Çiftçiler, toprağın bu bereketli ürününü çok uzun zamandır beklemişti. YIELD = VERİM, ÜRÜN, YOL VERMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component yield, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12211,8 +12211,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "yiild",
-    "mnemonicHook": "YİLD",
-    "mnemonicScene": "YİLD tarlasında bol VERİM aldı ve her sırada hasat sevinci yaşandı. Çiftçiler, toprağın bu bereketli ürününü çok uzun zamandır beklemişti. YIELD = VERİM, ÜRÜN, YOL VERMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Mold",
@@ -12222,8 +12222,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "There is mold on the bread.",
     "exampleTr": "Ekmekte küf var.",
-    "storyEn": "Mnemonic: [MOULD] -> KÜF",
-    "storyTr": "Ekmeğin üstünde MOULD (küf, kalıp) tutmuş; kalıp kokusu odayı sardı. MOLD = KÜF, KALIP.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component mold, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12234,8 +12234,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "mould",
-    "mnemonicHook": "MOULD",
-    "mnemonicScene": "Ekmeğin üstünde MOULD (küf, kalıp) tutmuş; kalıp kokusu odayı sardı. MOLD = KÜF, KALIP."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Against",
@@ -12245,8 +12245,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Do not lean against the door.",
     "exampleTr": "Kapıya yaslanma.",
-    "storyEn": "Mnemonic: [EGENST] -> KARŞI",
-    "storyTr": "EGENST diye bağırarak rüzgâra KARŞI yürüdük ve her adımda zorlandık. Ama sonunda tepeye ulaşınca yorgunluğumuz bir anda unutuldu. AGAINST = KARŞI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component against, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12257,8 +12257,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ıgenst",
-    "mnemonicHook": "EGENST",
-    "mnemonicScene": "EGENST diye bağırarak rüzgâra KARŞI yürüdük ve her adımda zorlandık. Ama sonunda tepeye ulaşınca yorgunluğumuz bir anda unutuldu. AGAINST = KARŞI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Keep away",
@@ -12268,8 +12268,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Keep children away from the tool.",
     "exampleTr": "Çocukları aletten uzak tut.",
-    "storyEn": "Mnemonic: [KİP EVEY] -> UZAK TUTMAK",
-    "storyTr": "KİP EVEY diyerek çocukları bıçaktan UZAK TUTTU ve tehlike bir anda ortadan kalktı. Çocuklar hiç yaralanmadan oyunlarına devam ettiler. KEEP AWAY = UZAK TUTMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component keep away, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12280,8 +12280,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kiip ıvey",
-    "mnemonicHook": "KİP EVEY",
-    "mnemonicScene": "KİP EVEY diyerek çocukları bıçaktan UZAK TUTTU ve tehlike bir anda ortadan kalktı. Çocuklar hiç yaralanmadan oyunlarına devam ettiler. KEEP AWAY = UZAK TUTMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Solenoid",
@@ -12291,8 +12291,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The solenoid is active.",
     "exampleTr": "Solenoid aktiftir.",
-    "storyEn": "Mnemonic: [SOLENOİD] -> SOLENOID",
-    "storyTr": "SOLENOİD valfi açtı ve motora yakıt akmaya başladı. Valfin sesi, ELEKTROMIKNATISLI VALF'in çalıştığını herkese duyurdu. SOLENOID = SOLENOİD, ELEKTROMIKNATISLI VALF.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component solenoid, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12303,8 +12303,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "solınoyd",
-    "mnemonicHook": "SOLENOİD",
-    "mnemonicScene": "SOLENOİD valfi açtı ve motora yakıt akmaya başladı. Valfin sesi, ELEKTROMIKNATISLI VALF'in çalıştığını herkese duyurdu. SOLENOID = SOLENOİD, ELEKTROMIKNATISLI VALF."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "IFES (In Flight Entertainment System)",
@@ -12314,8 +12314,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The IFES screen is on.",
     "exampleTr": "IFES ekranı açıktır.",
-    "storyEn": "Mnemonic: [İFES] -> UÇUŞ IÇI EĞLENCE SISTEMI",
-    "storyTr": "İFES ekranında film başladı ve yolcular koltuklarında uçuş boyunca eğlendi. UÇUŞ İÇİ EĞLENCE SİSTEMİ, uzun yolculuğu çabucak geçirdi. IFES = UÇUŞ İÇİ EĞLENCE SİSTEMİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component IFES (In Flight Entertainment System), aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12326,8 +12326,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ay ef i es",
-    "mnemonicHook": "İFES",
-    "mnemonicScene": "İFES ekranında film başladı ve yolcular koltuklarında uçuş boyunca eğlendi. UÇUŞ İÇİ EĞLENCE SİSTEMİ, uzun yolculuğu çabucak geçirdi. IFES = UÇUŞ İÇİ EĞLENCE SİSTEMİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Require",
@@ -12337,8 +12337,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This task requires care.",
     "exampleTr": "Bu görev dikkat gerektirir.",
-    "storyEn": "Mnemonic: [RİKVAYR] -> GEREKTIRMEK",
-    "storyTr": "RİKVAYR belgeyi başvurudan istedi ve her başvuranın bunu sunması GEREKTİREN bir kural oldu. İhtiyaç duyulan belge olmadan kimse işleme alınmadı. REQUIRE = GEREKTİRMEK, İHTİYAÇ DUYMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component require, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12349,8 +12349,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "rikvayır",
-    "mnemonicHook": "RİKVAYR",
-    "mnemonicScene": "RİKVAYR belgeyi başvurudan istedi ve her başvuranın bunu sunması GEREKTİREN bir kural oldu. İhtiyaç duyulan belge olmadan kimse işleme alınmadı. REQUIRE = GEREKTİRMEK, İHTİYAÇ DUYMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Latch",
@@ -12360,8 +12360,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Close the latch.",
     "exampleTr": "Mandalı kapat.",
-    "storyEn": "Mnemonic: [LEYÇ] -> MANDAL",
-    "storyTr": "LEYÇ düşünce dolabın kapısı açıldı ve içerideki eşyalar dışarı döküldü. MANDAL'ın gevşekliği, bu kazanın yegâne nedeniydi. LATCH = MANDAL.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component latch, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12372,8 +12372,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "leç",
-    "mnemonicHook": "LEYÇ",
-    "mnemonicScene": "LEYÇ düşünce dolabın kapısı açıldı ve içerideki eşyalar dışarı döküldü. MANDAL'ın gevşekliği, bu kazanın yegâne nedeniydi. LATCH = MANDAL."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Related",
@@ -12383,8 +12383,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "These parts are related.",
     "exampleTr": "Bu parçalar bağlantılıdır.",
-    "storyEn": "Mnemonic: [RİLEYTİD] -> ILGILI",
-    "storyTr": "RİLEYTİD iki hikâye aynı kişiye dokundu ve olaylar birbirinden kopmadı. İlgili ve BAĞLANTILI bu anlatılar, okuyanı tek bir sonuca götürdü. RELATED = İLGİLİ, BAĞLANTILI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component related, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12395,8 +12395,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "rileytıd",
-    "mnemonicHook": "RİLEYTİD",
-    "mnemonicScene": "RİLEYTİD iki hikâye aynı kişiye dokundu ve olaylar birbirinden kopmadı. İlgili ve BAĞLANTILI bu anlatılar, okuyanı tek bir sonuca götürdü. RELATED = İLGİLİ, BAĞLANTILI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Force",
@@ -12406,8 +12406,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Do not use force.",
     "exampleTr": "Kuvvet kullanma.",
-    "storyEn": "Mnemonic: [FORS] -> KUVVET",
-    "storyTr": "FORS ile kapı itilerek açıldı ve direnen mandal bile KUVVET'e dayanamadı. Yıllardır kapalı kalan kapı sonunda gıcırtıyla yerinden oynadı. FORCE = KUVVET, ZORLAMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component force, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12418,8 +12418,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fors",
-    "mnemonicHook": "FORS",
-    "mnemonicScene": "FORS ile kapı itilerek açıldı ve direnen mandal bile KUVVET'e dayanamadı. Yıllardır kapalı kalan kapı sonunda gıcırtıyla yerinden oynadı. FORCE = KUVVET, ZORLAMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Limited",
@@ -12429,8 +12429,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The time is limited.",
     "exampleTr": "Zaman sınırlıdır.",
-    "storyEn": "Mnemonic: [LİMİTİD] -> SINIRLI",
-    "storyTr": "LİMİTİD kampanya sınırlı sayıda üründe geçerliydi ve stoklar bir anda tükendi. SINIRLI olan bu fırsat için sabah erkenden kuyruk oluştu. LIMITED = SINIRLI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component limited, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12441,8 +12441,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "limitıd",
-    "mnemonicHook": "LİMİTİD",
-    "mnemonicScene": "LİMİTİD kampanya sınırlı sayıda üründe geçerliydi ve stoklar bir anda tükendi. SINIRLI olan bu fırsat için sabah erkenden kuyruk oluştu. LIMITED = SINIRLI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Stationary",
@@ -12452,8 +12452,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The vehicle is stationary.",
     "exampleTr": "Araç hareketsizdir.",
-    "storyEn": "Mnemonic: [STEYŞNERİ] -> SABIT",
-    "storyTr": "STEYŞNERİ araba hareketsiz kaldı ve motor sustu, araç yerinde SABİT durdu. Trafik ışığı yanana kadar sürücü direksiyondan elini çekmeden bekledi. STATIONARY = SABİT, HAREKETSİZ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component stationary, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12464,8 +12464,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "steyşıneri",
-    "mnemonicHook": "STEYŞNERİ",
-    "mnemonicScene": "STEYŞNERİ araba hareketsiz kaldı ve motor sustu, araç yerinde SABİT durdu. Trafik ışığı yanana kadar sürücü direksiyondan elini çekmeden bekledi. STATIONARY = SABİT, HAREKETSİZ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Momentary",
@@ -12475,8 +12475,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The light is momentary.",
     "exampleTr": "Işık anlıktır.",
-    "storyEn": "Mnemonic: [MOMENTERİ] -> ANLIK",
-    "storyTr": "MOMENTERİ ışık yıldırım gibi çaktı ve bir saniyede söndü. ANLIK parlama bütün odayı beyaza boyadı ama yanan bir şey bırakmadı. MOMENTARY = ANLIK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component momentary, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12487,8 +12487,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "moumentıri",
-    "mnemonicHook": "MOMENTERİ",
-    "mnemonicScene": "MOMENTERİ ışık yıldırım gibi çaktı ve bir saniyede söndü. ANLIK parlama bütün odayı beyaza boyadı ama yanan bir şey bırakmadı. MOMENTARY = ANLIK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Inflate",
@@ -12498,8 +12498,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Inflate the life vest.",
     "exampleTr": "Can yeleğini şişir.",
-    "storyEn": "Mnemonic: [İNFLEYT] -> ŞIŞIRMEK",
-    "storyTr": "İNFLEYT komutuyla lastik HAVA BASILARAK ŞİŞTİ ve yolda yeniden hazır hale geldi. Kompresör sesini kesince lastik tam istenen sertliğe ulaştı. INFLATE = ŞİŞİRMEK, HAVA BASMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component inflate, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12510,8 +12510,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "infleyt",
-    "mnemonicHook": "İNFLEYT",
-    "mnemonicScene": "İNFLEYT komutuyla lastik HAVA BASILARAK ŞİŞTİ ve yolda yeniden hazır hale geldi. Kompresör sesini kesince lastik tam istenen sertliğe ulaştı. INFLATE = ŞİŞİRMEK, HAVA BASMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Order",
@@ -12521,8 +12521,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Put the tools in order.",
     "exampleTr": "Aletleri sıraya koy.",
-    "storyEn": "Mnemonic: [ORDIR] -> DÜZEN",
-    "storyTr": "ORDIR diyerek garson sipariş aldı ve masadakilerin tercihlerini tek tek kâğıda yazdı. DÜZEN korunduğu için mutfak da yemekleri sırayla hazırladı. ORDER = DÜZEN, SIRA, SİPARİŞ VERMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component order, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12533,8 +12533,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ordır",
-    "mnemonicHook": "ORDIR",
-    "mnemonicScene": "ORDIR diyerek garson sipariş aldı ve masadakilerin tercihlerini tek tek kâğıda yazdı. DÜZEN korunduğu için mutfak da yemekleri sırayla hazırladı. ORDER = DÜZEN, SIRA, SİPARİŞ VERMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Orderly",
@@ -12544,8 +12544,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Keep the room orderly.",
     "exampleTr": "Odayı düzenli tut.",
-    "storyEn": "Mnemonic: [ORDIRLİ] -> DÜZENLI",
-    "storyTr": "ORDIRLİ kuyrukta kimse itişmedi ve herkes sırasını bekleyerek ilerledi. DÜZENLİ bu sıra sayesinde kapı önü hiçbir karmaşa yaşamadı. ORDERLY = DÜZENLİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component orderly, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12556,8 +12556,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ordırli",
-    "mnemonicHook": "ORDIRLİ",
-    "mnemonicScene": "ORDIRLİ kuyrukta kimse itişmedi ve herkes sırasını bekleyerek ilerledi. DÜZENLİ bu sıra sayesinde kapı önü hiçbir karmaşa yaşamadı. ORDERLY = DÜZENLİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Regularly",
@@ -12567,8 +12567,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Check the system regularly.",
     "exampleTr": "Sistemi düzenli olarak kontrol et.",
-    "storyEn": "Mnemonic: [REGYULARLİ] -> DÜZENLI OLARAK",
-    "storyTr": "REGYULARLİ koşan adam her sabah ayrı bir DÜZENLİ OLARAK aynı saatte parkın yolunu tutuyordu. Mahalledekiler onun gelişine bakarak saatlerini ayarlar oldu. REGULARLY = DÜZENLİ OLARAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component regularly, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12579,8 +12579,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "regyulırli",
-    "mnemonicHook": "REGYULARLİ",
-    "mnemonicScene": "REGYULARLİ koşan adam her sabah ayrı bir DÜZENLİ OLARAK aynı saatte parkın yolunu tutuyordu. Mahalledekiler onun gelişine bakarak saatlerini ayarlar oldu. REGULARLY = DÜZENLİ OLARAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Interchangeable",
@@ -12590,8 +12590,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "These parts are interchangeable.",
     "exampleTr": "Bu parçalar birbiriyle değiştirilebilir.",
-    "storyEn": "Mnemonic: [İNTERÇENCEBIL] -> BIRBIRIYLE DEĞIŞTIRILEBILIR",
-    "storyTr": "İNTERÇENCEBIL vidalar birbirine tam uyuyordu ve bir parça diğerinin yerine takılabiliyordu. BİRBİRİYLE DEĞİŞTİRİLEBİLİR parçalar sayesinde tamirci zaman kaybetmeden işi bitirdi. INTERCHANGEABLE = BİRBİRİYLE DEĞİŞTİRİLEBİLİR.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component interchangeable, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12602,8 +12602,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "interçeyncıbıl",
-    "mnemonicHook": "İNTERÇENCEBIL",
-    "mnemonicScene": "İNTERÇENCEBIL vidalar birbirine tam uyuyordu ve bir parça diğerinin yerine takılabiliyordu. BİRBİRİYLE DEĞİŞTİRİLEBİLİR parçalar sayesinde tamirci zaman kaybetmeden işi bitirdi. INTERCHANGEABLE = BİRBİRİYLE DEĞİŞTİRİLEBİLİR."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Bend",
@@ -12613,8 +12613,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Do not bend the pipe.",
     "exampleTr": "Boruyu bükme.",
-    "storyEn": "Mnemonic: [BEND] -> BÜKMEK",
-    "storyTr": "Demir çubuğu BEND (bükmek, eğmek) için iki elle zorladı; çubuk yavaşça büküldü. BEND = BÜKMEK, EĞMEK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component bend, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12625,8 +12625,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "bend",
-    "mnemonicHook": "BEND",
-    "mnemonicScene": "Demir çubuğu BEND (bükmek, eğmek) için iki elle zorladı; çubuk yavaşça büküldü. BEND = BÜKMEK, EĞMEK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Leakproof",
@@ -12636,8 +12636,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The container is leakproof.",
     "exampleTr": "Kap sızdırmazdır.",
-    "storyEn": "Mnemonic: [LİYKPRUF] -> SIZDIRMAZ",
-    "storyTr": "LİYKPRUF kapak damlatmadı ve içindeki sıvı tek damla bile dışarı sızmadı. SIZDIRMAZ tasarım sayesinde çanta yolculukta hiç ıslanmadı. LEAKPROOF = SIZDIRMAZ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component leakproof, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12648,8 +12648,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "liik pruuf",
-    "mnemonicHook": "LİYKPRUF",
-    "mnemonicScene": "LİYKPRUF kapak damlatmadı ve içindeki sıvı tek damla bile dışarı sızmadı. SIZDIRMAZ tasarım sayesinde çanta yolculukta hiç ıslanmadı. LEAKPROOF = SIZDIRMAZ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Flanged",
@@ -12659,8 +12659,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The pipe is flanged.",
     "exampleTr": "Boru flanşlıdır.",
-    "storyEn": "Mnemonic: [FLENCD] -> FLANŞLI",
-    "storyTr": "FLENCD boru kenarındaki flanşla sıkıca bağlandı ve iki parça hiç kaymadı. FLANŞLI bağlantı sayesinde basınç altında bile borunun ucu yerinde kaldı. FLANGED = FLANŞLI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component flanged, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12671,8 +12671,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "flencd",
-    "mnemonicHook": "FLENCD",
-    "mnemonicScene": "FLENCD boru kenarındaki flanşla sıkıca bağlandı ve iki parça hiç kaymadı. FLANŞLI bağlantı sayesinde basınç altında bile borunun ucu yerinde kaldı. FLANGED = FLANŞLI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Motor driven",
@@ -12682,8 +12682,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The fan is motor driven.",
     "exampleTr": "Fan motorla çalıştırılır.",
-    "storyEn": "Mnemonic: [MOTOR DRİVEN] -> MOTORLA ÇALIŞTIRILAN",
-    "storyTr": "MOTOR DRİVEN vinç düğmeye basılınca dönüp yükü kaldırdı. MOTORLA ÇALIŞTIRILAN sistem sayesinde işçiler ağır yükü hiç zorlanmadan taşıdı. MOTOR DRIVEN = MOTORLA ÇALIŞTIRILAN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component motor driven, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12694,8 +12694,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "motır drivın",
-    "mnemonicHook": "MOTOR DRİVEN",
-    "mnemonicScene": "MOTOR DRİVEN vinç düğmeye basılınca dönüp yükü kaldırdı. MOTORLA ÇALIŞTIRILAN sistem sayesinde işçiler ağır yükü hiç zorlanmadan taşıdı. MOTOR DRIVEN = MOTORLA ÇALIŞTIRILAN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Approve",
@@ -12705,8 +12705,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The manager can approve it.",
     "exampleTr": "Müdür bunu onaylayabilir.",
-    "storyEn": "Mnemonic: [APRUV] -> ONAYLAMAK",
-    "storyTr": "APRUV kaşesini basan müdür belgeyi ONAYLADI ve işin resmen başlamasına izin verdi. Onay sayesinde herkes projeye güvenle devam edebildi. APPROVE = ONAYLAMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component approve, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12717,8 +12717,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ıpruuv",
-    "mnemonicHook": "APRUV",
-    "mnemonicScene": "APRUV kaşesini basan müdür belgeyi ONAYLADI ve işin resmen başlamasına izin verdi. Onay sayesinde herkes projeye güvenle devam edebildi. APPROVE = ONAYLAMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Built-in",
@@ -12728,8 +12728,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The light is built-in.",
     "exampleTr": "Işık dahili yapıdadır.",
-    "storyEn": "Mnemonic: [BİLT İN] -> DAHILI",
-    "storyTr": "BİLT İN ocak dolabın içine gömüldü ve tezgâhla tek parça oldu. DAHİLİ yerleştirme sayesinde mutfak daha düzenli ve şık göründü. BUILT-IN = DAHİLİ, İÇİNE YERLEŞTİRİLMİŞ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component built-in, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12740,8 +12740,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "bilt in",
-    "mnemonicHook": "BİLT İN",
-    "mnemonicScene": "BİLT İN ocak dolabın içine gömüldü ve tezgâhla tek parça oldu. DAHİLİ yerleştirme sayesinde mutfak daha düzenli ve şık göründü. BUILT-IN = DAHİLİ, İÇİNE YERLEŞTİRİLMİŞ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Demountable",
@@ -12751,8 +12751,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The panel is demountable.",
     "exampleTr": "Panel sökülebilirdir.",
-    "storyEn": "Mnemonic: [DİMAUNTABIL] -> SÖKÜLEBILIR",
-    "storyTr": "DİMAUNTABIL raf iki vidayla söküldü ve duvardan kolayca ayrıldı. SÖKÜLEBİLİR yapı sayesinde taşınırken raf hiç zarar görmedi. DEMOUNTABLE = SÖKÜLEBİLİR.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component demountable, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12763,8 +12763,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "di mauntıbıl",
-    "mnemonicHook": "DİMAUNTABIL",
-    "mnemonicScene": "DİMAUNTABIL raf iki vidayla söküldü ve duvardan kolayca ayrıldı. SÖKÜLEBİLİR yapı sayesinde taşınırken raf hiç zarar görmedi. DEMOUNTABLE = SÖKÜLEBİLİR."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Flow indicator",
@@ -12774,8 +12774,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The flow indicator is green.",
     "exampleTr": "Akış göstergesi yeşildir.",
-    "storyEn": "Mnemonic: [FLOU İNDİKEYTÖR] -> AKIŞ GÖSTERGESI",
-    "storyTr": "FLOU İNDİKEYTÖR ibresi boruda hareket etti ve suyun ne kadar aktığını gösterdi. AKIŞ GÖSTERGESİ sayesinde teknisyen tıkanıklığı hemen fark etti. FLOW INDICATOR = AKIŞ GÖSTERGESİ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component flow indicator, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12786,8 +12786,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "flou indikeytır",
-    "mnemonicHook": "FLOU İNDİKEYTÖR",
-    "mnemonicScene": "FLOU İNDİKEYTÖR ibresi boruda hareket etti ve suyun ne kadar aktığını gösterdi. AKIŞ GÖSTERGESİ sayesinde teknisyen tıkanıklığı hemen fark etti. FLOW INDICATOR = AKIŞ GÖSTERGESİ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Adhesive",
@@ -12797,8 +12797,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Use this adhesive.",
     "exampleTr": "Bu yapıştırıcıyı kullan.",
-    "storyEn": "Mnemonic: [ADHESİV] -> YAPIŞTIRICI",
-    "storyTr": "ADHESİV tutkal parçayı sıkıca YAPIŞTIRDI ve tutkal kuruyunca iki parça birbirinden kopmaz oldu. Bu yapıştırıcı sayesinde raf yıllarca yük taşıdı. ADHESIVE = YAPIŞTIRICI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component adhesive, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12809,8 +12809,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ıdhiisiv",
-    "mnemonicHook": "ADHESİV",
-    "mnemonicScene": "ADHESİV tutkal parçayı sıkıca YAPIŞTIRDI ve tutkal kuruyunca iki parça birbirinden kopmaz oldu. Bu yapıştırıcı sayesinde raf yıllarca yük taşıdı. ADHESIVE = YAPIŞTIRICI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Sticky",
@@ -12820,8 +12820,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The tape is sticky.",
     "exampleTr": "Bant yapışkandır.",
-    "storyEn": "Mnemonic: [STİKİ] -> YAPIŞKAN",
-    "storyTr": "STİKİ eller bir türlü bırakmadı ve şeker her yere YAPIŞKAN bir tabaka gibi bulaştı. Yıkayınca bile el temizlenene kadar çocuk parmaklarını kıpırdatamadı. STICKY = YAPIŞKAN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component sticky, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12832,8 +12832,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "stiki",
-    "mnemonicHook": "STİKİ",
-    "mnemonicScene": "STİKİ eller bir türlü bırakmadı ve şeker her yere YAPIŞKAN bir tabaka gibi bulaştı. Yıkayınca bile el temizlenene kadar çocuk parmaklarını kıpırdatamadı. STICKY = YAPIŞKAN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Elements",
@@ -12843,8 +12843,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "These elements are important.",
     "exampleTr": "Bu elemanlar önemlidir.",
-    "storyEn": "Mnemonic: [ELİMENTS] -> ELEMANLAR",
-    "storyTr": "ELİMENTS tabloda tek tek sıraya dizildi ve her biri temel bir ELEMAN olarak yerini aldı. Öğretmen elementlerin hepsini sırayla açıklayarak dersi bitirdi. ELEMENTS = ELEMANLAR, ÖĞELER.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component elements, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12855,18 +12855,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "elımınts",
-    "mnemonicHook": "ELİMENTS",
-    "mnemonicScene": "ELİMENTS tabloda tek tek sıraya dizildi ve her biri temel bir ELEMAN olarak yerini aldı. Öğretmen elementlerin hepsini sırayla açıklayarak dersi bitirdi. ELEMENTS = ELEMANLAR, ÖĞELER."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Keep",
     "turkish": "tutmak, saklamak",
     "phonetic": "/kiip/",
     "pronunciationTr": "kiip",
-    "mnemonicHook": "KİP",
-    "mnemonicScene": "KİP komutuyla kutuyu güvenle TUTTU ve kimse onu düşürmedi. Ardından kutuyu kilitli dolaba koyup içinde saklanan eşyaları korudu. KEEP = TUTMAK, SAKLAMAK.",
-    "storyTr": "KİP komutuyla kutuyu güvenle TUTTU ve kimse onu düşürmedi. Ardından kutuyu kilitli dolaba koyup içinde saklanan eşyaları korudu. KEEP = TUTMAK, SAKLAMAK.",
-    "storyEn": "Mnemonic: [KİP] -> TUTMAK",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "Keep this key safe.",
     "exampleTr": "Bu anahtarı güvenli yerde sakla.",
     "level": "A1",
@@ -12884,10 +12884,10 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "turkish": "değiştirmek, değişim",
     "phonetic": "/çeync/",
     "pronunciationTr": "çeync",
-    "mnemonicHook": "ÇEYNCH",
-    "mnemonicScene": "ÇEYNCH sayesinde yıl değişti ve yeni bir dönem başladı. Herkes ortamı DEĞİŞTİRMEK için yeni fikirler üretmeye koyuldu. CHANGE = DEĞİŞTİRMEK, DEĞİŞİM.",
-    "storyTr": "ÇEYNCH sayesinde yıl değişti ve yeni bir dönem başladı. Herkes ortamı DEĞİŞTİRMEK için yeni fikirler üretmeye koyuldu. CHANGE = DEĞİŞTİRMEK, DEĞİŞİM.",
-    "storyEn": "Mnemonic: [ÇEYNCH] -> DEĞIŞTIRMEK",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "Change the filter now.",
     "exampleTr": "Filtreyi şimdi değiştir.",
     "level": "A1",
@@ -12905,10 +12905,10 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "turkish": "-den kaynaklanmak",
     "phonetic": "/bi dyu tu/",
     "pronunciationTr": "bi dyu tu",
-    "mnemonicHook": "BİDYU",
-    "mnemonicScene": "BİDYU dediğimiz gecikme yağmurdan değil, trafik yüzünden oldu. Yolcular geç kalmanın asıl nedeninin -DEN KAYNAKLANAN bu sorun olduğunu öğrendi. BE DUE TO = -DEN KAYNAKLANMAK.",
-    "storyTr": "BİDYU dediğimiz gecikme yağmurdan değil, trafik yüzünden oldu. Yolcular geç kalmanın asıl nedeninin -DEN KAYNAKLANAN bu sorun olduğunu öğrendi. BE DUE TO = -DEN KAYNAKLANMAK.",
-    "storyEn": "Mnemonic: [BİDYU] -> -DEN KAYNAKLANMAK",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "The delay is due to rain.",
     "exampleTr": "Gecikme yağmurdan kaynaklanıyor.",
     "level": "A1",
@@ -12926,10 +12926,10 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "turkish": "çok yıpranmış, paramparça",
     "phonetic": "/tetırd/",
     "pronunciationTr": "tetırd",
-    "mnemonicHook": "TATERD",
-    "mnemonicScene": "TATERD kitabın kenarları parça parça döküldü ve sayfalar elimde dağıldı. ÇOK YIPRANMIŞ kitap, yılların okunmuş izlerini taşıyordu. TATTERED = ÇOK YIPRANMIŞ, PARAMPARÇA.",
-    "storyTr": "TATERD kitabın kenarları parça parça döküldü ve sayfalar elimde dağıldı. ÇOK YIPRANMIŞ kitap, yılların okunmuş izlerini taşıyordu. TATTERED = ÇOK YIPRANMIŞ, PARAMPARÇA.",
-    "storyEn": "Mnemonic: [TATERD] -> ÇOK YIPRANMIŞ",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "The old cover is tattered.",
     "exampleTr": "Eski kaplama çok yıpranmıştır.",
     "level": "A1",
@@ -12950,8 +12950,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The windscreens are clean.",
     "exampleTr": "Ön camlar temizdir.",
-    "storyEn": "Mnemonic: [ÜİNDSKRİNZ] -> ÖN CAMLAR",
-    "storyTr": "ÜİNDSKRİNZ taşla çarpınca iki ÖN CAM de kırıldı. Kamyonun şoförü camdaki çatlakları gördüğünde yolu kapatıp bekledi. WINDSCREENS = ÖN CAMLAR.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Windscreens, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12962,8 +12962,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "vindskriinz",
-    "mnemonicHook": "ÜİNDSKRİNZ",
-    "mnemonicScene": "ÜİNDSKRİNZ taşla çarpınca iki ÖN CAM de kırıldı. Kamyonun şoförü camdaki çatlakları gördüğünde yolu kapatıp bekledi. WINDSCREENS = ÖN CAMLAR."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Closets",
@@ -12973,8 +12973,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The closets are empty.",
     "exampleTr": "Dolaplar boştur.",
-    "storyEn": "Mnemonic: [KLOZETS] -> DOLAPLAR",
-    "storyTr": "KLOZETS kapıları açıkça sıralanmıştı ve her dolabın içinde ayrı bir düzen vardı. DOLAPLAR sayesinde ev derli toplu görünüyordu. CLOSETS = DOLAPLAR.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Closets, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -12985,8 +12985,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "klozıts",
-    "mnemonicHook": "KLOZETS",
-    "mnemonicScene": "KLOZETS kapıları açıkça sıralanmıştı ve her dolabın içinde ayrı bir düzen vardı. DOLAPLAR sayesinde ev derli toplu görünüyordu. CLOSETS = DOLAPLAR."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Blocks",
@@ -12996,8 +12996,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The blocks are heavy.",
     "exampleTr": "Bloklar ağırdır.",
-    "storyEn": "Mnemonic: [BLOKS] -> BLOKLAR",
-    "storyTr": "BLOKS yolu kapattı ve araçlar geçebilmek için bir süre bekledi. BLOKLAR kaldırılınca trafik yeniden akmaya başladı. BLOCKS = BLOKLAR, ENGELLER.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component blocks, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -13008,18 +13008,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "bloks",
-    "mnemonicHook": "BLOKS",
-    "mnemonicScene": "BLOKS yolu kapattı ve araçlar geçebilmek için bir süre bekledi. BLOKLAR kaldırılınca trafik yeniden akmaya başladı. BLOCKS = BLOKLAR, ENGELLER."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Scanner",
     "turkish": "tarayıcı",
     "phonetic": "/skenır/",
     "pronunciationTr": "skenır",
-    "mnemonicHook": "SKENER",
-    "mnemonicScene": "SKENER sayfaları hızla taradı ve her kitap bir anda dijital ortama aktarıldı. TARAYICI sayesinde kütüphanenin arşivi tek bir yerde toplandı. SCANNER = TARAYICI.",
-    "storyTr": "SKENER sayfaları hızla taradı ve her kitap bir anda dijital ortama aktarıldı. TARAYICI sayesinde kütüphanenin arşivi tek bir yerde toplandı. SCANNER = TARAYICI.",
-    "storyEn": "Mnemonic: [SKENER] -> TARAYICI",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "The scanner is ready.",
     "exampleTr": "Tarayıcı hazırdır.",
     "level": "A1",
@@ -13040,8 +13040,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Check the refuel coupling.",
     "exampleTr": "Yakıt ikmal bağlantısını kontrol et.",
-    "storyEn": "Mnemonic: [YAKIT KUPLİNG] -> YAKIT IKMAL/BOŞALTMA BAĞLANTISI",
-    "storyTr": "Hortumun ucundaki YAKIT KUPLİNG (refuel/defuel coupling) tanka tam oturdu; YAKIT KUPLİNG ikmali sağladı. REFUEL/DEFUEL COUPLING = YAKIT İKMAL/BOŞALTMA BAĞLANTISI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Refuel/Defuel Coupling, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -13052,8 +13052,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ri fyul di fyul kaplıng",
-    "mnemonicHook": "YAKIT KUPLİNG",
-    "mnemonicScene": "Hortumun ucundaki YAKIT KUPLİNG (refuel/defuel coupling) tanka tam oturdu; YAKIT KUPLİNG ikmali sağladı. REFUEL/DEFUEL COUPLING = YAKIT İKMAL/BOŞALTMA BAĞLANTISI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fill it",
@@ -13063,8 +13063,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Fill it with clean water.",
     "exampleTr": "Onu temiz suyla doldur.",
-    "storyEn": "Mnemonic: [FİL İT] -> ONU DOLDURMAK",
-    "storyTr": "Garson FİL İT (fill it) dedi; FİL İT komutuyla bardağı tepeye kadar DOLDURDU. FILL IT = ONU DOLDURMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component fill it, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -13075,8 +13075,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fil it",
-    "mnemonicHook": "FİL İT",
-    "mnemonicScene": "Garson FİL İT (fill it) dedi; FİL İT komutuyla bardağı tepeye kadar DOLDURDU. FILL IT = ONU DOLDURMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Bond",
@@ -13086,8 +13086,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Bond the two surfaces.",
     "exampleTr": "İki yüzeyi birbirine bağla.",
-    "storyEn": "Mnemonic: [BOND] -> BAĞLAMAK",
-    "storyTr": "Ustanın BOND (bağlamak, yapıştırmak) diye tuttuğu bağ iki parçayı kalıcı olarak birleştirdi. BOND = BAĞLAMAK, YAPIŞTIRMAK, BAĞ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Bond, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -13098,8 +13098,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "bond",
-    "mnemonicHook": "BOND",
-    "mnemonicScene": "Ustanın BOND (bağlamak, yapıştırmak) diye tuttuğu bağ iki parçayı kalıcı olarak birleştirdi. BOND = BAĞLAMAK, YAPIŞTIRMAK, BAĞ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Fairing",
@@ -13109,8 +13109,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The fairing is damaged.",
     "exampleTr": "Aerodinamik kaplama hasarlıdır.",
-    "storyEn": "Mnemonic: [FEYRİNG] -> KAPORTA",
-    "storyTr": "FEYRİNG uçağın burnuna oturdu ve rüzgârı yumuşakça yana yönlendirdi. KAPORTA sayesinde uçak hızlanırken hava direnci azaldı. FAIRING = KAPORTA, AERODİNAMİK KAPLAMA.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Fairing, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -13121,8 +13121,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fering",
-    "mnemonicHook": "FEYRİNG",
-    "mnemonicScene": "FEYRİNG uçağın burnuna oturdu ve rüzgârı yumuşakça yana yönlendirdi. KAPORTA sayesinde uçak hızlanırken hava direnci azaldı. FAIRING = KAPORTA, AERODİNAMİK KAPLAMA."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Objective",
@@ -13132,8 +13132,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Our objective is clear.",
     "exampleTr": "Amacımız açıktır.",
-    "storyEn": "Mnemonic: [OBCEKTİV] -> AMAÇ",
-    "storyTr": "OBCEKTİV açıkça yazıldı ve herkes AMAÇ'ın ne olduğunu ilk bakışta anladı. Ekip tek bir hedefe odaklanarak projeyi zamanında tamamladı. OBJECTIVE = AMAÇ, HEDEF.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Objective, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -13144,8 +13144,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ıbc ektiv",
-    "mnemonicHook": "OBCEKTİV",
-    "mnemonicScene": "OBCEKTİV açıkça yazıldı ve herkes AMAÇ'ın ne olduğunu ilk bakışta anladı. Ekip tek bir hedefe odaklanarak projeyi zamanında tamamladı. OBJECTIVE = AMAÇ, HEDEF."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Dust on",
@@ -13155,8 +13155,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "There is dust on the panel.",
     "exampleTr": "Panelin üzerinde toz var.",
-    "storyEn": "Mnemonic: [DAST ON] -> ÜZERINDE TOZ BULUNMASI",
-    "storyTr": "DAST ON raflarda kalın bir tabaka gibi birikmişti ve her yer ÜZERİNDE TOZ BULUNMASI yüzünden donuk duruyordu. Uzun süre silinmeyen raf, gelen herkesin dikkatini çekti. DUST ON = ÜZERİNDE TOZ BULUNMASI.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Dust on, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -13167,8 +13167,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "dast on",
-    "mnemonicHook": "DAST ON",
-    "mnemonicScene": "DAST ON raflarda kalın bir tabaka gibi birikmişti ve her yer ÜZERİNDE TOZ BULUNMASI yüzünden donuk duruyordu. Uzun süre silinmeyen raf, gelen herkesin dikkatini çekti. DUST ON = ÜZERİNDE TOZ BULUNMASI."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Tissue",
@@ -13178,8 +13178,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Use a tissue, please.",
     "exampleTr": "Lütfen bir mendil kullan.",
-    "storyEn": "Mnemonic: [TİŞU] -> DOKU; MENDIL",
-    "storyTr": "TİŞU mendil yumuşacıktı ve ağlayan çocuğa DOKU gibi sarılarak gözyaşlarını sildi. Yumuşak mendil sayesinde çocuk kısa sürede sakinleşti. TISSUE = DOKU, MENDİL.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Tissue, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -13190,8 +13190,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "tişu",
-    "mnemonicHook": "TİŞU",
-    "mnemonicScene": "TİŞU mendil yumuşacıktı ve ağlayan çocuğa DOKU gibi sarılarak gözyaşlarını sildi. Yumuşak mendil sayesinde çocuk kısa sürede sakinleşti. TISSUE = DOKU, MENDİL."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Pulled",
@@ -13201,8 +13201,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The handle was pulled.",
     "exampleTr": "Kol çekildi.",
-    "storyEn": "Mnemonic: [PULD] -> ÇEKILMIŞ",
-    "storyTr": "PULD diye sürüklenen halat ÇEKİLMİŞ ve gerilmiş bir halde yere düştü. Halatın bu gerginliği, yükün ne kadar ağır olduğunu gösteriyordu. PULLED = ÇEKİLMİŞ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component pulled, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -13213,8 +13213,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "puld",
-    "mnemonicHook": "PULD",
-    "mnemonicScene": "PULD diye sürüklenen halat ÇEKİLMİŞ ve gerilmiş bir halde yere düştü. Halatın bu gerginliği, yükün ne kadar ağır olduğunu gösteriyordu. PULLED = ÇEKİLMİŞ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Restrain",
@@ -13224,8 +13224,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The belt can restrain movement.",
     "exampleTr": "Kemer hareketi sınırlayabilir.",
-    "storyEn": "Mnemonic: [RİSTREYN] -> ALIKOYMAK",
-    "storyTr": "Güvenlik görevlisi kavgacının kolunu RİSTREYN (restrain) edip ALIKOYDU; RİSTREYN ile adam sakinleşti. RESTRAIN = ALIKOYMAK, SINIRLAMAK.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component restrain, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -13236,18 +13236,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ristreyn",
-    "mnemonicHook": "RİSTREYN",
-    "mnemonicScene": "Güvenlik görevlisi kavgacının kolunu RİSTREYN (restrain) edip ALIKOYDU; RİSTREYN ile adam sakinleşti. RESTRAIN = ALIKOYMAK, SINIRLAMAK."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Restraint",
     "turkish": "kısıtlama, tutma",
     "phonetic": "/ristreynt/",
     "pronunciationTr": "ristreynt",
-    "mnemonicHook": "RİSTREYNT",
-    "mnemonicScene": "RİSTREYNT kemeri yolcuyu KISITLAMA ile koltukta tuttu ve ani frende bile yerinden oynatmadı. Bu güvenlik düzeni sayesinde yolcu hiçbir yaralanma yaşamadı. RESTRAINT = KISITLAMA, TUTMA.",
-    "storyTr": "RİSTREYNT kemeri yolcuyu KISITLAMA ile koltukta tuttu ve ani frende bile yerinden oynatmadı. Bu güvenlik düzeni sayesinde yolcu hiçbir yaralanma yaşamadı. RESTRAINT = KISITLAMA, TUTMA.",
-    "storyEn": "Mnemonic: [RİSTREYNT] -> KISITLAMA",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "The restraint is secure.",
     "exampleTr": "Tutma sistemi güvenlidir.",
     "level": "A1",
@@ -13268,8 +13268,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Copper is conductive.",
     "exampleTr": "Bakır iletkendir.",
-    "storyEn": "Mnemonic: [KANDAKTİV] -> ILETKEN",
-    "storyTr": "KANDAKTİV bakır elektriği hızla İLETTİ ve devre bir anda çalışmaya başladı. İLETKEN metal sayesinde lamba saniyeler içinde yandı. CONDUCTIVE = İLETKEN.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component conductive, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -13280,8 +13280,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kındaktiv",
-    "mnemonicHook": "KANDAKTİV",
-    "mnemonicScene": "KANDAKTİV bakır elektriği hızla İLETTİ ve devre bir anda çalışmaya başladı. İLETKEN metal sayesinde lamba saniyeler içinde yandı. CONDUCTIVE = İLETKEN."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Sealed",
@@ -13291,8 +13291,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The container is sealed.",
     "exampleTr": "Kap mühürlüdür.",
-    "storyEn": "Mnemonic: [SİLD] -> MÜHÜRLÜ",
-    "storyTr": "SİLD kutu bandı kırılmadan MÜHÜRLÜ geldi ve içindekiler bozulmadan ulaştı. Kutunun bütünlüğü, hiç kimsenin açmadığını gösteriyordu. SEALED = MÜHÜRLÜ, SIZDIRMAZ.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component sealed, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -13303,18 +13303,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "siild",
-    "mnemonicHook": "SİLD",
-    "mnemonicScene": "SİLD kutu bandı kırılmadan MÜHÜRLÜ geldi ve içindekiler bozulmadan ulaştı. Kutunun bütünlüğü, hiç kimsenin açmadığını gösteriyordu. SEALED = MÜHÜRLÜ, SIZDIRMAZ."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Cloth",
     "turkish": "bez, kumaş",
     "phonetic": "/kloth/",
     "pronunciationTr": "kloth",
-    "mnemonicHook": "KLOTH",
-    "mnemonicScene": "KLOTH bezle camı sildim ve BEZ'in emici yapısı lekeleri hızla çekti. KUMAŞ kadar yumuşak olan bu temizlik bezi camı pırıl pırıl bıraktı. CLOTH = BEZ, KUMAŞ.",
-    "storyTr": "KLOTH bezle camı sildim ve BEZ'in emici yapısı lekeleri hızla çekti. KUMAŞ kadar yumuşak olan bu temizlik bezi camı pırıl pırıl bıraktı. CLOTH = BEZ, KUMAŞ.",
-    "storyEn": "Mnemonic: [KLOTH] -> BEZ",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "Use a clean cloth.",
     "exampleTr": "Temiz bir bez kullan.",
     "level": "A1",
@@ -13335,8 +13335,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The finish is mat.",
     "exampleTr": "Yüzey mat kaplamadır.",
-    "storyEn": "Mnemonic: [MET] -> MAT",
-    "storyTr": "Cam MET (mat) olunca ışık yansımadı; MET yüzey mat ve DONUK görünüyordu. MAT = MAT, DONUK YÜZEY.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component Mat, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -13347,8 +13347,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "met",
-    "mnemonicHook": "MET",
-    "mnemonicScene": "Cam MET (mat) olunca ışık yansımadı; MET yüzey mat ve DONUK görünüyordu. MAT = MAT, DONUK YÜZEY."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Expresses",
@@ -13358,8 +13358,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The light expresses a warning.",
     "exampleTr": "Işık bir uyarı ifade eder.",
-    "storyEn": "Mnemonic: [EKSPRESİZ] -> IFADE EDER",
-    "storyTr": "EKSPRESİZ yüzü her gün duygularını belli eder ve sevinç ile üzüntü ondan kolayca okunurdu. Bu yüz, sözsüz bir şekilde kişinin ne hissettiğini İFADE EDERDİ. EXPRESSES = İFADE EDER.",
+    "storyEn": "",
+    "storyTr": "",
     "synonyms": [],
     "imagePrompt": "aviation technical component expresses, aircraft maintenance closeup in modern hangar, detailed engineering photography",
     "interval": 0,
@@ -13370,18 +13370,18 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ikspresız",
-    "mnemonicHook": "EKSPRESİZ",
-    "mnemonicScene": "EKSPRESİZ yüzü her gün duygularını belli eder ve sevinç ile üzüntü ondan kolayca okunurdu. Bu yüz, sözsüz bir şekilde kişinin ne hissettiğini İFADE EDERDİ. EXPRESSES = İFADE EDER."
+    "mnemonicHook": "",
+    "mnemonicScene": ""
   },
   {
     "english": "Repetitively",
     "turkish": "tekrar tekrar",
     "phonetic": "/ripetitıvli/",
     "pronunciationTr": "ripetitıvli",
-    "mnemonicHook": "RİPİTİVLİ",
-    "mnemonicScene": "RİPİTİVLİ robot kolu aynı hareketi TEKRAR TEKRAR yaptı ve durmaksızın iniş çıkış yaptı. Fabrikadaki bu düzenli tekrar, üretimi hızlandırdı. REPETITIVELY = TEKRAR TEKRAR.",
-    "storyTr": "RİPİTİVLİ robot kolu aynı hareketi TEKRAR TEKRAR yaptı ve durmaksızın iniş çıkış yaptı. Fabrikadaki bu düzenli tekrar, üretimi hızlandırdı. REPETITIVELY = TEKRAR TEKRAR.",
-    "storyEn": "Mnemonic: [RİPİTİVLİ] -> TEKRAR TEKRAR",
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyTr": "",
+    "storyEn": "",
     "exampleEn": "The alarm sounds repetitively.",
     "exampleTr": "Alarm tekrar tekrar çalar.",
     "level": "A1",
@@ -13402,7 +13402,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "I install the new seat.",
     "exampleTr": "Yeni koltuğu takıyorum.",
-    "storyTr": "İNSTOL işlemiyle yeni lamba takıldı ve soketi yerine oturtuldu. TAKMAK tamamlanınca lamba ilk denemede yandı. INSTALL = TAKMAK, MONTAJ.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -13413,9 +13413,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "instol",
-    "mnemonicHook": "İNSTOL",
-    "mnemonicScene": "İNSTOL işlemiyle yeni lamba takıldı ve soketi yerine oturtuldu. TAKMAK tamamlanınca lamba ilk denemede yandı. INSTALL = TAKMAK, MONTAJ.",
-    "storyEn": "Mnemonic: [İNSTOL] -> TAKMAK"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "remove",
@@ -13425,7 +13425,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Please remove the old part.",
     "exampleTr": "Lütfen eski parçayı sökün.",
-    "storyTr": "RİMUV vidalarını açınca kapak SÖKÜLDÜ ve dört parça ayrı bir yere konuldu. Teknisyen sökülen parçaları sırayla etiketledi. REMOVE = SÖKMEK.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -13436,9 +13436,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "rimuv",
-    "mnemonicHook": "RİMUV",
-    "mnemonicScene": "RİMUV vidalarını açınca kapak SÖKÜLDÜ ve dört parça ayrı bir yere konuldu. Teknisyen sökülen parçaları sırayla etiketledi. REMOVE = SÖKMEK.",
-    "storyEn": "Mnemonic: [RİMUV] -> SÖKMEK"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "inspect",
@@ -13448,7 +13448,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "",
     "exampleTr": "",
-    "storyTr": "İNSPEKT dediği makineyi müfettiş dikkatle MUAYENE ETTİ ve her köşesine baktı. Muayene sonunda tüm sistemlerin güvenli olduğu raporlandı. INSPECT = MUAYENE ETMEK, KONTROL ETMEK.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -13458,9 +13458,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "status": "new",
     "timesReviewed": 0,
     "lapses": 0,
-    "mnemonicHook": "İNSPEKT",
-    "mnemonicScene": "İNSPEKT dediği makineyi müfettiş dikkatle MUAYENE ETTİ ve her köşesine baktı. Muayene sonunda tüm sistemlerin güvenli olduğu raporlandı. INSPECT = MUAYENE ETMEK, KONTROL ETMEK.",
-    "storyEn": "Mnemonic: [İNSPEKT] -> MUAYENE/KONTROL ETMEK"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "report",
@@ -13470,7 +13470,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "I report the problem.",
     "exampleTr": "Sorunu bildiriyorum.",
-    "storyTr": "RİPORT maili yetkiliye gitti ve arıza hemen BİLDİRİLDİ. Yetkili, raporu okuyunca hemen teknisyeni yönlendirdi. REPORT = BİLDİRMEK.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -13481,9 +13481,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "riport",
-    "mnemonicHook": "RİPORT",
-    "mnemonicScene": "RİPORT maili yetkiliye gitti ve arıza hemen BİLDİRİLDİ. Yetkili, raporu okuyunca hemen teknisyeni yönlendirdi. REPORT = BİLDİRMEK.",
-    "storyEn": "Mnemonic: [RİPORT] -> BILDIRMEK"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "find",
@@ -13493,7 +13493,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "I find the missing tool.",
     "exampleTr": "Kayıp aleti buluyorum.",
-    "storyTr": "FAYND çekmecesinden kayıp anahtarı BULDU ve arama bitti. Anahtarın tam yeri, herkesin bakmadığı bir köşeydi. FIND = BULMAK.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -13504,9 +13504,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "faynd",
-    "mnemonicHook": "FAYND",
-    "mnemonicScene": "FAYND çekmecesinden kayıp anahtarı BULDU ve arama bitti. Anahtarın tam yeri, herkesin bakmadığı bir köşeydi. FIND = BULMAK.",
-    "storyEn": "Mnemonic: [FAYND] -> BULMAK"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "torque",
@@ -13516,7 +13516,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "I torque the bolt to 10 Nm.",
     "exampleTr": "Cıvatayı 10 Nm torkla sıkıyorum.",
-    "storyTr": "Cıvatayı TORQUE (belirli değerde sıkmak) için tork anahtarını doğru değerde kullandı. TORQUE = BELİRLİ DEĞERDE SIKMAK.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -13527,9 +13527,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "tork",
-    "mnemonicHook": "TORK",
-    "mnemonicScene": "Cıvatayı TORQUE (belirli değerde sıkmak) için tork anahtarını doğru değerde kullandı. TORQUE = BELİRLİ DEĞERDE SIKMAK.",
-    "storyEn": "Mnemonic: [TORK] -> BELIRLI DEĞERDE SIKMAK"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "wrench",
@@ -13539,7 +13539,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "I need a wrench.",
     "exampleTr": "Bir anahtara ihtiyacım var.",
-    "storyTr": "RENK anahtarıyla cıvatayı sıkıca çevirdi ve bağlantı sağlamlaştı. WRENCH'in gücü sayesinde parça artık hiç titremiyordu. WRENCH = ANAHTAR.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -13550,9 +13550,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "renç",
-    "mnemonicHook": "RENK",
-    "mnemonicScene": "RENK anahtarıyla cıvatayı sıkıca çevirdi ve bağlantı sağlamlaştı. WRENCH'in gücü sayesinde parça artık hiç titremiyordu. WRENCH = ANAHTAR.",
-    "storyEn": "Mnemonic: [RENK] -> ANAHTAR"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "torque wrench",
@@ -13562,7 +13562,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Use the torque wrench.",
     "exampleTr": "Tork anahtarını kullan.",
-    "storyTr": "TORK RENK (torque wrench) ile doğru değerde sıkıldı; TORK RENK tık sesiyle bildirdi. TORQUE WRENCH = TORK ANAHTARI.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -13573,9 +13573,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "tork renç",
-    "mnemonicHook": "TORK RENK",
-    "mnemonicScene": "TORK RENK (torque wrench) ile doğru değerde sıkıldı; TORK RENK tık sesiyle bildirdi. TORQUE WRENCH = TORK ANAHTARI.",
-    "storyEn": "Mnemonic: [TORK RENK] -> TORK ANAHTARI"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "screwdriver",
@@ -13585,7 +13585,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "I need a screwdriver.",
     "exampleTr": "Bir tornavidaya ihtiyacım var.",
-    "storyTr": "SKRUDRAYVER ile vidayı açtı ve TORNAVİDA'nın ucu vidaya tam oturdu. Kapak kolayca kalktı ve içerideki parçalar ortaya çıktı. SCREWDRIVER = TORNAVİDA.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -13596,9 +13596,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "skru drayvır",
-    "mnemonicHook": "SKRUDRAYVER",
-    "mnemonicScene": "SKRUDRAYVER ile vidayı açtı ve TORNAVİDA'nın ucu vidaya tam oturdu. Kapak kolayca kalktı ve içerideki parçalar ortaya çıktı. SCREWDRIVER = TORNAVİDA.",
-    "storyEn": "Mnemonic: [SKRUDRAYVER] -> TORNAVIDA"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "pliers",
@@ -13608,7 +13608,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Use these pliers.",
     "exampleTr": "Bu penseyi kullan.",
-    "storyTr": "PLAYERS kıskacıyla teli tuttu ve PENSE telin kopmasını sağladı. Tel tam sınırdan kesilince parça sorunsuz çıkarıldı. PLIERS = PENSE.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -13619,9 +13619,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "playırz",
-    "mnemonicHook": "PLAYERS",
-    "mnemonicScene": "PLAYERS kıskacıyla teli tuttu ve PENSE telin kopmasını sağladı. Tel tam sınırdan kesilince parça sorunsuz çıkarıldı. PLIERS = PENSE.",
-    "storyEn": "Mnemonic: [PLAYERS] -> PENSE"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "caliper",
@@ -13631,7 +13631,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "I use a caliper.",
     "exampleTr": "Bir kumpas kullanıyorum.",
-    "storyTr": "KEELPER ile kalınlık ölçüldü ve KUMPAS milimetreyi tam olarak gösterdi. Ölçüm sonucu, parçanın şartnameye uygun olduğunu doğruladı. CALIPER = KUMPAS.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -13642,9 +13642,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kelipır",
-    "mnemonicHook": "KEELPER",
-    "mnemonicScene": "KEELPER ile kalınlık ölçüldü ve KUMPAS milimetreyi tam olarak gösterdi. Ölçüm sonucu, parçanın şartnameye uygun olduğunu doğruladı. CALIPER = KUMPAS.",
-    "storyEn": "Mnemonic: [KEELPER] -> KUMPAS"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "wing",
@@ -13654,7 +13654,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "",
     "exampleTr": "",
-    "storyTr": "VİNG güneşte parlıyordu ve KANAT'ta tek bir çizik bile yoktu. Uçağın kanadı, yıllarca yapılan bakım sayesinde ilk günkü gibi duruyordu. WING = KANAT.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -13664,9 +13664,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "status": "new",
     "timesReviewed": 0,
     "lapses": 0,
-    "mnemonicHook": "VİNG",
-    "mnemonicScene": "VİNG güneşte parlıyordu ve KANAT'ta tek bir çizik bile yoktu. Uçağın kanadı, yıllarca yapılan bakım sayesinde ilk günkü gibi duruyordu. WING = KANAT.",
-    "storyEn": "Mnemonic: [VİNG] -> KANAT"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "nose gear",
@@ -13676,7 +13676,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The nose gear is down.",
     "exampleTr": "Burun iniş takımı aşağıda.",
-    "storyTr": "NOUZ GİYR açılınca burun tekerleği pisti tuttu ve uçağın ağırlığını sağlam taşıdı. BURUN İNİŞ TAKIMI inişi tamamladı ve uçak sorunsuz durdu. NOSE GEAR = BURUN İNİŞ TAKIMI.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -13687,9 +13687,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "noz gir",
-    "mnemonicHook": "NOUZ GİYR",
-    "mnemonicScene": "NOUZ GİYR açılınca burun tekerleği pisti tuttu ve uçağın ağırlığını sağlam taşıdı. BURUN İNİŞ TAKIMI inişi tamamladı ve uçak sorunsuz durdu. NOSE GEAR = BURUN İNİŞ TAKIMI.",
-    "storyEn": "Mnemonic: [NOUZ GİYR] -> BURUN INIŞ TAKIMI"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "flap",
@@ -13699,7 +13699,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The flap is down.",
     "exampleTr": "Flap aşağıda.",
-    "storyTr": "FLEP (flap) açılınca uçak yavaşladı; FLEP sayesinde alçalmaya başladı. FLAP = FLAP.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -13710,9 +13710,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "flep",
-    "mnemonicHook": "FLEP",
-    "mnemonicScene": "FLEP (flap) açılınca uçak yavaşladı; FLEP sayesinde alçalmaya başladı. FLAP = FLAP.",
-    "storyEn": "Mnemonic: [FLEP] -> FLAP"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "rudder",
@@ -13722,7 +13722,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The rudder moves left.",
     "exampleTr": "İstikamet dümeni sola hareket ediyor.",
-    "storyTr": "RÜDDER pedalına basıldı ve İSTİKAMET DÜMENİ uçağı sağa doğru çevirdi. Pilot, dümen sayesinde rotayı kolayca düzeltebildi. RUDDER = İSTİKAMET DÜMENİ.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -13733,9 +13733,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "radır",
-    "mnemonicHook": "RÜDDER",
-    "mnemonicScene": "RÜDDER pedalına basıldı ve İSTİKAMET DÜMENİ uçağı sağa doğru çevirdi. Pilot, dümen sayesinde rotayı kolayca düzeltebildi. RUDDER = İSTİKAMET DÜMENİ.",
-    "storyEn": "Mnemonic: [RÜDDER] -> ISTIKAMET DÜMENI"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "engine nacelle",
@@ -13745,7 +13745,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The engine nacelle is clean.",
     "exampleTr": "Motor naseli temiz.",
-    "storyTr": "İNJİN NEYSEL (engine nacelle) motoru dıştan sarıyordu; İNJİN NEYSEL, MOTOR NASELİ olarak hava girişini birleştiriyordu. ENGINE NACELLE = MOTOR NASELİ.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -13756,9 +13756,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "encin nesıl",
-    "mnemonicHook": "İNJİN NEYSEL",
-    "mnemonicScene": "İNJİN NEYSEL (engine nacelle) motoru dıştan sarıyordu; İNJİN NEYSEL, MOTOR NASELİ olarak hava girişini birleştiriyordu. ENGINE NACELLE = MOTOR NASELİ.",
-    "storyEn": "Mnemonic: [İNJİN NEYSEL] -> MOTOR NASELI/KAPORTASI"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "hangar",
@@ -13768,7 +13768,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The plane is in the hangar.",
     "exampleTr": "Uçak hangarda.",
-    "storyTr": "HENGAR'a giren uçak bakımdan geçti ve koca yapının içinde ekip çalışmaya başladı. HANGAR'ın geniş alanı, büyük uçakların rahatça bakımını mümkün kıldı. HANGAR = HANGAR.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -13779,9 +13779,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "hengır",
-    "mnemonicHook": "HENGAR",
-    "mnemonicScene": "HENGAR'a giren uçak bakımdan geçti ve koca yapının içinde ekip çalışmaya başladı. HANGAR'ın geniş alanı, büyük uçakların rahatça bakımını mümkün kıldı. HANGAR = HANGAR.",
-    "storyEn": "Mnemonic: [HENGAR] -> HANGAR"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "ramp",
@@ -13791,7 +13791,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The plane is on the ramp.",
     "exampleTr": "Uçak apronda.",
-    "storyTr": "REMP'te uçaklar sıraya girdi ve APRON üzerinde yolcu bindirilmeye hazırlandı. Yer hizmeti ekipleri uçakların etrafında hızla dolaştı. RAMP = APRON.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -13802,9 +13802,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "remp",
-    "mnemonicHook": "REMP",
-    "mnemonicScene": "REMP'te uçaklar sıraya girdi ve APRON üzerinde yolcu bindirilmeye hazırlandı. Yer hizmeti ekipleri uçakların etrafında hızla dolaştı. RAMP = APRON.",
-    "storyEn": "Mnemonic: [REMP] -> APRON"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "workshop",
@@ -13814,7 +13814,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The tool is in the workshop.",
     "exampleTr": "Alet atölyede.",
-    "storyTr": "VÖRKŞOP'ta tamirci çalışıyordu ve her alet kendi yerinde ATÖLYE düzeninde duruyordu. Işıklar açılınca bütün iş alanı işe hazır hale geldi. WORKSHOP = ATÖLYE.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -13825,9 +13825,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "vörkşap",
-    "mnemonicHook": "VÖRKŞOP",
-    "mnemonicScene": "VÖRKŞOP'ta tamirci çalışıyordu ve her alet kendi yerinde ATÖLYE düzeninde duruyordu. Işıklar açılınca bütün iş alanı işe hazır hale geldi. WORKSHOP = ATÖLYE.",
-    "storyEn": "Mnemonic: [VÖRKŞOP] -> ATÖLYE"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "stores",
@@ -13837,7 +13837,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The part is in stores.",
     "exampleTr": "Parça depoda.",
-    "storyTr": "STORS raflarında her parça etiketliydi ve MALZEME DEPOSU işi aksatmadan yürüttü. Tamirci istediği parçayı dakikalar içinde bulup alabildi. STORES = MALZEME DEPOSU.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -13848,9 +13848,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "storz",
-    "mnemonicHook": "STORS",
-    "mnemonicScene": "STORS raflarında her parça etiketliydi ve MALZEME DEPOSU işi aksatmadan yürüttü. Tamirci istediği parçayı dakikalar içinde bulup alabildi. STORES = MALZEME DEPOSU.",
-    "storyEn": "Mnemonic: [STORS] -> MALZEME DEPOSU"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "defect",
@@ -13860,7 +13860,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "I see a defect.",
     "exampleTr": "Bir arıza görüyorum.",
-    "storyTr": "DİFEKT ufak bir çatlak olarak bulundu ve kontrolde hemen yakalandı. ARIZA'nın erken fark edilmesi büyük bir kazayı önledi. DEFECT = ARIZA.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -13871,9 +13871,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "difekt",
-    "mnemonicHook": "DİFEKT",
-    "mnemonicScene": "DİFEKT ufak bir çatlak olarak bulundu ve kontrolde hemen yakalandı. ARIZA'nın erken fark edilmesi büyük bir kazayı önledi. DEFECT = ARIZA.",
-    "storyEn": "Mnemonic: [DİFEKT] -> ARIZA"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "discrepancy",
@@ -13883,7 +13883,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "There is a discrepancy here.",
     "exampleTr": "Burada bir uygunsuzluk var.",
-    "storyTr": "DİSKREPANSİ raporda rakamları uyuşmayan bir UYGUNSUZLUK'tu ve hemen düzeltilmesi gerekiyordu. Kontrol ekibi farkı bulunca sayıları yeniden kontrol etti. DISCREPANCY = UYGUNSUZLUK.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -13894,9 +13894,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "diskrepınsi",
-    "mnemonicHook": "DİSKREPANSİ",
-    "mnemonicScene": "DİSKREPANSİ raporda rakamları uyuşmayan bir UYGUNSUZLUK'tu ve hemen düzeltilmesi gerekiyordu. Kontrol ekibi farkı bulunca sayıları yeniden kontrol etti. DISCREPANCY = UYGUNSUZLUK.",
-    "storyEn": "Mnemonic: [DİSKREPANSİ] -> UYGUNSUZLUK"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "visual inspection",
@@ -13906,7 +13906,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Do a visual inspection.",
     "exampleTr": "Gözle muayene yap.",
-    "storyTr": "VİZYUAL İNSPEKŞN ile hiçbir alet kullanılmadan GÖZLE MUAYENE yapıldı. Ekip yüzeydeki en küçük izleri bile bu sayede kolayca görebildi. VISUAL INSPECTION = GÖZLE MUAYENE.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -13917,9 +13917,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "vijüıl inspe(k)şın",
-    "mnemonicHook": "VİZYUAL İNSPEKŞN",
-    "mnemonicScene": "VİZYUAL İNSPEKŞN ile hiçbir alet kullanılmadan GÖZLE MUAYENE yapıldı. Ekip yüzeydeki en küçük izleri bile bu sayede kolayca görebildi. VISUAL INSPECTION = GÖZLE MUAYENE.",
-    "storyEn": "Mnemonic: [VİZYUAL İNSPEKŞN] -> GÖZLE MUAYENE"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "ground power unit",
@@ -13929,7 +13929,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The ground power unit is ready.",
     "exampleTr": "Yer güç ünitesi hazır.",
-    "storyTr": "GRAUND POVER YUNİT (ground power unit) kablosuyla uçağa elektrik verdi; GRAUND POVER YUNİT hazırdı. GROUND POWER UNIT = YER GÜÇ ÜNİTESİ.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -13940,9 +13940,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "graund pauer yunit",
-    "mnemonicHook": "GRAUND POVER YUNİT",
-    "mnemonicScene": "GRAUND POVER YUNİT (ground power unit) kablosuyla uçağa elektrik verdi; GRAUND POVER YUNİT hazırdı. GROUND POWER UNIT = YER GÜÇ ÜNİTESİ.",
-    "storyEn": "Mnemonic: [GRAUND POVER YUNİT] -> YER GÜÇ ÜNITESI"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "corrosion",
@@ -13952,7 +13952,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "I see corrosion on the wing.",
     "exampleTr": "Kanatta korozyon görüyorum.",
-    "storyTr": "KORROJN metalin yüzeyinde pas olarak kendini gösterdi ve kenarlarda KOROZYON izleri belirdi. Bu bozulmayı erken fark eden ekip, parçayı zamanında değiştirdi. CORROSION = KOROZYON.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -13963,9 +13963,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "korojın",
-    "mnemonicHook": "KORROJN",
-    "mnemonicScene": "KORROJN metalin yüzeyinde pas olarak kendini gösterdi ve kenarlarda KOROZYON izleri belirdi. Bu bozulmayı erken fark eden ekip, parçayı zamanında değiştirdi. CORROSION = KOROZYON.",
-    "storyEn": "Mnemonic: [KORROJN] -> KOROZYON"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "rectify",
@@ -13975,7 +13975,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "We must rectify the defect.",
     "exampleTr": "Arızayı gidermeliyiz.",
-    "storyTr": "RİKTİFAY arızalı parçayı değiştirip sorunu tamamen GİDERDİ. Makine yeniden çalışmaya başladığında tüm ekip rahatladı. RECTIFY = (ARIZAYI) GİDERMEK.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -13986,9 +13986,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "rektifay",
-    "mnemonicHook": "RİKTİFAY",
-    "mnemonicScene": "RİKTİFAY arızalı parçayı değiştirip sorunu tamamen GİDERDİ. Makine yeniden çalışmaya başladığında tüm ekip rahatladı. RECTIFY = (ARIZAYI) GİDERMEK.",
-    "storyEn": "Mnemonic: [RİKTİFAY] -> (ARIZAYI) GIDERMEK"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "state",
@@ -13998,7 +13998,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Please state the problem.",
     "exampleTr": "Lütfen sorunu ifade edin.",
-    "storyTr": "STEYT raporda durumu açıkça İFADE ETTİ ve hiçbir belirsizlik bırakmadı. Okuyan herkes arızanın gerçek boyutunu hemen anladı. STATE = İFADE ETMEK.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14009,9 +14009,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "steyt",
-    "mnemonicHook": "STEYT",
-    "mnemonicScene": "STEYT raporda durumu açıkça İFADE ETTİ ve hiçbir belirsizlik bırakmadı. Okuyan herkes arızanın gerçek boyutunu hemen anladı. STATE = İFADE ETMEK.",
-    "storyEn": "Mnemonic: [STEYT] -> IFADE ETMEK"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "note",
@@ -14021,7 +14021,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Please note this defect.",
     "exampleTr": "Lütfen bu arızayı not edin.",
-    "storyTr": "Teknisyen raporun kenarına NOTE (belirtmek) düşmek için bir not aldı. NOTE = BELİRTMEK.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14032,9 +14032,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "not",
-    "mnemonicHook": "NOT",
-    "mnemonicScene": "Teknisyen raporun kenarına NOTE (belirtmek) düşmek için bir not aldı. NOTE = BELİRTMEK.",
-    "storyEn": "Mnemonic: [NOT] -> BELIRTMEK"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "confirm",
@@ -14044,7 +14044,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Please confirm the result.",
     "exampleTr": "Lütfen sonucu doğrulayın.",
-    "storyTr": "KONFÜRM imzasıyla raporu DOĞRULADI ve bilginin doğruluğunu resmen onayladı. Bu imza sayesinde kimse sonradan raporu sorgulamadı. CONFIRM = DOĞRULAMAK.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14055,9 +14055,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kınförm",
-    "mnemonicHook": "KONFÜRM",
-    "mnemonicScene": "KONFÜRM imzasıyla raporu DOĞRULADI ve bilginin doğruluğunu resmen onayladı. Bu imza sayesinde kimse sonradan raporu sorgulamadı. CONFIRM = DOĞRULAMAK.",
-    "storyEn": "Mnemonic: [KONFÜRM] -> DOĞRULAMAK"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "bulkhead",
@@ -14067,7 +14067,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The bulkhead is behind the seat.",
     "exampleTr": "Bölme duvarı koltuğun arkasında.",
-    "storyTr": "BALKHED perdesi kabini kargo bölmesinden ayırıyordu ve iki alan sızdırmaz kaldı. PERDE sayesinde kargodaki bir sorun yolcu kabinine ulaşamadı. BULKHEAD = PERDE, BÖLME DUVARI.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14078,9 +14078,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "balkhed",
-    "mnemonicHook": "BALKHED",
-    "mnemonicScene": "BALKHED perdesi kabini kargo bölmesinden ayırıyordu ve iki alan sızdırmaz kaldı. PERDE sayesinde kargodaki bir sorun yolcu kabinine ulaşamadı. BULKHEAD = PERDE, BÖLME DUVARI.",
-    "storyEn": "Mnemonic: [BALKHED] -> PERDE"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "jack pad",
@@ -14090,7 +14090,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The jack pad is here.",
     "exampleTr": "Kriko pedi burada.",
-    "storyTr": "CAK PED krikonun altına konuldu ve yükü taşıyan KRİKO PEDİ yere sağlamca oturdu. Sonra kriko yavaşça kaldırıldı ve uçak hafifçe yükseldi. JACK PAD = KRİKO PEDİ.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14101,9 +14101,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "cek ped",
-    "mnemonicHook": "CAK PED",
-    "mnemonicScene": "CAK PED krikonun altına konuldu ve yükü taşıyan KRİKO PEDİ yere sağlamca oturdu. Sonra kriko yavaşça kaldırıldı ve uçak hafifçe yükseldi. JACK PAD = KRİKO PEDİ.",
-    "storyEn": "Mnemonic: [CAK PED] -> KRIKO PEDI"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "jacking point",
@@ -14113,7 +14113,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The jacking point is marked.",
     "exampleTr": "Kriko noktası işaretli.",
-    "storyTr": "CAK POYNT işaretliydi ve kriko tam bu KRİKO NOKTASI'na oturtuldu. Doğru noktadan kaldırılan uçak hiçbir zarar görmeden yükseldi. JACKING POINT = KRİKO NOKTASI.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14124,9 +14124,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ceking point",
-    "mnemonicHook": "CAK POYNT",
-    "mnemonicScene": "CAK POYNT işaretliydi ve kriko tam bu KRİKO NOKTASI'na oturtuldu. Doğru noktadan kaldırılan uçak hiçbir zarar görmeden yükseldi. JACKING POINT = KRİKO NOKTASI.",
-    "storyEn": "Mnemonic: [CAK POYNT] -> KRIKO NOKTASI"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "overhaul",
@@ -14136,7 +14136,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "We overhaul the engine.",
     "exampleTr": "Motoru revizyondan geçiriyoruz.",
-    "storyTr": "OVERHOL'de motor tamamen söküldü ve her parça REVİZYON'dan geçirildi. ELDEN GEÇİRME sonrasında motor yeni gibi çalışmaya başladı. OVERHAUL = REVİZYON, ELDEN GEÇİRME.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14147,9 +14147,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ovırhol",
-    "mnemonicHook": "OVERHOL",
-    "mnemonicScene": "OVERHOL'de motor tamamen söküldü ve her parça REVİZYON'dan geçirildi. ELDEN GEÇİRME sonrasında motor yeni gibi çalışmaya başladı. OVERHAUL = REVİZYON, ELDEN GEÇİRME.",
-    "storyEn": "Mnemonic: [OVERHOL] -> REVIZYON"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "GVI",
@@ -14159,7 +14159,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "We do a GVI today.",
     "exampleTr": "Bugün genel gözle muayene yapıyoruz.",
-    "storyTr": "GÖVİ ile genel bir GENEL GÖZLE MUAYENE yapıldı ve uçağın dış yüzeyi hızlıca tarandı. Ekip, bu kontrolle büyük sorunların olmadığını doğruladı. GVI = GENEL GÖZLE MUAYENE.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14170,9 +14170,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ci vi ay",
-    "mnemonicHook": "GÖVİ",
-    "mnemonicScene": "GÖVİ ile genel bir GENEL GÖZLE MUAYENE yapıldı ve uçağın dış yüzeyi hızlıca tarandı. Ekip, bu kontrolle büyük sorunların olmadığını doğruladı. GVI = GENEL GÖZLE MUAYENE.",
-    "storyEn": "Mnemonic: [GÖVİ] -> GENEL GÖZLE MUAYENE"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "DVI",
@@ -14182,7 +14182,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "We need a DVI.",
     "exampleTr": "Detaylı gözle muayeneye ihtiyacımız var.",
-    "storyTr": "DİVİAY (DVI) için her bağlantı tek tek incelendi; DİVİAY detaylı kontrolün adıydı. DVI = DETAYLI GÖZLE MUAYENE.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14193,9 +14193,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "di vi ay",
-    "mnemonicHook": "DİVİAY",
-    "mnemonicScene": "DİVİAY (DVI) için her bağlantı tek tek incelendi; DİVİAY detaylı kontrolün adıydı. DVI = DETAYLI GÖZLE MUAYENE.",
-    "storyEn": "Mnemonic: [DİVİAY] -> DETAYLI GÖZLE MUAYENE"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "operational test",
@@ -14205,7 +14205,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The operational test is complete.",
     "exampleTr": "Çalışma testi tamamlandı.",
-    "storyTr": "Motor OPERÖŞNAL TEST (operational test) için çalıştırıldı; OPERÖŞNAL TEST sistemleri geçti. OPERATIONAL TEST = ÇALIŞMA TESTİ.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14216,9 +14216,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "opıreyşınıl test",
-    "mnemonicHook": "OPERÖŞNAL TEST",
-    "mnemonicScene": "Motor OPERÖŞNAL TEST (operational test) için çalıştırıldı; OPERÖŞNAL TEST sistemleri geçti. OPERATIONAL TEST = ÇALIŞMA TESTİ.",
-    "storyEn": "Mnemonic: [OPERÖŞNAL TEST] -> ÇALIŞMA TESTI"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "functional test",
@@ -14228,7 +14228,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The functional test is complete.",
     "exampleTr": "Fonksiyon testi tamamlandı.",
-    "storyTr": "Uçağın her düğmesi FANKŞNAL TEST (functional test) ile denendi; FANKŞNAL TEST her işlevi doğruladı. FUNCTIONAL TEST = FONKSİYON TESTİ.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14239,9 +14239,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fankşınıl test",
-    "mnemonicHook": "FANKŞNAL TEST",
-    "mnemonicScene": "Uçağın her düğmesi FANKŞNAL TEST (functional test) ile denendi; FANKŞNAL TEST her işlevi doğruladı. FUNCTIONAL TEST = FONKSİYON TESTİ.",
-    "storyEn": "Mnemonic: [FANKŞNAL TEST] -> FONKSIYON TESTI"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "borescope",
@@ -14251,7 +14251,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "I use a borescope.",
     "exampleTr": "Boroskop kullanıyorum.",
-    "storyTr": "BOROSKOP motorun içine sokuldu ve kameradan görüntüler ekrana geldi. Ekip, içerideki kusurları bu sayede açıkça görebildi. BORESCOPE = BOROSKOP.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14262,9 +14262,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "bor skoup",
-    "mnemonicHook": "BOROSKOP",
-    "mnemonicScene": "BOROSKOP motorun içine sokuldu ve kameradan görüntüler ekrana geldi. Ekip, içerideki kusurları bu sayede açıkça görebildi. BORESCOPE = BOROSKOP.",
-    "storyEn": "Mnemonic: [BOROSKOP] -> BOROSKOP"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "lockwire",
@@ -14274,7 +14274,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The lockwire is secure.",
     "exampleTr": "Emniyet teli sağlam.",
-    "storyTr": "LOK VAYR ile cıvata EMNİYET TELİ'yle bağlandı ve hiçbir yerde gevşemedi. Tel, titreşim sırasında bile cıvatanın yerinden oynamasını engelledi. LOCKWIRE = EMNİYET TELİ.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14285,9 +14285,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "lokvayır",
-    "mnemonicHook": "LOK VAYR",
-    "mnemonicScene": "LOK VAYR ile cıvata EMNİYET TELİ'yle bağlandı ve hiçbir yerde gevşemedi. Tel, titreşim sırasında bile cıvatanın yerinden oynamasını engelledi. LOCKWIRE = EMNİYET TELİ.",
-    "storyEn": "Mnemonic: [LOK VAYR] -> EMNIYET TELI"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "circuit breaker",
@@ -14297,7 +14297,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The circuit breaker is off.",
     "exampleTr": "Devre kesici kapalı.",
-    "storyTr": "SİRKİT BREKER attı ve elektrik bir anda kesildi. SİGORTA'nın tepkisi sayesinde aşırı akım devreyi zarar görmeden durdurdu. CIRCUIT BREAKER = SİGORTA, DEVRE KESİCİ.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14308,9 +14308,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "sörkit breykır",
-    "mnemonicHook": "SİRKİT BREKER",
-    "mnemonicScene": "SİRKİT BREKER attı ve elektrik bir anda kesildi. SİGORTA'nın tepkisi sayesinde aşırı akım devreyi zarar görmeden durdurdu. CIRCUIT BREAKER = SİGORTA, DEVRE KESİCİ.",
-    "storyEn": "Mnemonic: [SİRKİT BREKER] -> SIGORTA (DEVRE KESICI)"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "placard",
@@ -14320,7 +14320,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Read the placard, please.",
     "exampleTr": "Lütfen uyarı etiketini okuyun.",
-    "storyTr": "PLAKARD kapıya yapıştırılmıştı ve üzerindeki UYARI ETİKETİ herkesin dikkatini çekiyordu. Etiketi okuyan kişi kapının arkasındaki tehlikeyi hemen anladı. PLACARD = UYARI ETİKETİ.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14331,9 +14331,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "plekard",
-    "mnemonicHook": "PLAKARD",
-    "mnemonicScene": "PLAKARD kapıya yapıştırılmıştı ve üzerindeki UYARI ETİKETİ herkesin dikkatini çekiyordu. Etiketi okuyan kişi kapının arkasındaki tehlikeyi hemen anladı. PLACARD = UYARI ETİKETİ.",
-    "storyEn": "Mnemonic: [PLAKARD] -> UYARI ETIKETI"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "hazard",
@@ -14343,7 +14343,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This is a hazard.",
     "exampleTr": "Bu bir tehlikedir.",
-    "storyTr": "HAZERD tabelası TEHLİKE'yi gösteriyordu ve kimse o bölgeye yaklaşmadı. Uyarıya uyan ekip güvenli bir mesafeden çalışmaya devam etti. HAZARD = TEHLİKE.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14354,9 +14354,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "hezırd",
-    "mnemonicHook": "HAZERD",
-    "mnemonicScene": "HAZERD tabelası TEHLİKE'yi gösteriyordu ve kimse o bölgeye yaklaşmadı. Uyarıya uyan ekip güvenli bir mesafeden çalışmaya devam etti. HAZARD = TEHLİKE.",
-    "storyEn": "Mnemonic: [HAZERD] -> TEHLIKE"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "risk",
@@ -14366,7 +14366,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This risk is high.",
     "exampleTr": "Bu risk yüksek.",
-    "storyTr": "Yağmurlu yolda hız yapmak RİSK (risk) demekti; her dakika kaza ihtimali vardı. RISK = RİSK.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14377,9 +14377,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "risk",
-    "mnemonicHook": "RİSK",
-    "mnemonicScene": "Yağmurlu yolda hız yapmak RİSK (risk) demekti; her dakika kaza ihtimali vardı. RISK = RİSK.",
-    "storyEn": "Mnemonic: [RİSK] -> RISK"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "precaution",
@@ -14389,7 +14389,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Wear gloves as a precaution.",
     "exampleTr": "Önlem olarak eldiven tak.",
-    "storyTr": "PRİKOŞN (precaution) olarak motoru soğutmadan açmadık; PRİKOŞN kazanın önüne geçti. PRECAUTION = ÖNLEM.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14400,9 +14400,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "prikojın",
-    "mnemonicHook": "PRİKOŞN",
-    "mnemonicScene": "PRİKOŞN (precaution) olarak motoru soğutmadan açmadık; PRİKOŞN kazanın önüne geçti. PRECAUTION = ÖNLEM.",
-    "storyEn": "Mnemonic: [PRİKOŞN] -> ÖNLEM"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "complacency",
@@ -14412,7 +14412,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Complacency can cause mistakes.",
     "exampleTr": "Aşırı rahatlık hatalara yol açabilir.",
-    "storyTr": "KOMPLESENSİ yüzünden işi bilen ekip rehavete kapıldı ve küçük bir hata yaptı. Bu REHAVET, uzun yıllar sonra bile hatırlanan bir ders oldu. COMPLACENCY = REHAVET, AŞIRI GÜVEN.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14423,9 +14423,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kımpleysınsi",
-    "mnemonicHook": "KOMPLESENSİ",
-    "mnemonicScene": "KOMPLESENSİ yüzünden işi bilen ekip rehavete kapıldı ve küçük bir hata yaptı. Bu REHAVET, uzun yıllar sonra bile hatırlanan bir ders oldu. COMPLACENCY = REHAVET, AŞIRI GÜVEN.",
-    "storyEn": "Mnemonic: [KOMPLESENSİ] -> REHAVET"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "fatigue",
@@ -14435,7 +14435,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Fatigue makes work hard.",
     "exampleTr": "Yorgunluk çalışmayı zorlaştırır.",
-    "storyTr": "FETİG gece vardiyasında iyice çöktü ve gözler kendiliğinden kapanmaya başladı. YORGUNLUK nedeniyle ekip molaya çıkmak zorunda kaldı. FATIGUE = YORGUNLUK.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14446,9 +14446,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "fatiig",
-    "mnemonicHook": "FETİG",
-    "mnemonicScene": "FETİG gece vardiyasında iyice çöktü ve gözler kendiliğinden kapanmaya başladı. YORGUNLUK nedeniyle ekip molaya çıkmak zorunda kaldı. FATIGUE = YORGUNLUK.",
-    "storyEn": "Mnemonic: [FETİG] -> YORGUNLUK"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "PPE",
@@ -14458,7 +14458,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Wear your PPE.",
     "exampleTr": "Kişisel koruyucu donanımını giy.",
-    "storyTr": "PİPİİ takmadan atölyeye girilmiyordu ve herkes gözlüğünü, eldivenini hazır tuttu. KİŞİSEL KORUYUCU DONANIM, işçilerin sağlığını her gün koruyordu. PPE = KİŞİSEL KORUYUCU DONANIM.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14469,9 +14469,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "pi pi i",
-    "mnemonicHook": "PİPİİ",
-    "mnemonicScene": "PİPİİ takmadan atölyeye girilmiyordu ve herkes gözlüğünü, eldivenini hazır tuttu. KİŞİSEL KORUYUCU DONANIM, işçilerin sağlığını her gün koruyordu. PPE = KİŞİSEL KORUYUCU DONANIM.",
-    "storyEn": "Mnemonic: [PİPİİ] -> KIŞISEL KORUYUCU DONANIM"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "airworthiness",
@@ -14481,7 +14481,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Airworthiness is very important.",
     "exampleTr": "Uçuşa elverişlilik çok önemlidir.",
-    "storyTr": "ERVORDİNESS belgesiyle uçak uçmaya hazır sayıldı ve kontrol listesi tamamlandı. UÇUŞA ELVERİŞLİLİK onayı, yolcuların güvenli uçuşunu garanti altına aldı. AIRWORTHINESS = UÇUŞA ELVERİŞLİLİK.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14492,9 +14492,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ervördinıs",
-    "mnemonicHook": "ERVORDİNESS",
-    "mnemonicScene": "ERVORDİNESS belgesiyle uçak uçmaya hazır sayıldı ve kontrol listesi tamamlandı. UÇUŞA ELVERİŞLİLİK onayı, yolcuların güvenli uçuşunu garanti altına aldı. AIRWORTHINESS = UÇUŞA ELVERİŞLİLİK.",
-    "storyEn": "Mnemonic: [ERVORDİNESS] -> UÇUŞA ELVERIŞLILIK"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "traceability",
@@ -14504,7 +14504,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "We need full traceability.",
     "exampleTr": "Tam izlenebilirliğe ihtiyacımız var.",
-    "storyTr": "TREYSEBİLİTİ sayesinde her parçanın geçmişi kolayca izlenebildi. İZLENEBİLİRLİK sağlandığı için kusurlu bir parça bile hemen tespit edildi. TRACEABILITY = İZLENEBİLİRLİK.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14515,9 +14515,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "treysıbilıti",
-    "mnemonicHook": "TREYSEBİLİTİ",
-    "mnemonicScene": "TREYSEBİLİTİ sayesinde her parçanın geçmişi kolayca izlenebildi. İZLENEBİLİRLİK sağlandığı için kusurlu bir parça bile hemen tespit edildi. TRACEABILITY = İZLENEBİLİRLİK.",
-    "storyEn": "Mnemonic: [TREYSEBİLİTİ] -> IZLENEBILIRLIK"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "yaw",
@@ -14527,7 +14527,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Yaw moves the nose sideways.",
     "exampleTr": "Yaw hareketi burnu yana çevirir.",
-    "storyTr": "YAV rüzgârda uçağın burnunu yana itti ve SAPMA oluştu. Pilot, sapmayı düzeltmek için hızla dümene asıldı. YAW = SAPMA.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14538,9 +14538,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "yo",
-    "mnemonicHook": "YAV",
-    "mnemonicScene": "YAV rüzgârda uçağın burnunu yana itti ve SAPMA oluştu. Pilot, sapmayı düzeltmek için hızla dümene asıldı. YAW = SAPMA.",
-    "storyEn": "Mnemonic: [YAV] -> SAPMA"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "roll",
@@ -14550,7 +14550,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The plane rolls to the left.",
     "exampleTr": "Uçak sola yatış yapar.",
-    "storyTr": "Uçak sert dönüşte ROLL (yatış) yaptı; kanat aşağı eğildi, YATIŞ hissedildi. ROLL = YATIŞ.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14561,9 +14561,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "rol",
-    "mnemonicHook": "ROL",
-    "mnemonicScene": "Uçak sert dönüşte ROLL (yatış) yaptı; kanat aşağı eğildi, YATIŞ hissedildi. ROLL = YATIŞ.",
-    "storyEn": "Mnemonic: [ROL] -> YATIŞ"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "pitch",
@@ -14573,7 +14573,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Pitch moves the nose up.",
     "exampleTr": "Yunuslama uçağın burnunu yukarı kaldırır.",
-    "storyTr": "PİÇ burunu yukarı kaldırdı ve YUNUSLAMA hareketi hissedildi. Yolcular hafifçe sallanınca kemerlerini daha sıkı bağladı. PITCH = YUNUSLAMA.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14584,9 +14584,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "pitç",
-    "mnemonicHook": "PİÇ",
-    "mnemonicScene": "PİÇ burunu yukarı kaldırdı ve YUNUSLAMA hareketi hissedildi. Yolcular hafifçe sallanınca kemerlerini daha sıkı bağladı. PITCH = YUNUSLAMA.",
-    "storyEn": "Mnemonic: [PİÇ] -> YUNUSLAMA"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "outflow valve",
@@ -14596,7 +14596,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The outflow valve is open.",
     "exampleTr": "Dışarı akış valfi açık.",
-    "storyTr": "AUTFLOU VALV kabin havasını dışarı akıttı ve basınç dengelendi. DIŞARI AKIŞ VALFİ sayesinde yolcular kulaklarında hiç rahatsızlık hissetmedi. OUTFLOW VALVE = DIŞARI AKIŞ VALFİ.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14607,9 +14607,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "autflou valv",
-    "mnemonicHook": "AUTFLOU VALV",
-    "mnemonicScene": "AUTFLOU VALV kabin havasını dışarı akıttı ve basınç dengelendi. DIŞARI AKIŞ VALFİ sayesinde yolcular kulaklarında hiç rahatsızlık hissetmedi. OUTFLOW VALVE = DIŞARI AKIŞ VALFİ.",
-    "storyEn": "Mnemonic: [AUTFLOU VALV] -> DIŞARI AKIŞ VALFI"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "inverter",
@@ -14619,7 +14619,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The inverter is not working.",
     "exampleTr": "Evirici çalışmıyor.",
-    "storyTr": "Akü akımı İNVERTER (inverter) ile dönüştürdü; İNVERTER DC'Yİ AC'YE ÇEVİREN CİHAZ olarak çalıştı. INVERTER = DC'Yİ AC'YE ÇEVİREN CİHAZ.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14630,9 +14630,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "invörtır",
-    "mnemonicHook": "İNVERTER",
-    "mnemonicScene": "Akü akımı İNVERTER (inverter) ile dönüştürdü; İNVERTER DC'Yİ AC'YE ÇEVİREN CİHAZ olarak çalıştı. INVERTER = DC'Yİ AC'YE ÇEVİREN CİHAZ.",
-    "storyEn": "Mnemonic: [İNVERTER] -> DC'YI AC'YE ÇEVIREN CIHAZ"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "upstream",
@@ -14642,7 +14642,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Check the pipe upstream.",
     "exampleTr": "Borunun akış öncesi tarafını kontrol et.",
-    "storyTr": "ÂPSTRİM'de su temizdi ve AKIŞ ÖNCESİ'nde hiçbir kirlilik görünmüyordu. Ekip, kaynağın temiz olduğunu bu noktada doğruladı. UPSTREAM = AKIŞ ÖNCESİ.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14653,9 +14653,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "apstriim",
-    "mnemonicHook": "ÂPSTRİM",
-    "mnemonicScene": "ÂPSTRİM'de su temizdi ve AKIŞ ÖNCESİ'nde hiçbir kirlilik görünmüyordu. Ekip, kaynağın temiz olduğunu bu noktada doğruladı. UPSTREAM = AKIŞ ÖNCESİ.",
-    "storyEn": "Mnemonic: [ÂPSTRİM] -> AKIŞ ÖNCESI"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "downstream",
@@ -14665,7 +14665,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Check the pipe downstream.",
     "exampleTr": "Borunun akış sonrası tarafını kontrol et.",
-    "storyTr": "DAUNSTRİM'de kirlilik fark edildi ve sorunun kaynağı AKIŞ SONRASI'nda çıktı. Ekip, bu noktadan sonra filtre kurup suyu temizledi. DOWNSTREAM = AKIŞ SONRASI.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14676,9 +14676,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "daunstriim",
-    "mnemonicHook": "DAUNSTRİM",
-    "mnemonicScene": "DAUNSTRİM'de kirlilik fark edildi ve sorunun kaynağı AKIŞ SONRASI'nda çıktı. Ekip, bu noktadan sonra filtre kurup suyu temizledi. DOWNSTREAM = AKIŞ SONRASI.",
-    "storyEn": "Mnemonic: [DAUNSTRİM] -> AKIŞ SONRASI"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "supply line",
@@ -14688,7 +14688,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The supply line is open.",
     "exampleTr": "Besleme hattı açık.",
-    "storyTr": "SAPLAY LAYN yakıtı motora taşıdı ve BESLEME HATTI hiç tıkanmadı. Motor, bu hat sayesinde sürekli yakıt alarak çalışmaya devam etti. SUPPLY LINE = BESLEME HATTI.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14699,9 +14699,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "sıplay layn",
-    "mnemonicHook": "SAPLAY LAYN",
-    "mnemonicScene": "SAPLAY LAYN yakıtı motora taşıdı ve BESLEME HATTI hiç tıkanmadı. Motor, bu hat sayesinde sürekli yakıt alarak çalışmaya devam etti. SUPPLY LINE = BESLEME HATTI.",
-    "storyEn": "Mnemonic: [SAPLAY LAYN] -> BESLEME HATTI"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "return line",
@@ -14711,7 +14711,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The return line is clear.",
     "exampleTr": "Dönüş hattı açık.",
-    "storyTr": "RİTÖRN LAYN fazla yakıtı tanka geri gönderdi ve DÖNÜŞ HATTI sorunsuz çalıştı. Böylece yakıt boşa gitmeden sistemde tekrar kullanıldı. RETURN LINE = DÖNÜŞ HATTI.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14722,9 +14722,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ritörn layn",
-    "mnemonicHook": "RİTÖRN LAYN",
-    "mnemonicScene": "RİTÖRN LAYN fazla yakıtı tanka geri gönderdi ve DÖNÜŞ HATTI sorunsuz çalıştı. Böylece yakıt boşa gitmeden sistemde tekrar kullanıldı. RETURN LINE = DÖNÜŞ HATTI.",
-    "storyEn": "Mnemonic: [RİTÖRN LAYN] -> DÖNÜŞ HATTI"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "anomaly",
@@ -14734,7 +14734,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "I found an anomaly.",
     "exampleTr": "Bir anormallik buldum.",
-    "storyTr": "ENOMALİ ölçümde kendini gösterdi ve sayılar normalin dışına çıktı. ANORMALLİK tespit edilince ekip ölçümü baştan tekrarladı. ANOMALY = ANORMALLİK.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14745,9 +14745,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "anomıli",
-    "mnemonicHook": "ENOMALİ",
-    "mnemonicScene": "ENOMALİ ölçümde kendini gösterdi ve sayılar normalin dışına çıktı. ANORMALLİK tespit edilince ekip ölçümü baştan tekrarladı. ANOMALY = ANORMALLİK.",
-    "storyEn": "Mnemonic: [ENOMALİ] -> ANORMALLIK"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "deferred",
@@ -14757,7 +14757,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The repair is deferred.",
     "exampleTr": "Onarım ertelendi.",
-    "storyTr": "DİFERD uçuşu erteledi ve yolcular bekleme salonunda yeni tarihi bekledi. ERTELENMİŞ uçuş için ekip hemen yeni bir plan hazırladı. DEFERRED = ERTELENMİŞ.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14768,9 +14768,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "diförd",
-    "mnemonicHook": "DİFERD",
-    "mnemonicScene": "DİFERD uçuşu erteledi ve yolcular bekleme salonunda yeni tarihi bekledi. ERTELENMİŞ uçuş için ekip hemen yeni bir plan hazırladı. DEFERRED = ERTELENMİŞ.",
-    "storyEn": "Mnemonic: [DİFERD] -> ERTELENMIŞ"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "complied with",
@@ -14780,7 +14780,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "We complied with the rule.",
     "exampleTr": "Kurala uyduk.",
-    "storyTr": "KÖMPLAYD VİTH denetçinin listesinde işaretlendi ve her madde yerine getirilmişti. UYGULANDI olarak kaydedilen talimat, denetimin olumlu sonuçlanmasını sağladı. COMPLIED WITH = UYGULANDI.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14791,9 +14791,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "kımplayd vid",
-    "mnemonicHook": "KÖMPLAYD VİTH",
-    "mnemonicScene": "KÖMPLAYD VİTH denetçinin listesinde işaretlendi ve her madde yerine getirilmişti. UYGULANDI olarak kaydedilen talimat, denetimin olumlu sonuçlanmasını sağladı. COMPLIED WITH = UYGULANDI.",
-    "storyEn": "Mnemonic: [KÖMPLAYD VİTH] -> UYGULANDI"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "subjective",
@@ -14803,7 +14803,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This opinion is subjective.",
     "exampleTr": "Bu görüş öznel.",
-    "storyTr": "SABJEKTİV yorum herkesi farklı düşündürdü ve her kişi kendi bakış açısını savundu. ÖZNEL bir değerlendirme olduğu için tek bir doğru cevap yoktu. SUBJECTIVE = ÖZNEL.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14814,9 +14814,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "sıbcektiv",
-    "mnemonicHook": "SABJEKTİV",
-    "mnemonicScene": "SABJEKTİV yorum herkesi farklı düşündürdü ve her kişi kendi bakış açısını savundu. ÖZNEL bir değerlendirme olduğu için tek bir doğru cevap yoktu. SUBJECTIVE = ÖZNEL.",
-    "storyEn": "Mnemonic: [SABJEKTİV] -> ÖZNEL"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "exposition",
@@ -14826,7 +14826,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "Read the exposition, please.",
     "exampleTr": "Lütfen kuruluş el kitabını okuyun.",
-    "storyTr": "EKSPOZİŞN belgesinde her süreç açıklanıyordu ve KURULUŞ EL KİTABI tam olarak hazırlanmıştı. Yeni çalışan bu kitaptan okuyarak işin nasıl yapılacağını öğrendi. EXPOSITION = KURULUŞ EL KİTABI.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14837,9 +14837,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ekspızışın",
-    "mnemonicHook": "EKSPOZİŞN",
-    "mnemonicScene": "EKSPOZİŞN belgesinde her süreç açıklanıyordu ve KURULUŞ EL KİTABI tam olarak hazırlanmıştı. Yeni çalışan bu kitaptan okuyarak işin nasıl yapılacağını öğrendi. EXPOSITION = KURULUŞ EL KİTABI.",
-    "storyEn": "Mnemonic: [EKSPOZİŞN] -> KURULUŞ EL KITABI (MOE)"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "mandatory",
@@ -14849,7 +14849,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This test is mandatory.",
     "exampleTr": "Bu test zorunludur.",
-    "storyTr": "MANDATORİ eğitime katılmak herkes için ZORUNLU'ydu ve yoklama tek tek alındı. Katılmayan kimse bu dersi telafi edemeyeceğini biliyordu. MANDATORY = ZORUNLU.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14860,9 +14860,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "mendı tori",
-    "mnemonicHook": "MANDATORİ",
-    "mnemonicScene": "MANDATORİ eğitime katılmak herkes için ZORUNLU'ydu ve yoklama tek tek alındı. Katılmayan kimse bu dersi telafi edemeyeceğini biliyordu. MANDATORY = ZORUNLU.",
-    "storyEn": "Mnemonic: [MANDATORİ] -> ZORUNLU"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "airworthy",
@@ -14872,7 +14872,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "The aircraft is airworthy.",
     "exampleTr": "Uçak uçuşa elverişlidir.",
-    "storyTr": "EYRVÖRDİ uçağın belgeleri tamamlandı ve uçak UÇUŞA ELVERİŞLİ olarak onaylandı. Pilot, kontrol listesini bitirince uçuşa hazır olduğunu bildirdi. AIRWORTHY = UÇUŞA ELVERİŞLİ.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14883,9 +14883,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "ervördi",
-    "mnemonicHook": "EYRVÖRDİ",
-    "mnemonicScene": "EYRVÖRDİ uçağın belgeleri tamamlandı ve uçak UÇUŞA ELVERİŞLİ olarak onaylandı. Pilot, kontrol listesini bitirince uçuşa hazır olduğunu bildirdi. AIRWORTHY = UÇUŞA ELVERİŞLİ.",
-    "storyEn": "Mnemonic: [EYRVÖRDİ] -> UÇUŞA ELVERIŞLI"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   },
   {
     "english": "legally binding",
@@ -14895,7 +14895,7 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "level": "A1",
     "exampleEn": "This rule is legally binding.",
     "exampleTr": "Bu kural yasal olarak bağlayıcıdır.",
-    "storyTr": "LİGALİ BAYNDİNG sözleşme imzalanınca YASAL BAĞLAYICI hale geldi ve herkes ona uymak zorunda kaldı. Taraflar, maddeleri okuyup onayladıktan sonra anlaşmayı resmen tamamladı. LEGALLY BINDING = YASAL BAĞLAYICI.",
+    "storyTr": "",
     "synonyms": [],
     "category": "aviation",
     "interval": 0,
@@ -14906,8 +14906,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "timesReviewed": 0,
     "lapses": 0,
     "pronunciationTr": "liigıli baynding",
-    "mnemonicHook": "LİGALİ BAYNDİNG",
-    "mnemonicScene": "LİGALİ BAYNDİNG sözleşme imzalanınca YASAL BAĞLAYICI hale geldi ve herkes ona uymak zorunda kaldı. Taraflar, maddeleri okuyup onayladıktan sonra anlaşmayı resmen tamamladı. LEGALLY BINDING = YASAL BAĞLAYICI.",
-    "storyEn": "Mnemonic: [LİGALİ BAYNDİNG] -> YASAL BAĞLAYICI"
+    "mnemonicHook": "",
+    "mnemonicScene": "",
+    "storyEn": ""
   }
 ];
