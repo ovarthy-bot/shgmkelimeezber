@@ -110,7 +110,8 @@ export const StudySession: React.FC<StudySessionProps> = ({
       }));
 
       // In-session queue logic: If 'Tekrar' (1) or 'Zor' (2), re-queue word at end
-      if (rating === 1 || rating === 2) {
+      const requeue = rating === 1 || rating === 2;
+      if (requeue) {
         setQueue((prevQueue) => [...prevQueue, { ...currentWord, ...result }]);
       }
 
@@ -118,7 +119,8 @@ export const StudySession: React.FC<StudySessionProps> = ({
       setSelectedQuizOption(null);
       setQuizAnswered(false);
 
-      if (currentIndex + 1 < queue.length) {
+      // Kuyruğa yeni kelime eklendiyse (requeue) seans bitmez; son kart da olsa devam eder
+      if (requeue || currentIndex + 1 < queue.length) {
         setIsFlipped(false);
         setCurrentIndex((prev) => prev + 1);
       } else {

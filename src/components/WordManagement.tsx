@@ -68,8 +68,17 @@ export const WordManagement: React.FC = () => {
     }
   };
 
-  const handleExportJSON = () => {
-    const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(words, null, 2));
+  const handleExportJSON = async () => {
+    const [reviews, settings] = await Promise.all([db.reviews.toArray(), db.settings.toArray()]);
+    const backup = {
+      format: "lexiflow-backup",
+      version: 2,
+      exportedAt: new Date().toISOString(),
+      words,
+      reviews,
+      settings,
+    };
+    const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(backup, null, 2));
     const downloadAnchor = document.createElement("a");
     downloadAnchor.setAttribute("href", dataStr);
     downloadAnchor.setAttribute("download", `lexiflow_backup_${new Date().toISOString().split("T")[0]}.json`);
@@ -85,7 +94,22 @@ export const WordManagement: React.FC = () => {
     const reader = new FileReader();
     reader.onload = async (event) => {
       try {
-        const imported = JSON.parse(event.target?.result as string);
+        const parsed = JSON.parse(event.target?.result as string);
+
+        // v2: kelimeler + tekrar geçmişi + ayarlar (id'ler korunur, ilişkiler bozulmaz)
+        if (parsed && parsed.format === "lexiflow-backup") {
+          await db.transaction("rw", db.words, db.reviews, db.settings, async () => {
+            if (Array.isArray(parsed.words)) await db.words.bulkPut(parsed.words);
+            if (Array.isArray(parsed.reviews)) await db.reviews.bulkPut(parsed.reviews);
+            if (Array.isArray(parsed.settings)) await db.settings.bulkPut(parsed.settings);
+          });
+          await loadWords();
+          alert(`🎉 Yedek geri yüklendi: ${parsed.words?.length ?? 0} kelime, ${parsed.reviews?.length ?? 0} tekrar kaydı.`);
+          return;
+        }
+
+        // v1 (eski): yalnızca kelime dizisi
+        const imported = parsed;
         if (Array.isArray(imported)) {
           for (const item of imported) {
             delete item.id;
