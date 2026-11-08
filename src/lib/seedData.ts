@@ -22,7 +22,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "avın",
     "mnemonicHook": "AVIN",
-    "mnemonicScene": "Aşçı, fırının içinden gelen kokuyu alıp \"AVIN, AVIN!\" diye sevinçle bağırıyor; fırın kapağını açınca ortaya bir \"FIRIN\" çıkıyor. Bu sahne size OVEN kelimesinin FIRIN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Aşçı, fırının içinden gelen kokuyu alıp \"AVIN, AVIN!\" diye sevinçle bağırıyor; fırın kapağını açınca ortaya bir \"FIRIN\" çıkıyor. Bu sahne size OVEN kelimesinin FIRIN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g40be0587cf5f1629da8b7ae49659e6436b53aba2d42668c3e473c5eb27063cc3c36ef19b95ca547f4b9748abe8bcd8720b89fbfe6a4846b5ccc59a0ffff9679c_640.jpg",
+    "imageSource": "https://pixabay.com/photos/kitchen-home-interior-modern-room-2165756/"
   },
   {
     "english": "Grill",
@@ -45,7 +47,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "gril",
     "mnemonicHook": "GRİL GRİL",
-    "mnemonicScene": "Komşu kedi \"GRİL GRİL\" diye mırıldanarak ızgaranın üstüne atlıyor. Bu sahne size GRILL kelimesinin IZGARA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Komşu kedi \"GRİL GRİL\" diye mırıldanarak ızgaranın üstüne atlıyor. Bu sahne size GRILL kelimesinin IZGARA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g7f75ec29c6a19222393d8576f2a46b8a221478e92c900bb1043a6e247270608a582add836900364d2920e0b26f8066b01b450901d5a19eabc21648e746b57db8_640.jpg",
+    "imageSource": "https://pixabay.com/photos/burgers-fire-grill-grilling-cook-1839090/"
   },
   {
     "english": "Duct",
@@ -68,7 +72,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "dakt",
     "mnemonicHook": "DAKTİLO",
-    "mnemonicScene": "Sekreter yazı yazmak yerine DAKTİLO'sunu havalandırma BORUSUNA sokuyor ve boru tıkanıyor. Bu sahne size DUCT kelimesinin BORU / KANAL olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sekreter yazı yazmak yerine DAKTİLO'sunu havalandırma BORUSUNA sokuyor ve boru tıkanıyor. Bu sahne size DUCT kelimesinin BORU / KANAL olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g26aca75c40d1611aeb33b38eb7d9bcbc7f2c1d6fcd89c44d3b57ec739e23a1a252893e3a06358bfeecd7f59d4a91feffaadb951b55f30b24d0efd35936fdc845_640.jpg",
+    "imageSource": "https://pixabay.com/photos/pipes-ventilation-metal-lines-4161383/"
   },
   {
     "english": "Renovation",
@@ -91,7 +97,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "renovaşın",
     "mnemonicHook": "RENOVAŞIN",
-    "mnemonicScene": "Ev sahibi duvarları boyamak için \"RENOVA ŞİN!\" diye bağırıp fırçayı kapıyor. Bu sahne size RENOVATION kelimesinin YENİLEME olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ev sahibi duvarları boyamak için \"RENOVA ŞİN!\" diye bağırıp fırçayı kapıyor. Bu sahne size RENOVATION kelimesinin YENİLEME olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g7b5c33f1771dc46ee8630c5dc3eb2d31d0647308e2b798305f76c277d2a32d85b1bd99d2e72eed2d68563ace09615dbee571c2b0e5121d2aebd21e417a363d7b_640.jpg",
+    "imageSource": "https://pixabay.com/photos/woman-girl-curler-hairstyle-3170568/"
   },
   {
     "english": "Adjacent",
@@ -137,7 +145,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "ikwipt",
     "mnemonicHook": "EKİPT",
-    "mnemonicScene": "Dağcı tüm EKİPMANLARINI sırtına takıp \"EKİPT!\" diye bağırıyor. Bu sahne size EQUIPPED kelimesinin DONATILMIŞ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Dağcı tüm EKİPMANLARINI sırtına takıp \"EKİPT!\" diye bağırıyor. Bu sahne size EQUIPPED kelimesinin DONATILMIŞ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gded513de58c37257f1e860d5606404c802371f032fb953463e5034a29d9e1aa4ea3029bb19f5f80b89eead4f4ce38686d5344aa8ca17e505dd0a9466cc109e15_640.jpg",
+    "imageSource": "https://pixabay.com/photos/air-national-guard-air-force-1567465/"
   },
   {
     "english": "Foreign, unknown",
@@ -160,7 +170,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "foreign, unknovn",
     "mnemonicHook": "FOREYN",
-    "mnemonicScene": "Turist havaalanında \"FOREYN!\" diye bağırıyor ama kimse onu tanımıyor, herkes YABANCI gibi bakıyor. Bu sahne size FOREIGN kelimesinin YABANCI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Turist havaalanında \"FOREYN!\" diye bağırıyor ama kimse onu tanımıyor, herkes YABANCI gibi bakıyor. Bu sahne size FOREIGN kelimesinin YABANCI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g48e853cf84a9a47bfccf972aeeb40b3ff31828b5afb3d714f0d736f1b5d77e4fea69db1863d408eaaf51389e7a67a4ab6618c8fcd4f1f25a8e91cfba8b96d3bd_640.jpg",
+    "imageSource": "https://pixabay.com/photos/different-language-international-7389469/"
   },
   {
     "english": "Layer",
@@ -183,7 +195,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "leyır",
     "mnemonicHook": "LEYIR",
-    "mnemonicScene": "Ressam tabloya bir KAT daha boya sürerken \"LEYIR LEYIR\" diye şarkı söylüyor. Bu sahne size LAYER kelimesinin KATMAN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ressam tabloya bir KAT daha boya sürerken \"LEYIR LEYIR\" diye şarkı söylüyor. Bu sahne size LAYER kelimesinin KATMAN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g46ab2f5eea48fb7bf5df044bdb16bb62e7c911478c0e5826023f6b7ce7100e44607beff439a93a59bb623ce2a66eed61_640.jpg",
+    "imageSource": "https://pixabay.com/photos/colorful-papers-hues-colors-182220/"
   },
   {
     "english": "Decision",
@@ -206,7 +220,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "desijın",
     "mnemonicHook": "DESİJİN",
-    "mnemonicScene": "Hakem sahaya çıkıp \"DESİ JİN!\" diye bağırarak KARAR veriyor ve düdüğü çalıyor. Bu sahne size DECISION kelimesinin KARAR olduğunu hatırlatacaktır."
+    "mnemonicScene": "Hakem sahaya çıkıp \"DESİ JİN!\" diye bağırarak KARAR veriyor ve düdüğü çalıyor. Bu sahne size DECISION kelimesinin KARAR olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g65aad2f561b7dfab47cf62582d5fce889c57a5fa74fb23406ac4c2e90faf561ddf2c706580a2df04bb91c78fcd4e9945787b6f6175b3deea6e44c5f4e9e560f4_640.jpg",
+    "imageSource": "https://pixabay.com/photos/doors-choices-choose-decision-1767562/"
   },
   {
     "english": "Peel off",
@@ -229,7 +245,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "piil of",
     "mnemonicHook": "PİİL OF",
-    "mnemonicScene": "Duvardaki boya \"PİİL OF!\" diye bağırarak kabuk kabuk, PUL PUL DÖKÜLÜYOR. Bu sahne size PEEL OFF kelimesinin PUL PUL DÖKÜLMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Duvardaki boya \"PİİL OF!\" diye bağırarak kabuk kabuk, PUL PUL DÖKÜLÜYOR. Bu sahne size PEEL OFF kelimesinin PUL PUL DÖKÜLMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g3e00f4fa3e8903217e902a2e027a4a7299485d77d1e67d787002568433c648b91752c1ad827614ceb6d8a1fe3ff71b82dc015daff53e02cada691b054d8008d5_640.jpg",
+    "imageSource": "https://pixabay.com/photos/shrimp-seafood-frozen-shrimp-3918529/"
   },
   {
     "english": "Besides",
@@ -252,7 +270,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "besides",
     "mnemonicHook": "BİSAYDS",
-    "mnemonicScene": "Garson masaya gelip \"BİSAYDS, bir de tatlı?\" diye soruyor; yani BUNDAN BAŞKA ne istersin? Bu sahne size BESIDES kelimesinin AYRICA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Garson masaya gelip \"BİSAYDS, bir de tatlı?\" diye soruyor; yani BUNDAN BAŞKA ne istersin? Bu sahne size BESIDES kelimesinin AYRICA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gc7fe1a81e32f6ad1fd0d43e030178d50fc728179261ae563a2a35097ac89c6d0265e00da27cc38a6f1165260525ddd37c1dfda3a2996959a2cc72eb6d74ae7bd_640.jpg",
+    "imageSource": "https://pixabay.com/photos/dog-puppy-pet-animal-cute-kutyus-5296838/"
   },
   {
     "english": "Hold",
@@ -275,7 +295,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "hold",
     "mnemonicHook": "HOULD",
-    "mnemonicScene": "Dağ tırmanıcısı \"HOULD!\" diye bağırıp ipi iki eliyle TUTUYOR, düşmemek için bırakmıyor. Bu sahne size HOLD kelimesinin TUTMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Dağ tırmanıcısı \"HOULD!\" diye bağırıp ipi iki eliyle TUTUYOR, düşmemek için bırakmıyor. Bu sahne size HOLD kelimesinin TUTMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g444adb04da05b352c191f2c0a5b383beeadfcc3a5875755ea5f8f175469b908bae9d6779e867aa5b12ef7929c87337bd56de572ef0d14a171615bea7d2e7a98f_640.jpg",
+    "imageSource": "https://pixabay.com/photos/hand-leather-touch-fingers-leaf-9723837/"
   },
   {
     "english": "Separate, release",
@@ -298,7 +320,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "separate, reliis",
     "mnemonicHook": "SEPARİT RİLİİS",
-    "mnemonicScene": "Anne \"SEPARİT!\" diyerek çocukları ayırıyor, sonra kapıyı açıp \"RİLİİS!\" diye kedileri SERBEST BIRAKIYOR. Bu sahne size SEPARATE, RELEASE kelimelerinin AYIRMAK, SERBEST BIRAKMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Anne \"SEPARİT!\" diyerek çocukları ayırıyor, sonra kapıyı açıp \"RİLİİS!\" diye kedileri SERBEST BIRAKIYOR. Bu sahne size SEPARATE, RELEASE kelimelerinin AYIRMAK, SERBEST BIRAKMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g2f655b4b6ddc4d8a7cdfe2c76eac58e0780de8e86fd740db7df36e5e3d45ac479e43070c9e05629defacb9597b74e5db591efb3af33f8e9d2ec8983815506c72_640.jpg",
+    "imageSource": "https://pixabay.com/photos/man-woman-composing-dispute-2933991/"
   },
   {
     "english": "Neutral",
@@ -321,7 +345,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "nötrıl",
     "mnemonicHook": "NÖTRIL",
-    "mnemonicScene": "Hakem iki takıma da bakıp \"NÖTRİL!\" diyerek TARAFSIZ kaldığını ilan ediyor. Bu sahne size NEUTRAL kelimesinin NÖTR, TARAFSIZ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Hakem iki takıma da bakıp \"NÖTRİL!\" diyerek TARAFSIZ kaldığını ilan ediyor. Bu sahne size NEUTRAL kelimesinin NÖTR, TARAFSIZ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g79d909057ccd460c849b39042681866eaea2f04c0b8360602130cb2b5b59011fc20c2bebca81bde34922c19d18e2cbf313e83026f7f8e76689e75f842b3e4295_640.jpg",
+    "imageSource": "https://pixabay.com/photos/textile-jute-brown-fabric-texture-2918844/"
   },
   {
     "english": "Dull",
@@ -344,7 +370,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "dal",
     "mnemonicHook": "DAL",
-    "mnemonicScene": "Parlak bir elmayı gören çocuk \"DAL, bu niye parlamıyor?\" diye şikâyet ediyor; elma MAT ve donuk. Bu sahne size DULL kelimesinin MAT olduğunu hatırlatacaktır."
+    "mnemonicScene": "Parlak bir elmayı gören çocuk \"DAL, bu niye parlamıyor?\" diye şikâyet ediyor; elma MAT ve donuk. Bu sahne size DULL kelimesinin MAT olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gd08ef84b4027e1cc773ac8e1d41adab7665a38d6f45e837b392e086e3da4c660379c1ad3e205f2c485e9d117a04565aee42df8f5f3180b86f5561a25caae1dc1_640.jpg",
+    "imageSource": "https://pixabay.com/photos/krkono%C5%A1e-mountains-giant-mine-way-1078725/"
   },
   {
     "english": "Scanning",
@@ -367,7 +395,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "skanning",
     "mnemonicHook": "SKANNİNG",
-    "mnemonicScene": "Havaalanı görevlisi bavulları \"SKANNİNG!\" diye bant üzerinden TARIYOR; her çanta makineye girip çıkıyor. Bu sahne size SCANNING kelimesinin TARAMA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Havaalanı görevlisi bavulları \"SKANNİNG!\" diye bant üzerinden TARIYOR; her çanta makineye girip çıkıyor. Bu sahne size SCANNING kelimesinin TARAMA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g684b00700bbb89febbb698592e4e8ce7853500f9f241567b374569ee7863fa915b892f3bfcdbe137a3f8974d8947b4ee7a73320cbee5132993407647903cf780_640.jpg",
+    "imageSource": "https://pixabay.com/photos/man-face-facial-recognition-5946820/"
   },
   {
     "english": "Length, lengthwise",
@@ -390,7 +420,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "lengt, lengtvis",
     "mnemonicHook": "LENGT",
-    "mnemonicScene": "Terzi metreyle kumaşı ölçüyor ve \"LENGT LENGT!\" diyerek UZUNLUĞUNU hesaplıyor. Bu sahne size LENGTH kelimesinin UZUNLUK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Terzi metreyle kumaşı ölçüyor ve \"LENGT LENGT!\" diyerek UZUNLUĞUNU hesaplıyor. Bu sahne size LENGTH kelimesinin UZUNLUK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g52d8f69ca3e3dc2561fcf047fa4e4710bd9e5f87c5b88b70b6a188a2b9c805a84dac91f6cde2e7b9d853bfe2174fe08d_640.jpg",
+    "imageSource": "https://pixabay.com/photos/yellow-wall-girl-woman-hipster-926728/"
   },
   {
     "english": "Horizontal, lateral",
@@ -413,7 +445,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "horizontal, lateral",
     "mnemonicHook": "HORİZONTAL",
-    "mnemonicScene": "Kaptan gemiyi \"HORİZONTAL!\" diye kendi haline bırakıyor; ufuk çizgisi tam YATAY duruyor. Bu sahne size HORIZONTAL kelimesinin YATAY olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kaptan gemiyi \"HORİZONTAL!\" diye kendi haline bırakıyor; ufuk çizgisi tam YATAY duruyor. Bu sahne size HORIZONTAL kelimesinin YATAY olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g9ad62e3e94da56427d1929b1399ecbe8cf5124b202d63348ac480b0915f0a1cb89cc6529cadcf09595837239fa429d7b_640.jpg",
+    "imageSource": "https://pixabay.com/photos/wood-board-structure-boards-grain-591631/"
   },
   {
     "english": "Cylinder",
@@ -436,7 +470,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "sylinder",
     "mnemonicHook": "SİLİNDİR",
-    "mnemonicScene": "Ressam dev bir \"SİLİNDİR\" şapkayı başına geçirip sahneye çıkıyor. Bu sahne size CYLINDER kelimesinin SİLİNDİR olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ressam dev bir \"SİLİNDİR\" şapkayı başına geçirip sahneye çıkıyor. Bu sahne size CYLINDER kelimesinin SİLİNDİR olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g48d38b94cfa8c1728bf6809ffe6d7d49c2fcf0fb83225d0de26029d1e37d795629617c65790c5e19a7e5a051fb621e0777f37f70e9a0f638d5700d4667830e0e_640.jpg",
+    "imageSource": "https://pixabay.com/photos/machine-train-locomotive-railroad-1715424/"
   },
   {
     "english": "Emergency locator transmitter",
@@ -459,7 +495,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "emergensi lokator transmitter",
     "mnemonicHook": "ELT",
-    "mnemonicScene": "Kurtarma ekibi ormanda kayboldu; \"ELT!\" diye bağırarak acil durum VERİCİSİNİ açıp yardım sinyali gönderiyor. Bu sahne size EMERGENCY LOCATOR TRANSMITTER kelimesinin ACİL DURUM VERİCİSİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kurtarma ekibi ormanda kayboldu; \"ELT!\" diye bağırarak acil durum VERİCİSİNİ açıp yardım sinyali gönderiyor. Bu sahne size EMERGENCY LOCATOR TRANSMITTER kelimesinin ACİL DURUM VERİCİSİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g0a31cb055abcb63ff00d84f58272b7f472d60d3354b45f603fa5e5c1b305a910500f42dfb60bbb2c7650ae60900e0ad9f9ba8babcab1e4fd04603f483f7e96f2_640.jpg",
+    "imageSource": "https://pixabay.com/photos/winter-mountain-transmitter-jesenik-7015372/"
   },
   {
     "english": "Sealed transmitter",
@@ -482,7 +520,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "siiled transmitter",
     "mnemonicHook": "SİİLD",
-    "mnemonicScene": "Postacı paketi \"SİİLD!\" diye mühürleyip kapatıyor; içindeki VERİCİ dışarıdan görünmüyor. Bu sahne size SEALED TRANSMITTER kelimesinin KARTERİZLİ VERİCİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Postacı paketi \"SİİLD!\" diye mühürleyip kapatıyor; içindeki VERİCİ dışarıdan görünmüyor. Bu sahne size SEALED TRANSMITTER kelimesinin KARTERİZLİ VERİCİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g98e49da81680551063798ccd59951b5be8f68c7095b138913086ab1fba0239b7d0bd77a5d439770e4d6d3ff29453212906f244249599f40d7d039807681ad9ab_640.jpg",
+    "imageSource": "https://pixabay.com/photos/winter-mountain-transmitter-jesenik-7015372/"
   },
   {
     "english": "Relay",
@@ -505,7 +545,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "relai",
     "mnemonicHook": "RİLEY",
-    "mnemonicScene": "Ev sahibi kapıdan \"RİLEY!\" diye seslenip dışarıdan ROLEYİ içeri alıyor. Bu sahne size RELAY kelimesinin RÖLE olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ev sahibi kapıdan \"RİLEY!\" diye seslenip dışarıdan ROLEYİ içeri alıyor. Bu sahne size RELAY kelimesinin RÖLE olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gcbe3acf32ee57e790e7de36c92754ef4cd037ee276ec739c865ce666820297d88cf43bec02bd3b8f3ce0979d1cc28d99a2293ce0d070c56319cc0aedd77df2c8_640.jpg",
+    "imageSource": "https://pixabay.com/photos/athlete-runner-sprint-fast-black-1840437/"
   },
   {
     "english": "Internal",
@@ -528,7 +570,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "internal",
     "mnemonicHook": "İNTERNAL",
-    "mnemonicScene": "Ev sahibi \"İNTERNAL!\" diye bağırarak misafirleri İÇERİDE tutuyor, dışarı çıkarmıyor. Bu sahne size INTERNAL kelimesinin DAHİLİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ev sahibi \"İNTERNAL!\" diye bağırarak misafirleri İÇERİDE tutuyor, dışarı çıkarmıyor. Bu sahne size INTERNAL kelimesinin DAHİLİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g2e2539d71f6881937bdba0f124ef3eb584c0d9d7c168b3d9a8fa9b3abb7104001adf25a7a738411a1683ea95bca2f5f2_640.jpg",
+    "imageSource": "https://pixabay.com/photos/anatomy-woman-human-body-skin-254120/"
   },
   {
     "english": "External",
@@ -551,7 +595,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "eksternal",
     "mnemonicHook": "EKSTERNAL",
-    "mnemonicScene": "Bekçi \"EKSTERNAL!\" diye bağırarak herkesi DIŞARIDAN içeri alıyor. Bu sahne size EXTERNAL kelimesinin HARİCİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Bekçi \"EKSTERNAL!\" diye bağırarak herkesi DIŞARIDAN içeri alıyor. Bu sahne size EXTERNAL kelimesinin HARİCİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gaa549b3f4171e96b2a14f5296b73fb005600a02d51a3996df3792cfb6e48b3e2d3fd52f331b90bcbb10f94be05e638b8_640.jpg",
+    "imageSource": "https://pixabay.com/photos/launch-pad-rocket-launch-night-67650/"
   },
   {
     "english": "Ignore",
@@ -574,7 +620,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "ignor",
     "mnemonicHook": "İGNOR",
-    "mnemonicScene": "Öğretmen \"İGNOR!\" diyerek öğrencinin sorusunu duymazdan GELİYOR. Bu sahne size IGNORE kelimesinin GÖRMEZDEN GELMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Öğretmen \"İGNOR!\" diyerek öğrencinin sorusunu duymazdan GELİYOR. Bu sahne size IGNORE kelimesinin GÖRMEZDEN GELMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ge9ce6aa6142a1af8b86403381e85eb963e82ccff527410d2142c4940d7656af84b0931c047381b7b88fbb32b99308041fc02d6581df585205bc84ce134176e06_640.jpg",
+    "imageSource": "https://pixabay.com/photos/tag-face-woman-graffiti-painting-4822641/"
   },
   {
     "english": "Approximate",
@@ -597,7 +645,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "approksimat",
     "mnemonicHook": "APROKSİMAT",
-    "mnemonicScene": "Ölçer \"APROKSİMAT!\" diyerek kabaca tahmin edip YAKLAŞIK bir sonuç veriyor. Bu sahne size APPROXIMATE kelimesinin YAKLAŞIK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ölçer \"APROKSİMAT!\" diyerek kabaca tahmin edip YAKLAŞIK bir sonuç veriyor. Bu sahne size APPROXIMATE kelimesinin YAKLAŞIK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g41fcbacfd6d6c84a226a1468992ecc94e7fe50771983ab3f7e0f7055dc94eabeffbdd1de0305b0a416987e71d5efcc7956f78daac6d067f913eabef3797c11ca_640.jpg",
+    "imageSource": "https://pixabay.com/photos/jackdaw-bird-nature-black-alps-10173897/"
   },
   {
     "english": "Strap, belt",
@@ -620,7 +670,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "strap, belt",
     "mnemonicHook": "STRAP",
-    "mnemonicScene": "Dağcı \"STRAP!\" diyerek sırt çantasına KAYIŞI sıkıca bağlıyor. Bu sahne size STRAP kelimesinin KAYIŞ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Dağcı \"STRAP!\" diyerek sırt çantasına KAYIŞI sıkıca bağlıyor. Bu sahne size STRAP kelimesinin KAYIŞ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g1fadb0bf7600e488ed60b63ceb012d92d6642e636c3262a586bab71b69a77be3f2b10add8d04c24829e89ba98f424e6a101f75921117b91c4f626f49ba61ab90_640.jpg",
+    "imageSource": "https://pixabay.com/photos/time-clock-wrist-watch-chronometer-3091031/"
   },
   {
     "english": "Clamp",
@@ -643,7 +695,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "klæmp",
     "mnemonicHook": "KLEMP",
-    "mnemonicScene": "Marangoz \"KLEMP!\" sesiyle tahtayı KELEPÇEYE sıkıştırıp sabitliyor. Bu sahne size CLAMP kelimesinin KELEPÇE olduğunu hatırlatacaktır."
+    "mnemonicScene": "Marangoz \"KLEMP!\" sesiyle tahtayı KELEPÇEYE sıkıştırıp sabitliyor. Bu sahne size CLAMP kelimesinin KELEPÇE olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g119e5b0f123c2744c294e89473a673f095c18ccae6bd2e7fb5b018b4a001ba3860737f5936d5a23aa58883cf5e2798862f7bc2f3e78a4b92ebc83e2965b02cdb_640.jpg",
+    "imageSource": "https://pixabay.com/photos/clamp-hand-tool-steel-metal-tool-4964646/"
   },
   {
     "english": "Attach, stick",
@@ -666,7 +720,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "attaç, stik",
     "mnemonicHook": "ATAŞ",
-    "mnemonicScene": "Teknisyen \"ATAŞ!\" diye bağırıp kabloyu duvara TUTURUYOR. Bu sahne size ATTACH kelimesinin TUTURMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Teknisyen \"ATAŞ!\" diye bağırıp kabloyu duvara TUTURUYOR. Bu sahne size ATTACH kelimesinin TUTURMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gae9ca108e9b3abd0d5cce00fa9a4ea25f9d3fe1f5fd241af0c138745b171ee2734f420c7704ae7344a21c82414b790135fa3d1249e5e21ee6cef967082b1d37e_640.jpg",
+    "imageSource": "https://pixabay.com/photos/heart-castle-padlock-lock-fence-10092768/"
   },
   {
     "english": "Purpose",
@@ -689,7 +745,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "purpos",
     "mnemonicHook": "PÖRPOS",
-    "mnemonicScene": "Öğretmen tahtada \"PÖRPOS nedir?\" diye soruyor; öğrenci AMACI anlatıyor. Bu sahne size PURPOSE kelimesinin AMAÇ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Öğretmen tahtada \"PÖRPOS nedir?\" diye soruyor; öğrenci AMACI anlatıyor. Bu sahne size PURPOSE kelimesinin AMAÇ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gc2d590c540a38ed35ce3dffbc98126e3dfc5a8fc01a9a80eedb57cbe720021c114f249161863bccd1c2bf2a99a706a2136e41ca5c71c68af3609aa5ed9f21659_640.jpg",
+    "imageSource": "https://pixabay.com/photos/matchbox-match-3199694/"
   },
   {
     "english": "Wet",
@@ -712,7 +770,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "vet",
     "mnemonicHook": "VET",
-    "mnemonicScene": "Veteriner kediyi \"VET!\" diye yıkayıp tamamen ISLATIYOR. Bu sahne size WET kelimesinin ISLAK / ISLATMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Veteriner kediyi \"VET!\" diye yıkayıp tamamen ISLATIYOR. Bu sahne size WET kelimesinin ISLAK / ISLATMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g5a3eb169943e2e7e5cbc8c0dc842353572459a5c51ee18c97ea7b8f975f8b1e18211597db32bfe50eb7bd18713f360e6c13f0585abfd1064a6c908d6f7471b31_640.jpg",
+    "imageSource": "https://pixabay.com/photos/flower-marigold-droplets-orange-10536882/"
   },
   {
     "english": "Garment, cover",
@@ -735,7 +795,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "garment, kover",
     "mnemonicHook": "GARMENT",
-    "mnemonicScene": "Terzi \"GARMENT!\" diye bağırarak GİYSİYİ özel bir KILIFA koyuyor. Bu sahne size GARMENT kelimesinin GİYSİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Terzi \"GARMENT!\" diye bağırarak GİYSİYİ özel bir KILIFA koyuyor. Bu sahne size GARMENT kelimesinin GİYSİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gb9bde6470c7a4581e7d7d12bfd4a381314ba40cba460e9f8e844a6222b246aa3b63aecdc76858fc7ad309a6fc5f522e3875d44da91392b2b27a19e043548c5a4_640.jpg",
+    "imageSource": "https://pixabay.com/photos/jeans-fabric-denim-structure-blue-1161035/"
   },
   {
     "english": "Humidity",
@@ -758,7 +820,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "humiditi",
     "mnemonicHook": "HYUMİDİTİ",
-    "mnemonicScene": "Halk \"HYUMİDİTİ!\" diye şikâyet edip terliyor; hava çok RUTUBETLİ. Bu sahne size HUMIDITY kelimesinin RUTUBET olduğunu hatırlatacaktır."
+    "mnemonicScene": "Halk \"HYUMİDİTİ!\" diye şikâyet edip terliyor; hava çok RUTUBETLİ. Bu sahne size HUMIDITY kelimesinin RUTUBET olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gd30ef3e19537230bcec1743ca98a1e73364df9d84ac94a2797704e457fd10c51ce20948e31221de8e2bc8ab54082daa78e484112eeb95b02189893de6eb1ddf0_640.jpg",
+    "imageSource": "https://pixabay.com/photos/rain-stoppers-water-window-pane-1461288/"
   },
   {
     "english": "Rinse",
@@ -781,7 +845,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "rins",
     "mnemonicHook": "RİNS",
-    "mnemonicScene": "Anne \"RİNS!\" diyerek bulaşığı suyla DURULUYOR. Bu sahne size RINSE kelimesinin DURULAMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Anne \"RİNS!\" diyerek bulaşığı suyla DURULUYOR. Bu sahne size RINSE kelimesinin DURULAMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gc34c2c9a2d07771066f4039eb70fb7e3f2ba186cb65ba265810343dae6db90a8d7397fc5011af80a26931bb52b56cdd83ee96941681108f7c26ebefdbf180035_640.jpg",
+    "imageSource": "https://pixabay.com/photos/hands-water-wash-color-source-4903050/"
   },
   {
     "english": "Wipe clean",
@@ -804,7 +870,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "vip kliin",
     "mnemonicHook": "VAYP KLİİN",
-    "mnemonicScene": "Garson \"VAYP KLİİN!\" diyerek bezle masayı SİLEREK TEMİZLİYOR. Bu sahne size WIPE CLEAN kelimesinin SİLEREK TEMİZLEMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Garson \"VAYP KLİİN!\" diyerek bezle masayı SİLEREK TEMİZLİYOR. Bu sahne size WIPE CLEAN kelimesinin SİLEREK TEMİZLEMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g9c6300eeb90d9e8b5bd4f67118614c0fb0b59a5827db24d7dfb31a20723159d964c84d1bd3efd815ddd5cb97ca3505285dc297bba257b11f2c9b648265e0ec64_640.jpg",
+    "imageSource": "https://pixabay.com/photos/cleanliness-maid-maintains-cleaning-2799459/"
   },
   {
     "english": "Footrest",
@@ -827,7 +895,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuutrest",
     "mnemonicHook": "FUTREST",
-    "mnemonicScene": "Uçak yolcusu \"FUTREST!\" diyerek ayaklarını AYAK DAYAMA YERİNE uzatıyor. Bu sahne size FOOTREST kelimesinin AYAK DAYAMA YERİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Uçak yolcusu \"FUTREST!\" diyerek ayaklarını AYAK DAYAMA YERİNE uzatıyor. Bu sahne size FOOTREST kelimesinin AYAK DAYAMA YERİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g6ccea2f377e34641460e9d18c1637896d8a9f866f86ed2e7cc83782a51efa44c6d52eccab051524fcdf9e54ce89746ea6fae10ac45f068abeb2954cd53ca3392_640.png",
+    "imageSource": "https://pixabay.com/photos/beach-chair-seating-furniture-2814640/"
   },
   {
     "english": "Hanger, hook",
@@ -850,7 +920,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "hanger, huuk",
     "mnemonicHook": "HENGER",
-    "mnemonicScene": "Görevli \"HENGER!\" diyerek ceketi ASKIYA asıyor. Bu sahne size HANGER kelimesinin ASKI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Görevli \"HENGER!\" diyerek ceketi ASKIYA asıyor. Bu sahne size HANGER kelimesinin ASKI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g6eab5737330bfbbd8a5cef56f0721d4ca0e2b9a0f018204c5deff2b6752b80f98a0519c670c7cbfa269197b44bf0f76a665d51e95a5056178ff5ec21e2b8ce63_640.jpg",
+    "imageSource": "https://pixabay.com/photos/wardrobe-coat-hanger-dressing-room-5961193/"
   },
   {
     "english": "Sunshade",
@@ -873,7 +945,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "sunşad",
     "mnemonicHook": "SANŞAD",
-    "mnemonicScene": "Sürücü güneş gözlerken \"SANŞAD!\" diye bağırıp camına GÜNEŞLİĞİ çekiyor. Bu sahne size SUNSHADE kelimesinin GÜNEŞLİK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü güneş gözlerken \"SANŞAD!\" diye bağırıp camına GÜNEŞLİĞİ çekiyor. Bu sahne size SUNSHADE kelimesinin GÜNEŞLİK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g088c9e4129aee54ab48d0162cabe50a1c6cff9d3907485ecdd89a43004a38f70be802bfa7d64287812400fdccf95a3b7f1428777324fdb59d72c3e60c816da4b_640.jpg",
+    "imageSource": "https://pixabay.com/photos/cancun-mexico-beach-waves-tropical-1228131/"
   },
   {
     "english": "Armrest",
@@ -896,7 +970,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "armrest",
     "mnemonicHook": "ARMREST",
-    "mnemonicScene": "Yolcu \"ARM REST!\" diyerek koluna KOL DAYAMA YERİ'ni yastık yapıyor. Bu sahne size ARMREST kelimesinin KOL DAYAMA YERİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Yolcu \"ARM REST!\" diyerek koluna KOL DAYAMA YERİ'ni yastık yapıyor. Bu sahne size ARMREST kelimesinin KOL DAYAMA YERİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g1fc6f6a0e99cbdce26dfe7b7145861914d6dcde627aa0dbf11dbc33fdc1d821beaa1dd5f0f0a648254cd500f56bd45617b559650fcf1db84d9bfb4a790b188bb_640.jpg",
+    "imageSource": "https://pixabay.com/photos/plane-seats-window-aviation-6511878/"
   },
   {
     "english": "Cover, coating",
@@ -919,7 +995,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "kover, koating",
     "mnemonicHook": "KOTİNG",
-    "mnemonicScene": "Boyacı \"KOTİNG!\" diyerek metalin üstüne KAPLAMA sürüyor. Bu sahne size COATING kelimesinin KAPLAMA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Boyacı \"KOTİNG!\" diyerek metalin üstüne KAPLAMA sürüyor. Bu sahne size COATING kelimesinin KAPLAMA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gc9724147832d56f17425ea817ad14c84c65c781f09a9d41b09da9c904f38d4891b438aa31042cb05bd40366e5c46c3aa1099020266d682bff4e4d0d01cbf55bb_640.jpg",
+    "imageSource": "https://pixabay.com/photos/see-no-evil-hear-no-evil-3444212/"
   },
   {
     "english": "Dust effect",
@@ -942,7 +1020,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "dust effekt",
     "mnemonicHook": "DAST EFEKT",
-    "mnemonicScene": "Ev hanımı \"DAST EFEKT!\" diyerek her yeri süpürünce TOZUN ETKİSİ ortada. Bu sahne size DUST EFFECT kelimesinin TOZUN ETKİSİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ev hanımı \"DAST EFEKT!\" diyerek her yeri süpürünce TOZUN ETKİSİ ortada. Bu sahne size DUST EFFECT kelimesinin TOZUN ETKİSİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g8e651d4f55b9453de803ece648aadb21d69003fac9010d62479027310e283aaf00f0b3177e03d151d0ba49ad10c746c25664b334884e9424642e6f885e105f4f_640.jpg",
+    "imageSource": "https://pixabay.com/photos/space-gases-stars-cosmos-galaxies-5225357/"
   },
   {
     "english": "Texture, fabric",
@@ -965,7 +1045,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "teksçır, fabrik",
     "mnemonicHook": "TEKSÇIR",
-    "mnemonicScene": "Terzi \"TEKSÇIR!\" diyerek kumaşın DOKUSUNU okşuyor, sonra KUMAŞ'ı kesiyor. Bu sahne size TEXTURE kelimesinin DOKU olduğunu hatırlatacaktır."
+    "mnemonicScene": "Terzi \"TEKSÇIR!\" diyerek kumaşın DOKUSUNU okşuyor, sonra KUMAŞ'ı kesiyor. Bu sahne size TEXTURE kelimesinin DOKU olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g578095143fd3862119279b6e93a4aba39122bdc478d3eb21329a0fd628ce89824f022f35ab6410dbeb3c5ab7634219bf09414af8652f960809e21c11ae008ea1_640.jpg",
+    "imageSource": "https://pixabay.com/photos/paper-old-texture-parchment-1074131/"
   },
   {
     "english": "Reason",
@@ -988,7 +1070,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "riison",
     "mnemonicHook": "RİZN",
-    "mnemonicScene": "Çocuk \"RİZN?\" diye sorunca annesi NEDEN'i açıklıyor. Bu sahne size REASON kelimesinin NEDEN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Çocuk \"RİZN?\" diye sorunca annesi NEDEN'i açıklıyor. Bu sahne size REASON kelimesinin NEDEN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g33c84c0b8dfc55164cc5baedc0f7707f24f96c2b4386b941e423d5936ba1a7dde63fbb1e9d8f3b2275e5a899db56ca73a4d825703d2cadf167808a41845cc124_640.jpg",
+    "imageSource": "https://pixabay.com/photos/brain-heart-emotion-rational-7314501/"
   },
   {
     "english": "Scratches",
@@ -1011,7 +1095,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "skratçes",
     "mnemonicHook": "SKRAÇES",
-    "mnemonicScene": "Kedi \"SKRAÇES!\" diye bağırarak koltuğa ÇİZİKLER atıyor. Bu sahne size SCRATCHES kelimesinin ÇİZİKLER olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kedi \"SKRAÇES!\" diye bağırarak koltuğa ÇİZİKLER atıyor. Bu sahne size SCRATCHES kelimesinin ÇİZİKLER olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g8e118f5304e36932596b7c4bda0c334e157b2e1aa4d377e27f713c24c1e3f2007813b1c7a0edd9be72949620c82830ed9aee1054fea9b7ea111064440e7c5f86_640.jpg",
+    "imageSource": "https://pixabay.com/photos/blackboard-wall-black-dark-grunge-1846865/"
   },
   {
     "english": "Additive, tool, means",
@@ -1034,7 +1120,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "additive, tuul, miins",
     "mnemonicHook": "ADİTİV",
-    "mnemonicScene": "Aşçı \"ADİTİV!\" diyerek yemeğe KATKI MADDESİ ekliyor, elinde bir ARAÇ var. Bu sahne size ADDITIVE, TOOL, MEANS kelimelerinin KATKI, ARAÇ, VASITA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Aşçı \"ADİTİV!\" diyerek yemeğe KATKI MADDESİ ekliyor, elinde bir ARAÇ var. Bu sahne size ADDITIVE, TOOL, MEANS kelimelerinin KATKI, ARAÇ, VASITA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g874cb157c7d23b21ae23dbafa12c9986381e662d2e778ad8bad2d8e9a77a01b4bf3ba2d3f00dd3052d6cec9161292fba_640.jpg",
+    "imageSource": "https://pixabay.com/photos/3d-printer-printing-technology-791205/"
   },
   {
     "english": "Surface",
@@ -1057,7 +1145,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "surfas",
     "mnemonicHook": "SÖRFES",
-    "mnemonicScene": "Sörfçü dalgaya \"SÖRFES!\" diye bağırıp tahtasıyla YÜZEYDE kayıyor. Bu sahne size SURFACE kelimesinin YÜZEY olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sörfçü dalgaya \"SÖRFES!\" diye bağırıp tahtasıyla YÜZEYDE kayıyor. Bu sahne size SURFACE kelimesinin YÜZEY olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g8dd34d7fb7c9b3c71ca1882e7d122f6fd3c23a89f86280592dd93ddba896aa8fed28085215e2a561cbf520c15bfcf2ea30d8b7fe7706351c43033fcdcb0bcf1d_640.jpg",
+    "imageSource": "https://pixabay.com/photos/drop-splash-impact-ripples-water-1004250/"
   },
   {
     "english": "Friction",
@@ -1080,7 +1170,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "frikşın",
     "mnemonicHook": "FRİKŞIN",
-    "mnemonicScene": "Kayakçı \"FRİKŞIN!\" diye bağırarak karda SÜRTÜNEREK kayıyor ve ayakları ısınıyor. Bu sahne size FRICTION kelimesinin SÜRTME olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kayakçı \"FRİKŞIN!\" diye bağırarak karda SÜRTÜNEREK kayıyor ve ayakları ısınıyor. Bu sahne size FRICTION kelimesinin SÜRTME olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gd8f825bf12e2b9cfda40bcc860fa51ddd78a981429a9d0edf833fde0765cab4c309e67b1300321be5adbf646a3ac7f68_640.jpg",
+    "imageSource": "https://pixabay.com/photos/gear-mechanics-machine-curb-life-192875/"
   },
   {
     "english": "Single layer",
@@ -1103,7 +1195,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "singl layer",
     "mnemonicHook": "SİNGL LEYIR",
-    "mnemonicScene": "Bantçı \"SİNGL LEYIR!\" diyerek bandı tek bir KATMAN halinde yapıştırıyor. Bu sahne size SINGLE LAYER kelimesinin TEK KATMAN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Bantçı \"SİNGL LEYIR!\" diyerek bandı tek bir KATMAN halinde yapıştırıyor. Bu sahne size SINGLE LAYER kelimesinin TEK KATMAN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gc6b9c0eb4d9ed9927cfce8342a043459734923ccaa77a89a4a148ebfbe1becfde8ed93ec0bd90c071b117738546cadbc5693c65169dbcf797ec560f7b914c2c3_640.jpg",
+    "imageSource": "https://pixabay.com/photos/tulip-flower-blossom-bloom-art-8720205/"
   },
   {
     "english": "Non-reflective",
@@ -1126,7 +1220,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "non-reflektiv",
     "mnemonicHook": "NON REFLEKTİV",
-    "mnemonicScene": "Fotoğrafçı \"NON REFLEKTİV!\" diyerek ışığı YANSITMAYAN bir perde açıyor. Bu sahne size NON-REFLECTIVE kelimesinin YANSITMAYAN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Fotoğrafçı \"NON REFLEKTİV!\" diyerek ışığı YANSITMAYAN bir perde açıyor. Bu sahne size NON-REFLECTIVE kelimesinin YANSITMAYAN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g1c72882a348f006801349e5378c42d877f57c8e03d2fa93add5864ea09d0d38e1b51adb589a8e090843e6f8c041ab88d00dcd5c3fe100f08fcf3668186085174_640.jpg",
+    "imageSource": "https://pixabay.com/photos/woman-fashion-model-girl-female-5828786/"
   },
   {
     "english": "Frequently",
@@ -1195,7 +1291,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "isenşıl",
     "mnemonicHook": "EZENŞIL",
-    "mnemonicScene": "Doktor \"EZENŞIL!\" diyerek hastaya suyun GEREKLİ olduğunu söylüyor. Bu sahne size ESSENTIAL kelimesinin GEREKLİ, ESAS olduğunu hatırlatacaktır."
+    "mnemonicScene": "Doktor \"EZENŞIL!\" diyerek hastaya suyun GEREKLİ olduğunu söylüyor. Bu sahne size ESSENTIAL kelimesinin GEREKLİ, ESAS olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g4b86559ec6bb15b044c00a9fe97c16bc20a04902a29c126265150bf6017bbc7bc591d3176e4b836fe1569c9a279334a6_640.jpg",
+    "imageSource": "https://pixabay.com/photos/basil-aroma-spices-essential-906137/"
   },
   {
     "english": "Worn",
@@ -1218,7 +1316,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "vorn",
     "mnemonicHook": "VORN",
-    "mnemonicScene": "Tamirci \"VORN!\" diyerek eski lastiğin AŞINMIŞ olduğunu görüyor, dişleri yok olmuş. Bu sahne size WORN kelimesinin AŞINMIŞ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tamirci \"VORN!\" diyerek eski lastiğin AŞINMIŞ olduğunu görüyor, dişleri yok olmuş. Bu sahne size WORN kelimesinin AŞINMIŞ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g9a3d97d2d90a229a27b68c8e8b42675e9d11fe0e5bfb9ad249b6ae8b7a283b0cc24782f4c81acdaf2ba74c815f0fbfde6943a11cdc2f5611d3ef22b225bc8cad_640.jpg",
+    "imageSource": "https://pixabay.com/photos/blackboard-wall-black-dark-grunge-1846865/"
   },
   {
     "english": "During",
@@ -1264,7 +1364,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "prosess",
     "mnemonicHook": "PROSES",
-    "mnemonicScene": "Fabrika işçisi \"PROSES!\" diyerek makinenin SÜRECİNİ başlatıyor, bant hareket ediyor. Bu sahne size PROCESS kelimesinin SÜREÇ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Fabrika işçisi \"PROSES!\" diyerek makinenin SÜRECİNİ başlatıyor, bant hareket ediyor. Bu sahne size PROCESS kelimesinin SÜREÇ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gd6e9d2705b503234577b7e3dff0dde130172dc1b787d9034c675a3361aeac92c3b3a09f64f330f7d766d54e14f8d0c2fae6b9d80583a99ac6f95b67729535b15_640.jpg",
+    "imageSource": "https://pixabay.com/photos/artist-painter-painting-artwork-7250697/"
   },
   {
     "english": "Apply",
@@ -1287,7 +1389,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "appli",
     "mnemonicHook": "APLAY",
-    "mnemonicScene": "Ressam fırçayı alıp \"APLAY!\" diyerek boyayı duvara UYGULUYOR. Bu sahne size APPLY kelimesinin UYGULAMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ressam fırçayı alıp \"APLAY!\" diyerek boyayı duvara UYGULUYOR. Bu sahne size APPLY kelimesinin UYGULAMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gba8a6e44790553d906330fc6251d2c2da9d2720241ae2188a030f8a51f53659a4280c02950602d0bf36779c9572c2aac2751fc1da9007691d95a65f1059264c9_640.jpg",
+    "imageSource": "https://pixabay.com/photos/application-keyboard-apply-now-3695107/"
   },
   {
     "english": "Following",
@@ -1310,7 +1414,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "folloving",
     "mnemonicHook": "FOLLOVİNG",
-    "mnemonicScene": "Kalabalık \"FOLLOVİNG!\" diyerek lideri TAKİP EDİYOR, ne kadar gidiyorsa peşinden. Bu sahne size FOLLOWING kelimesinin TAKİP olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kalabalık \"FOLLOVİNG!\" diyerek lideri TAKİP EDİYOR, ne kadar gidiyorsa peşinden. Bu sahne size FOLLOWING kelimesinin TAKİP olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g5ab89e826938549bbfa6e9b7d3d2dd8b21805eb6ff72a9e6cc00c9d9da4a500f01018158641098091064eff3110b858881271bc3efc3ce42c344beb3fa118012_640.jpg",
+    "imageSource": "https://pixabay.com/photos/ducklings-chicks-cute-duck-jugs-5020509/"
   },
   {
     "english": "Instruction",
@@ -1333,7 +1439,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "instrukşın",
     "mnemonicHook": "İNSTRAKŞIN",
-    "mnemonicScene": "Asker \"İNSTRAKŞIN!\" diye bağırıp komutanın TALİMATINI tekrarlıyor. Bu sahne size INSTRUCTION kelimesinin TALİMAT olduğunu hatırlatacaktır."
+    "mnemonicScene": "Asker \"İNSTRAKŞIN!\" diye bağırıp komutanın TALİMATINI tekrarlıyor. Bu sahne size INSTRUCTION kelimesinin TALİMAT olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf791faba0384ceddeeec15ecd28f7e890529647b0d51ffe13a56580bcb3b53407dc69874cd29c6e302687f486078360d86b5e7a620d82d9c8414ef1f50d41a41_640.jpg",
+    "imageSource": "https://pixabay.com/photos/handcraft-building-blocks-skill-8226964/"
   },
   {
     "english": "Lightly",
@@ -1356,7 +1464,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "laytli",
     "mnemonicHook": "LAYTLI",
-    "mnemonicScene": "Kedi \"LAYTLI!\" diyerek camın üstünde HAFİFÇE yürüyor, ışığı bile sanki ŞEFFAF. Bu sahne size LIGHTLY kelimesinin HAFİFÇE olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kedi \"LAYTLI!\" diyerek camın üstünde HAFİFÇE yürüyor, ışığı bile sanki ŞEFFAF. Bu sahne size LIGHTLY kelimesinin HAFİFÇE olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g296c125e912cadb6178219d0833b7a9d2b018d268c1b99d5d813736d5b27d88f3a24d411cd9a9cb41f826dd8779d3c79ba8e53b265ef90383b2bea96130d8d6a_640.jpg",
+    "imageSource": "https://pixabay.com/photos/mountain-cloud-hunting-dawn-cloud-9729987/"
   },
   {
     "english": "Frame",
@@ -1379,7 +1489,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fram",
     "mnemonicHook": "FREYM",
-    "mnemonicScene": "Ressam \"FREYM!\" diye bağırıp tabloya ÇERÇEVE takıyor. Bu sahne size FRAME kelimesinin ÇERÇEVE olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ressam \"FREYM!\" diye bağırıp tabloya ÇERÇEVE takıyor. Bu sahne size FRAME kelimesinin ÇERÇEVE olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g811b3560ea0675482e94adea0784cab9f4ba92337ce75994ce3c1bde424ab58a0eb9e84837ce228db161c50083e04440b14dccb06c27ed725e4eca00bfcb408f_640.png",
+    "imageSource": "https://pixabay.com/photos/frame-photo-frame-portrait-2482179/"
   },
   {
     "english": "Until",
@@ -1402,7 +1514,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "until",
     "mnemonicHook": "ANTIL",
-    "mnemonicScene": "Çocuk \"ANTIL!\" diyerek annesi gelene KADAR bekliyor, sabırsız. Bu sahne size UNTIL kelimesinin KADAR olduğunu hatırlatacaktır."
+    "mnemonicScene": "Çocuk \"ANTIL!\" diyerek annesi gelene KADAR bekliyor, sabırsız. Bu sahne size UNTIL kelimesinin KADAR olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g00fd8d61a205d94a68ca04f0b535d99ab70da308d3a5f854337cad19ed9cc9b9a38371aacfd7653ae26c325c43708d82f7dd6e32f29d2dbcb975a40a47d95397_640.jpg",
+    "imageSource": "https://pixabay.com/photos/corona-playground-exit-locked-lock-4968050/"
   },
   {
     "english": "Lower",
@@ -1425,7 +1539,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "lover",
     "mnemonicHook": "LOVER",
-    "mnemonicScene": "Aşık \"LOVER!\" diyerek sevgilisini ALÇAK bir sesle çağırıyor, yukarıya değil AŞAĞI bakıyor. Bu sahne size LOWER kelimesinin ALÇAK, AŞAĞI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Aşık \"LOVER!\" diyerek sevgilisini ALÇAK bir sesle çağırıyor, yukarıya değil AŞAĞI bakıyor. Bu sahne size LOWER kelimesinin ALÇAK, AŞAĞI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ge97c2ffd040684bea2b5c562a9994380985a1fc09b10e41e0068704217ea6226893c533f60375619da2dc6e89bfac06b_640.jpg",
+    "imageSource": "https://pixabay.com/photos/new-york-skyline-manhattan-hudson-540807/"
   },
   {
     "english": "Deck",
@@ -1448,7 +1564,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "dek",
     "mnemonicHook": "DEK",
-    "mnemonicScene": "Kaptan \"DEK!\" diye bağırarak gemi GÜVERTESİNE çıkıyor ve elinde bir DESTE kart var. Bu sahne size DECK kelimesinin GÜVERTE olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kaptan \"DEK!\" diye bağırarak gemi GÜVERTESİNE çıkıyor ve elinde bir DESTE kart var. Bu sahne size DECK kelimesinin GÜVERTE olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf65b086691cfd7da429280681bf987c68a8be55d992273df410727afb4e7766dac86cd95b83d2182042a47c6a46ed8d3b00d47126d2b2fa20468d8c5c46cfa29_640.jpg",
+    "imageSource": "https://pixabay.com/photos/pool-house-luxury-swim-that-blue-5055009/"
   },
   {
     "english": "Caution",
@@ -1471,7 +1589,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "koşın",
     "mnemonicHook": "KOŞIN",
-    "mnemonicScene": "Öğretmen \"KOŞIN!\" diye bağırıp öğrencileri UYARIYOR, koşmayın diye. Bu sahne size CAUTION kelimesinin UYARI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Öğretmen \"KOŞIN!\" diye bağırıp öğrencileri UYARIYOR, koşmayın diye. Bu sahne size CAUTION kelimesinin UYARI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g47dbb30852dc8a3f19978c9abdcb7a068c1179416e2ccb4bb84822b87f2fd0c75ee654a46356e67d01103f634b919fa8_640.jpg",
+    "imageSource": "https://pixabay.com/photos/slip-up-danger-careless-slippery-709045/"
   },
   {
     "english": "Warning",
@@ -1494,7 +1614,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "varning",
     "mnemonicHook": "VARNİNG",
-    "mnemonicScene": "Bekçi \"VARNİNG!\" diye bağırıp tehlikeye karşı İKAZ veriyor. Bu sahne size WARNING kelimesinin UYARI, İKAZ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Bekçi \"VARNİNG!\" diye bağırıp tehlikeye karşı İKAZ veriyor. Bu sahne size WARNING kelimesinin UYARI, İKAZ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g47112ce8a2251a761c8b2faec45020796eedb20c7828e8a3d1b7a6203476bac3807519bfe08f52fe9a2a3940c3fedf8c5cf1ff11a3a561f9c5d4f7e86ff23e61_640.jpg",
+    "imageSource": "https://pixabay.com/photos/exit-sign-light-exit-light-8443453/"
   },
   {
     "english": "Applications",
@@ -1517,7 +1639,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "applikaşıns",
     "mnemonicHook": "APLİKEŞİNS",
-    "mnemonicScene": "Telefonda çocuk \"APLİKEŞİNS!\" diyerek bütün UYGULAMALARI açıyor. Bu sahne size APPLICATIONS kelimesinin UYGULAMALAR olduğunu hatırlatacaktır."
+    "mnemonicScene": "Telefonda çocuk \"APLİKEŞİNS!\" diyerek bütün UYGULAMALARI açıyor. Bu sahne size APPLICATIONS kelimesinin UYGULAMALAR olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g1170b2cf72bec6c2570bc600263dde8ac0e8c74023578e78fcf5297fbca43f9e656519751ba251bc2f4dd9863f256a46313c947526385e459a870f6241fa865e_640.jpg",
+    "imageSource": "https://pixabay.com/photos/laptop-office-hand-writing-3196481/"
   },
   {
     "english": "Connective",
@@ -1540,7 +1664,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "konnektiv",
     "mnemonicHook": "KONEKTİV",
-    "mnemonicScene": "Elektrikçi \"KONEKTİV!\" diyerek iki kabloyu BAĞLIYOR. Bu sahne size CONNECTIVE kelimesinin BAĞLAYICI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Elektrikçi \"KONEKTİV!\" diyerek iki kabloyu BAĞLIYOR. Bu sahne size CONNECTIVE kelimesinin BAĞLAYICI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ge68c4c5ef7aaa19a0fb8dcf5d9c8bfd9c456463f7f70d0ce227c4e64fd15a54ab21caa294ce82584ba70bd236e28942b1860225a5c6521af36ea662d7df84e6a_640.jpg",
+    "imageSource": "https://pixabay.com/photos/network-globalization-earth-3524352/"
   },
   {
     "english": "Action",
@@ -1563,7 +1689,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "akşın",
     "mnemonicHook": "AKŞIN",
-    "mnemonicScene": "Komutan \"AKŞIN!\" diye bağırıp askerleri HAREKETE geçiriyor. Bu sahne size ACTION kelimesinin HAREKET, AKSİYON olduğunu hatırlatacaktır."
+    "mnemonicScene": "Komutan \"AKŞIN!\" diye bağırıp askerleri HAREKETE geçiriyor. Bu sahne size ACTION kelimesinin HAREKET, AKSİYON olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g1442383f39c66bc63b8b1c60d051f3ead02c839bc5d5ccc48fc6ba2633c0d4fbef77e8f3a1feaf49d49b84fc98be26b3d6225193b5efeb86ec56cf455cee005e_640.jpg",
+    "imageSource": "https://pixabay.com/photos/surfing-sunset-waves-surf-2212948/"
   },
   {
     "english": "According to",
@@ -1586,7 +1714,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "akkording to",
     "mnemonicHook": "AKORDİNG TU",
-    "mnemonicScene": "Turist \"AKORDİNG TU!\" diyerek haritaya GÖRE yol buluyor. Bu sahne size ACCORDING TO kelimesinin GÖRE olduğunu hatırlatacaktır."
+    "mnemonicScene": "Turist \"AKORDİNG TU!\" diyerek haritaya GÖRE yol buluyor. Bu sahne size ACCORDING TO kelimesinin GÖRE olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf7574ec48e2a0e6780d06073abd8dd1ac59019f0a23635ab9c2d4c538edc009111089b17cb81f1c5cdae79b597f7cedcd74a9a10185de1868f9638f451423482_640.png",
+    "imageSource": "https://pixabay.com/photos/acordeon-accordion-nature-gait-10192219/"
   },
   {
     "english": "Describe",
@@ -1655,7 +1785,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "rigging",
     "mnemonicHook": "RİGİNG",
-    "mnemonicScene": "Denizci \"RİGİNG!\" diyerek yelken TEÇHİZATINI tek tek kontrol ediyor. Bu sahne size RIGGING kelimesinin TEÇHİZAT olduğunu hatırlatacaktır."
+    "mnemonicScene": "Denizci \"RİGİNG!\" diyerek yelken TEÇHİZATINI tek tek kontrol ediyor. Bu sahne size RIGGING kelimesinin TEÇHİZAT olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g5c8f1d56494952c3c917452a11344e12167ec2ef4529f1a295c39400c369b0cc90b547a0ff5751fbda2309c46cf1489f_640.jpg",
+    "imageSource": "https://pixabay.com/photos/sunset-ship-sails-boat-sea-ocean-675847/"
   },
   {
     "english": "Adjust",
@@ -1678,7 +1810,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "adcust",
     "mnemonicHook": "ADCAST",
-    "mnemonicScene": "Sürücü \"ADCAST!\" diyerek koltuğu AYARLIYOR, tam rahat olsun diye. Bu sahne size ADJUST kelimesinin AYARLAMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü \"ADCAST!\" diyerek koltuğu AYARLIYOR, tam rahat olsun diye. Bu sahne size ADJUST kelimesinin AYARLAMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gd13f5109e9e777870980884891bc74c27bdb560058cc9b74d3b0fdf515a0f7f9011415af588cb8b152b35052c3f30ca9_640.jpg",
+    "imageSource": "https://pixabay.com/photos/confused-muddled-illogical-880735/"
   },
   {
     "english": "Adjustment",
@@ -1701,7 +1835,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "adcustment",
     "mnemonicHook": "ADCASTMENT",
-    "mnemonicScene": "Mühendis \"ADCASTMENT!\" diyerek makinede küçük bir AYARLAMA yapıyor. Bu sahne size ADJUSTMENT kelimesinin AYARLAMA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Mühendis \"ADCASTMENT!\" diyerek makinede küçük bir AYARLAMA yapıyor. Bu sahne size ADJUSTMENT kelimesinin AYARLAMA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gc172a8a7197b8a8f59208483cf0c1b5c7e503746c3206ad91c10eb819b790d04fdd58f5e2e7beff44276ba0884ff9d6f74478d93ed76e426f42ef724a74dae99_640.jpg",
+    "imageSource": "https://pixabay.com/photos/glasses-optician-ophthalmologist-9864287/"
   },
   {
     "english": "Adjustable",
@@ -1724,7 +1860,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "adcustabl",
     "mnemonicHook": "ADCASTABIL",
-    "mnemonicScene": "Ofis sandalyesi \"ADCASTABIL!\" diye bağırıyor; yüksekliği AYARLANABİLİR. Bu sahne size ADJUSTABLE kelimesinin AYARLANABİLEN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ofis sandalyesi \"ADCASTABIL!\" diye bağırıyor; yüksekliği AYARLANABİLİR. Bu sahne size ADJUSTABLE kelimesinin AYARLANABİLEN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g72711e7e89c2ed337a9df5af367b9a10c78d9839ea8ec9c64b06805eea8235a379e744aac52aa495c665773af0381b89_640.jpg",
+    "imageSource": "https://pixabay.com/photos/confused-muddled-illogical-880735/"
   },
   {
     "english": "Designated",
@@ -1747,7 +1885,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "designated",
     "mnemonicHook": "DEZİGNEYTİD",
-    "mnemonicScene": "Bilet görevlisi \"DEZİGNEYTİD!\" diyerek her yolcuya AYARLANMIŞ bir koltuk gösteriyor. Bu sahne size DESIGNATED kelimesinin AYARLANMIŞ, BELİRLENMİŞ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Bilet görevlisi \"DEZİGNEYTİD!\" diyerek her yolcuya AYARLANMIŞ bir koltuk gösteriyor. Bu sahne size DESIGNATED kelimesinin AYARLANMIŞ, BELİRLENMİŞ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf8d8983141d84142fa76ce4ba989ae02567ba4e6c149424b62cecc2c262f296189d5ed0c4f9ae5e98463f700b2471571e34ea0d4080697224f5999833ccbe659_640.jpg",
+    "imageSource": "https://pixabay.com/photos/water-water-glass-car-key-4042627/"
   },
   {
     "english": "Safety",
@@ -1770,7 +1910,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "safeti",
     "mnemonicHook": "SEYFTİ",
-    "mnemonicScene": "Kaptan \"SEYFTİ!\" diye bağırarak yolcuların GÜVENLİĞİNİ öne alıyor. Bu sahne size SAFETY kelimesinin GÜVENLİK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kaptan \"SEYFTİ!\" diye bağırarak yolcuların GÜVENLİĞİNİ öne alıyor. Bu sahne size SAFETY kelimesinin GÜVENLİK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g486244cf3fc3e1a2d302ee95b58d7faf1bcc25348cd75d8fdc86ccc20b84bebdea6c7bf8b53c2c66fa4e87e27f94eb48f36da3018af36ba32121d9fcfefe6ef8_640.jpg",
+    "imageSource": "https://pixabay.com/photos/hands-childs-hand-hold-holding-1797401/"
   },
   {
     "english": "Scheduled",
@@ -1793,7 +1935,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "sçeduled",
     "mnemonicHook": "SKEDYULD",
-    "mnemonicScene": "Tren şefi \"SKEDYULD!\" diye bağırıp seferin PLANLI saatini duyuruyor. Bu sahne size SCHEDULED kelimesinin PLANLI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tren şefi \"SKEDYULD!\" diye bağırıp seferin PLANLI saatini duyuruyor. Bu sahne size SCHEDULED kelimesinin PLANLI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ga95ea6a731a30338a3cf11005671b09fbc85934ed46ed065112d8565f2d8ca9be6c3423e432c9e2299618640de281a84b0b55d8064629977770b52841aabb688_640.jpg",
+    "imageSource": "https://pixabay.com/photos/calendar-meeting-planning-10045176/"
   },
   {
     "english": "Human",
@@ -1816,7 +1960,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "human",
     "mnemonicHook": "HYUMEN",
-    "mnemonicScene": "Robot \"HYUMEN!\" diyerek bir İNSANIN gelip uçağı kontrol ettiğini görüyor. Bu sahne size HUMAN kelimesinin İNSAN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Robot \"HYUMEN!\" diyerek bir İNSANIN gelip uçağı kontrol ettiğini görüyor. Bu sahne size HUMAN kelimesinin İNSAN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g9d5ceeb588255e51fd271d666a0533c32c7196dc30f2564d2a2953841481aed0134d2a209d958d6b98396a01590b07b8_640.jpg",
+    "imageSource": "https://pixabay.com/photos/hands-world-map-global-earth-600497/"
   },
   {
     "english": "Consideration",
@@ -1839,7 +1985,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "konsideraşın",
     "mnemonicHook": "KONSİDERAŞIN",
-    "mnemonicScene": "Hâkim \"KONSİDERAŞIN!\" diyerek kararını verirken bu ÖNEMLİ noktayı dikkate alıyor. Bu sahne size CONSIDERATION kelimesinin ÖNEM olduğunu hatırlatacaktır."
+    "mnemonicScene": "Hâkim \"KONSİDERAŞIN!\" diyerek kararını verirken bu ÖNEMLİ noktayı dikkate alıyor. Bu sahne size CONSIDERATION kelimesinin ÖNEM olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gff2ac23ec0809f4e2e634f64bc8be67ea1da5254f8ac1a7529dc987b3fb4d651910a669e2bad6712d8938ce7dfae6f5bf8bb71a6b9da6da4425c337cb3938dd3_640.png",
+    "imageSource": "https://pixabay.com/photos/per-contra-on-the-other-hand-2783713/"
   },
   {
     "english": "Level",
@@ -1862,7 +2010,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "level",
     "mnemonicHook": "LEVEL",
-    "mnemonicScene": "Su tesisatçısı \"LEVEL!\" diyerek suyun SEVİYESİNİ ölçüyor. Bu sahne size LEVEL kelimesinin SEVİYE olduğunu hatırlatacaktır."
+    "mnemonicScene": "Su tesisatçısı \"LEVEL!\" diyerek suyun SEVİYESİNİ ölçüyor. Bu sahne size LEVEL kelimesinin SEVİYE olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g5fadf047fbbfb687d321f1b59313693d9dcbb0e1fdb10ad868e9929cb86fbaeb0eba21e69111b4a88eda12dbed32c0d5cf3ef9eca115cd232c35ad9a64c4008f_640.jpg",
+    "imageSource": "https://pixabay.com/photos/underwater-sea-wave-sky-seabed-4286600/"
   },
   {
     "english": "Fuse",
@@ -1885,7 +2035,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fyuz",
     "mnemonicHook": "FYUZ",
-    "mnemonicScene": "Elektrikçi \"FYUZ!\" diyerek kırık SİGORTAYI değiştiriyor, ışık tekrar yanıyor. Bu sahne size FUSE kelimesinin SİGORTA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Elektrikçi \"FYUZ!\" diyerek kırık SİGORTAYI değiştiriyor, ışık tekrar yanıyor. Bu sahne size FUSE kelimesinin SİGORTA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gc8c93dbdb5c2fc72c7802603e6b369bbbff547df73960733869ce78f810fcab2d0085d26da120a0071e77032577c59eab1d2ace2b12d2dca2648ec41910be632_640.jpg",
+    "imageSource": "https://pixabay.com/photos/backup-protection-nh-fuse-2087389/"
   },
   {
     "english": "Circuit-breaker",
@@ -1908,7 +2060,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "sirkuit-briiker",
     "mnemonicHook": "SİRKİT BREYKER",
-    "mnemonicScene": "Elektrikçi \"SİRKİT BREYKER!\" diyerek devrenin ŞALTERİNİ kaldırıp yeniden açıyor. Bu sahne size CIRCUIT-BREAKER kelimesinin DEVRE KESİCİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Elektrikçi \"SİRKİT BREYKER!\" diyerek devrenin ŞALTERİNİ kaldırıp yeniden açıyor. Bu sahne size CIRCUIT-BREAKER kelimesinin DEVRE KESİCİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g4b31ac12a52c2022fdb51a7bd23f690092226a151a28288e9faacf78c1cbd2d133b3c18cfa41c1d117fe664fc71338faf426babb0d3f4cb1ac2b20ecdf3d2a1a_640.jpg",
+    "imageSource": "https://pixabay.com/photos/electrician-electric-electricity-2755683/"
   },
   {
     "english": "Refer",
@@ -1931,7 +2085,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "refer",
     "mnemonicHook": "RİFÖR",
-    "mnemonicScene": "Öğretmen \"RİFÖR!\" diyerek öğrencilere KAYNAK olarak kitabı gösteriyor. Bu sahne size REFER kelimesinin KAYNAK GÖSTERMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Öğretmen \"RİFÖR!\" diyerek öğrencilere KAYNAK olarak kitabı gösteriyor. Bu sahne size REFER kelimesinin KAYNAK GÖSTERMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g0458b51878ca20ae3010f6ebb1e9dc09f16ad641f0d73e47efd30ab7e470a8dc1e37fb0554d4607eb676905056a9f7564cd614c3097481ae4c859816c80282ac_640.jpg",
+    "imageSource": "https://pixabay.com/photos/christmas-background-books-bookstore-1204029/"
   },
   {
     "english": "Visual check",
@@ -1954,7 +2110,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "visual çek",
     "mnemonicHook": "VİZUEL ÇEK",
-    "mnemonicScene": "Doktor \"VİZUEL ÇEK!\" diyerek hastanın gözüne bakıp GÖZLE KONTROL ediyor. Bu sahne size VISUAL CHECK kelimesinin GÖZLE KONTROL olduğunu hatırlatacaktır."
+    "mnemonicScene": "Doktor \"VİZUEL ÇEK!\" diyerek hastanın gözüne bakıp GÖZLE KONTROL ediyor. Bu sahne size VISUAL CHECK kelimesinin GÖZLE KONTROL olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf9af7f596029caefb9b0ed61c2d1ea8a92fb0d990b958df3eef27c98059e98cb482f987883c233d570e7104bcf7dcb2942d2c9e67ee8eae3b14df4baa60af9c1_640.jpg",
+    "imageSource": "https://pixabay.com/photos/receptionists-phone-call-hotel-5975962/"
   },
   {
     "english": "Decompression",
@@ -1977,7 +2135,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "dekomprescın",
     "mnemonicHook": "DEKOMPRESYON",
-    "mnemonicScene": "Dalgıç \"DEKOMPRESYON!\" diyerek yukarı çıkarken BASINCI kademeli olarak düşürüyor. Bu sahne size DECOMPRESSION kelimesinin BASINCSIZLAŞTIRMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Dalgıç \"DEKOMPRESYON!\" diyerek yukarı çıkarken BASINCI kademeli olarak düşürüyor. Bu sahne size DECOMPRESSION kelimesinin BASINCSIZLAŞTIRMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g2ca21ab1ac11f9daeef6c0957461ca32d8803957239a370a343d78dfd1847b27ff46c21e74f9fcae2db69af4e8be0b3e_640.jpg",
+    "imageSource": "https://pixabay.com/photos/sea-ocean-water-diver-diving-79954/"
   },
   {
     "english": "Protect",
@@ -2000,7 +2160,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "protekt",
     "mnemonicHook": "PROTEKT",
-    "mnemonicScene": "Kaynakçı \"PROTEKT!\" diyerek gözlerini KORUMAK için maske takıyor. Bu sahne size PROTECT kelimesinin KORUMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kaynakçı \"PROTEKT!\" diyerek gözlerini KORUMAK için maske takıyor. Bu sahne size PROTECT kelimesinin KORUMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g8dd9ec18244ee93c9ac4e7ac890e64a4d1ee80283b614cf835fe01a1c9328904435058ab485959b60cc2bee9ff7390b1fdb5b401fbeea60d5d56824cc1da99b0_640.jpg",
+    "imageSource": "https://pixabay.com/photos/tasmanian-devil-marsupial-cub-10053576/"
   },
   {
     "english": "Protection",
@@ -2023,7 +2185,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "protekşın",
     "mnemonicHook": "PROTEKŞIN",
-    "mnemonicScene": "Asker \"PROTEKŞIN!\" diye bağırarak zırhını KORUMA için giyiyor. Bu sahne size PROTECTION kelimesinin KORUMA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Asker \"PROTEKŞIN!\" diye bağırarak zırhını KORUMA için giyiyor. Bu sahne size PROTECTION kelimesinin KORUMA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g9eeddcb0ec9d9151cfea6d6e143c564795484c2568d53483dacb934c73f05f7f20b4e5f77d279bddd909c9a20fa94c141a8a6b12dfcf1ec2d88324194f31f9a0_640.jpg",
+    "imageSource": "https://pixabay.com/photos/christmas-wallpaper-man-child-hands-3120717/"
   },
   {
     "english": "Protective",
@@ -2046,7 +2210,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "protektiv",
     "mnemonicHook": "PROTEKTİV",
-    "mnemonicScene": "Arı kovucu \"PROTEKTİV!\" diyerek KORUYUCU kıyafetini giyiyor. Bu sahne size PROTECTIVE kelimesinin KORUYUCU olduğunu hatırlatacaktır."
+    "mnemonicScene": "Arı kovucu \"PROTEKTİV!\" diyerek KORUYUCU kıyafetini giyiyor. Bu sahne size PROTECTIVE kelimesinin KORUYUCU olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf96def991735945a88f3f4a6b5c3d93a91acab7255d4d78604eb630bfd4d4528d443f935a66595d4ffae32de0158f06ddcde143ebc55725740132930502f85b8_640.jpg",
+    "imageSource": "https://pixabay.com/photos/touch-holding-hands-affection-2579147/"
   },
   {
     "english": "Access door",
@@ -2069,7 +2235,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "aksess duur",
     "mnemonicHook": "AKSES DUR",
-    "mnemonicScene": "Güvenlik görevlisi \"AKSES DUR!\" diyerek ERİŞİM KAPISINI açıyor. Bu sahne size ACCESS DOOR kelimesinin ERİŞİM KAPAĞI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Güvenlik görevlisi \"AKSES DUR!\" diyerek ERİŞİM KAPISINI açıyor. Bu sahne size ACCESS DOOR kelimesinin ERİŞİM KAPAĞI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g2ada015620dae78c55b8b0ebd659eb73077931552147d84013ae0a2bd561b7586bafd035678307d448995eaa415908a9_640.jpg",
+    "imageSource": "https://pixabay.com/photos/keys-open-locks-security-unlock-525732/"
   },
   {
     "english": "Set-up",
@@ -2092,7 +2260,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "set-up",
     "mnemonicHook": "SET AP",
-    "mnemonicScene": "Teknisyen \"SET AP!\" diyerek makinenin KURULUMUNU hazırlıyor. Bu sahne size SET-UP kelimesinin KURULUM, HAZIRLAMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Teknisyen \"SET AP!\" diyerek makinenin KURULUMUNU hazırlıyor. Bu sahne size SET-UP kelimesinin KURULUM, HAZIRLAMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gc389094095a69aac26f5a5a4ffb64515f834903453c1dfed0e3ad3f449d934b24dcb0a7a29d4120a0d891c70a5f6e769f1e622c836868ad1d54adb4a05c8def8_640.jpg",
+    "imageSource": "https://pixabay.com/photos/interior-design-home-office-8922413/"
   },
   {
     "english": "Configuration",
@@ -2115,7 +2285,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "konfiguraşın",
     "mnemonicHook": "KONFİGÜREYŞIN",
-    "mnemonicScene": "Bilgisayar uzmanı \"KONFİGÜREYŞIN!\" diyerek sistemin AYARLARINI sıralıyor. Bu sahne size CONFIGURATION kelimesinin KONFİGÜRASYON olduğunu hatırlatacaktır."
+    "mnemonicScene": "Bilgisayar uzmanı \"KONFİGÜREYŞIN!\" diyerek sistemin AYARLARINI sıralıyor. Bu sahne size CONFIGURATION kelimesinin KONFİGÜRASYON olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g592c004facce7da60a9877d74a54d95d4dd5cd21a7ae1c0a7fb67464c08c96ffd098ca88591833d55e956f0b61b063eb3e0df75755136fa2d541d9b89fe17b33_640.jpg",
+    "imageSource": "https://pixabay.com/photos/sports-work-out-active-fitness-1014058/"
   },
   {
     "english": "Gauge",
@@ -2138,7 +2310,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "geyc",
     "mnemonicHook": "GEYC",
-    "mnemonicScene": "Tesisatçı \"GEYC!\" diyerek kalibreyi KALİBRE edip ölçüm yapıyor. Bu sahne size GAUGE kelimesinin KALİBRE olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tesisatçı \"GEYC!\" diyerek kalibreyi KALİBRE edip ölçüm yapıyor. Bu sahne size GAUGE kelimesinin KALİBRE olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g5db251330ac1fa54ac5ccdcb28048871a72ed1515c47a33645744e678ba80573ad4dfa0d555c65910722d10957659cd9341bfd3170dcc2fedb754e6fe064fc2f_640.jpg",
+    "imageSource": "https://pixabay.com/photos/car-dashboard-speedometer-speed-2667434/"
   },
   {
     "english": "Portable",
@@ -2161,7 +2335,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "portabl",
     "mnemonicHook": "PORTABL",
-    "mnemonicScene": "Gezgin \"PORTABL!\" diyerek sırtındaki radyoyu TAŞIYOR. Bu sahne size PORTABLE kelimesinin TAŞINABİLİR olduğunu hatırlatacaktır."
+    "mnemonicScene": "Gezgin \"PORTABL!\" diyerek sırtındaki radyoyu TAŞIYOR. Bu sahne size PORTABLE kelimesinin TAŞINABİLİR olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gfeece1d372b937046fe2c2e52365021142a868a8c8a123ec1c5d2ae9fadf4fc67f11887fc08093a282eaa25171b413c0_640.jpg",
+    "imageSource": "https://pixabay.com/photos/hands-ipad-tablet-technology-820272/"
   },
   {
     "english": "Make sure",
@@ -2184,7 +2360,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "mak sur",
     "mnemonicHook": "MEYK ŞÜR",
-    "mnemonicScene": "Ev sahibi \"MEYK ŞÜR!\" diyerek kapının kapalı olduğundan EMİN oluyor. Bu sahne size MAKE SURE kelimesinin EMİN OLMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ev sahibi \"MEYK ŞÜR!\" diyerek kapının kapalı olduğundan EMİN oluyor. Bu sahne size MAKE SURE kelimesinin EMİN OLMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g075f01d03434e7120b4474c69dff8d06a71d5a08cf97fdc630b1f3aa608f0ace4ee74d5e9957a9c05b03b04ccc86e8456951d6a593210e1a3737d368671baef0_640.jpg",
+    "imageSource": "https://pixabay.com/photos/make-the-day-great-letterbox-4166221/"
   },
   {
     "english": "Obey",
@@ -2230,7 +2408,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "manufakçırr",
     "mnemonicHook": "MENYUFAKÇIRR",
-    "mnemonicScene": "Fabrikatör \"MENYUFAKÇIRR!\" diyerek bu parçayı ÜRETİCİ olarak imzalıyor. Bu sahne size MANUFACTURER kelimesinin ÜRETİCİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Fabrikatör \"MENYUFAKÇIRR!\" diyerek bu parçayı ÜRETİCİ olarak imzalıyor. Bu sahne size MANUFACTURER kelimesinin ÜRETİCİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g7de7e5b6287f6f3b18803e9c8b0dff68e83579c441e5bf09f2d4a0715a123b1ad00beb5623dda645fe72bacc59bd6564a2b396b75e358be35eb490c2c0defa84_640.jpg",
+    "imageSource": "https://pixabay.com/photos/eiffel-tower-1166185/"
   },
   {
     "english": "National",
@@ -2253,7 +2433,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "naşınal",
     "mnemonicHook": "NAŞINAL",
-    "mnemonicScene": "Spiker \"NAŞINAL!\" diye bağırarak herkesi MİLLİYET bayrağına davet ediyor. Bu sahne size NATIONAL kelimesinin MİLLİ, ULUSAL olduğunu hatırlatacaktır."
+    "mnemonicScene": "Spiker \"NAŞINAL!\" diye bağırarak herkesi MİLLİYET bayrağına davet ediyor. Bu sahne size NATIONAL kelimesinin MİLLİ, ULUSAL olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g118afcd1d42c963a0b7b090421e5bed0a1353268ee3fed51058ab4eed2748f11ba311526974287a0896ab3e86e7dea46_640.jpg",
+    "imageSource": "https://pixabay.com/photos/sandstone-landmark-natural-arch-4625/"
   },
   {
     "english": "Risky",
@@ -2276,7 +2458,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "riski",
     "mnemonicHook": "RİSKİ",
-    "mnemonicScene": "Dağcı \"RİSKİ!\" diyerek uçurumun kenarında RİSKLİ bir yürüyüşe başlıyor. Bu sahne size RISKY kelimesinin RİSKLİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Dağcı \"RİSKİ!\" diyerek uçurumun kenarında RİSKLİ bir yürüyüşe başlıyor. Bu sahne size RISKY kelimesinin RİSKLİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gb69c22e75eb99e7a9b1f270a0df07d6d1a89cad8c3c473725d3bb382a1841bd14728911914d25c8be0da57365aa4612cf205c1ef2cf1c54cc146383e329a6900_640.jpg",
+    "imageSource": "https://pixabay.com/photos/scorpion-portrait-horoscope-5325418/"
   },
   {
     "english": "Move, carry",
@@ -2299,7 +2483,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "move, karri",
     "mnemonicHook": "MUV KARRİ",
-    "mnemonicScene": "İşçi \"MUV KARRİ!\" diyerek kutuyu masaya HAREKET ETTİRİP TAŞIYOR. Bu sahne size MOVE, CARRY kelimelerinin HAREKET ETTİRMEK, TAŞIMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "İşçi \"MUV KARRİ!\" diyerek kutuyu masaya HAREKET ETTİRİP TAŞIYOR. Bu sahne size MOVE, CARRY kelimelerinin HAREKET ETTİRMEK, TAŞIMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g862b2d49655b1e5cc6c08bf307602ff9c0bd84ac6b63f7d95632def341265a820c24405941d3961ff3f10e8468b092b65a1ae9c1079ea6728b3a75017231a518_640.jpg",
+    "imageSource": "https://pixabay.com/photos/strategy-chess-board-game-1080527/"
   },
   {
     "english": "Equipment",
@@ -2322,7 +2508,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "ekuipment",
     "mnemonicHook": "EKVİPMENT",
-    "mnemonicScene": "Asker sırtına EKİPMAN çantasını takıp \"EKVİPMENT!\" diye bağırıyor. Bu sahne size EQUIPMENT kelimesinin EKİPMAN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Asker sırtına EKİPMAN çantasını takıp \"EKVİPMENT!\" diye bağırıyor. Bu sahne size EQUIPMENT kelimesinin EKİPMAN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gbe5709667f5cd8c71311de4f2753a1d3cd71e7bc266ce0069649ea12ba979ba0c0daeec665f1e15922d986a8490b8c80aefe7f93ff082f92a0406c8c1ce5e5ad_640.jpg",
+    "imageSource": "https://pixabay.com/photos/brushes-painter-work-shop-bowl-3129361/"
   },
   {
     "english": "Store, warehouse",
@@ -2345,7 +2533,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "store, varehous",
     "mnemonicHook": "STOR",
-    "mnemonicScene": "Market sahibi \"STOR!\" diyerek malları DEPOLUYOR, raflar dolu. Bu sahne size STORE kelimesinin DEPOLAMAK, DEPO olduğunu hatırlatacaktır."
+    "mnemonicScene": "Market sahibi \"STOR!\" diyerek malları DEPOLUYOR, raflar dolu. Bu sahne size STORE kelimesinin DEPOLAMAK, DEPO olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g8b5b6b75c25a486c97be70ed51a868f87e5434ce55ae4f55eb0d1d6217e44334467f0eb02604c3a3de8f6e5a400dc2b7d7e41add0984ec4e47cfa2fa24ca36ca_640.jpg",
+    "imageSource": "https://pixabay.com/photos/woman-dj-music-headphones-jeans-10453367/"
   },
   {
     "english": "Breathing, oxygen",
@@ -2368,7 +2558,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "briiting, oksygen",
     "mnemonicHook": "BRİİTİNG",
-    "mnemonicScene": "Dalgıç \"BRİİTİNG!\" diyerek tüpten OKSİJEN çekip SOLUNUM yapıyor. Bu sahne size BREATHING kelimesinin SOLUNUM olduğunu hatırlatacaktır."
+    "mnemonicScene": "Dalgıç \"BRİİTİNG!\" diyerek tüpten OKSİJEN çekip SOLUNUM yapıyor. Bu sahne size BREATHING kelimesinin SOLUNUM olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gef8f9815f081fa68dd7287b34ca43b0b25fdcd2fdd3d14580b08aa95316976bf37ecd83c3b2a6a6c4bc9cff83a19ad184ff46384517b6eabb907ce66455846ec_640.jpg",
+    "imageSource": "https://pixabay.com/photos/woman-yoga-meditation-mindfulness-3053492/"
   },
   {
     "english": "Repair",
@@ -2391,7 +2583,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "ripeyr",
     "mnemonicHook": "RİPEYR",
-    "mnemonicScene": "Tamirci \"RİPEYR!\" diye bağırıp motoru TAMİR EDİYOR. Bu sahne size REPAIR kelimesinin TAMİR ETMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tamirci \"RİPEYR!\" diye bağırıp motoru TAMİR EDİYOR. Bu sahne size REPAIR kelimesinin TAMİR ETMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g39c3afc977d482d4befbd5fb313a2bcd7c8b5b14b7db791c0a65d2554eff40e52e3cbd845949654d890703af198fc7d60a56b991908f4d68ce5d728543cb7ba6_640.jpg",
+    "imageSource": "https://pixabay.com/photos/welding-wheel-repair-metalworking-8445458/"
   },
   {
     "english": "Repaired",
@@ -2414,7 +2608,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "repaired",
     "mnemonicHook": "RİPEYRD",
-    "mnemonicScene": "Kaptan kanadın \"RİPEYRD!\" diyerek TAMİR EDİLDİĞİNİ anons ediyor. Bu sahne size REPAIRED kelimesinin TAMİR EDİLMİŞ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kaptan kanadın \"RİPEYRD!\" diyerek TAMİR EDİLDİĞİNİ anons ediyor. Bu sahne size REPAIRED kelimesinin TAMİR EDİLMİŞ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g2c79945b0a5300deaf16488d1c9387f3168502a68003fad34dbeba54e2207280e7c075e682fdd4aa685646174235d447c2cf47b17128c6022f0df3b3abf18368_640.jpg",
+    "imageSource": "https://pixabay.com/photos/welding-wheel-repair-metalworking-8445458/"
   },
   {
     "english": "Requirement, need",
@@ -2437,7 +2633,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "rekuirement, niid",
     "mnemonicHook": "RİKVAYRMENT",
-    "mnemonicScene": "Müdür \"RİKVAYRMENT!\" diyerek herkesin GEREKLİLİĞİ yerine getirmesini istiyor. Bu sahne size REQUIREMENT kelimesinin GEREKLİLİK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Müdür \"RİKVAYRMENT!\" diyerek herkesin GEREKLİLİĞİ yerine getirmesini istiyor. Bu sahne size REQUIREMENT kelimesinin GEREKLİLİK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g2f33f5835bb2432ad96a3ef8a451515fb93ed98bafdf8585e204240e51d5221129c3e4e113cb0dd85b046c6d2bd91062a32ce576e67952fdc6b9c8815dde8d84_640.jpg",
+    "imageSource": "https://pixabay.com/photos/office-employees-prerequisite-4249391/"
   },
   {
     "english": "Ground services",
@@ -2460,7 +2658,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "ground servises",
     "mnemonicHook": "GRAUND SÖRVİSES",
-    "mnemonicScene": "Havaalanı görevlisi \"GRAUND SÖRVİSES!\" diyerek YER HİZMETLERİNİ başlatıyor. Bu sahne size GROUND SERVICES kelimesinin YER HİZMETLERİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Havaalanı görevlisi \"GRAUND SÖRVİSES!\" diyerek YER HİZMETLERİNİ başlatıyor. Bu sahne size GROUND SERVICES kelimesinin YER HİZMETLERİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gfe8afe334787f8dfd88797d97101aa05ab6840a8151b049051430cab57474b2884685c7445dcc1102724c93c9653257fc6bb8ce12df43d5c83c1cdd76a785431_640.jpg",
+    "imageSource": "https://pixabay.com/photos/airplane-runway-airport-tarmac-4974678/"
   },
   {
     "english": "Network",
@@ -2483,7 +2683,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "netvork",
     "mnemonicHook": "NETVÖRK",
-    "mnemonicScene": "Teknisyen \"NETVÖRK!\" diyerek kabloları birbirine bağlayıp AĞ kuruyor. Bu sahne size NETWORK kelimesinin AĞ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Teknisyen \"NETVÖRK!\" diyerek kabloları birbirine bağlayıp AĞ kuruyor. Bu sahne size NETWORK kelimesinin AĞ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g9067df5ebcebcaec5fa72b21b66499632d466ae7f2827fccb55993fc5bd1f95c49e8bccac77664cb7c4dbed0126d0e99_640.jpg",
+    "imageSource": "https://pixabay.com/photos/media-social-media-apps-998990/"
   },
   {
     "english": "Energize",
@@ -2506,7 +2708,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "energiz",
     "mnemonicHook": "ENERCAYZ",
-    "mnemonicScene": "Elektrikçi \"ENERCAYZ!\" diyerek devreye ENERJİ VERİYOR, ışıklar yanıyor. Bu sahne size ENERGIZE kelimesinin ENERJİ VERMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Elektrikçi \"ENERCAYZ!\" diyerek devreye ENERJİ VERİYOR, ışıklar yanıyor. Bu sahne size ENERGIZE kelimesinin ENERJİ VERMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g4c9c7d542d402777c58c79d53eacd75f3980dd8beb44b8a19984e11d3b2e525b649da09bd4e2a82239f94471c5b15ce014a4ed549a6d6c67bf8fe61fa82d7835_640.jpg",
+    "imageSource": "https://pixabay.com/photos/coffee-cup-drink-cafe-mug-beans-9858728/"
   },
   {
     "english": "Show",
@@ -2529,7 +2733,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "şov",
     "mnemonicHook": "ŞOV",
-    "mnemonicScene": "Sunucu sahneye çıkıp \"ŞOV!\" diyerek yolu GÖSTERİYOR. Bu sahne size SHOW kelimesinin GÖSTERMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sunucu sahneye çıkıp \"ŞOV!\" diyerek yolu GÖSTERİYOR. Bu sahne size SHOW kelimesinin GÖSTERMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g41feaabc780cb78205630f425b38e2df70fe1f45067b81116847ff92f2852e86e586da252f295488dca7203b780c8328de742f42a67e2753878e457c4c8afb06_640.jpg",
+    "imageSource": "https://pixabay.com/photos/concert-confetti-party-event-club-2527495/"
   },
   {
     "english": "Indicator",
@@ -2552,7 +2758,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "indikator",
     "mnemonicHook": "İNDİKEYTOR",
-    "mnemonicScene": "Araba sürücüsü \"İNDİKEYTOR!\" diyerek GÖSTERGE lambasının yandığını fark ediyor. Bu sahne size INDICATOR kelimesinin GÖSTERGE olduğunu hatırlatacaktır."
+    "mnemonicScene": "Araba sürücüsü \"İNDİKEYTOR!\" diyerek GÖSTERGE lambasının yandığını fark ediyor. Bu sahne size INDICATOR kelimesinin GÖSTERGE olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf1445db00de6ed814be46c128a19f68916ae693ddbeb6b8098d28baaa12ba6b1e8ae172bd5fe536f87bbb73a5d92a8a09fed1680584204f14b4b8f2f61573d7b_640.jpg",
+    "imageSource": "https://pixabay.com/photos/speedometer-dashboard-car-speed-1249610/"
   },
   {
     "english": "Hold, put",
@@ -2575,7 +2783,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "hold, put",
     "mnemonicHook": "HOLD PUT",
-    "mnemonicScene": "Garson \"HOLD PUT!\" diyerek tepsiyi TUTUP masaya KOYUYOR. Bu sahne size HOLD, PUT kelimelerinin TUTMAK, KOYMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Garson \"HOLD PUT!\" diyerek tepsiyi TUTUP masaya KOYUYOR. Bu sahne size HOLD, PUT kelimelerinin TUTMAK, KOYMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g444adb04da05b352c191f2c0a5b383beeadfcc3a5875755ea5f8f175469b908bae9d6779e867aa5b12ef7929c87337bd56de572ef0d14a171615bea7d2e7a98f_640.jpg",
+    "imageSource": "https://pixabay.com/photos/hand-leather-touch-fingers-leaf-9723837/"
   },
   {
     "english": "Stacking area, stacking space",
@@ -2598,7 +2808,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "staking arii, staking spas",
     "mnemonicHook": "STAKİNG ERİA",
-    "mnemonicScene": "Depocu \"STAKİNG ERİA!\" diyerek kutuları üst üste İSTİF ettiği ALANI gösteriyor. Bu sahne size STACKING AREA kelimesinin İSTİF ALANI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Depocu \"STAKİNG ERİA!\" diyerek kutuları üst üste İSTİF ettiği ALANI gösteriyor. Bu sahne size STACKING AREA kelimesinin İSTİF ALANI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ge4d8e824966d088521ae911537037fbe8126bad523ad3228cc99f2fe72c39b321a94a95f440dbbbf9f03ca6fa30df4bc8f85c8fc30464b73044249943c4cb853_640.jpg",
+    "imageSource": "https://pixabay.com/photos/resin-osterode-tree-trunks-wood-5524095/"
   },
   {
     "english": "De-energize",
@@ -2621,7 +2833,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "de-energiz",
     "mnemonicHook": "Dİ ENERCAYZ",
-    "mnemonicScene": "Teknisyen \"Dİ ENERCAYZ!\" diyerek devrenin ENERJİSİNİ kesip ENERJİSİZ hale getiriyor. Bu sahne size DE-ENERGIZE kelimesinin ENERJİSİZ HALE GETİRMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Teknisyen \"Dİ ENERCAYZ!\" diyerek devrenin ENERJİSİNİ kesip ENERJİSİZ hale getiriyor. Bu sahne size DE-ENERGIZE kelimesinin ENERJİSİZ HALE GETİRMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g9ccf9dd83f65ff30fd69269aadeb8ad17f291bbd326e4cc982af7de5c5f9e21b689726cc112688047eee62aa35f05dd5327345b710ed20102fc17e8fd103d0d7_640.jpg",
+    "imageSource": "https://pixabay.com/photos/spain-andalusia-province-of-cadiz-7346597/"
   },
   {
     "english": "Line",
@@ -2644,7 +2858,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "lin",
     "mnemonicHook": "LAYN",
-    "mnemonicScene": "Ressam \"LAYN!\" diyerek kâğıda düz bir ÇİZGİ çekiyor. Bu sahne size LINE kelimesinin ÇİZGİ, HAT olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ressam \"LAYN!\" diyerek kâğıda düz bir ÇİZGİ çekiyor. Bu sahne size LINE kelimesinin ÇİZGİ, HAT olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g9552a68fc4fcaf1c83408abcde22292d0ee89a7c09a2b6c57ecf3ec25b238ff04d6b88c6d213577a550a22c0f9d00680169e020f372a6694220426b2da28128a_640.jpg",
+    "imageSource": "https://pixabay.com/photos/track-and-field-athletic-field-1867053/"
   },
   {
     "english": "Infection, contamination",
@@ -2667,7 +2883,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "infekşın, kontaminaşın",
     "mnemonicHook": "İNFEKŞIN",
-    "mnemonicScene": "Doktor \"İNFEKŞIN!\" diyerek yaradaki ENFEKSİYONU fark ediyor. Bu sahne size INFECTION kelimesinin ENFEKSİYON olduğunu hatırlatacaktır."
+    "mnemonicScene": "Doktor \"İNFEKŞIN!\" diyerek yaradaki ENFEKSİYONU fark ediyor. Bu sahne size INFECTION kelimesinin ENFEKSİYON olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g827bb712d992cf15358fa0df11f2064d9676fa77dfab6ca47f2f230a5e2008fba18ca9a0cd4ba81d1e6cb8e9c75d069e9cb8bf79b731bc7cda2b72e1109d1218_640.jpg",
+    "imageSource": "https://pixabay.com/photos/bacteria-microbiology-organism-3658992/"
   },
   {
     "english": "Prevent, hinder",
@@ -2690,7 +2908,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "prevent, hinder",
     "mnemonicHook": "PRİVENT",
-    "mnemonicScene": "Anne \"PRİVENT!\" diyerek çocuğun düşmesini ÖNLÜYOR. Bu sahne size PREVENT kelimesinin ÖNLEMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Anne \"PRİVENT!\" diyerek çocuğun düşmesini ÖNLÜYOR. Bu sahne size PREVENT kelimesinin ÖNLEMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g2f018bd2f44638030ec4d93a94cc3eeccba4616c2a85ba123b6d929e0820054745e8d02c6cdced59b711e9cc74f8d8db0d37017474922a306b78229ef39c91a5_640.jpg",
+    "imageSource": "https://pixabay.com/photos/wash-hands-soap-hygiene-clean-4934590/"
   },
   {
     "english": "Crush, pressure, compression",
@@ -2713,7 +2933,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "kruş, pressure, komprescın",
     "mnemonicHook": "KRAŞ",
-    "mnemonicScene": "Dev ağırlık \"KRAŞ!\" diye düşüp kutuyu EZİYOR, baskı altında kalıyor. Bu sahne size CRUSH kelimesinin EZMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Dev ağırlık \"KRAŞ!\" diye düşüp kutuyu EZİYOR, baskı altında kalıyor. Bu sahne size CRUSH kelimesinin EZMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf94bdd467ac0fca241f847fd888954ed24491686e11d3dc1f65ac60f919eac571bebec869864c2592d6b5d4bec366f1c_640.jpg",
+    "imageSource": "https://pixabay.com/photos/hammer-sledgehammer-mallet-tool-682767/"
   },
   {
     "english": "Point",
@@ -2736,7 +2958,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "point",
     "mnemonicHook": "POYNT",
-    "mnemonicScene": "Kaptan haritaya \"POYNT!\" diyerek bir NOKTA koyuyor. Bu sahne size POINT kelimesinin NOKTA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kaptan haritaya \"POYNT!\" diyerek bir NOKTA koyuyor. Bu sahne size POINT kelimesinin NOKTA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g0b13c548c7c0cb474fd81094bc6928748a3bd48a062cf1db9d6f316cae2f3766708e296e2209cce75fc2bf91ae29891ec3a699724a0b6244979a3c6dda322f45_640.jpg",
+    "imageSource": "https://pixabay.com/photos/old-point-loma-lighthouse-lighthouse-5454155/"
   },
   {
     "english": "Gear, shift, change",
@@ -2759,7 +2983,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "giir, şift, çang",
     "mnemonicHook": "GİR ŞİFT",
-    "mnemonicScene": "Sürücü \"GİR ŞİFT!\" diyerek VİTESİ değiştiriyor. Bu sahne size GEAR, SHIFT kelimelerinin VİTES, DEĞİŞTİRMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü \"GİR ŞİFT!\" diyerek VİTESİ değiştiriyor. Bu sahne size GEAR, SHIFT kelimelerinin VİTES, DEĞİŞTİRMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g33d5a7034115fec671b9abe491e5d441103d67404295835f50b94d3ceffc4f239ea8b6f6003b9c42c65812ea21fb5cbd_640.jpg",
+    "imageSource": "https://pixabay.com/photos/gear-mechanics-bikes-transmission-408364/"
   },
   {
     "english": "Hammer, clamp",
@@ -2782,7 +3008,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "hammer, klamp",
     "mnemonicHook": "HAMER KLEMP",
-    "mnemonicScene": "Marangoz \"HAMER KLEMP!\" diyerek TOKMAĞI vurup KELEPÇEYİ sıkıyor. Bu sahne size HAMMER, CLAMP kelimelerinin TOKMAK, KELEPÇE olduğunu hatırlatacaktır."
+    "mnemonicScene": "Marangoz \"HAMER KLEMP!\" diyerek TOKMAĞI vurup KELEPÇEYİ sıkıyor. Bu sahne size HAMMER, CLAMP kelimelerinin TOKMAK, KELEPÇE olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g43cced9dd1651400ba1d5e325e1d23b5ebca1312b4de7e66e6cb14f58136a51577c7d91bf5e1def8eceed4ff5b746175_640.jpg",
+    "imageSource": "https://pixabay.com/photos/tools-construct-craft-repair-864983/"
   },
   {
     "english": "Seal, gasket",
@@ -2805,7 +3033,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "siil, gasket",
     "mnemonicHook": "SİİL GASKET",
-    "mnemonicScene": "Tamirci \"SİİL GASKET!\" diyerek eski MÜHÜRÜ ve CONTAYI değiştiriyor. Bu sahne size SEAL, GASKET kelimelerinin MÜHÜR, CONTA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tamirci \"SİİL GASKET!\" diyerek eski MÜHÜRÜ ve CONTAYI değiştiriyor. Bu sahne size SEAL, GASKET kelimelerinin MÜHÜR, CONTA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g364e2a18e63cfff918156639b19dfd08a847068dcb4ae98aaea9b722f4fbe987106a8919c39bd6da849d4bf13bd399f4f05f50b587f98fcffbfa029bb770ccb3_640.jpg",
+    "imageSource": "https://pixabay.com/photos/seal-animal-sleep-coast-4923333/"
   },
   {
     "english": "Broken",
@@ -2828,7 +3058,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "broken",
     "mnemonicHook": "BROKEN",
-    "mnemonicScene": "Çocuk top atınca pencere \"BROKEN!\" diye bağırıp KIRILIYOR. Bu sahne size BROKEN kelimesinin KIRILMIŞ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Çocuk top atınca pencere \"BROKEN!\" diye bağırıp KIRILIYOR. Bu sahne size BROKEN kelimesinin KIRILMIŞ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g229b344d03339ecd42b7f1550107d0bdcf67c25fb6c25e2fe8319df86b2c4b52efbe26f684aa813d2216fbe4bcf2b312_640.jpg",
+    "imageSource": "https://pixabay.com/photos/environmental-protection-326923/"
   },
   {
     "english": "Part",
@@ -2851,7 +3083,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "part",
     "mnemonicHook": "PART",
-    "mnemonicScene": "Oyuncu \"PART!\" diyerek yapbozun eksik PARÇASINI buluyor. Bu sahne size PART kelimesinin PARÇA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Oyuncu \"PART!\" diyerek yapbozun eksik PARÇASINI buluyor. Bu sahne size PART kelimesinin PARÇA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g261fa0120a8dd09f589295f8c71990d1f1bf29210ac74bb60e113e8917f880b0c9ceb052fcef927724cb78258150957d8d3235a13fa815791544292f1de002b1_640.jpg",
+    "imageSource": "https://pixabay.com/photos/macro-cogwheel-gear-engine-vintage-1452987/"
   },
   {
     "english": "Box",
@@ -2874,7 +3108,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "boks",
     "mnemonicHook": "BOKS",
-    "mnemonicScene": "Kargocu \"BOKS!\" diyerek her şeyi KUTUYA koyuyor. Bu sahne size BOX kelimesinin KUTU olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kargocu \"BOKS!\" diyerek her şeyi KUTUYA koyuyor. Bu sahne size BOX kelimesinin KUTU olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g49acf88008d58cad2a241864fc332c8dca45345d16c20b93fa2f5d3a96fbc77b98bc3eba6bbec5b7843d62bcf87b6f98df20f0ea5495497bbb48d4149dc224f1_640.jpg",
+    "imageSource": "https://pixabay.com/photos/gift-present-wood-package-gift-box-1420830/"
   },
   {
     "english": "Signs",
@@ -2897,7 +3133,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "signs",
     "mnemonicHook": "SAYNZ",
-    "mnemonicScene": "Yolcu \"SAYNZ!\" diyerek kapıya giden İŞARETLERİ takip ediyor. Bu sahne size SIGNS kelimesinin İŞARETLER olduğunu hatırlatacaktır."
+    "mnemonicScene": "Yolcu \"SAYNZ!\" diyerek kapıya giden İŞARETLERİ takip ediyor. Bu sahne size SIGNS kelimesinin İŞARETLER olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g5ddd2cb99dbf1f0ff715326d4da392a07d5a7896c0099e62dfd3bd2fbc03244ee7bcc695514630f3d2c1f3d4ab0b09bc_640.jpg",
+    "imageSource": "https://pixabay.com/photos/stop-sign-traffic-sign-road-sign-634941/"
   },
   {
     "english": "Socket, effect",
@@ -2920,7 +3158,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "soket, effekt",
     "mnemonicHook": "SOKET",
-    "mnemonicScene": "Elektrikçi \"SOKET!\" diyerek fişi PRİZE sokuyor, lamba ETKİSİYLE yanıyor. Bu sahne size SOCKET kelimesinin PRİZ, SOKET; EFFECT kelimesinin ETKİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Elektrikçi \"SOKET!\" diyerek fişi PRİZE sokuyor, lamba ETKİSİYLE yanıyor. Bu sahne size SOCKET kelimesinin PRİZ, SOKET; EFFECT kelimesinin ETKİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g193b5e83370539cf822e6e2d8dc90c7fa90ef5ce3e60d0f9b95a7f85107c294fdb4bde91856ca3d88e1c17003e239ab14113735ce25280aee4ca06a83ca7093e_640.jpg",
+    "imageSource": "https://pixabay.com/photos/lightbulb-idea-creativity-base-3104355/"
   },
   {
     "english": "Pit, dent",
@@ -2943,7 +3183,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "pit, dent",
     "mnemonicHook": "PİT",
-    "mnemonicScene": "Sürücü \"PİT!\" diye bağırıp yoldaki ÇUKURA düşüyor. Bu sahne size PIT kelimesinin ÇUKUR olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü \"PİT!\" diye bağırıp yoldaki ÇUKURA düşüyor. Bu sahne size PIT kelimesinin ÇUKUR olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g5e5a5c9fb58ce395e001d793d402803db7824d49b36560bbbf0c807b903a3010aa548d75ad6291f251675260104bdedb4466a9766007205e688dfa36242efc32_640.jpg",
+    "imageSource": "https://pixabay.com/photos/avocado-halves-cross-section-seed-2115922/"
   },
   {
     "english": "Situation, condition",
@@ -2966,7 +3208,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "situaşın, kondişın",
     "mnemonicHook": "SİTYUEYŞIN",
-    "mnemonicScene": "Spiker \"SİTYUEYŞIN!\" diyerek DURUMU ve koşulları açıklıyor. Bu sahne size SITUATION kelimesinin DURUM olduğunu hatırlatacaktır."
+    "mnemonicScene": "Spiker \"SİTYUEYŞIN!\" diyerek DURUMU ve koşulları açıklıyor. Bu sahne size SITUATION kelimesinin DURUM olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g1b6fbfe60195a7eaac64fd5193b68f65881728672f30d462f7e09f2d1a6f929a03ba8877519720b5c20200583befe7f9bd060ca79ef4e7c7b90f56adec5f6501_640.jpg",
+    "imageSource": "https://pixabay.com/photos/argument-toy-do-not-share-kids-5189257/"
   },
   {
     "english": "Also, besides",
@@ -3012,7 +3256,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "kover",
     "mnemonicHook": "KOVER",
-    "mnemonicScene": "Aşçı \"KOVER!\" diyerek tencerenin KAPAĞINI kapatıyor. Bu sahne size COVER kelimesinin KAPAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Aşçı \"KOVER!\" diyerek tencerenin KAPAĞINI kapatıyor. Bu sahne size COVER kelimesinin KAPAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gc9724147832d56f17425ea817ad14c84c65c781f09a9d41b09da9c904f38d4891b438aa31042cb05bd40366e5c46c3aa1099020266d682bff4e4d0d01cbf55bb_640.jpg",
+    "imageSource": "https://pixabay.com/photos/see-no-evil-hear-no-evil-3444212/"
   },
   {
     "english": "Directly",
@@ -3058,7 +3304,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fasten",
     "mnemonicHook": "FASTEN",
-    "mnemonicScene": "Pilot \"FASTEN!\" diyerek yolcuların kemerini BAĞLAMASINI istiyor. Bu sahne size FASTEN kelimesinin BAĞLAMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Pilot \"FASTEN!\" diyerek yolcuların kemerini BAĞLAMASINI istiyor. Bu sahne size FASTEN kelimesinin BAĞLAMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g574e9ee3d005da77245c8cb0cb56e582063a65be4f75647fdbec84c54fe647783c12f0f2ed6215b8f6df31c24663f6ff1c76bb6e31a41ad4486d588984593beb_640.jpg",
+    "imageSource": "https://pixabay.com/photos/tracks-steel-rails-journey-travel-8613278/"
   },
   {
     "english": "Device",
@@ -3081,7 +3329,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "devis",
     "mnemonicHook": "DEVİS",
-    "mnemonicScene": "Bilim insanı \"DEVİS!\" diyerek küçük bir CİHAZI gösteriyor. Bu sahne size DEVICE kelimesinin CİHAZ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Bilim insanı \"DEVİS!\" diyerek küçük bir CİHAZI gösteriyor. Bu sahne size DEVICE kelimesinin CİHAZ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g47a4f84436f0a93fa6c38c2db40f1c9ca7362e22f39f18389183dda6d873174eac3858491f3583e16dbb7bb1b9c5a594156d103370c135622e992c9dde3a46fc_640.jpg",
+    "imageSource": "https://pixabay.com/photos/hearing-aid-device-tool-macro-6797470/"
   },
   {
     "english": "Modified",
@@ -3104,7 +3354,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "modified",
     "mnemonicHook": "MODİFAYD",
-    "mnemonicScene": "Tamirci \"MODİFAYD!\" diyerek motoru DEĞİŞTİRİYOR, parçaları yenisiyle değiştiriyor. Bu sahne size MODIFIED kelimesinin DEĞİŞTİRİLMİŞ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tamirci \"MODİFAYD!\" diyerek motoru DEĞİŞTİRİYOR, parçaları yenisiyle değiştiriyor. Bu sahne size MODIFIED kelimesinin DEĞİŞTİRİLMİŞ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g95f713cac514d51091af47abba14b7933c4a2279a3335f1b7e810457cb651f93b15919796d09174066bbdf6efc38ed1c3409fbe4065b97ae7a508eb0eefa7717_640.jpg",
+    "imageSource": "https://pixabay.com/photos/jeep-urban-streets-day-sunset-7853620/"
   },
   {
     "english": "Location, area",
@@ -3127,7 +3379,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "lokaşın, arii",
     "mnemonicHook": "LOKEYŞIN",
-    "mnemonicScene": "Turist haritaya bakıp \"LOKEYŞIN nerede?\" diye soruyor; BÖLGEYİ arıyor. Bu sahne size LOCATION kelimesinin KONUM, BÖLGE olduğunu hatırlatacaktır."
+    "mnemonicScene": "Turist haritaya bakıp \"LOKEYŞIN nerede?\" diye soruyor; BÖLGEYİ arıyor. Bu sahne size LOCATION kelimesinin KONUM, BÖLGE olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g876b67f8ac8b8502bae8528527481c984662c0be20c035a576aa6425e01bcc1ff4ac090c9b9b0f36099900589f45978be08a192fed141c62a6d2ec0e199f9fc1_640.jpg",
+    "imageSource": "https://pixabay.com/photos/travel-pinned-pinning-maps-atlas-2650303/"
   },
   {
     "english": "Special",
@@ -3150,7 +3404,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "spesial",
     "mnemonicHook": "SPESİAL",
-    "mnemonicScene": "Gösteri sunucusu \"SPESİAL!\" diye bağırıp ÖZEL bir alet tanıtıyor. Bu sahne size SPECIAL kelimesinin ÖZEL olduğunu hatırlatacaktır."
+    "mnemonicScene": "Gösteri sunucusu \"SPESİAL!\" diye bağırıp ÖZEL bir alet tanıtıyor. Bu sahne size SPECIAL kelimesinin ÖZEL olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gc0c4897df5a447085ad600edcb1bfb6df0f8d70b3c0ce9031287a4befaebc97f0c46910a614f7460898b4ef48dc657c6182aa361efcc573a3ebd25f3c13642b2_640.jpg",
+    "imageSource": "https://pixabay.com/photos/menu-restaurant-food-cafe-lunch-8222235/"
   },
   {
     "english": "Chemical",
@@ -3173,7 +3429,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "çemikal",
     "mnemonicHook": "KEMİKAL",
-    "mnemonicScene": "Kimyager \"KEMİKAL!\" diyerek KİMYASAL dolu şişeyi kaldırıyor. Bu sahne size CHEMICAL kelimesinin KİMYASAL olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kimyager \"KEMİKAL!\" diyerek KİMYASAL dolu şişeyi kaldırıyor. Bu sahne size CHEMICAL kelimesinin KİMYASAL olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gd1f01a5f239ad54c6af198fd52edc34328411d80d0b713def1f84015e25a0cda7c4402d38422fd1642a8271f00cd37f7c769ab131dabf9e133c68c556c5e2c1e_640.jpg",
+    "imageSource": "https://pixabay.com/photos/laboratory-analysis-chemistry-2815641/"
   },
   {
     "english": "Box, container",
@@ -3196,7 +3454,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "boks, kontainer",
     "mnemonicHook": "KONTEYNIR",
-    "mnemonicScene": "Liman işçisi \"KONTEYNIR!\" diyerek dev bir KONTEYNERİ vinçle kaldırıyor. Bu sahne size CONTAINER kelimesinin KONTEYNER olduğunu hatırlatacaktır."
+    "mnemonicScene": "Liman işçisi \"KONTEYNIR!\" diyerek dev bir KONTEYNERİ vinçle kaldırıyor. Bu sahne size CONTAINER kelimesinin KONTEYNER olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g49acf88008d58cad2a241864fc332c8dca45345d16c20b93fa2f5d3a96fbc77b98bc3eba6bbec5b7843d62bcf87b6f98df20f0ea5495497bbb48d4149dc224f1_640.jpg",
+    "imageSource": "https://pixabay.com/photos/gift-present-wood-package-gift-box-1420830/"
   },
   {
     "english": "Oxygen mask",
@@ -3219,7 +3479,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "oksygen mask",
     "mnemonicHook": "OKSİJEN MASK",
-    "mnemonicScene": "Uçak görevlisi \"OKSİJEN MASK!\" diyerek yolcuların OKSİJEN MASKESİNİ düşürüyor. Bu sahne size OXYGEN MASK kelimesinin OKSİJEN MASKESİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Uçak görevlisi \"OKSİJEN MASK!\" diyerek yolcuların OKSİJEN MASKESİNİ düşürüyor. Bu sahne size OXYGEN MASK kelimesinin OKSİJEN MASKESİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g44a729d348c7889be6d5840fef0522fca4e349db503c70cc8ba35b245663628ba6eac6e07c7c799ceea6c646ae92f2863361e0a145bc4e3f775a4594e61d5c3a_640.jpg",
+    "imageSource": "https://pixabay.com/photos/harvard-pilot-adjusting-oxygen-mask-9478129/"
   },
   {
     "english": "Inspect, check, control",
@@ -3242,7 +3504,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "inspekt, çek, kontrol",
     "mnemonicHook": "İNSPEKT",
-    "mnemonicScene": "Müfettiş \"İNSPEKT!\" diyerek kanadı dikkatle KONTROL EDİYOR. Bu sahne size INSPECT kelimesinin KONTROL ETMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Müfettiş \"İNSPEKT!\" diyerek kanadı dikkatle KONTROL EDİYOR. Bu sahne size INSPECT kelimesinin KONTROL ETMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g4e6edab53e83b1ed765282f00c495fe4dedc5fe9da3d12eac01d5dde9475e711d2ba1f208bdb56bf6b35429ae70ac414b0edff3fb95f12a293e7eed62ed547b7_640.jpg",
+    "imageSource": "https://pixabay.com/photos/technician-solar-panel-factory-10419164/"
   },
   {
     "english": "Smoke hood",
@@ -3265,7 +3529,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "smok huud",
     "mnemonicHook": "SMOK HUUD",
-    "mnemonicScene": "İtfaiyeci \"SMOK HUUD!\" diyerek DUMAN BAŞLIĞINI takıp yangına giriyor. Bu sahne size SMOKE HOOD kelimesinin DUMAN BAŞLIĞI olduğunu hatırlatacaktır."
+    "mnemonicScene": "İtfaiyeci \"SMOK HUUD!\" diyerek DUMAN BAŞLIĞINI takıp yangına giriyor. Bu sahne size SMOKE HOOD kelimesinin DUMAN BAŞLIĞI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g06f7dc66b7017de8125322478550a6f1cd8dff9120a8356083dd2e33b497707dd0c8214eb64e314c65a252765b0aafb28e7eebdc6a4599b5d940fa2f989d3b14_640.jpg",
+    "imageSource": "https://pixabay.com/photos/gothic-goth-fantasy-dark-3740388/"
   },
   {
     "english": "Efficient operation, proper operation",
@@ -3288,7 +3554,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "effisient operaşın, proper operaşın",
     "mnemonicHook": "OPERESYON",
-    "mnemonicScene": "Doktor \"OPERESYON!\" diyerek ameliyatı DÜZGÜN ÇALIŞMA ile yapıyor. Bu sahne size OPERATION kelimesinin ÇALIŞMA, İŞLEM olduğunu hatırlatacaktır."
+    "mnemonicScene": "Doktor \"OPERESYON!\" diyerek ameliyatı DÜZGÜN ÇALIŞMA ile yapıyor. Bu sahne size OPERATION kelimesinin ÇALIŞMA, İŞLEM olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g005fd97c89c4e85e5391ce0133d2699d24f8c369058f675453cef62f935c4e21037a8ea7a305a098d9ca225b7b31739decdb706183f3d8cc4528ad33785e521c_640.jpg",
+    "imageSource": "https://pixabay.com/photos/operation-operating-room-surgery-1807543/"
   },
   {
     "english": "Features",
@@ -3311,7 +3579,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fiiçırs",
     "mnemonicHook": "FİÇIRS",
-    "mnemonicScene": "Satıcı \"FİÇIRS!\" diyerek arabanın ÖZELLİKLERİNİ sayıyor. Bu sahne size FEATURES kelimesinin ÖZELLİKLER olduğunu hatırlatacaktır."
+    "mnemonicScene": "Satıcı \"FİÇIRS!\" diyerek arabanın ÖZELLİKLERİNİ sayıyor. Bu sahne size FEATURES kelimesinin ÖZELLİKLER olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g215f1e6a21200a547540729a1926286a242ad188c164d016f0ba0ae08ca2e6b85e6832049e7649a0a3d435a672e23f6bf603d29333d3dce6eedf68074efac112_640.jpg",
+    "imageSource": "https://pixabay.com/photos/fountain-splash-flow-water-wet-6550493/"
   },
   {
     "english": "Finish, close",
@@ -3334,7 +3604,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "finiş, klos",
     "mnemonicHook": "FİNİŞ KLOS",
-    "mnemonicScene": "Ustabaşı \"FİNİŞ KLOS!\" diyerek işi BİTİRİP kapıyı KAPATIYOR. Bu sahne size FINISH, CLOSE kelimelerinin BİTİRMEK, KAPATMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ustabaşı \"FİNİŞ KLOS!\" diyerek işi BİTİRİP kapıyı KAPATIYOR. Bu sahne size FINISH, CLOSE kelimelerinin BİTİRMEK, KAPATMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g17ae4d29dbc25607663b11625b6138f1cb33c3cd3b8f8bd1676391c25445cdf055587a1d88d2878435789b84d77511a2c9de9c78baf5a1db27eb0aecb2d9fc2a_640.jpg",
+    "imageSource": "https://pixabay.com/photos/running-hurdles-athletics-4338238/"
   },
   {
     "english": "Noisy",
@@ -3357,7 +3629,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "noisi",
     "mnemonicHook": "NOYZİ",
-    "mnemonicScene": "Komşu \"NOYZİ!\" diye bağırıp UĞULTULU bir müzik açıyor. Bu sahne size NOISY kelimesinin UĞULTULU olduğunu hatırlatacaktır."
+    "mnemonicScene": "Komşu \"NOYZİ!\" diye bağırıp UĞULTULU bir müzik açıyor. Bu sahne size NOISY kelimesinin UĞULTULU olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g15bcc735f6c35d69773367f4fdd8d210577cfae5e7cc5baf0e7b3224371991559d37223827a7b3f292ae40fb13fce0f6eaa8f60a57939873ee03454491296434_640.jpg",
+    "imageSource": "https://pixabay.com/photos/sulphur-crested-cockatoo-cockatoo-10011837/"
   },
   {
     "english": "Turntable",
@@ -3380,7 +3654,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "turntabl",
     "mnemonicHook": "TÖRNTEYBIL",
-    "mnemonicScene": "DJ \"TÖRNTEYBIL!\" diyerek DÖNER TABLA'yı çevirmeye başlıyor. Bu sahne size TURNTABLE kelimesinin DÖNER TABLA olduğunu hatırlatacaktır."
+    "mnemonicScene": "DJ \"TÖRNTEYBIL!\" diyerek DÖNER TABLA'yı çevirmeye başlıyor. Bu sahne size TURNTABLE kelimesinin DÖNER TABLA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gc3d86323b1d28bcadb7ae87cac868f919b6dc305e54c0e97a70e0e229ca113649f914d13a2f57693adeb1a477914060aad12ea1af597ec9d71741c91d0f21b99_640.jpg",
+    "imageSource": "https://pixabay.com/photos/hand-turntable-dj-neon-lights-1850120/"
   },
   {
     "english": "Axle",
@@ -3403,7 +3679,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "aksl",
     "mnemonicHook": "AKSIL",
-    "mnemonicScene": "Arabacı \"AKSIL!\" diyerek tekerleğin MİLİNİN kırıldığını görüyor. Bu sahne size AXLE kelimesinin MİL olduğunu hatırlatacaktır."
+    "mnemonicScene": "Arabacı \"AKSIL!\" diyerek tekerleğin MİLİNİN kırıldığını görüyor. Bu sahne size AXLE kelimesinin MİL olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g5dee9f56810434dafec12d1773e8b881fa65dbe4c0a9845390a1f1bbfce025b3100608422f794d8ff1c91df0ab44d60d850962aed2585fca5d1a319726b5c8f6_640.jpg",
+    "imageSource": "https://pixabay.com/photos/truck-heavy-load-tractor-transport-2920533/"
   },
   {
     "english": "Bearing",
@@ -3426,7 +3704,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "biiring",
     "mnemonicHook": "BİRİNG",
-    "mnemonicScene": "Tamirci \"BİRİNG!\" diyerek RULMANI yağlıyor, çarklar dönsün diye. Bu sahne size BEARING kelimesinin RULMAN, YATAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tamirci \"BİRİNG!\" diyerek RULMANI yağlıyor, çarklar dönsün diye. Bu sahne size BEARING kelimesinin RULMAN, YATAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g0b13fde52444c09fee7f778ab5e3df24330fe6796bc5e2214fd4065b03589c67bb12e085d5318b4b040d4d5f6386c26590cb49ba79c07b2adaa61d1239b59825_640.png",
+    "imageSource": "https://pixabay.com/photos/ball-bearing-roller-bearing-industry-1236203/"
   },
   {
     "english": "Bushing",
@@ -3449,7 +3729,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "buşing",
     "mnemonicHook": "BURÇ",
-    "mnemonicScene": "Eski ABD Başkanı Bush elinde dev bir BURÇ tutup \"BUŞİNG bu BURÇTUR!\" diyor. Bu sahne size BUSHING kelimesinin BURÇ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Eski ABD Başkanı Bush elinde dev bir BURÇ tutup \"BUŞİNG bu BURÇTUR!\" diyor. Bu sahne size BUSHING kelimesinin BURÇ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g3a62760039ce512e55ba8f7e7c30fd716603d01eabbc573078d81b37ba4ca4eed5dbd02386da02a2f6a7dc85df5b08a8e90972ab5e7f3ae717c239fbb650e0d3_640.jpg",
+    "imageSource": "https://pixabay.com/photos/mechanical-part-axis-key-change-7187203/"
   },
   {
     "english": "Felt",
@@ -3472,7 +3754,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "felt",
     "mnemonicHook": "FELT",
-    "mnemonicScene": "Terzi \"FELT!\" diyerek yumuşacık bir KEÇE parçasını kesiyor. Bu sahne size FELT kelimesinin KEÇE olduğunu hatırlatacaktır."
+    "mnemonicScene": "Terzi \"FELT!\" diyerek yumuşacık bir KEÇE parçasını kesiyor. Bu sahne size FELT kelimesinin KEÇE olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g07a677933d734249a30d5498accf4abd9805781f9c6ae097d2aee50e262c5b7b44ffbcad5677fbe67457500d35b85ae3d04f146329b6451e51d57e39ca5fc7e0_640.jpg",
+    "imageSource": "https://pixabay.com/photos/hearts-love-valentines-day-symbol-9370507/"
   },
   {
     "english": "Nut",
@@ -3495,7 +3779,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "nat",
     "mnemonicHook": "NAT",
-    "mnemonicScene": "Tamirci \"NAT!\" diyerek SOMUNU sıkıca döndürüyor. Bu sahne size NUT kelimesinin SOMUN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tamirci \"NAT!\" diyerek SOMUNU sıkıca döndürüyor. Bu sahne size NUT kelimesinin SOMUN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ge4fe5691fb559a159542589a6b49c21909958ac0422b39cc6616aa97d9a6ff689247b10ad5b053da6cac076b2320589e0317f667829de9dffb40ffa87694f8f7_640.jpg",
+    "imageSource": "https://pixabay.com/photos/screw-thread-technology-screw-nut-1924173/"
   },
   {
     "english": "Washer",
@@ -3518,7 +3804,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "vaşer",
     "mnemonicHook": "VAŞER",
-    "mnemonicScene": "Çamaşırcı \"VAŞER!\" diye bağırarak çamaşır makinesinin RONDELASINI değiştiriyor. Bu sahne size WASHER kelimesinin RONDELA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Çamaşırcı \"VAŞER!\" diye bağırarak çamaşır makinesinin RONDELASINI değiştiriyor. Bu sahne size WASHER kelimesinin RONDELA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gd5eb81fa40ddd01fbaa948d1a0138e782b50e7c48516270efa28e112de9b49cf02027de27c613677fe09d61892d79668_640.jpg",
+    "imageSource": "https://pixabay.com/photos/laundry-washing-machines-413688/"
   },
   {
     "english": "Bolt",
@@ -3541,7 +3829,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "bolt",
     "mnemonicHook": "BOLT",
-    "mnemonicScene": "Sporcu \"BOLT!\" diye koşarken CIVATAYI sıkıca tutuyor. Bu sahne size BOLT kelimesinin CIVATA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sporcu \"BOLT!\" diye koşarken CIVATAYI sıkıca tutuyor. Bu sahne size BOLT kelimesinin CIVATA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gaee456eb0c48891f6fb30043d0b52be0fcae680bb566f59f4d75c4a530ae3b0c3087a635f3a91bab78c1177f7a2ad8f7ab9a2b2c453c55c4b0ab570a96018696_640.jpg",
+    "imageSource": "https://pixabay.com/photos/lightning-thunderstorm-super-cell-2568381/"
   },
   {
     "english": "Chain",
@@ -3564,7 +3854,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "çeyn",
     "mnemonicHook": "ÇEYN",
-    "mnemonicScene": "Bisikletçi \"ÇEYN!\" diyerek ZİNCİRİ yağlıyor. Bu sahne size CHAIN kelimesinin ZİNCİR olduğunu hatırlatacaktır."
+    "mnemonicScene": "Bisikletçi \"ÇEYN!\" diyerek ZİNCİRİ yağlıyor. Bu sahne size CHAIN kelimesinin ZİNCİR olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g3f5d47da422dc99e5989ac63d8cc147eda4de794de6f8fe3ad081a2cc80f6350ba5d27f22eeb352cbe88ad8744b7cd048b0a775745ae9bd70459f9a4b21aa420_640.jpg",
+    "imageSource": "https://pixabay.com/photos/szechenyi-chain-bridge-1758196/"
   },
   {
     "english": "Gear",
@@ -3587,7 +3879,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "giyır",
     "mnemonicHook": "GİYIR",
-    "mnemonicScene": "Saatçi \"GİYIR!\" diyerek kırık bir DİŞLİYİ çıkarıyor. Bu sahne size GEAR kelimesinin DİŞLİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Saatçi \"GİYIR!\" diyerek kırık bir DİŞLİYİ çıkarıyor. Bu sahne size GEAR kelimesinin DİŞLİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g33d5a7034115fec671b9abe491e5d441103d67404295835f50b94d3ceffc4f239ea8b6f6003b9c42c65812ea21fb5cbd_640.jpg",
+    "imageSource": "https://pixabay.com/photos/gear-mechanics-bikes-transmission-408364/"
   },
   {
     "english": "Belt",
@@ -3610,7 +3904,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "belt",
     "mnemonicHook": "BELT",
-    "mnemonicScene": "Kemer satıcısı \"BELT!\" diyerek bir KAYIŞ gösteriyor. Bu sahne size BELT kelimesinin KAYIŞ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kemer satıcısı \"BELT!\" diyerek bir KAYIŞ gösteriyor. Bu sahne size BELT kelimesinin KAYIŞ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g6d1e85f288004d6761bb635e0b1353c8994799e0c310dc4da269222793e5c5aeaa68dfe40db9cb9b4e38dce3827aa033bb59ba9307fefaaa3f6e15e26bc3175f_640.jpg",
+    "imageSource": "https://pixabay.com/photos/blue-jeans-belt-belt-buckle-buckle-2160265/"
   },
   {
     "english": "Pulley",
@@ -3633,7 +3929,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "pullei",
     "mnemonicHook": "PULİ",
-    "mnemonicScene": "Çocuk \"PULİ!\" diyerek bahçedeki KASNAKLI salıncağı çeviriyor. Bu sahne size PULLEY kelimesinin KASNAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Çocuk \"PULİ!\" diyerek bahçedeki KASNAKLI salıncağı çeviriyor. Bu sahne size PULLEY kelimesinin KASNAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g047839520dd6449fff7361818a8fa450e6bcf965e2bd5c66fef220427bcd245e859c32863ed7585ccdb0ef4b1693bb80c65bd8740bd5a0b82ab39b6a0f290559_640.jpg",
+    "imageSource": "https://pixabay.com/photos/sailing-ship-cable-pull-rope-4435184/"
   },
   {
     "english": "Roller",
@@ -3656,7 +3954,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "roller",
     "mnemonicHook": "ROLER",
-    "mnemonicScene": "Bebek \"ROLER!\" diyerek tekerlekli MAKARAYI iterek kutuyu sürüyor. Bu sahne size ROLLER kelimesinin MAKARA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Bebek \"ROLER!\" diyerek tekerlekli MAKARAYI iterek kutuyu sürüyor. Bu sahne size ROLLER kelimesinin MAKARA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g469d9155a52428dff47a844085c3736a61dd15fb47efd97a0bc443587bb8b913e758ae6f3fa51be81e01728083eef4f52905bc64e03c4e08cf9d6f1c0008d334_640.jpg",
+    "imageSource": "https://pixabay.com/photos/bird-long-tail-roller-fauna-kenya-7765384/"
   },
   {
     "english": "Shaft",
@@ -3679,7 +3979,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "şaft",
     "mnemonicHook": "ŞAFT",
-    "mnemonicScene": "Madenci \"ŞAFT!\" diyerek dev bir MİLİN dönüşünü izliyor. Bu sahne size SHAFT kelimesinin MİL olduğunu hatırlatacaktır."
+    "mnemonicScene": "Madenci \"ŞAFT!\" diyerek dev bir MİLİN dönüşünü izliyor. Bu sahne size SHAFT kelimesinin MİL olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g7f5b77dbedcb463ec0f421dbbaf1d3e41fecda12e52e974eb8ae4db1e0245023d1786dfb86a4df7ef26fb777341314968af0ee5a04d1b2507b100758b6b354a7_640.jpg",
+    "imageSource": "https://pixabay.com/photos/cave-geology-sunbeam-sunlight-rock-1839298/"
   },
   {
     "english": "Reducer",
@@ -3702,7 +4004,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "reduser",
     "mnemonicHook": "REDYUSER",
-    "mnemonicScene": "Tesisatçı \"REDYUSER!\" diyerek hızı AZALTAN REDÜKTÖRÜ takıyor. Bu sahne size REDUCER kelimesinin REDÜKTÖR olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tesisatçı \"REDYUSER!\" diyerek hızı AZALTAN REDÜKTÖRÜ takıyor. Bu sahne size REDUCER kelimesinin REDÜKTÖR olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gc8291ca1f05137bff7b4a2dacf88577fd8242c37d9f7fc360963fcb0b21149645de10c1a93e142222236f31216ac6c7dc165979e759c4de1500dcd166cfc32db_640.jpg",
+    "imageSource": "https://pixabay.com/photos/nature-bees-beekeeper-honey-bee-5051816/"
   },
   {
     "english": "Motor",
@@ -3725,7 +4029,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "motor",
     "mnemonicHook": "MOTOR",
-    "mnemonicScene": "Sürücü \"MOTOR!\" diyerek kontağı çevirip MOTORU çalıştırıyor. Bu sahne size MOTOR kelimesinin MOTOR olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü \"MOTOR!\" diyerek kontağı çevirip MOTORU çalıştırıyor. Bu sahne size MOTOR kelimesinin MOTOR olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gac02314453a60f914df6730bce5debab0a82a620e491815ce2cfaca6c1720225cc6b9892804442014024df9354a7c2fe6b47f34f2df50fb4b421df604730d0b1_640.jpg",
+    "imageSource": "https://pixabay.com/photos/christmas-background-child-tower-1864718/"
   },
   {
     "english": "Electric motor",
@@ -3748,7 +4054,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "elektrik motor",
     "mnemonicHook": "ELEKTRİK MOTOR",
-    "mnemonicScene": "Elektrikçi \"ELEKTRİK MOTOR!\" diyerek fişi takıp ELEKTRİK MOTORUNU çalıştırıyor. Bu sahne size ELECTRIC MOTOR kelimesinin ELEKTRİK MOTORU olduğunu hatırlatacaktır."
+    "mnemonicScene": "Elektrikçi \"ELEKTRİK MOTOR!\" diyerek fişi takıp ELEKTRİK MOTORUNU çalıştırıyor. Bu sahne size ELECTRIC MOTOR kelimesinin ELEKTRİK MOTORU olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gbf4b4498b4c666e4ff4789e6334b04c31085044bbe44ac260649203b9a4ae7b70f3a4cd359e01dade62b51153edff089bce0a0070e6a422eeae81686d6bf93b5_640.jpg",
+    "imageSource": "https://pixabay.com/photos/lost-places-warehouse-abandoned-2745619/"
   },
   {
     "english": "Hydraulic motor",
@@ -3771,7 +4079,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "hydraulik motor",
     "mnemonicHook": "HAYDRAULİK MOTOR",
-    "mnemonicScene": "Vinççi \"HAYDRAULİK MOTOR!\" diyerek sıvı basıncıyla kolu HİDROLİK olarak kaldırıyor. Bu sahne size HYDRAULIC MOTOR kelimesinin HİDROLİK MOTOR olduğunu hatırlatacaktır."
+    "mnemonicScene": "Vinççi \"HAYDRAULİK MOTOR!\" diyerek sıvı basıncıyla kolu HİDROLİK olarak kaldırıyor. Bu sahne size HYDRAULIC MOTOR kelimesinin HİDROLİK MOTOR olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g1f2233350e55cdae75fcc5a4e86b5b39b2d9e675c187f3303bb8fdfcd4897ea725f6622d6d3dee814bb578ef0ee3b6e6ee6d43394ddd2e67dcd0b816751d551d_640.jpg",
+    "imageSource": "https://pixabay.com/photos/grader-machinery-construction-4348751/"
   },
   {
     "english": "Pneumatic motor",
@@ -3794,7 +4104,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "pneumatik motor",
     "mnemonicHook": "NÖMATİK MOTOR",
-    "mnemonicScene": "Tamirci tabancayla \"NÖMATİK MOTOR!\" diyerek havayla PNÖMATİK MOTORU döndürüyor. Bu sahne size PNEUMATIC MOTOR kelimesinin PNÖMATİK MOTOR olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tamirci tabancayla \"NÖMATİK MOTOR!\" diyerek havayla PNÖMATİK MOTORU döndürüyor. Bu sahne size PNEUMATIC MOTOR kelimesinin PNÖMATİK MOTOR olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gc3e79520b7ac24dc2c18dcbbd72ac08510af105d74e4cd66531a0b862daff9e67fa46e4c603003c2faabd53b805cc43a23c1934b088509ae9bb68271ee61585a_640.jpg",
+    "imageSource": "https://pixabay.com/photos/tire-mediation-f1-tire-service-4535832/"
   },
   {
     "english": "Gearbox",
@@ -3817,7 +4129,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "giirboks",
     "mnemonicHook": "GİRBOKS",
-    "mnemonicScene": "Mekanik \"GİRBOKS!\" diyerek DİŞLİ KUTUSUNU açıp yağına bakıyor. Bu sahne size GEARBOX kelimesinin DİŞLİ KUTUSU olduğunu hatırlatacaktır."
+    "mnemonicScene": "Mekanik \"GİRBOKS!\" diyerek DİŞLİ KUTUSUNU açıp yağına bakıyor. Bu sahne size GEARBOX kelimesinin DİŞLİ KUTUSU olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g85ac695431dbe6951693448aae7f3c7df2a4106074e5510544400ecad546283b80c4e48cd4ba7b5b821396aedf5470c2_640.jpg",
+    "imageSource": "https://pixabay.com/photos/gear-mechanics-bikes-transmission-408364/"
   },
   {
     "english": "Differential",
@@ -3840,7 +4154,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "differential",
     "mnemonicHook": "DİFERANSİYEL",
-    "mnemonicScene": "Matematikçi tahtada \"DİFERANSİYEL!\" diyerek tekerleklerin FARKLI hızda dönmesini hesaplıyor. Bu sahne size DIFFERENTIAL kelimesinin DİFERANSİYEL olduğunu hatırlatacaktır."
+    "mnemonicScene": "Matematikçi tahtada \"DİFERANSİYEL!\" diyerek tekerleklerin FARKLI hızda dönmesini hesaplıyor. Bu sahne size DIFFERENTIAL kelimesinin DİFERANSİYEL olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf70344f37c948ed4a2fe96245d4d2e5d6f6dd231b3a7f93bfd99490a3a1f034e46aac25b99652f439dde5de5178738ff_640.jpg",
+    "imageSource": "https://pixabay.com/photos/gear-transmission-engine-automobile-722145/"
   },
   {
     "english": "Clutch",
@@ -3863,7 +4179,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "klutç",
     "mnemonicHook": "KLUTÇ",
-    "mnemonicScene": "Sürücü \"KLUTÇ!\" diye bağırarak DEBRİYAJA basıp vitesi değiştiriyor. Bu sahne size CLUTCH kelimesinin DEBRİYAJ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü \"KLUTÇ!\" diye bağırarak DEBRİYAJA basıp vitesi değiştiriyor. Bu sahne size CLUTCH kelimesinin DEBRİYAJ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf8bca26028ce78443ed6c906f1c76b86cab1d5f7453cc64a9f2bc2ccb5a1043fadae6a8e1cccf6f13b5a8133eb75b54afc1e008aceb5e44ebb763bd239619854_640.jpg",
+    "imageSource": "https://pixabay.com/photos/eggs-nest-hatched-bird-water-bird-7138757/"
   },
   {
     "english": "Brake",
@@ -3886,7 +4204,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "breyk",
     "mnemonicHook": "BREYK",
-    "mnemonicScene": "Sürücü \"BREYK!\" diyerek aniden FRENE basıyor. Bu sahne size BRAKE kelimesinin FREN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü \"BREYK!\" diyerek aniden FRENE basıyor. Bu sahne size BRAKE kelimesinin FREN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g06f64daeebaf8f55d7178140f4ba8b04e53b9d1e549a3a374d4eca7c96c128e8cb0dd1faf41619340f47d24e2bd8a82312e8655844679c91ef47d9dc7c223859_640.jpg",
+    "imageSource": "https://pixabay.com/photos/grasshopper-insect-nature-shrub-10121823/"
   },
   {
     "english": "Accelerator pedal",
@@ -3909,7 +4229,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "akselerator pedal",
     "mnemonicHook": "AKSELERATÖR",
-    "mnemonicScene": "Yarışçı \"AKSELERATÖR!\" diyerek GAZ PEDALINA basıp hızlanıyor. Bu sahne size ACCELERATOR PEDAL kelimesinin GAZ PEDALI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Yarışçı \"AKSELERATÖR!\" diyerek GAZ PEDALINA basıp hızlanıyor. Bu sahne size ACCELERATOR PEDAL kelimesinin GAZ PEDALI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g56936112c1cdf2210040454318a64213e93c750b19b173891ae59c3955e42f4c4c33f7d8a25149b333f04456e45516af343a4ae66a0dc40978b0255e31f44034_640.jpg",
+    "imageSource": "https://pixabay.com/photos/automotive-honda-civic-3405600/"
   },
   {
     "english": "Gear lever",
@@ -3932,7 +4254,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "giir lever",
     "mnemonicHook": "GİR LİVER",
-    "mnemonicScene": "Sürücü \"GİR LİVER!\" diyerek VİTES KOLUNU çekip sürüşe geçiyor. Bu sahne size GEAR LEVER kelimesinin VİTES KOLU olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü \"GİR LİVER!\" diyerek VİTES KOLUNU çekip sürüşe geçiyor. Bu sahne size GEAR LEVER kelimesinin VİTES KOLU olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g6e08a32b06671f756e18db2ba6a0829ba2c14278763429f3ac671208ea80354ac755baa82dae204583218d2bf6649ab2f88d10a8c30877a798fbe6a28b6ea9e6_640.jpg",
+    "imageSource": "https://pixabay.com/photos/railway-engineering-gears-cast-iron-4465993/"
   },
   {
     "english": "Steering wheel",
@@ -3955,7 +4279,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "stiiring vhiil",
     "mnemonicHook": "STİRİNG VİİL",
-    "mnemonicScene": "Şoför \"STİRİNG VİİL!\" diyerek DİREKSİYON SİMİDİNİ çevirip virajı alıyor. Bu sahne size STEERING WHEEL kelimesinin DİREKSİYON SİMİDİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Şoför \"STİRİNG VİİL!\" diyerek DİREKSİYON SİMİDİNİ çevirip virajı alıyor. Bu sahne size STEERING WHEEL kelimesinin DİREKSİYON SİMİDİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gdb87b3b961a3e2952d150f2b7e4b51e8c983bced6ecb798630865948a3a5e9f7fd9bc90cbe34092008f1fb240f658e271b12f036d26fad668738dfa65da32da6_640.jpg",
+    "imageSource": "https://pixabay.com/photos/lotus-sports-car-quickly-automobile-5407670/"
   },
   {
     "english": "Tire",
@@ -3978,7 +4304,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "tayır",
     "mnemonicHook": "TAYIR",
-    "mnemonicScene": "Bisikletçi \"TAYIR!\" diyerek patlak LASTİĞİ tamir ediyor. Bu sahne size TIRE kelimesinin LASTİK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Bisikletçi \"TAYIR!\" diyerek patlak LASTİĞİ tamir ediyor. Bu sahne size TIRE kelimesinin LASTİK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ge25cbd27ca1db36c4b4223c83f7c53f4abb5665ad6c462c7ce871addf5f267f26a820de1851c4d6eb6bce81541fdc6baed83bf1a875bbbec83e5463dac745643_640.jpg",
+    "imageSource": "https://pixabay.com/photos/pile-tires-rubber-stacked-used-1868894/"
   },
   {
     "english": "Rim",
@@ -4001,7 +4329,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "rim",
     "mnemonicHook": "RİM",
-    "mnemonicScene": "Ressam \"RİM!\" diyerek tablonun ÇERÇEVESİ gibi JANTI boyuyor. Bu sahne size RIM kelimesinin JANT olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ressam \"RİM!\" diyerek tablonun ÇERÇEVESİ gibi JANTI boyuyor. Bu sahne size RIM kelimesinin JANT olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g114b4ae95dac6d6372668a0eb199172ba7e0716dbd847d5168fc605e500021105769fd84c5e93d53603773317216e8e4_640.jpg",
+    "imageSource": "https://pixabay.com/photos/black-lamborghini-car-speed-605334/"
   },
   {
     "english": "Suspension",
@@ -4024,7 +4354,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "suspencın",
     "mnemonicHook": "SÜSPANSİYON",
-    "mnemonicScene": "Araba yola çukur görünce \"SÜSPANSİYON!\" diye zıplayıp yaylarıyla sarsıntıyı sönümlüyor. Bu sahne size SUSPENSION kelimesinin SÜSPANSİYON olduğunu hatırlatacaktır."
+    "mnemonicScene": "Araba yola çukur görünce \"SÜSPANSİYON!\" diye zıplayıp yaylarıyla sarsıntıyı sönümlüyor. Bu sahne size SUSPENSION kelimesinin SÜSPANSİYON olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf25c2c39945468aeb5e206600569d3fad3afa65d96a4a64d2e9c43d5f9aa4622a805154cb9acd450e49999c2ac92a7376fc99b64bf55a9b892b778c3be029509_640.jpg",
+    "imageSource": "https://pixabay.com/photos/bridge-west-coast-usa-fog-10467918/"
   },
   {
     "english": "Shock absorber",
@@ -4047,7 +4379,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "şok absorber",
     "mnemonicHook": "ŞOK ABSORBER",
-    "mnemonicScene": "Sürücü çukurda \"ŞOK!\" diye bağırıyor ama AMORTİSÖR sarsıntıyı emiyor. Bu sahne size SHOCK ABSORBER kelimesinin AMORTİSÖR olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü çukurda \"ŞOK!\" diye bağırıyor ama AMORTİSÖR sarsıntıyı emiyor. Bu sahne size SHOCK ABSORBER kelimesinin AMORTİSÖR olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g0b03f2642a83a21d7ad4aac1f139935ec551ad430cc11909f7a06a5f8009b0ea7bedae3f7829bb7bc061346892f1440156521e2ba4889e84570c50cbe33b48d5_640.jpg",
+    "imageSource": "https://pixabay.com/photos/motorcycle-engine-screws-2650926/"
   },
   {
     "english": "Chassis",
@@ -4070,7 +4404,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "çassis",
     "mnemonicHook": "ŞASİ",
-    "mnemonicScene": "Mühendis \"ŞASİ!\" diyerek arabanın ALTINI sağlamlık için kontrol ediyor. Bu sahne size CHASSIS kelimesinin ŞASİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Mühendis \"ŞASİ!\" diyerek arabanın ALTINI sağlamlık için kontrol ediyor. Bu sahne size CHASSIS kelimesinin ŞASİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g64a7ad626aa14233a9a43206bc12e2d0eb9633e9e5f2ccb4fd8e66b2a664ce6d4ae8f4b45282e842950bf6198df1aade6ff24b65ad0522c35bf0f76b6adc79d5_640.jpg",
+    "imageSource": "https://pixabay.com/photos/lawnmower-gardening-lawn-mower-2786525/"
   },
   {
     "english": "Body",
@@ -4093,7 +4429,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "bodi",
     "mnemonicHook": "BODİ",
-    "mnemonicScene": "Oto yıkamacı \"BODİ!\" diyerek arabanın GÖVDESİNİ köpükle yıkıyor. Bu sahne size BODY kelimesinin GÖVDE olduğunu hatırlatacaktır."
+    "mnemonicScene": "Oto yıkamacı \"BODİ!\" diyerek arabanın GÖVDESİNİ köpükle yıkıyor. Bu sahne size BODY kelimesinin GÖVDE olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g44d45380969cf876932117395c29be072b2503f9c6b8a88111095caa3e90fd071aa2d28adee5adfac31d2abc58d079379a19ee6c00b90c10147ff7476b39509e_640.jpg",
+    "imageSource": "https://pixabay.com/photos/man-muscles-portrait-muscular-1867887/"
   },
   {
     "english": "Bumper",
@@ -4116,7 +4454,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "bumper",
     "mnemonicHook": "BAMPER",
-    "mnemonicScene": "Sürücü geri manevra yaparken \"BAMPER!\" diye çarpıp TAMPONU ezdiriyor. Bu sahne size BUMPER kelimesinin TAMPON olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü geri manevra yaparken \"BAMPER!\" diye çarpıp TAMPONU ezdiriyor. Bu sahne size BUMPER kelimesinin TAMPON olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g342261d40fc78f72c9caa86e53aca526f795b992d3c966ac3f7130524976f0fe9aee5b611dd19da8364bb591acb031d99f817244ddad27ae64e47ecdfdad093a_640.jpg",
+    "imageSource": "https://pixabay.com/photos/bumper-cars-dodgems-theme-park-ride-4390958/"
   },
   {
     "english": "Headlight",
@@ -4139,7 +4479,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "hiidlayt",
     "mnemonicHook": "HAYDLAYT",
-    "mnemonicScene": "Sürücü karanlıkta \"HAYDLAYT!\" diyerek FARLARI yakıyor. Bu sahne size HEADLIGHT kelimesinin FAR olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü karanlıkta \"HAYDLAYT!\" diyerek FARLARI yakıyor. Bu sahne size HEADLIGHT kelimesinin FAR olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g5b9824649385bc70734d478ada58b3a47bc04ef03c86144eeca00d3b6d087363e806af78b4c7db898c13027008c7fcea4959445345a806edf03e5555fb0b450c_640.jpg",
+    "imageSource": "https://pixabay.com/photos/vintage-car-classic-car-retro-10498158/"
   },
   {
     "english": "Brake light",
@@ -4162,7 +4504,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "brak layt",
     "mnemonicHook": "BREYK LAYT",
-    "mnemonicScene": "Sürücü fren yapınca \"BREYK LAYT!\" diye STOP LAMBASI yanıyor. Bu sahne size BRAKE LIGHT kelimesinin STOP LAMBASI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü fren yapınca \"BREYK LAYT!\" diye STOP LAMBASI yanıyor. Bu sahne size BRAKE LIGHT kelimesinin STOP LAMBASI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g5810d3117c394f5d8b9795440507c608a00ae270881771b85d9153ec75c82e09098985ed37d0dac24becec6f1540536bc30582ac71fbef871884881ca57952c9_640.jpg",
+    "imageSource": "https://pixabay.com/photos/car-back-light-vehicle-tail-light-1859759/"
   },
   {
     "english": "Turn signal",
@@ -4185,7 +4529,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "turn signal",
     "mnemonicHook": "TÖRN SİGNAL",
-    "mnemonicScene": "Sürücü dönerken \"TÖRN SİGNAL!\" diyerek SİNYAL LAMBASINI yakıyor. Bu sahne size TURN SIGNAL kelimesinin SİNYAL LAMBASI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü dönerken \"TÖRN SİGNAL!\" diyerek SİNYAL LAMBASINI yakıyor. Bu sahne size TURN SIGNAL kelimesinin SİNYAL LAMBASI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ge1f94c306b80c202e04efa5a058edea932edd688144bf4f80497aa7e4b3c9ce1e9e51919952572f5b619ae612752319289dbc5584fb894cfbe464e6611f610a6_640.jpg",
+    "imageSource": "https://pixabay.com/photos/stop-light-right-turn-background-6205271/"
   },
   {
     "english": "Rearview mirror",
@@ -4208,7 +4554,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "riirviev mirror",
     "mnemonicHook": "RİRVİV MİRÖR",
-    "mnemonicScene": "Sürücü arkaya bakıp \"RİRVİV MİRÖR!\" diyerek DİKİZ AYNASINA bakıyor. Bu sahne size REARVIEW MIRROR kelimesinin DİKİZ AYNASI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü arkaya bakıp \"RİRVİV MİRÖR!\" diyerek DİKİZ AYNASINA bakıyor. Bu sahne size REARVIEW MIRROR kelimesinin DİKİZ AYNASI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g1ddb565c059b205e51df91db9f2166521d7bbd74d0473d8201000ed602d794d7615f7df6cb02abca5f5cefbd77136f973cb666aece7d70278c324d217d0006ae_640.jpg",
+    "imageSource": "https://pixabay.com/photos/accident-driver-escape-police-1497298/"
   },
   {
     "english": "Windshield wiper",
@@ -4231,7 +4579,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "vindşield viper",
     "mnemonicHook": "VİNDŞİLD VAYPER",
-    "mnemonicScene": "Yağmurda sürücü \"VAYPER!\" diyerek SİLECEĞİ çalıştırıyor. Bu sahne size WINDSHIELD WIPER kelimesinin SİLECEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Yağmurda sürücü \"VAYPER!\" diyerek SİLECEĞİ çalıştırıyor. Bu sahne size WINDSHIELD WIPER kelimesinin SİLECEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g0e1bbe36a7b809f777ac6bd8588236bd73e250f7801e84e7606193b395c7a81eefd70841c07dd52da4d5d1b8552000bc7d62d220473f598307e8a34adb7fe0c0_640.jpg",
+    "imageSource": "https://pixabay.com/photos/volkswagen-automobile-antique-car-7647805/"
   },
   {
     "english": "Window",
@@ -4254,7 +4604,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "vindov",
     "mnemonicHook": "VİNDOV",
-    "mnemonicScene": "Ev sahibi \"VİNDOV!\" diyerek CAMI açıp havayı içeri alıyor. Bu sahne size WINDOW kelimesinin CAM, PENCERE olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ev sahibi \"VİNDOV!\" diyerek CAMI açıp havayı içeri alıyor. Bu sahne size WINDOW kelimesinin CAM, PENCERE olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g11498d81e16bc1b7e1940d731a70b1316573dca471e31c1111ec7d60c43698c8be27c399fa213c2aa5b3a2ba44c02f79_640.jpg",
+    "imageSource": "https://pixabay.com/photos/window-housewall-house-facade-831251/"
   },
   {
     "english": "Door",
@@ -4277,7 +4629,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "dor",
     "mnemonicHook": "DOR",
-    "mnemonicScene": "Bekçi \"DOR!\" diyerek KAPIYI kilitliyor. Bu sahne size DOOR kelimesinin KAPI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Bekçi \"DOR!\" diyerek KAPIYI kilitliyor. Bu sahne size DOOR kelimesinin KAPI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g52ba5a2e5776e552d4eaefe9a7e60fcddf5a893b3cfd67ed1cfc7d79b6fb9a111b0f75222febd2f8bb4ea861e134d6dc_640.jpg",
+    "imageSource": "https://pixabay.com/photos/door-entrance-facade-archway-arch-681835/"
   },
   {
     "english": "Seat",
@@ -4300,7 +4654,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "siit",
     "mnemonicHook": "SİİT",
-    "mnemonicScene": "Misafir \"SİİT!\" diyerek KOLTUĞA oturuyor. Bu sahne size SEAT kelimesinin KOLTUK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Misafir \"SİİT!\" diyerek KOLTUĞA oturuyor. Bu sahne size SEAT kelimesinin KOLTUK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g7dd707da7a521a7621d9606543493076c4619e12779b2e9da6b9c5cfd95983dddc486afa3d6d058f2bc863e930ec48fea03f344d6abb6bb6a638624340356682_640.jpg",
+    "imageSource": "https://pixabay.com/photos/car-mustang-vintage-classic-retro-7955720/"
   },
   {
     "english": "Seat belt",
@@ -4323,7 +4679,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "siit belt",
     "mnemonicHook": "SİİT BELT",
-    "mnemonicScene": "Pilot \"SİİT BELT!\" diyerek yolcuların KOLTUK KEMERİNİ bağlamasını istiyor. Bu sahne size SEAT BELT kelimesinin EMNİYET KEMERİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Pilot \"SİİT BELT!\" diyerek yolcuların KOLTUK KEMERİNİ bağlamasını istiyor. Bu sahne size SEAT BELT kelimesinin EMNİYET KEMERİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g532518d637eff14c2d7455b39c68d6ddcffc5705fb58a1db52e3102e6a2bcd1f39a50210d81022434d972bd1eaaa90e198fa3f8d022622ead3409b079564791f_640.jpg",
+    "imageSource": "https://pixabay.com/photos/car-driving-driver-steering-wheel-2942982/"
   },
   {
     "english": "Airbag",
@@ -4346,7 +4704,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "airbag",
     "mnemonicHook": "ERBAG",
-    "mnemonicScene": "Kaza anında \"ERBAG!\" diye bağırarak HAVA YASTIĞI şişiyor. Bu sahne size AIRBAG kelimesinin HAVA YASTIĞI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kaza anında \"ERBAG!\" diye bağırarak HAVA YASTIĞI şişiyor. Bu sahne size AIRBAG kelimesinin HAVA YASTIĞI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ga053181e552bd3ffcb173466a244893fe78f90ad8f304d52f8124a6486ad6925d807e7cf91e3e918483a7762cec156c5_640.jpg",
+    "imageSource": "https://pixabay.com/photos/nissan-car-automobile-auto-vehicle-885309/"
   },
   {
     "english": "Dashboard",
@@ -4369,7 +4729,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "daşboard",
     "mnemonicHook": "DEŞBORD",
-    "mnemonicScene": "Sürücü \"DEŞBORD!\" diyerek GÖSTERGE PANELİNE bakıp hızını okuyor. Bu sahne size DASHBOARD kelimesinin GÖSTERGE PANELİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü \"DEŞBORD!\" diyerek GÖSTERGE PANELİNE bakıp hızını okuyor. Bu sahne size DASHBOARD kelimesinin GÖSTERGE PANELİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf57330f0489d7a92557edd02460d1777c4dd3daf6c7ced85495e71773d189f7b86b1039a7ffefc00d5bc298fb8d3830f003deb3fff657c5d926ae30fee1dc952_640.jpg",
+    "imageSource": "https://pixabay.com/photos/car-dashboard-speedometer-speed-2667434/"
   },
   {
     "english": "Radio",
@@ -4392,7 +4754,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "radio",
     "mnemonicHook": "REYDİO",
-    "mnemonicScene": "Sürücü \"REYDİO!\" diyerek RADYOYU açıp şarkıya eşlik ediyor. Bu sahne size RADIO kelimesinin RADYO olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü \"REYDİO!\" diyerek RADYOYU açıp şarkıya eşlik ediyor. Bu sahne size RADIO kelimesinin RADYO olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ga9bf50dd8fc3bc4588897d34377fb8c68bbfaa3f4fd9c012633da86e2542c79eb48af359391cfa1a02bc04c9acf6c0d84e7b7fdfcdc451458ae2aabdae5ac844_640.jpg",
+    "imageSource": "https://pixabay.com/photos/radio-portable-radio-4333412/"
   },
   {
     "english": "Air conditioner",
@@ -4415,7 +4779,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "air kondişıner",
     "mnemonicHook": "ER KONDİŞINER",
-    "mnemonicScene": "Terleyen sürücü \"ER KONDİŞINER!\" diyerek KLİMAYI açıyor, hava serinliyor. Bu sahne size AIR CONDITIONER kelimesinin KLİMA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Terleyen sürücü \"ER KONDİŞINER!\" diyerek KLİMAYI açıyor, hava serinliyor. Bu sahne size AIR CONDITIONER kelimesinin KLİMA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g0633a0fb029ee99564bbe36e2b685b01723af69faef01cf29710dd0b9089b418fa059ab4ac680a8e532a3483cf03e65c20dcbed790a767b27fd921d8b57fbb50_640.jpg",
+    "imageSource": "https://pixabay.com/photos/bedroom-interior-design-furniture-6778193/"
   },
   {
     "english": "Navigation system",
@@ -4438,7 +4804,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "navigaşın system",
     "mnemonicHook": "NAVİGEYŞIN",
-    "mnemonicScene": "Yolcu haritaya bakıp \"NAVİGEYŞIN!\" diyerek yolu NAVİGASYON SİSTEMİYLE buluyor. Bu sahne size NAVIGATION SYSTEM kelimesinin NAVİGASYON SİSTEMİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Yolcu haritaya bakıp \"NAVİGEYŞIN!\" diyerek yolu NAVİGASYON SİSTEMİYLE buluyor. Bu sahne size NAVIGATION SYSTEM kelimesinin NAVİGASYON SİSTEMİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g8cf3c2953840fb03e730f2cdd1c07112f1178a6ee43f002df0c02c1b466cf9cc9e0139a7673b98b145703c49e6d6fcd05c668a8b15ba96cd6c9688e27d02a247_640.jpg",
+    "imageSource": "https://pixabay.com/photos/navigation-car-peugeot-gps-3725428/"
   },
   {
     "english": "Multimedia system",
@@ -4461,7 +4829,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "multimedia system",
     "mnemonicHook": "MALTİMİDYA",
-    "mnemonicScene": "DJ \"MALTİMİDYA!\" diyerek MULTİMEDYA SİSTEMİNDEN müziği açıyor. Bu sahne size MULTIMEDIA SYSTEM kelimesinin MULTİMEDYA SİSTEMİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "DJ \"MALTİMİDYA!\" diyerek MULTİMEDYA SİSTEMİNDEN müziği açıyor. Bu sahne size MULTIMEDIA SYSTEM kelimesinin MULTİMEDYA SİSTEMİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g212d6f80a21ccb62957f2c9fba4bffa9a304362d91e12ce21136932985828f517b128cf045f688de4c3d6d9a013540675c982959c44737667bbbb79c92d685f8_640.jpg",
+    "imageSource": "https://pixabay.com/photos/video-game-console-video-game-play-2202634/"
   },
   {
     "english": "Control",
@@ -4484,7 +4854,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "kontrol",
     "mnemonicHook": "KONTROL",
-    "mnemonicScene": "Pilot \"KONTROL!\" diyerek uçağın KONTROLÜNÜ eline alıyor. Bu sahne size CONTROL kelimesinin KONTROL olduğunu hatırlatacaktır."
+    "mnemonicScene": "Pilot \"KONTROL!\" diyerek uçağın KONTROLÜNÜ eline alıyor. Bu sahne size CONTROL kelimesinin KONTROL olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf318c0d5399914a4d5e55e16f5d45508e5053d46effb71d831fafead7dff74b55e5a4fe6be4fa453a802d5eb89a6a01888800ca7526468916b12034667e0d2e1_640.jpg",
+    "imageSource": "https://pixabay.com/photos/controls-indoors-room-computer-1853330/"
   },
   {
     "english": "Secure",
@@ -4507,7 +4879,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "sekur",
     "mnemonicHook": "SEKYUR",
-    "mnemonicScene": "Bekçi \"SEKYUR!\" diyerek kapıyı GÜVENLİ hale getirip kilitliyor. Bu sahne size SECURE kelimesinin GÜVENLİ HALE GETİRMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Bekçi \"SEKYUR!\" diyerek kapıyı GÜVENLİ hale getirip kilitliyor. Bu sahne size SECURE kelimesinin GÜVENLİ HALE GETİRMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g5a4ceb127672bb169b5d30e3a1d968ca531cc1465228be9ce1086f57a16eb3942ef15838cfadb1f838df96e6b2d264d0_640.jpg",
+    "imageSource": "https://pixabay.com/photos/padlock-lock-chain-key-security-597495/"
   },
   {
     "english": "Noise",
@@ -4530,7 +4904,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "nois",
     "mnemonicHook": "NOYZ",
-    "mnemonicScene": "Komşu \"NOYZ!\" diye bağırarak büyük bir GÜRÜLTÜ çıkarıyor. Bu sahne size NOISE kelimesinin GÜRÜLTÜ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Komşu \"NOYZ!\" diye bağırarak büyük bir GÜRÜLTÜ çıkarıyor. Bu sahne size NOISE kelimesinin GÜRÜLTÜ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gda09a83022deb4b28d1f84b8f59a15c30164378dfa82bbc759db630ae6fc524b55a0b43b34d9d7b96561fa317d001825732afce50b0a8b6979ae86a6f79ac4af_640.jpg",
+    "imageSource": "https://pixabay.com/photos/students-announcement-communication-1822449/"
   },
   {
     "english": "Wheel-tire",
@@ -4553,7 +4929,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "vhiil-tir",
     "mnemonicHook": "VHİİL TAYIR",
-    "mnemonicScene": "Tamirci \"VHİİL TAYIR!\" diyerek TEKERLEK LASTİĞİNİN basıncına bakıyor. Bu sahne size WHEEL-TIRE kelimesinin TEKERLEK LASTİĞİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tamirci \"VHİİL TAYIR!\" diyerek TEKERLEK LASTİĞİNİN basıncına bakıyor. Bu sahne size WHEEL-TIRE kelimesinin TEKERLEK LASTİĞİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ga32cbc24b38b992e82c3a0a5d3676e223197f71e506c96cb7ee9eeb23921f66dc518a5c9b82759afcb0a8810add8d93b94a882f1c48e75a65000927b0b676377_640.jpg",
+    "imageSource": "https://pixabay.com/photos/tractor-agriculture-harvest-tanya-9862727/"
   },
   {
     "english": "Available",
@@ -4576,7 +4954,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "availabl",
     "mnemonicHook": "AVEYLABIL",
-    "mnemonicScene": "Müşteri \"AVEYLABIL mi?\" diye soruyor; satıcı MEVCUT olduğunu söylüyor. Bu sahne size AVAILABLE kelimesinin MEVCUT olduğunu hatırlatacaktır."
+    "mnemonicScene": "Müşteri \"AVEYLABIL mi?\" diye soruyor; satıcı MEVCUT olduğunu söylüyor. Bu sahne size AVAILABLE kelimesinin MEVCUT olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g5569a6ead2e48df6214cee43c1f7ba7c210729cb3169ba807c00ca78d819a671327ba07e70f0f49b76f2270632aabe7d1cddd5285cead9dbfca5dab9e3d60115_640.jpg",
+    "imageSource": "https://pixabay.com/photos/sign-open-open-sign-business-store-1781609/"
   },
   {
     "english": "Main",
@@ -4599,7 +4979,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "main",
     "mnemonicHook": "MEYN",
-    "mnemonicScene": "Ev sahibi \"MEYN!\" diyerek ANA KAPIYI kilitliyor. Bu sahne size MAIN kelimesinin ANA, TEMEL olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ev sahibi \"MEYN!\" diyerek ANA KAPIYI kilitliyor. Bu sahne size MAIN kelimesinin ANA, TEMEL olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gc5191c3c70af21d087d0806fb1cb08368aa27ede5e2cdeb60396f583e686d7e5d20b27b48fc61dc0544f25d7997c5c3950ac27037fcc9ca90eb50750047b4a26_640.jpg",
+    "imageSource": "https://pixabay.com/photos/city-frankfurt-cityscape-3660779/"
   },
   {
     "english": "Coefficient",
@@ -4645,7 +5027,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "glov",
     "mnemonicHook": "GLOV",
-    "mnemonicScene": "Kaleci \"GLOV!\" diyerek ELDİVENLERİNİ takıp topu tutuyor. Bu sahne size GLOVE kelimesinin ELDİVEN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kaleci \"GLOV!\" diyerek ELDİVENLERİNİ takıp topu tutuyor. Bu sahne size GLOVE kelimesinin ELDİVEN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g42d4406043a13d4b1e69569ecc71fb22d7a18c69e6176c254c97ddcbad4c9a3733d84d798bdd88ddd9e61729b905b267ee507fb2dd40ea63802d4f00fc109d5f_640.jpg",
+    "imageSource": "https://pixabay.com/photos/face-mask-covid-19-epidemic-4986596/"
   },
   {
     "english": "Supply",
@@ -4668,7 +5052,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "suppli",
     "mnemonicHook": "SAPLAY",
-    "mnemonicScene": "Tedarikçi kamyonla gelip \"SAPLAY!\" diyerek depoya malzeme SAĞLIYOR. Bu sahne size SUPPLY kelimesinin SAĞLAMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tedarikçi kamyonla gelip \"SAPLAY!\" diyerek depoya malzeme SAĞLIYOR. Bu sahne size SUPPLY kelimesinin SAĞLAMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g1f73498b5cd45f7f0118998f9f76035ea72bc63f64f4a4a1c5b87c5a8edc2551f2161e41b7042e97a4dd8a14fc84c5878d4a0a835198f11b107be312a4e30834_640.jpg",
+    "imageSource": "https://pixabay.com/photos/shopping-toilet-paper-covid-19-4974313/"
   },
   {
     "english": "Steady",
@@ -4691,7 +5077,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "stiidi",
     "mnemonicHook": "STEDİ",
-    "mnemonicScene": "Ressam merdivenin üstünde \"STEDİ!\" diyerek SABİT durup boyayı sürüyor. Bu sahne size STEADY kelimesinin SABİT olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ressam merdivenin üstünde \"STEDİ!\" diyerek SABİT durup boyayı sürüyor. Bu sahne size STEADY kelimesinin SABİT olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g010ca2699fbc23773a0183a928dbbc26979b416ee81e21e371a44235177daddd270740d7177fb4e277cbf347a81596043f0648f12c60aca7d848f748c7a247c4_640.jpg",
+    "imageSource": "https://pixabay.com/photos/motivational-quote-try-and-stop-me-3403638/"
   },
   {
     "english": "Bearings",
@@ -4714,7 +5102,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "biirings",
     "mnemonicHook": "BİRİNGS",
-    "mnemonicScene": "Tamirci \"BİRİNGS!\" diyerek RULMANLARI tek tek kontrol ediyor. Bu sahne size BEARINGS kelimesinin RULMANLAR olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tamirci \"BİRİNGS!\" diyerek RULMANLARI tek tek kontrol ediyor. Bu sahne size BEARINGS kelimesinin RULMANLAR olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g202e005d12bfb70f5e78b2947f1751f87550f8d3b456fe279b8049253400405028c75c36d4322d3f90b9087fc090b72e1bad2645a92917fb8ccd1d89416618f6_640.png",
+    "imageSource": "https://pixabay.com/photos/ball-bearing-roller-bearing-industry-1236203/"
   },
   {
     "english": "Rotary",
@@ -4737,7 +5127,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "rotari",
     "mnemonicHook": "ROTARİ",
-    "mnemonicScene": "Dans eden çocuk \"ROTARİ!\" diye bağırıp DÖNEN bir pervane gibi dönüyor. Bu sahne size ROTARY kelimesinin DÖNEN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Dans eden çocuk \"ROTARİ!\" diye bağırıp DÖNEN bir pervane gibi dönüyor. Bu sahne size ROTARY kelimesinin DÖNEN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gd11f24392cc6a40a2de627ad0b0c89f7fdcf3f801f92debfae6fe66c925815da48c4fc99531c639a0544251f50ee0ae3eeccbc618695c076927ad81765b53e69_640.jpg",
+    "imageSource": "https://pixabay.com/photos/telephone-vintage-monochrome-phone-3594206/"
   },
   {
     "english": "Result",
@@ -4760,7 +5152,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "result",
     "mnemonicHook": "RİZALT",
-    "mnemonicScene": "Hakem \"RİZALT!\" diyerek maçın SONUCUNU açıklıyor. Bu sahne size RESULT kelimesinin SONUÇ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Hakem \"RİZALT!\" diyerek maçın SONUCUNU açıklıyor. Bu sahne size RESULT kelimesinin SONUÇ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g0bf175c9b00993dcaaf3988955f0ae352a3a58bb6fd166d18bb5b7628d75be68ba4148f5369cd2f4dc801b98d5d50f0c21ca1051a5fb2f8a0589c7aca3ef0710_640.jpg",
+    "imageSource": "https://pixabay.com/photos/electronics-mobile-phone-screen-1868708/"
   },
   {
     "english": "Impact",
@@ -4783,7 +5177,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "impakt",
     "mnemonicHook": "İMPAKT",
-    "mnemonicScene": "Boksör \"İMPAKT!\" diye bağırıp rakibine DARBE indiriyor. Bu sahne size IMPACT kelimesinin DARBE olduğunu hatırlatacaktır."
+    "mnemonicScene": "Boksör \"İMPAKT!\" diye bağırıp rakibine DARBE indiriyor. Bu sahne size IMPACT kelimesinin DARBE olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gfb92324a416bd4efafa7b82ee7e1ae79b287e6f49d8a302fb0e0a68ccf97a76273b2f21dd7cfa8da88bfbf5b2584281d_640.jpg",
+    "imageSource": "https://pixabay.com/photos/drop-of-water-drop-impact-ripples-578897/"
   },
   {
     "english": "Quality",
@@ -4806,7 +5202,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "kualiti",
     "mnemonicHook": "KUALİTİ",
-    "mnemonicScene": "Satıcı \"KUALİTİ!\" diyerek ürünün NETLİĞİNİ ve kalitesini gösteriyor. Bu sahne size QUALITY kelimesinin NETLİK, KALİTE olduğunu hatırlatacaktır."
+    "mnemonicScene": "Satıcı \"KUALİTİ!\" diyerek ürünün NETLİĞİNİ ve kalitesini gösteriyor. Bu sahne size QUALITY kelimesinin NETLİK, KALİTE olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gbff119c35558bff4b39d288d26c2d845a98c82429b3cdd1f8c3f22f873f884aa5f934b5bf9bbe78152c1b2113e2c1e81b3989008d6704ad862db08156356e273_640.jpg",
+    "imageSource": "https://pixabay.com/photos/work-beautiful-girl-female-6322036/"
   },
   {
     "english": "Potable",
@@ -4829,7 +5227,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "potabl",
     "mnemonicHook": "POTEBL",
-    "mnemonicScene": "Turist \"POTEBL!\" diyerek bardağındaki suyu içip İÇİLEBİLİR olduğunu anlıyor. Bu sahne size POTABLE kelimesinin İÇİLEBİLİR olduğunu hatırlatacaktır."
+    "mnemonicScene": "Turist \"POTEBL!\" diyerek bardağındaki suyu içip İÇİLEBİLİR olduğunu anlıyor. Bu sahne size POTABLE kelimesinin İÇİLEBİLİR olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g06c3b80ed0801fd7ee4432711fa62d63053a7cf8d0e4bf7e1c8b817e69034b22f5a63f3084077a8a86bb70200922dafec82bdd0c4bd2f3d53f167a1db7d55d53_640.jpg",
+    "imageSource": "https://pixabay.com/photos/water-hand-fountain-own-drinkable-2749526/"
   },
   {
     "english": "Deactivate",
@@ -4852,7 +5252,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "diiktivat",
     "mnemonicHook": "DİAKTİVEYT",
-    "mnemonicScene": "Güvenlik görevlisi \"DİAKTİVEYT!\" diyerek alarmı AKTİF OLMAYAN hale getiriyor. Bu sahne size DEACTIVATE kelimesinin AKTİF OLMAYAN, DEVRE DIŞI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Güvenlik görevlisi \"DİAKTİVEYT!\" diyerek alarmı AKTİF OLMAYAN hale getiriyor. Bu sahne size DEACTIVATE kelimesinin AKTİF OLMAYAN, DEVRE DIŞI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g7d7813b9c8b3d76d16fc2f5c2c998333a5ab8a045744913ad2ff7ebd4267b5aeb78128071293ed59ddeec60f8e4da3d9_640.jpg",
+    "imageSource": "https://pixabay.com/photos/marine-bomb-history-military-315168/"
   },
   {
     "english": "Steering",
@@ -4875,7 +5277,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "stiiring",
     "mnemonicHook": "STİRİNG",
-    "mnemonicScene": "Kaptan \"STİRİNG!\" diyerek DÜMENİ çevirip gemiyi döndürüyor. Bu sahne size STEERING kelimesinin DÜMEN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kaptan \"STİRİNG!\" diyerek DÜMENİ çevirip gemiyi döndürüyor. Bu sahne size STEERING kelimesinin DÜMEN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g16e8721eccf68728a3bdc193fae302d9508d6a2b3c29f410c98e1c2e6f65964a310a7d3d633d32e1a9241171b108ff46_640.jpg",
+    "imageSource": "https://pixabay.com/photos/vintage-1950s-pretty-woman-887272/"
   },
   {
     "english": "Tillers",
@@ -4898,7 +5302,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "tillers",
     "mnemonicHook": "TİLERS",
-    "mnemonicScene": "Ev tamircisi \"TİLERS!\" diyerek MERDİVENE tırmanıp tavana ulaşıyor. Bu sahne size TILLERS kelimesinin MERDİVEN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ev tamircisi \"TİLERS!\" diyerek MERDİVENE tırmanıp tavana ulaşıyor. Bu sahne size TILLERS kelimesinin MERDİVEN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf69412b771d2cf8d8e759b75e7fc699517e8a9ff72bcf6ad2918b29383bce3cd1358cb0ccebd3a01b41ecbdb920d34421d9191251fa66effe26afde970c0c3a5_640.jpg",
+    "imageSource": "https://pixabay.com/photos/ship-sailing-ships-wheel-boat-sea-2520608/"
   },
   {
     "english": "Sponge",
@@ -4921,7 +5327,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "spong",
     "mnemonicHook": "SPANC",
-    "mnemonicScene": "Bulaşıkçı \"SPANC!\" diyerek SÜNGERİ kaptı, tabakları yıkıyor. Bu sahne size SPONGE kelimesinin SÜNGER olduğunu hatırlatacaktır."
+    "mnemonicScene": "Bulaşıkçı \"SPANC!\" diyerek SÜNGERİ kaptı, tabakları yıkıyor. Bu sahne size SPONGE kelimesinin SÜNGER olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g018707a817d5b492f8651a2b035695512a78d016de45dd3cb17f448762e80b83bc1e0b18896527055d3092e2da6845254db49636a748beeaf1413ca5f43e8040_640.jpg",
+    "imageSource": "https://pixabay.com/photos/cake-cakes-cream-cake-cream-yummy-1227842/"
   },
   {
     "english": "Soaked",
@@ -4944,7 +5352,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "soaked",
     "mnemonicHook": "SOKT",
-    "mnemonicScene": "Yüzücü havuzdan çıkınca \"SOKT!\" diyerek bütün havlusu ISLANMIŞ halde buluyor. Bu sahne size SOAKED kelimesinin ISLANMIŞ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Yüzücü havuzdan çıkınca \"SOKT!\" diyerek bütün havlusu ISLANMIŞ halde buluyor. Bu sahne size SOAKED kelimesinin ISLANMIŞ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ga90b8c2e74a99bb7fc47c32742c138104c389c7aa820716fe400b507ebac2504233ec6105feee364b5530439f1d9b7e8f21beab371a828b5f097089b2b7d3f7d_640.jpg",
+    "imageSource": "https://pixabay.com/photos/eclectus-parrot-parrot-bird-plumage-10097009/"
   },
   {
     "english": "Scraper",
@@ -4967,7 +5377,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "skraper",
     "mnemonicHook": "SKREYPER",
-    "mnemonicScene": "Oto yıkamacı \"SKREYPER!\" diyerek camdaki kiri KAZIYICIYLA sıyırıyor. Bu sahne size SCRAPER kelimesinin KAZIYICI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Oto yıkamacı \"SKREYPER!\" diyerek camdaki kiri KAZIYICIYLA sıyırıyor. Bu sahne size SCRAPER kelimesinin KAZIYICI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gbb59eaed1247b3b8be0d4e7ac032db7da1ceb54b4d34159bd631fddcb940ddca408878d398b54d1addc2c623601d5e59_640.jpg",
+    "imageSource": "https://pixabay.com/photos/bulldozer-crawler-earth-moving-410119/"
   },
   {
     "english": "Blocks",
@@ -4990,7 +5402,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "bloks",
     "mnemonicHook": "BLOKS",
-    "mnemonicScene": "Tamirci \"BLOKS!\" diyerek tekerleğin önüne TAKOZ koyup hareketini BLOKE EDİYOR. Bu sahne size BLOCKS kelimesinin BLOKE ETMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tamirci \"BLOKS!\" diyerek tekerleğin önüne TAKOZ koyup hareketini BLOKE EDİYOR. Bu sahne size BLOCKS kelimesinin BLOKE ETMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g256833afc35081fb664e62396788c333f3aaa845631bfebc10e1dac02f746207b978b302b11f0a04953ad1f9aeda6799c5bb8f914494116373529a6fc5d37d72_640.jpg",
+    "imageSource": "https://pixabay.com/photos/christmas-background-child-tower-1864718/"
   },
   {
     "english": "Lubrication",
@@ -5013,7 +5427,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "lubrikaşın",
     "mnemonicHook": "LUBRİKEYŞIN",
-    "mnemonicScene": "Tamirci \"LUBRİKEYŞIN!\" diyerek makineye GRES çekip YAĞLAMA yapıyor. Bu sahne size LUBRICATION kelimesinin YAĞLAMA, GRESLEME olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tamirci \"LUBRİKEYŞIN!\" diyerek makineye GRES çekip YAĞLAMA yapıyor. Bu sahne size LUBRICATION kelimesinin YAĞLAMA, GRESLEME olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g856959a11ec3103541d1e4f985e676ff2ceac9b8d84e4a0c580ff927637ed3e6e8e1e11a1a31027d5bf21ea04014bccf6d58b09e6f71ab01e5c91f6e991a87cc_640.jpg",
+    "imageSource": "https://pixabay.com/photos/engine-transmission-disassembled-1381995/"
   },
   {
     "english": "Lubricate",
@@ -5036,7 +5452,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "lubrikat",
     "mnemonicHook": "LUBRİKEYT",
-    "mnemonicScene": "Kapıcı \"LUBRİKEYT!\" diyerek menteşeye yağ sürüp YAĞLIYOR. Bu sahne size LUBRICATE kelimesinin YAĞLAMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kapıcı \"LUBRİKEYT!\" diyerek menteşeye yağ sürüp YAĞLIYOR. Bu sahne size LUBRICATE kelimesinin YAĞLAMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g91c9f9d20b94873f4479da5e42c8d311fd98b62d9954bb6346393da28b13bd1a2c2effa120d7078649279ab56f5a51e9c56e6d938c2c508596f1c447238c7268_640.jpg",
+    "imageSource": "https://pixabay.com/photos/industry-old-technology-equipment-3164904/"
   },
   {
     "english": "Amber",
@@ -5059,7 +5477,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "amber",
     "mnemonicHook": "AMBER",
-    "mnemonicScene": "Trafik ışığı \"AMBER!\" diyerek BAL RENGİNE dönüp uyarıyor. Bu sahne size AMBER kelimesinin BAL RENGİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Trafik ışığı \"AMBER!\" diyerek BAL RENGİNE dönüp uyarıyor. Bu sahne size AMBER kelimesinin BAL RENGİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g46c0489db315cb172e143c8e80329351dca54c488e304eed1f6a7aea80f7b1353fabc4d12200cf15d3b211cf2ae95ef7701d954ed402b7aba83f542e7f4f10f8_640.jpg",
+    "imageSource": "https://pixabay.com/photos/lights-candles-darkness-10528343/"
   },
   {
     "english": "Arrow",
@@ -5082,7 +5502,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "arrov",
     "mnemonicHook": "ARO",
-    "mnemonicScene": "Turist \"ARO!\" diyerek yerdeki OKU takip edip yolu buluyor. Bu sahne size ARROW kelimesinin OK, İBRE olduğunu hatırlatacaktır."
+    "mnemonicScene": "Turist \"ARO!\" diyerek yerdeki OKU takip edip yolu buluyor. Bu sahne size ARROW kelimesinin OK, İBRE olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf8233d50c4aae1f86589ef821bbc4bee2afd6dfff800dd896797fea86e16a521fb643f8518cab8eb8645cec7bcf2808a_640.jpg",
+    "imageSource": "https://pixabay.com/photos/signpost-waypoint-wood-grain-board-235079/"
   },
   {
     "english": "View",
@@ -5105,7 +5527,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "viev",
     "mnemonicHook": "VİYU",
-    "mnemonicScene": "Fotoğrafçı dağın tepesinde \"VİYU!\" diyerek harika bir GÖRÜNTÜ çekiyor. Bu sahne size VIEW kelimesinin GÖRÜNTÜ, MANZARA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Fotoğrafçı dağın tepesinde \"VİYU!\" diyerek harika bir GÖRÜNTÜ çekiyor. Bu sahne size VIEW kelimesinin GÖRÜNTÜ, MANZARA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g2b8a36783826f76ab403fc09b37c7da6589c54cbc446ed81b81b3c75a189f60b82b1989b923dd5f76a919601cf5f6771741ce6de9619c7cddffde479f79eec8c_640.jpg",
+    "imageSource": "https://pixabay.com/photos/girl-swing-rock-skyline-skyscraper-2067378/"
   },
   {
     "english": "Subsequent",
@@ -5151,7 +5575,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "skaveng",
     "mnemonicHook": "SKAVENJ",
-    "mnemonicScene": "Çöpçü \"SKAVENJ!\" diyerek sokağı TEMİZLİYOR, çöpleri EMİYOR. Bu sahne size SCAVENGE kelimesinin TEMİZLEMEK, EMİŞ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Çöpçü \"SKAVENJ!\" diyerek sokağı TEMİZLİYOR, çöpleri EMİYOR. Bu sahne size SCAVENGE kelimesinin TEMİZLEMEK, EMİŞ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g4282e48db7b7dc9c6627c74c52edd6d613808b481321537828e5cffee01607e9e4ceb55ef65d14ad300f32fec04bbe66933e2187aa4b39a22c8b9effde456114_640.jpg",
+    "imageSource": "https://pixabay.com/photos/bird-vulture-trees-zoo-animal-8579496/"
   },
   {
     "english": "Engage",
@@ -5174,7 +5600,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "engag",
     "mnemonicHook": "ENGEYJ",
-    "mnemonicScene": "Kilitçi \"ENGEYJ!\" diyerek iki parçayı birbirine İÇ İÇE GEÇİRİYOR. Bu sahne size ENGAGE kelimesinin BİRBİRİNE GEÇMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kilitçi \"ENGEYJ!\" diyerek iki parçayı birbirine İÇ İÇE GEÇİRİYOR. Bu sahne size ENGAGE kelimesinin BİRBİRİNE GEÇMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ge21301d96272a122765df07c1df4d70276a9ba7fffc73a2a29fd86beb634277f2aabb59d78bd9ec540bb78ce3d2964b964f2f8c81cee9aa8b38800b7e6c8b7e3_640.jpg",
+    "imageSource": "https://pixabay.com/photos/couple-holding-hands-field-engaged-1851038/"
   },
   {
     "english": "Support",
@@ -5197,7 +5625,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "support",
     "mnemonicHook": "SAPORT",
-    "mnemonicScene": "İnşaatçı \"SAPORT!\" diyerek rafı tutan DESTEĞİ yerleştiriyor. Bu sahne size SUPPORT kelimesinin DESTEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "İnşaatçı \"SAPORT!\" diyerek rafı tutan DESTEĞİ yerleştiriyor. Bu sahne size SUPPORT kelimesinin DESTEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g72f9c5744fa2cbc5b4f9d65cd826d9e8de10dd32b1408a850c36c1797fc02d78aebf5e6eb3af24f22d150c749bdfdf4c25f0bf674e7706bfa1ade37e7166d30c_640.jpg",
+    "imageSource": "https://pixabay.com/photos/sunset-men-silhouettes-helping-1807524/"
   },
   {
     "english": "Tighten",
@@ -5220,7 +5650,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "tayten",
     "mnemonicHook": "TAYTEN",
-    "mnemonicScene": "Marangoz \"TAYTEN!\" diyerek vidayı SIKIYOR. Bu sahne size TIGHTEN kelimesinin SIKMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Marangoz \"TAYTEN!\" diyerek vidayı SIKIYOR. Bu sahne size TIGHTEN kelimesinin SIKMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g909c91adeeb583562f96d85a06634df06eb45d1223825273cec8fe20b6fc3e7814b7b4b468e135f49941d826d48f5255197b70a89cfa32446376a0554c39e8ec_640.jpg",
+    "imageSource": "https://pixabay.com/photos/wallet-tape-measure-economical-2383496/"
   },
   {
     "english": "Plug",
@@ -5243,7 +5675,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "plug",
     "mnemonicHook": "PLAK",
-    "mnemonicScene": "Tesisatçı \"PLAK!\" diyerek lavaboya TIPA tıkıyor. Bu sahne size PLUG kelimesinin TIPA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tesisatçı \"PLAK!\" diyerek lavaboya TIPA tıkıyor. Bu sahne size PLUG kelimesinin TIPA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gce43fc1d80ba7089207d3b43f07c30492d474d457f05e9f89dfdc3728f57f9fa83d3cc22425b2bd84256ed4809cb4bfc83233f6885b98cd59ed84fe6da805758_640.jpg",
+    "imageSource": "https://pixabay.com/photos/lightbulb-idea-creativity-base-3104355/"
   },
   {
     "english": "Assembly",
@@ -5266,7 +5700,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "assembli",
     "mnemonicHook": "ASEMBLİ",
-    "mnemonicScene": "İşçiler \"ASEMBLİ!\" diyerek parçaları MONTAJ edip makineyi kuruyor. Bu sahne size ASSEMBLY kelimesinin MONTAJ olduğunu hatırlatacaktır."
+    "mnemonicScene": "İşçiler \"ASEMBLİ!\" diyerek parçaları MONTAJ edip makineyi kuruyor. Bu sahne size ASSEMBLY kelimesinin MONTAJ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gd4c9b5d2fadda683305530158de25435cf301305355e238f15c9bf365cf87aae6dced1109de6f522ab8ac6000b2684b4814a145b7e526a960476c11b8de1f6e2_640.jpg",
+    "imageSource": "https://pixabay.com/photos/worker-woman-mask-face-mask-6322085/"
   },
   {
     "english": "Freed",
@@ -5335,7 +5771,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "koupling",
     "mnemonicHook": "KUPLİNG",
-    "mnemonicScene": "Tesisatçı \"KUPLİNG!\" diyerek iki boruyu KUPLAJ ile birleştiriyor. Bu sahne size COUPLING kelimesinin KUPLAJ ETMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tesisatçı \"KUPLİNG!\" diyerek iki boruyu KUPLAJ ile birleştiriyor. Bu sahne size COUPLING kelimesinin KUPLAJ ETMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf99d17a8b4967ad2a863b5efa801c5a9e3e12b8eeb725e6714ace0649dc5b3948b32b24bcf4e15cf6e1e241e3f9a84851c24f2d7d521bea32f0641691d452487_640.jpg",
+    "imageSource": "https://pixabay.com/photos/water-fire-hose-hose-fire-fighters-4495538/"
   },
   {
     "english": "Incorporated",
@@ -5404,7 +5842,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "respektiv",
     "mnemonicHook": "RİSPEKTİV",
-    "mnemonicScene": "Öğretmen \"RİSPEKTİV!\" diyerek her öğrenciyi İLGİLİ yerine oturtuyor. Bu sahne size RESPECTIVE kelimesinin İLGİLİ, AYRI AYRI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Öğretmen \"RİSPEKTİV!\" diyerek her öğrenciyi İLGİLİ yerine oturtuyor. Bu sahne size RESPECTIVE kelimesinin İLGİLİ, AYRI AYRI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf114b93d04bd8cf8d54ae2482b8306fc0500d7607fcb030cae2b54f206ab943c002c3780ae71dadfb0bf3571bf958db79781d23307c8abf7d742ea10e263c770_640.jpg",
+    "imageSource": "https://pixabay.com/photos/hands-gesture-prayer-meditation-5634107/"
   },
   {
     "english": "Corresponding",
@@ -5427,7 +5867,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "korresponding",
     "mnemonicHook": "KORESPONDİNG",
-    "mnemonicScene": "Kargocu \"KORESPONDİNG!\" diyerek paketi İLGİLİ adrese bırakıyor. Bu sahne size CORRESPONDING kelimesinin İLGİLİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kargocu \"KORESPONDİNG!\" diyerek paketi İLGİLİ adrese bırakıyor. Bu sahne size CORRESPONDING kelimesinin İLGİLİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g53b683af7a569d0da79153797f2df73b0085b7f29d44467086797ae33ed1d40efe4657de9273758526b5cc9a6a80d4e1_640.jpg",
+    "imageSource": "https://pixabay.com/photos/paper-writing-old-antique-write-623167/"
   },
   {
     "english": "Inlet",
@@ -5450,7 +5892,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "inlet",
     "mnemonicHook": "İNLET",
-    "mnemonicScene": "Görevli \"İNLET!\" diyerek suyun GİRİŞ kapısını gösteriyor. Bu sahne size INLET kelimesinin GİRİŞ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Görevli \"İNLET!\" diyerek suyun GİRİŞ kapısını gösteriyor. Bu sahne size INLET kelimesinin GİRİŞ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g8e2ee75ff80a065df6a23921f4bcd92694697803683df53be91ca5991e4d2f83b00c40164f4160588b0e4b71e08c04bdd475846a4e0c67c508ac71b1c2481fed_640.jpg",
+    "imageSource": "https://pixabay.com/photos/sea-cliffs-cove-landscape-5703965/"
   },
   {
     "english": "Outlet",
@@ -5473,7 +5917,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "outlet",
     "mnemonicHook": "AUTLET",
-    "mnemonicScene": "Görevli \"AUTLET!\" diyerek suyun ÇIKIŞ kapısını gösteriyor. Bu sahne size OUTLET kelimesinin ÇIKIŞ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Görevli \"AUTLET!\" diyerek suyun ÇIKIŞ kapısını gösteriyor. Bu sahne size OUTLET kelimesinin ÇIKIŞ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g90c0423b437accb0b52e38774461fda35665227e554ed4e9ade4ceb28b65a6102ceb90b7e3f479aa38d204f7eaef55bad8b9137ee84604693a75a847db7f7f09_640.jpg",
+    "imageSource": "https://pixabay.com/photos/electrician-repair-electricity-1080554/"
   },
   {
     "english": "End",
@@ -5496,7 +5942,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "end",
     "mnemonicHook": "END",
-    "mnemonicScene": "Tırmanıcı \"END!\" diyerek ipin UCUNU sıkıca tutuyor. Bu sahne size END kelimesinin UÇ, SON olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tırmanıcı \"END!\" diyerek ipin UCUNU sıkıca tutuyor. Bu sahne size END kelimesinin UÇ, SON olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g2392a4ecdd83102664504e76ba40b294f3de9d99e3d78e754570f22b31209a7f7943953b1754203a238d6656d262b83658f39b7107a075db2d1bf8ce73261988_640.jpg",
+    "imageSource": "https://pixabay.com/photos/man-computer-screen-desktop-imac-1839500/"
   },
   {
     "english": "Ventilation",
@@ -5519,7 +5967,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "ventilaşın",
     "mnemonicHook": "VENTİLEYŞIN",
-    "mnemonicScene": "Ev sahibi pencereleri açıp \"VENTİLEYŞIN!\" diyerek HAVALANDIRMA yapıyor. Bu sahne size VENTILATION kelimesinin HAVALANDIRMA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ev sahibi pencereleri açıp \"VENTİLEYŞIN!\" diyerek HAVALANDIRMA yapıyor. Bu sahne size VENTILATION kelimesinin HAVALANDIRMA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g151b9655ad4790197bbcbfc4b4cccbecf2487cddc0bff8ddd3caaa1d40866ea1c3b51976e201024bc875d2c453449fa7ffb15103d0c49c1bb0af15bcd0d54fae_640.jpg",
+    "imageSource": "https://pixabay.com/photos/fan-cooling-propeller-power-plant-3645379/"
   },
   {
     "english": "Press",
@@ -5542,7 +5992,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "press",
     "mnemonicHook": "PRES",
-    "mnemonicScene": "Asansörcü \"PRES!\" diyerek düğmeye BASKI uyguluyor. Bu sahne size PRESS kelimesinin BASMAK, BASKI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Asansörcü \"PRES!\" diyerek düğmeye BASKI uyguluyor. Bu sahne size PRESS kelimesinin BASMAK, BASKI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g752257a5fb22c955324c77b53a691795ea63913bccfb81ebffaf7a1ffc2b24beb617f728eeb92789ed338724612a2e32_640.jpg",
+    "imageSource": "https://pixabay.com/photos/old-newspaper-newspaper-retro-sepia-350376/"
   },
   {
     "english": "Flexible",
@@ -5565,7 +6017,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fleksibl",
     "mnemonicHook": "FLEKSİBL",
-    "mnemonicScene": "Jimnastikçi \"FLEKSİBL!\" diyerek bedenini BÜKÜLEBİLİR şekilde eğiyor. Bu sahne size FLEXIBLE kelimesinin BÜKÜLEBİLİR olduğunu hatırlatacaktır."
+    "mnemonicScene": "Jimnastikçi \"FLEKSİBL!\" diyerek bedenini BÜKÜLEBİLİR şekilde eğiyor. Bu sahne size FLEXIBLE kelimesinin BÜKÜLEBİLİR olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g4b83391fe16e46564d1e57a245cf298fd569da281ea82b2f912fc53685b172c8389c20da69978392ba6ef330b7664143_640.jpg",
+    "imageSource": "https://pixabay.com/photos/rubber-bands-elastic-bands-503028/"
   },
   {
     "english": "Side by side",
@@ -5588,7 +6042,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "sid bi sid",
     "mnemonicHook": "SAYD BAY SAYD",
-    "mnemonicScene": "Park görevlisi \"SAYD BAY SAYD!\" diyerek arabaları YAN YANA dizip park ettiriyor. Bu sahne size SIDE BY SIDE kelimesinin YAN YANA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Park görevlisi \"SAYD BAY SAYD!\" diyerek arabaları YAN YANA dizip park ettiriyor. Bu sahne size SIDE BY SIDE kelimesinin YAN YANA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g3ec86afa8f67d3b9daff031f6a3b185a7bab99b92d639f3a0f827f5355fad95a7e69fffc4ad530944d8cda581c7a3d1e2eb842dccae361cbb82220f6e7185989_640.jpg",
+    "imageSource": "https://pixabay.com/photos/horses-standing-side-by-side-9446888/"
   },
   {
     "english": "Mount",
@@ -5611,7 +6067,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "mount",
     "mnemonicHook": "MAUNT",
-    "mnemonicScene": "Tesisatçı \"MAUNT!\" diyerek lambayı duvara MONTE ediyor. Bu sahne size MOUNT kelimesinin MONTE ETMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tesisatçı \"MAUNT!\" diyerek lambayı duvara MONTE ediyor. Bu sahne size MOUNT kelimesinin MONTE ETMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g48787ff5ad99dadbde0e290d3d2c14e1ac83be13dedbb89f330eb11b9769a715c3ba06cc43436189eae55bdcfae9610b0e4e2c10a8d1600570e4e44ba85047f8_640.jpg",
+    "imageSource": "https://pixabay.com/photos/mountain-volcano-cloud-sunset-10444397/"
   },
   {
     "english": "Parts",
@@ -5634,7 +6092,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "parts",
     "mnemonicHook": "PARTS",
-    "mnemonicScene": "Oyuncu \"PARTS!\" diyerek yapbozun tüm PARÇALARINI sayıyor. Bu sahne size PARTS kelimesinin PARÇALAR olduğunu hatırlatacaktır."
+    "mnemonicScene": "Oyuncu \"PARTS!\" diyerek yapbozun tüm PARÇALARINI sayıyor. Bu sahne size PARTS kelimesinin PARÇALAR olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g077ee2924abeb39dbe05865c154a7d6b56b2e3b000488e2657db748a768ab31bf07bf2b23a3e1b29c5231b2060384251d3760a4b8cef96c5ed9306307df8ee9a_640.jpg",
+    "imageSource": "https://pixabay.com/photos/macro-cogwheel-gear-engine-vintage-1452987/"
   },
   {
     "english": "Foreign",
@@ -5657,7 +6117,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "foreign",
     "mnemonicHook": "FOREYN",
-    "mnemonicScene": "Turist \"FOREYN!\" diyerek YABANCI bir dilde konuşuyor. Bu sahne size FOREIGN kelimesinin YABANCI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Turist \"FOREYN!\" diyerek YABANCI bir dilde konuşuyor. Bu sahne size FOREIGN kelimesinin YABANCI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g48e853cf84a9a47bfccf972aeeb40b3ff31828b5afb3d714f0d736f1b5d77e4fea69db1863d408eaaf51389e7a67a4ab6618c8fcd4f1f25a8e91cfba8b96d3bd_640.jpg",
+    "imageSource": "https://pixabay.com/photos/different-language-international-7389469/"
   },
   {
     "english": "Separate",
@@ -5680,7 +6142,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "separat",
     "mnemonicHook": "SEPARET",
-    "mnemonicScene": "Öğretmen \"SEPARET!\" diyerek kırmızı kartları diğerlerinden AYIRIYOR. Bu sahne size SEPARATE kelimesinin AYIRMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Öğretmen \"SEPARET!\" diyerek kırmızı kartları diğerlerinden AYIRIYOR. Bu sahne size SEPARATE kelimesinin AYIRMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g2f655b4b6ddc4d8a7cdfe2c76eac58e0780de8e86fd740db7df36e5e3d45ac479e43070c9e05629defacb9597b74e5db591efb3af33f8e9d2ec8983815506c72_640.jpg",
+    "imageSource": "https://pixabay.com/photos/man-woman-composing-dispute-2933991/"
   },
   {
     "english": "Length",
@@ -5703,7 +6167,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "lengt",
     "mnemonicHook": "LENGT",
-    "mnemonicScene": "Marangoz metreyle tahtanın UZUNLUĞUNU ölçerken \"LENGT!\" diyor. Bu sahne size LENGTH kelimesinin UZUNLUK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Marangoz metreyle tahtanın UZUNLUĞUNU ölçerken \"LENGT!\" diyor. Bu sahne size LENGTH kelimesinin UZUNLUK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g52d8f69ca3e3dc2561fcf047fa4e4710bd9e5f87c5b88b70b6a188a2b9c805a84dac91f6cde2e7b9d853bfe2174fe08d_640.jpg",
+    "imageSource": "https://pixabay.com/photos/yellow-wall-girl-woman-hipster-926728/"
   },
   {
     "english": "Horizontal",
@@ -5726,7 +6192,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "horizontal",
     "mnemonicHook": "HORİZONTAL",
-    "mnemonicScene": "Su terazisi \"HORİZONTAL!\" diyerek masanın YATAY olduğunu gösteriyor. Bu sahne size HORIZONTAL kelimesinin YATAY olduğunu hatırlatacaktır."
+    "mnemonicScene": "Su terazisi \"HORİZONTAL!\" diyerek masanın YATAY olduğunu gösteriyor. Bu sahne size HORIZONTAL kelimesinin YATAY olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g9ad62e3e94da56427d1929b1399ecbe8cf5124b202d63348ac480b0915f0a1cb89cc6529cadcf09595837239fa429d7b_640.jpg",
+    "imageSource": "https://pixabay.com/photos/wood-board-structure-boards-grain-591631/"
   },
   {
     "english": "Strap",
@@ -5749,7 +6217,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "stıræp",
     "mnemonicHook": "STRAP",
-    "mnemonicScene": "Yolcu \"STRAP!\" diyerek çantasının KAYIŞINI omzuna takıyor. Bu sahne size STRAP kelimesinin KAYIŞ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Yolcu \"STRAP!\" diyerek çantasının KAYIŞINI omzuna takıyor. Bu sahne size STRAP kelimesinin KAYIŞ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g1fadb0bf7600e488ed60b63ceb012d92d6642e636c3262a586bab71b69a77be3f2b10add8d04c24829e89ba98f424e6a101f75921117b91c4f626f49ba61ab90_640.jpg",
+    "imageSource": "https://pixabay.com/photos/time-clock-wrist-watch-chronometer-3091031/"
   },
   {
     "english": "Attach",
@@ -5772,7 +6242,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "etaç",
     "mnemonicHook": "ETAÇ",
-    "mnemonicScene": "Tamirci \"ETAÇ!\" diyerek tabelayı kapıya TUTTURUYOR. Bu sahne size ATTACH kelimesinin TUTTURMAK, BAĞLAMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tamirci \"ETAÇ!\" diyerek tabelayı kapıya TUTTURUYOR. Bu sahne size ATTACH kelimesinin TUTTURMAK, BAĞLAMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gae9ca108e9b3abd0d5cce00fa9a4ea25f9d3fe1f5fd241af0c138745b171ee2734f420c7704ae7344a21c82414b790135fa3d1249e5e21ee6cef967082b1d37e_640.jpg",
+    "imageSource": "https://pixabay.com/photos/heart-castle-padlock-lock-fence-10092768/"
   },
   {
     "english": "Garment",
@@ -5795,7 +6267,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "garment",
     "mnemonicHook": "GARMENT",
-    "mnemonicScene": "Terzi \"GARMENT!\" diyerek yeni bir GİYSİYİ provasını yapıyor. Bu sahne size GARMENT kelimesinin GİYSİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Terzi \"GARMENT!\" diyerek yeni bir GİYSİYİ provasını yapıyor. Bu sahne size GARMENT kelimesinin GİYSİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gb9bde6470c7a4581e7d7d12bfd4a381314ba40cba460e9f8e844a6222b246aa3b63aecdc76858fc7ad309a6fc5f522e3875d44da91392b2b27a19e043548c5a4_640.jpg",
+    "imageSource": "https://pixabay.com/photos/jeans-fabric-denim-structure-blue-1161035/"
   },
   {
     "english": "Hanger",
@@ -5818,7 +6292,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "hengır",
     "mnemonicHook": "HENGIR",
-    "mnemonicScene": "Dolap görevlisi \"HENGIR!\" diyerek paltoyu ASKIYA asıyor. Bu sahne size HANGER kelimesinin ASKI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Dolap görevlisi \"HENGIR!\" diyerek paltoyu ASKIYA asıyor. Bu sahne size HANGER kelimesinin ASKI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g6eab5737330bfbbd8a5cef56f0721d4ca0e2b9a0f018204c5deff2b6752b80f98a0519c670c7cbfa269197b44bf0f76a665d51e95a5056178ff5ec21e2b8ce63_640.jpg",
+    "imageSource": "https://pixabay.com/photos/wardrobe-coat-hanger-dressing-room-5961193/"
   },
   {
     "english": "Texture",
@@ -5841,7 +6317,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "teksçır",
     "mnemonicHook": "TEKSÇIR",
-    "mnemonicScene": "Ressam duvarı elleriyle okşayıp \"TEKSÇIR!\" diyerek DOKUSUNU hissediyor. Bu sahne size TEXTURE kelimesinin DOKU olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ressam duvarı elleriyle okşayıp \"TEKSÇIR!\" diyerek DOKUSUNU hissediyor. Bu sahne size TEXTURE kelimesinin DOKU olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g578095143fd3862119279b6e93a4aba39122bdc478d3eb21329a0fd628ce89824f022f35ab6410dbeb3c5ab7634219bf09414af8652f960809e21c11ae008ea1_640.jpg",
+    "imageSource": "https://pixabay.com/photos/paper-old-texture-parchment-1074131/"
   },
   {
     "english": "Additive",
@@ -5864,7 +6342,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "additiv",
     "mnemonicHook": "ADİTİV",
-    "mnemonicScene": "Mekanik \"ADİTİV!\" diyerek yakıta KATKI MADDESİ ekliyor. Bu sahne size ADDITIVE kelimesinin KATKI MADDESİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Mekanik \"ADİTİV!\" diyerek yakıta KATKI MADDESİ ekliyor. Bu sahne size ADDITIVE kelimesinin KATKI MADDESİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g874cb157c7d23b21ae23dbafa12c9986381e662d2e778ad8bad2d8e9a77a01b4bf3ba2d3f00dd3052d6cec9161292fba_640.jpg",
+    "imageSource": "https://pixabay.com/photos/3d-printer-printing-technology-791205/"
   },
   {
     "english": "Scanr",
@@ -5910,7 +6390,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "hold, kiip",
     "mnemonicHook": "HOLD KİIP",
-    "mnemonicScene": "Öğrenci \"HOLD KİIP!\" diyerek kağıdı TUTUP güvenle SAKLIYOR. Bu sahne size HOLD, KEEP kelimelerinin TUTMAK, SAKLAMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Öğrenci \"HOLD KİIP!\" diyerek kağıdı TUTUP güvenle SAKLIYOR. Bu sahne size HOLD, KEEP kelimelerinin TUTMAK, SAKLAMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g444adb04da05b352c191f2c0a5b383beeadfcc3a5875755ea5f8f175469b908bae9d6779e867aa5b12ef7929c87337bd56de572ef0d14a171615bea7d2e7a98f_640.jpg",
+    "imageSource": "https://pixabay.com/photos/hand-leather-touch-fingers-leaf-9723837/"
   },
   {
     "english": "Sensor, Sensing Element",
@@ -5933,7 +6415,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "sensor, sensing element",
     "mnemonicHook": "SENSÖR",
-    "mnemonicScene": "Bekçi \"SENSÖR!\" diyerek ortamdaki ısıyı ALGILAYAN cihazı açıyor. Bu sahne size SENSOR kelimesinin SENSÖR, ALGILAYICI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Bekçi \"SENSÖR!\" diyerek ortamdaki ısıyı ALGILAYAN cihazı açıyor. Bu sahne size SENSOR kelimesinin SENSÖR, ALGILAYICI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g374d055dcc699cbb19ecb2cbb96f43fbce5ad5ef5b075af1e9d41af9199c6dea18867b9d641d5769c0e83b2009227405f5f9c89ff863c18a8d7528af2381ef02_640.jpg",
+    "imageSource": "https://pixabay.com/photos/spring-cleaning-sensor-cleaning-2066605/"
   },
   {
     "english": "Adjust, Make Adjustment",
@@ -5956,7 +6440,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "adcust, mak adcustment",
     "mnemonicHook": "ADCAST",
-    "mnemonicScene": "Sürücü \"ADCAST!\" diyerek aynayı AYARLIYOR. Bu sahne size ADJUST kelimesinin AYARLAMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü \"ADCAST!\" diyerek aynayı AYARLIYOR. Bu sahne size ADJUST kelimesinin AYARLAMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gd13f5109e9e777870980884891bc74c27bdb560058cc9b74d3b0fdf515a0f7f9011415af588cb8b152b35052c3f30ca9_640.jpg",
+    "imageSource": "https://pixabay.com/photos/confused-muddled-illogical-880735/"
   },
   {
     "english": "Headband, Headrest, Headpiece",
@@ -5979,7 +6465,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "hiidband, hiidrest, hiidpies",
     "mnemonicHook": "HİDREST",
-    "mnemonicScene": "Yolcu uyuyup \"HİDREST!\" diyerek BAŞINI BAŞ DAYAMA YERİNE koyuyor. Bu sahne size HEADREST kelimesinin BAŞ DAYAMA YERİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Yolcu uyuyup \"HİDREST!\" diyerek BAŞINI BAŞ DAYAMA YERİNE koyuyor. Bu sahne size HEADREST kelimesinin BAŞ DAYAMA YERİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g3ffb7887b19da11666e01544d9494c70d113388df190a793224981c6c1913e8e781f8903feefd9f6137af0fa0c4465bff79a55b7a88959409a25340a1ca8c54e_640.jpg",
+    "imageSource": "https://pixabay.com/photos/girl-grass-nature-summer-cute-1839623/"
   },
   {
     "english": "PSU (Passenger Service Unit)",
@@ -6002,7 +6490,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "psu (passenger servis unit)",
     "mnemonicHook": "PSU",
-    "mnemonicScene": "Hostes \"PSU!\" diyerek yolcuya YOLCU SERVİS BİRİMİNİ açıyor. Bu sahne size PSU kelimesinin YOLCU SERVİS BİRİMİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Hostes \"PSU!\" diyerek yolcuya YOLCU SERVİS BİRİMİNİ açıyor. Bu sahne size PSU kelimesinin YOLCU SERVİS BİRİMİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g81e84080547cfea4beb9db77042bc8ef5a2bc4821535c38bdeefd8191f61ba3668db1f1be707e6ade93cca7ce9468718568c5eeefbe4a4bf61ebc6e685818f0d_640.jpg",
+    "imageSource": "https://pixabay.com/photos/power-supply-case-computer-psu-5209513/"
   },
   {
     "english": "Place, Attach",
@@ -6025,7 +6515,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "plase, attaç",
     "mnemonicHook": "PLEYS ETAÇ",
-    "mnemonicScene": "Teknisyen \"PLEYS ETAÇ!\" diyerek kabloyu YERLEŞTİRİP TAKIYOR. Bu sahne size PLACE, ATTACH kelimelerinin YERLEŞTİRMEK, TAKMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Teknisyen \"PLEYS ETAÇ!\" diyerek kabloyu YERLEŞTİRİP TAKIYOR. Bu sahne size PLACE, ATTACH kelimelerinin YERLEŞTİRMEK, TAKMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g22391f3c01828e298b531d7d1c0dbfa768d488387f1a27967048451754cefb95dc07a7f58d41aad5b2595ab81b35bde05c21d41701345e2c94ab664943f01534_640.jpg",
+    "imageSource": "https://pixabay.com/photos/wedding-reception-table-banquet-1854074/"
   },
   {
     "english": "Refuel/Defuel Coupling",
@@ -6048,7 +6540,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "refuel/defuel koupling",
     "mnemonicHook": "REFYUEL KUPLİNG",
-    "mnemonicScene": "Tanker görevlisi \"REFYUEL KUPLİNG!\" diyerek uçağa YAKIT İKMAL BAĞLANTISINI takıyor. Bu sahne size REFUEL/DEFUEL COUPLING kelimesinin YAKIT İKMAL BAĞLANTISI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tanker görevlisi \"REFYUEL KUPLİNG!\" diyerek uçağa YAKIT İKMAL BAĞLANTISINI takıyor. Bu sahne size REFUEL/DEFUEL COUPLING kelimesinin YAKIT İKMAL BAĞLANTISI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gd8035e583e6d712957a97bc4157b06999c553c5531a7765dc71239c4ed5b4bd4d6da082b11cd73502b11421da2a1c7bb_640.jpg",
+    "imageSource": "https://pixabay.com/photos/petrol-gasoline-diesel-gas-996617/"
   },
   {
     "english": "DC (Direct Current)",
@@ -6071,7 +6565,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "dk (direkt kurrent)",
     "mnemonicHook": "DİSİ",
-    "mnemonicScene": "Elektrikçi \"DİSİ!\" diyerek bataryadan DOĞRU AKIM çekiyor. Bu sahne size DC kelimesinin DOĞRU AKIM olduğunu hatırlatacaktır."
+    "mnemonicScene": "Elektrikçi \"DİSİ!\" diyerek bataryadan DOĞRU AKIM çekiyor. Bu sahne size DC kelimesinin DOĞRU AKIM olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g329053699c14956fa3b17e95daa6a716085c6cb57fe8fca8a89277b2dc00d1e0414f733162d0d2e97c6857a99e30ac10c2d11ef9de18ba3814a99f8f771174a3_640.jpg",
+    "imageSource": "https://pixabay.com/photos/capital-usa-government-landmark-5043172/"
   },
   {
     "english": "Occur, Cause, Be Due To",
@@ -6117,7 +6613,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "hiiyt, altitude, rang",
     "mnemonicHook": "HAYT",
-    "mnemonicScene": "Dağcı tepeye çıkıp \"HAYT!\" diyerek YÜKSEKLİĞİ ölçüyor. Bu sahne size HEIGHT kelimesinin YÜKSEKLİK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Dağcı tepeye çıkıp \"HAYT!\" diyerek YÜKSEKLİĞİ ölçüyor. Bu sahne size HEIGHT kelimesinin YÜKSEKLİK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g4cd7ae532fe9c07161237578dbc633e76db57d1008c510df4b8e88070e882af4c939be815019d48ee91b73d5b8116be01a38d2dfa4accd7aebc762d13eb77d07_640.jpg",
+    "imageSource": "https://pixabay.com/photos/girl-swing-rock-skyline-skyscraper-2067378/"
   },
   {
     "english": "AC (Alternating Current)",
@@ -6140,7 +6638,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "ak (alternating kurrent)",
     "mnemonicHook": "EYSİ",
-    "mnemonicScene": "Elektrikçi \"EYSİ!\" diyerek duvar prizinden ALTERNATİF AKIM alıyor. Bu sahne size AC kelimesinin ALTERNATİF AKIM olduğunu hatırlatacaktır."
+    "mnemonicScene": "Elektrikçi \"EYSİ!\" diyerek duvar prizinden ALTERNATİF AKIM alıyor. Bu sahne size AC kelimesinin ALTERNATİF AKIM olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g61bc24e4f11a3a42c40975891f112004770da0d249de53238d3ce8f8b597a67e7930b81e8f62beb46378678739091469e380f0ef3b5ecd4b8e20b888cef99a87_640.jpg",
+    "imageSource": "https://pixabay.com/photos/air-conditioner-global-warming-3629396/"
   },
   {
     "english": "Device, Appliance",
@@ -6163,7 +6663,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "devise, applians",
     "mnemonicHook": "DIVAYS",
-    "mnemonicScene": "Mühendis \"DIVAYS!\" diyerek yeni bir CİHAZ tanıtıyor. Bu sahne size DEVICE kelimesinin CİHAZ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Mühendis \"DIVAYS!\" diyerek yeni bir CİHAZ tanıtıyor. Bu sahne size DEVICE kelimesinin CİHAZ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g47a4f84436f0a93fa6c38c2db40f1c9ca7362e22f39f18389183dda6d873174eac3858491f3583e16dbb7bb1b9c5a594156d103370c135622e992c9dde3a46fc_640.jpg",
+    "imageSource": "https://pixabay.com/photos/hearing-aid-device-tool-macro-6797470/"
   },
   {
     "english": "Surface Painting",
@@ -6186,7 +6688,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "surfas painting",
     "mnemonicHook": "SÖRFES PEYNTİNG",
-    "mnemonicScene": "Ressam \"SÖRFES PEYNTİNG!\" diyerek duvarın YÜZEYİNE boya sürüyor. Bu sahne size SURFACE PAINTING kelimesinin YÜZEY BOYAMA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ressam \"SÖRFES PEYNTİNG!\" diyerek duvarın YÜZEYİNE boya sürüyor. Bu sahne size SURFACE PAINTING kelimesinin YÜZEY BOYAMA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf7c291d4e8bef11af146331f37410cbb5ea2616b8e951b3f453d44253437ec9cc42996896513d2bc1ee12cea3c103507363c6e9f16c55249f28ed6e990eb4d01_640.jpg",
+    "imageSource": "https://pixabay.com/photos/texture-acrylic-abstract-background-2917553/"
   },
   {
     "english": "Worn, Tattered",
@@ -6209,7 +6713,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "vorn, tattered",
     "mnemonicHook": "VORN",
-    "mnemonicScene": "Çocuk \"VORN!\" diyerek yıpranmış ayakkabılarına bakıyor, ESKİMİŞ görünüyor. Bu sahne size WORN kelimesinin YIPRANMIŞ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Çocuk \"VORN!\" diyerek yıpranmış ayakkabılarına bakıyor, ESKİMİŞ görünüyor. Bu sahne size WORN kelimesinin YIPRANMIŞ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g9a3d97d2d90a229a27b68c8e8b42675e9d11fe0e5bfb9ad249b6ae8b7a283b0cc24782f4c81acdaf2ba74c815f0fbfde6943a11cdc2f5611d3ef22b225bc8cad_640.jpg",
+    "imageSource": "https://pixabay.com/photos/blackboard-wall-black-dark-grunge-1846865/"
   },
   {
     "english": "Refueling",
@@ -6232,7 +6738,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "refueling",
     "mnemonicHook": "RİFYUELİNG",
-    "mnemonicScene": "Benzinci \"RİFYUELİNG!\" diyerek araca YAKIT İKMALİ yapıyor. Bu sahne size REFUELING kelimesinin YAKIT İKMALİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Benzinci \"RİFYUELİNG!\" diyerek araca YAKIT İKMALİ yapıyor. Bu sahne size REFUELING kelimesinin YAKIT İKMALİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g25a8757fb9e17ab901f7b0619f06f3bbd9bf24bfb872d3b7d85c30e80b552a1ea81fcb388ec8e27b9080e95081fadc9de0cb886df259f2499fd6b8483f9338a2_640.jpg",
+    "imageSource": "https://pixabay.com/photos/filling-station-gas-gas-station-1839760/"
   },
   {
     "english": "Fuel Tank",
@@ -6255,7 +6763,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel tank",
     "mnemonicHook": "FYUEL TENK",
-    "mnemonicScene": "Sürücü \"FYUEL TENK!\" diyerek YAKIT TANKINI dolduruyor. Bu sahne size FUEL TANK kelimesinin YAKIT TANKI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü \"FYUEL TENK!\" diyerek YAKIT TANKINI dolduruyor. Bu sahne size FUEL TANK kelimesinin YAKIT TANKI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g15a3dd0eb653af09d27270ff53fd1a846e94c8e9f81395cb0b29f426935ed9b63e0cda4f2850f19261430ded44ad70579e555a37b237c02ff23276de428160b2_640.jpg",
+    "imageSource": "https://pixabay.com/photos/motorcycle-transportation-emblem-1905281/"
   },
   {
     "english": "Fuel Level",
@@ -6278,7 +6788,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel level",
     "mnemonicHook": "FYUEL LEVEL",
-    "mnemonicScene": "Sürücü göstergeye bakıp \"FYUEL LEVEL!\" diyerek YAKIT SEVİYESİNİ okuyor. Bu sahne size FUEL LEVEL kelimesinin YAKIT SEVİYESİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü göstergeye bakıp \"FYUEL LEVEL!\" diyerek YAKIT SEVİYESİNİ okuyor. Bu sahne size FUEL LEVEL kelimesinin YAKIT SEVİYESİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g749a4555406b53208bea6d7c5a99e07425dcfabfcb70925838d8c0840e19915e52b7c7b3f4a7cf3fe6544cfb8d3b8482f76849e6e0a82a8cee9a34813dcd6ab7_640.jpg",
+    "imageSource": "https://pixabay.com/photos/bmw-bmw-5-e39-the-interior-of-the-4499819/"
   },
   {
     "english": "Fuel Cap",
@@ -6301,7 +6813,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel kap",
     "mnemonicHook": "FYUEL KAP",
-    "mnemonicScene": "Sürücü \"FYUEL KAP!\" diyerek YAKIT DEPOSU KAPAĞINI kapatıyor. Bu sahne size FUEL CAP kelimesinin YAKIT DEPOSU KAPAĞI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü \"FYUEL KAP!\" diyerek YAKIT DEPOSU KAPAĞINI kapatıyor. Bu sahne size FUEL CAP kelimesinin YAKIT DEPOSU KAPAĞI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g564c8b754f76398ae3690013dfff92fff70400f7dd0c2f046d4f6298aad9aac5850a6c83964636ccab19d50bb0ef74bc629b99fe2920abdccc91618ab6c5f2e6_640.jpg",
+    "imageSource": "https://pixabay.com/photos/super-petrol-gas-station-refuel-1408490/"
   },
   {
     "english": "Fuel Filter",
@@ -6324,7 +6838,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel filter",
     "mnemonicHook": "FYUEL FİLTIR",
-    "mnemonicScene": "Tamirci \"FYUEL FİLTIR!\" diyerek kirli YAKIT FİLTRESİNİ değiştiriyor. Bu sahne size FUEL FILTER kelimesinin YAKIT FİLTRESİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tamirci \"FYUEL FİLTIR!\" diyerek kirli YAKIT FİLTRESİNİ değiştiriyor. Bu sahne size FUEL FILTER kelimesinin YAKIT FİLTRESİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g58a3b2e730bf4c723b0cd43afe7c0fdcd9a56f16b45e5364231ceb90b347c7254ccdf24b86da3f8828f144f2d036c31bba6a1b5fc4140be0f0ea35601d9bd575_640.jpg",
+    "imageSource": "https://pixabay.com/photos/car-engine-motor-clean-customized-1548434/"
   },
   {
     "english": "Fuel Line",
@@ -6347,7 +6863,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel lin",
     "mnemonicHook": "FYUEL LAYN",
-    "mnemonicScene": "Tesisatçı \"FYUEL LAYN!\" diyerek YAKIT HATTINDAKİ sızıntıyı bulup kapatıyor. Bu sahne size FUEL LINE kelimesinin YAKIT HATTI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tesisatçı \"FYUEL LAYN!\" diyerek YAKIT HATTINDAKİ sızıntıyı bulup kapatıyor. Bu sahne size FUEL LINE kelimesinin YAKIT HATTI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g4ac77c88644f34f2c09eababf8df5b8ded159f0b1de7f524338a91a7048cf2fb990f7be12b7964925f8f608f8cc504c70ef8fe387720e6b25b88c3055197a35c_640.jpg",
+    "imageSource": "https://pixabay.com/photos/marine-engine-machine-valves-4608740/"
   },
   {
     "english": "Fuel Pump",
@@ -6370,7 +6888,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel pump",
     "mnemonicHook": "FYUEL PAMP",
-    "mnemonicScene": "Mekanik \"FYUEL PAMP!\" diyerek YAKIT POMPASINI çalıştırıp benzini basıyor. Bu sahne size FUEL PUMP kelimesinin YAKIT POMPASI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Mekanik \"FYUEL PAMP!\" diyerek YAKIT POMPASINI çalıştırıp benzini basıyor. Bu sahne size FUEL PUMP kelimesinin YAKIT POMPASI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g1d642b7a64565e42aaff2b29cd0c6d06944c44950eeef904573844abfca74338828b9fb3cc08a389cfafafe462a9655c3b989a00f92ea3bdbe76da720d14685d_640.jpg",
+    "imageSource": "https://pixabay.com/photos/gas-pump-petrol-stations-petrol-gas-1914310/"
   },
   {
     "english": "Fuel Injector",
@@ -6393,7 +6913,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel incektor",
     "mnemonicHook": "FYUEL İNCEKTOR",
-    "mnemonicScene": "Mekanik \"FYUEL İNCEKTOR!\" diyerek YAKIT ENJEKTÖRÜNÜ püskürtüp temizliyor. Bu sahne size FUEL INJECTOR kelimesinin YAKIT ENJEKTÖRÜ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Mekanik \"FYUEL İNCEKTOR!\" diyerek YAKIT ENJEKTÖRÜNÜ püskürtüp temizliyor. Bu sahne size FUEL INJECTOR kelimesinin YAKIT ENJEKTÖRÜ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g55edb4fa946d3cbd23fd2deb864e3025a12cc0c37eb44cf0a6fa748293b0bc0bdf78ed077351ab812ab461c5ecd1142f4f76aef92bdbfad829ccbbdb2f18c486_640.jpg",
+    "imageSource": "https://pixabay.com/photos/marine-engine-machine-valves-4608740/"
   },
   {
     "english": "Fuel Rail",
@@ -6416,7 +6938,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel rail",
     "mnemonicHook": "FYUEL REYL",
-    "mnemonicScene": "Demiryolcu \"FYUEL REYL!\" diyerek YAKIT RAYINI kontrol ediyor. Bu sahne size FUEL RAIL kelimesinin YAKIT RAYI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Demiryolcu \"FYUEL REYL!\" diyerek YAKIT RAYINI kontrol ediyor. Bu sahne size FUEL RAIL kelimesinin YAKIT RAYI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gdc8914968478f05bfe3f6f04c3a1173f8c6b46f32cb7de61a394012b005a0618bc2cdfd4fe7aa0ae9c5ac8f7d1eb7cc80ab2fa879fd0f75de715cc2211dffafa_640.jpg",
+    "imageSource": "https://pixabay.com/photos/hydrogen-trainset-fuel-cell-4276984/"
   },
   {
     "english": "Fuel Pressure",
@@ -6439,7 +6963,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel pressur",
     "mnemonicHook": "FYUEL PREŞIR",
-    "mnemonicScene": "Teknisyen manometreye bakıp \"FYUEL PREŞIR!\" diyerek YAKIT BASINCINI ölçüyor. Bu sahne size FUEL PRESSURE kelimesinin YAKIT BASINCI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Teknisyen manometreye bakıp \"FYUEL PREŞIR!\" diyerek YAKIT BASINCINI ölçüyor. Bu sahne size FUEL PRESSURE kelimesinin YAKIT BASINCI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g59a1253d22f49f5a9bf032de94c44854fe6d32956fb60aebccd6bd989185bad314320ffccbfe1c87dd975d4499a153c5608e52bf1366be7ddee90521719aa2cf_640.jpg",
+    "imageSource": "https://pixabay.com/photos/gas-pipeline-stop-gas-stop-tube-7276242/"
   },
   {
     "english": "Fuel Return Line",
@@ -6462,7 +6988,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel return lin",
     "mnemonicHook": "FYUEL RİTÖRN LAYN",
-    "mnemonicScene": "Sürücü \"FYUEL RİTÖRN LAYN!\" diyerek fazla yakıtın GERİ DÖNDÜĞÜ hattı kontrol ediyor. Bu sahne size FUEL RETURN LINE kelimesinin YAKIT GERİ DÖNÜŞ HATTI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü \"FYUEL RİTÖRN LAYN!\" diyerek fazla yakıtın GERİ DÖNDÜĞÜ hattı kontrol ediyor. Bu sahne size FUEL RETURN LINE kelimesinin YAKIT GERİ DÖNÜŞ HATTI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g0c58dda6ecbcb7f2ff07b4c2920d0be68f9cd96edaeec909a7939cb0257c7d9c4f6b061e37d687d02eba18f96716fca8be4dab56f04520799d8d7905622e9e01_640.jpg",
+    "imageSource": "https://pixabay.com/photos/money-profit-finance-business-2696228/"
   },
   {
     "english": "Fuel Gauge",
@@ -6485,7 +7013,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel gaug",
     "mnemonicHook": "FYUEL GEYC",
-    "mnemonicScene": "Sürücü göstergeye bakıp \"FYUEL GEYC!\" diyerek YAKIT GÖSTERGESİNİ okuyor. Bu sahne size FUEL GAUGE kelimesinin YAKIT GÖSTERGESİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü göstergeye bakıp \"FYUEL GEYC!\" diyerek YAKIT GÖSTERGESİNİ okuyor. Bu sahne size FUEL GAUGE kelimesinin YAKIT GÖSTERGESİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g60bbb03644d28016fad96070b7f98246a29e6bb4596795510f6d6e9835336c41fccdf6a7f72d6d932f033f11b5be696f23308cd0e656101d6308259483243579_640.jpg",
+    "imageSource": "https://pixabay.com/photos/car-dashboard-speedometer-speed-2667434/"
   },
   {
     "english": "Fuel Economy",
@@ -6508,7 +7038,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel ekonomi",
     "mnemonicHook": "FYUEL EKONOMİ",
-    "mnemonicScene": "Ekonomist \"FYUEL EKONOMİ!\" diyerek YAKIT EKONOMİSİ tablosunu gösteriyor. Bu sahne size FUEL ECONOMY kelimesinin YAKIT EKONOMİSİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ekonomist \"FYUEL EKONOMİ!\" diyerek YAKIT EKONOMİSİ tablosunu gösteriyor. Bu sahne size FUEL ECONOMY kelimesinin YAKIT EKONOMİSİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gbac3d865f1433e8526f4ea5088e5d75f8fcdecde703c4247c0da2c7fbbe63dea1b436fe93f135545ebdd44899b45064c9db01d2924d9524232c5f1e5d2ce8e5d_640.jpg",
+    "imageSource": "https://pixabay.com/photos/gas-station-red-car-fuel-nozzle-10380240/"
   },
   {
     "english": "Fuel Consumption",
@@ -6531,7 +7063,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel konsumpşın",
     "mnemonicHook": "FYUEL KONSÜMPŞIN",
-    "mnemonicScene": "Sürücü \"FYUEL KONSÜMPŞIN!\" diyerek çok YAKIT TÜKETTİĞİNİ fark ediyor. Bu sahne size FUEL CONSUMPTION kelimesinin YAKIT TÜKETİMİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü \"FYUEL KONSÜMPŞIN!\" diyerek çok YAKIT TÜKETTİĞİNİ fark ediyor. Bu sahne size FUEL CONSUMPTION kelimesinin YAKIT TÜKETİMİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g2323510a2d3a7b01d65d1a307e0e3a27801476387e0141d7e23213cde9e57a1bf402f2e657f23a4156bd02f84553b4e5eed5c1004a19af553e7a9eb33079c066_640.jpg",
+    "imageSource": "https://pixabay.com/photos/car-inside-fuel-tank-vehicle-4707281/"
   },
   {
     "english": "Fuel Efficiency",
@@ -6554,7 +7088,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel effisiensi",
     "mnemonicHook": "FYUEL EFİŞENSİ",
-    "mnemonicScene": "Mühendis \"FYUEL EFİŞENSİ!\" diyerek YAKIT VERİMLİLİĞİNİ ölçüyor. Bu sahne size FUEL EFFICIENCY kelimesinin YAKIT VERİMLİLİĞİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Mühendis \"FYUEL EFİŞENSİ!\" diyerek YAKIT VERİMLİLİĞİNİ ölçüyor. Bu sahne size FUEL EFFICIENCY kelimesinin YAKIT VERİMLİLİĞİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf3c9c3d94c72620219eeeb1abdf58f352d9a08a435555c7e14ba70fe0d31233e8b46fdafbbf85a6778dc617915d62879526b3b066550786a7c6538058bb87d96_640.jpg",
+    "imageSource": "https://pixabay.com/photos/vehicles-sign-business-emission-3316660/"
   },
   {
     "english": "Fuel Emissions",
@@ -6577,7 +7113,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel emiscıns",
     "mnemonicHook": "FYUEL EMİSYONS",
-    "mnemonicScene": "Çevreci \"FYUEL EMİSYONS!\" diye bağırıp egzoz EMİSYONLARINI şikâyet ediyor. Bu sahne size FUEL EMISSIONS kelimesinin YAKIT EMİSYONLARI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Çevreci \"FYUEL EMİSYONS!\" diye bağırıp egzoz EMİSYONLARINI şikâyet ediyor. Bu sahne size FUEL EMISSIONS kelimesinin YAKIT EMİSYONLARI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g9503a8d16f9cb25867f4255a5a70436ab864516dd36122f5df7efcdf950920274a86c64fee8c1da533a57f6005231599ec1746daf67292c943957137e3eaf107_640.jpg",
+    "imageSource": "https://pixabay.com/photos/power-station-chimneys-factory-smog-6579092/"
   },
   {
     "english": "Fuel Additive",
@@ -6600,7 +7138,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel additiv",
     "mnemonicHook": "FYUEL ADİTİV",
-    "mnemonicScene": "Sürücü tanka \"FYUEL ADİTİV!\" diyerek YAKIT KATKISI döküyor. Bu sahne size FUEL ADDITIVE kelimesinin YAKIT KATKISI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü tanka \"FYUEL ADİTİV!\" diyerek YAKIT KATKISI döküyor. Bu sahne size FUEL ADDITIVE kelimesinin YAKIT KATKISI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g8534bb226f38a410d1a6ff2a57c8cdd6f2bed2ad15b5e5e1310e720f7d2c681aa3f7dd490316ea784d23d50a89efd3f7_640.jpg",
+    "imageSource": "https://pixabay.com/photos/flame-gas-gas-flame-blue-hot-ring-580342/"
   },
   {
     "english": "Fuel System",
@@ -6623,7 +7163,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel system",
     "mnemonicHook": "FYUEL SİSTEM",
-    "mnemonicScene": "Teknisyen \"FYUEL SİSTEM!\" diyerek bütün YAKIT SİSTEMİNİ denetliyor. Bu sahne size FUEL SYSTEM kelimesinin YAKIT SİSTEMİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Teknisyen \"FYUEL SİSTEM!\" diyerek bütün YAKIT SİSTEMİNİ denetliyor. Bu sahne size FUEL SYSTEM kelimesinin YAKIT SİSTEMİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g6034c71714923079c461358dd549904fa3a11a841207dd3f62927b200ef6e87750c723c37ac9ba1066f3588e6adf406d3fbe74cbb94b43d1fe5406a34e8e3675_640.jpg",
+    "imageSource": "https://pixabay.com/photos/car-engine-motor-clean-customized-1548434/"
   },
   {
     "english": "Fuel Tank Sender",
@@ -6646,7 +7188,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel tank sender",
     "mnemonicHook": "FYUEL TENK SENDER",
-    "mnemonicScene": "Postacı \"FYUEL TENK SENDER!\" diyerek YAKIT TANKI GÖNDERİCİSİNİ taşıyor. Bu sahne size FUEL TANK SENDER kelimesinin YAKIT TANKI GÖNDERİCİSİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Postacı \"FYUEL TENK SENDER!\" diyerek YAKIT TANKI GÖNDERİCİSİNİ taşıyor. Bu sahne size FUEL TANK SENDER kelimesinin YAKIT TANKI GÖNDERİCİSİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g9b8816208b6eb9f7cd7ba943d7f52b1d36932d769385010298f6ba918b7909bb8fcbc665aaef3f19a2d3123f3060e9d07718445bf93604cbe70d3edd16d32148_640.jpg",
+    "imageSource": "https://pixabay.com/photos/motorcycle-transportation-emblem-1905281/"
   },
   {
     "english": "Fuel Tank Sensor",
@@ -6669,7 +7213,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel tank sensor",
     "mnemonicHook": "FYUEL TENK SENSÖR",
-    "mnemonicScene": "Bekçi \"FYUEL TENK SENSÖR!\" diyerek TANK SENSÖRÜNÜ ölçüyor. Bu sahne size FUEL TANK SENSOR kelimesinin YAKIT TANKI SENSÖRÜ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Bekçi \"FYUEL TENK SENSÖR!\" diyerek TANK SENSÖRÜNÜ ölçüyor. Bu sahne size FUEL TANK SENSOR kelimesinin YAKIT TANKI SENSÖRÜ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g9d913bd4dcdd144fbc9645376db0bd9e58ad8afaa36ab58d8faada90f52304a229acf123cdf8aa8e230ef036ab0aee3b8e30a35754a3514d7b8e2182a3e5e8c2_640.jpg",
+    "imageSource": "https://pixabay.com/photos/motorcycle-transportation-emblem-1905281/"
   },
   {
     "english": "Fuel Level Sensor",
@@ -6692,7 +7238,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel level sensor",
     "mnemonicHook": "FYUEL LEVEL SENSÖR",
-    "mnemonicScene": "Ölçümcü \"FYUEL LEVEL SENSÖR!\" diyerek YAKIT SEVİYESİ SENSÖRÜNÜ kontrol ediyor. Bu sahne size FUEL LEVEL SENSOR kelimesinin YAKIT SEVİYESİ SENSÖRÜ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ölçümcü \"FYUEL LEVEL SENSÖR!\" diyerek YAKIT SEVİYESİ SENSÖRÜNÜ kontrol ediyor. Bu sahne size FUEL LEVEL SENSOR kelimesinin YAKIT SEVİYESİ SENSÖRÜ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gb12d056a59bea51d8e14d7459796e9ecad62e66b46e4383e0b235a6525c5400fca9722cfd57a8e74d9d0547caa517a64_640.jpg",
+    "imageSource": "https://pixabay.com/photos/flame-gas-gas-flame-blue-hot-ring-580342/"
   },
   {
     "english": "Fuel Tank Float",
@@ -6715,7 +7263,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel tank float",
     "mnemonicHook": "FYUEL TENK FLOT",
-    "mnemonicScene": "Balıkçı \"FYUEL TENK FLOT!\" diyerek suyun üstünde yüzen ŞAMANDIRAYI çekiyor. Bu sahne size FUEL TANK FLOAT kelimesinin YAKIT TANKI ŞAMANDIRASI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Balıkçı \"FYUEL TENK FLOT!\" diyerek suyun üstünde yüzen ŞAMANDIRAYI çekiyor. Bu sahne size FUEL TANK FLOAT kelimesinin YAKIT TANKI ŞAMANDIRASI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gdf2a9c1cae1136ec4bf9b2cc829d24125e74ce0efe023d71c97a7d5591b41874a9a324b6deddd50449f8838ef9003a0bbb6f4b232f00ac541992c1ac2e385d97_640.jpg",
+    "imageSource": "https://pixabay.com/photos/motorcycle-transportation-emblem-1905281/"
   },
   {
     "english": "Fuel Tank Strainer",
@@ -6738,7 +7288,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel tank strainer",
     "mnemonicHook": "FYUEL TENK STREYNER",
-    "mnemonicScene": "Aşçı \"FYUEL TENK STREYNER!\" diyerek makarnayı SÜZGECE döküp temizliyor. Bu sahne size FUEL TANK STRAINER kelimesinin YAKIT TANKI SÜZGECİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Aşçı \"FYUEL TENK STREYNER!\" diyerek makarnayı SÜZGECE döküp temizliyor. Bu sahne size FUEL TANK STRAINER kelimesinin YAKIT TANKI SÜZGECİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf4a95df4cae8d55314c5f1a2fec0f412628c43fe334e3ba10d27b3dc4df9d546ca2b8643081a422363ac0a7171315df8a8d256ad48285a6341110d2d71383814_640.jpg",
+    "imageSource": "https://pixabay.com/photos/motorcycle-transportation-emblem-1905281/"
   },
   {
     "english": "Fuel Tank Breather",
@@ -6761,7 +7313,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel tank briiter",
     "mnemonicHook": "FYUEL TENK BRİTER",
-    "mnemonicScene": "Sürücü \"FYUEL TENK BRİTER!\" diyerek tankın HAVALANDIRMASINI açıp nefes almasını sağlıyor. Bu sahne size FUEL TANK BREATHER kelimesinin YAKIT TANKI HAVALANDIRMASI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü \"FYUEL TENK BRİTER!\" diyerek tankın HAVALANDIRMASINI açıp nefes almasını sağlıyor. Bu sahne size FUEL TANK BREATHER kelimesinin YAKIT TANKI HAVALANDIRMASI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g4caa6be8f4d91af0bd8823d2bad44ba81ccf06ff65471ce39adcdd9e18daa3cd8e5a2eb9e99dbba81386a5969395880277c85671057127f30313cea2ed0639ea_640.jpg",
+    "imageSource": "https://pixabay.com/photos/motorcycle-transportation-emblem-1905281/"
   },
   {
     "english": "Fuel Tank Vent",
@@ -6784,7 +7338,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel tank vent",
     "mnemonicHook": "FYUEL TENK VENT",
-    "mnemonicScene": "Tesisatçı \"FYUEL TENK VENT!\" diyerek tankın HAVALANDIRMA DELİĞİNİ açıyor. Bu sahne size FUEL TANK VENT kelimesinin YAKIT TANKI HAVALANDIRMA DELİĞİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tesisatçı \"FYUEL TENK VENT!\" diyerek tankın HAVALANDIRMA DELİĞİNİ açıyor. Bu sahne size FUEL TANK VENT kelimesinin YAKIT TANKI HAVALANDIRMA DELİĞİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g4567096d32258315e907ea41b28c6a937e7d49af7d28829f91e3c19f94b521c1c9d85e900a7374253bc2b3e849922363d30e444eb307e37d760de1e77479fc11_640.jpg",
+    "imageSource": "https://pixabay.com/photos/motorcycle-transportation-emblem-1905281/"
   },
   {
     "english": "Fuel Tank Cap",
@@ -6807,7 +7363,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel tank kap",
     "mnemonicHook": "FYUEL TENK KAP",
-    "mnemonicScene": "Sürücü \"FYUEL TENK KAP!\" diyerek YAKIT TANKI KAPAĞINI sıkıca kapatıyor. Bu sahne size FUEL TANK CAP kelimesinin YAKIT TANKI KAPAĞI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü \"FYUEL TENK KAP!\" diyerek YAKIT TANKI KAPAĞINI sıkıca kapatıyor. Bu sahne size FUEL TANK CAP kelimesinin YAKIT TANKI KAPAĞI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g13645fd8f03e75827d34f6e9e9c2345ea06f7f2463504cec26d1e9c23c3d9d7fb70a23cd85e5eabe0df0242f2914aaf72dcdf15a50017c908cfc64e210f63547_640.jpg",
+    "imageSource": "https://pixabay.com/photos/super-petrol-gas-station-refuel-1408490/"
   },
   {
     "english": "Fuel Tank Cap Gasket",
@@ -6830,7 +7388,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel tank kap gasket",
     "mnemonicHook": "FYUEL TENK KAP GASKET",
-    "mnemonicScene": "Tamirci \"FYUEL TENK KAP GASKET!\" diyerek kapağın CONTASINI yenisiyle değiştiriyor. Bu sahne size FUEL TANK CAP GASKET kelimesinin YAKIT TANKI KAPAĞI CONTASI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tamirci \"FYUEL TENK KAP GASKET!\" diyerek kapağın CONTASINI yenisiyle değiştiriyor. Bu sahne size FUEL TANK CAP GASKET kelimesinin YAKIT TANKI KAPAĞI CONTASI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g5c5557e66c6dee9a4d6e0212e25f542dc64547d4d1de44a7efbef84376271ed1d059cd52a49d57bd74263dc573bc2773df24e4a3f2a59343f358098c936f7fc3_640.jpg",
+    "imageSource": "https://pixabay.com/photos/motorcycle-transportation-emblem-1905281/"
   },
   {
     "english": "Fuel Tank Cap Seal",
@@ -6853,7 +7413,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel tank kap siil",
     "mnemonicHook": "FYUEL TENK KAP SİİL",
-    "mnemonicScene": "Tamirci \"FYUEL TENK KAP SİİL!\" diyerek kapağın SIZDIRMAZLIĞINI mühürlüyor. Bu sahne size FUEL TANK CAP SEAL kelimesinin YAKIT TANKI KAPAĞI SIZDIRMAZLIĞI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tamirci \"FYUEL TENK KAP SİİL!\" diyerek kapağın SIZDIRMAZLIĞINI mühürlüyor. Bu sahne size FUEL TANK CAP SEAL kelimesinin YAKIT TANKI KAPAĞI SIZDIRMAZLIĞI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g6ef94c47ad2ad62edcaa38400663c826f08a080fc8629aac02c045895803c452e694f6dd1e0c741186cf7a9529032e2b9d9f5d9d96f4d2bb446f40ab71e37df2_640.jpg",
+    "imageSource": "https://pixabay.com/photos/motorcycle-transportation-emblem-1905281/"
   },
   {
     "english": "Fuel Tank Cap Vent",
@@ -6876,7 +7438,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel tank kap vent",
     "mnemonicHook": "FYUEL TENK KAP VENT",
-    "mnemonicScene": "Temizlikçi \"FYUEL TENK KAP VENT!\" diyerek kapağın HAVALANDIRMA DELİĞİNİ temizliyor. Bu sahne size FUEL TANK CAP VENT kelimesinin YAKIT TANKI KAPAĞI HAVALANDIRMA DELİĞİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Temizlikçi \"FYUEL TENK KAP VENT!\" diyerek kapağın HAVALANDIRMA DELİĞİNİ temizliyor. Bu sahne size FUEL TANK CAP VENT kelimesinin YAKIT TANKI KAPAĞI HAVALANDIRMA DELİĞİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g2c182daa8496d96f4cdbea0ca87e62f18612561a744611d3f58f88fdadc613e8de8739b370ad41347f5ab8778e8e0eda2927a2b9ff6b46adbe2904808580d5ce_640.jpg",
+    "imageSource": "https://pixabay.com/photos/motorcycle-transportation-emblem-1905281/"
   },
   {
     "english": "Fuel Tank Cap Tether",
@@ -6899,7 +7463,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel tank kap teter",
     "mnemonicHook": "FYUEL TENK KAP TETER",
-    "mnemonicScene": "Sürücü kapağın ipini \"FYUEL TENK KAP TETER!\" diyerek BAĞLANTI ipinden tutuyor. Bu sahne size FUEL TANK CAP TETHER kelimesinin YAKIT TANKI KAPAĞI BAĞLANTISI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü kapağın ipini \"FYUEL TENK KAP TETER!\" diyerek BAĞLANTI ipinden tutuyor. Bu sahne size FUEL TANK CAP TETHER kelimesinin YAKIT TANKI KAPAĞI BAĞLANTISI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g606320cad6df112401baff07be62fcc8424ea35fdd516c54ae89205331d596512b5b21118d22322e58c8ae8144b9e917ab09f1ceb0a3d9b1db0774fb38b05417_640.jpg",
+    "imageSource": "https://pixabay.com/photos/motorcycle-transportation-emblem-1905281/"
   },
   {
     "english": "Fuel Tank Cap Lock",
@@ -6922,7 +7488,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel tank kap lok",
     "mnemonicHook": "FYUEL TENK KAP LOK",
-    "mnemonicScene": "Sürücü \"FYUEL TENK KAP LOK!\" diyerek yakıt deposu kapağının KİLİDİNİ kilitliyor. Bu sahne size FUEL TANK CAP LOCK kelimesinin YAKIT TANKI KAPAĞI KİLİDİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü \"FYUEL TENK KAP LOK!\" diyerek yakıt deposu kapağının KİLİDİNİ kilitliyor. Bu sahne size FUEL TANK CAP LOCK kelimesinin YAKIT TANKI KAPAĞI KİLİDİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gcd5fac6c1c8deb624f1856b478f8d083e298743ac49edb97d7c8e243550420a7e685bd8a1a09010fa69c2359d1fbe2254588aba3f334238b95727b3af0a6fe97_640.jpg",
+    "imageSource": "https://pixabay.com/photos/fuel-cap-motorcycle-workshop-4755561/"
   },
   {
     "english": "Fuel Tank Cap Key",
@@ -6945,7 +7513,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuel tank kap kei",
     "mnemonicHook": "FYUEL TENK KAP Kİİ",
-    "mnemonicScene": "Sürücü anahtarını bulamayıp \"FYUEL TENK KAP Kİİ!\" diye arıyor; kapağın ANAHTARI cebinde. Bu sahne size FUEL TANK CAP KEY kelimesinin YAKIT TANKI KAPAĞI ANAHTARI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü anahtarını bulamayıp \"FYUEL TENK KAP Kİİ!\" diye arıyor; kapağın ANAHTARI cebinde. Bu sahne size FUEL TANK CAP KEY kelimesinin YAKIT TANKI KAPAĞI ANAHTARI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g2b925cf690369006c4227c7cae006ec0c3d82b3acbe8b14a56f511e10515aa21a4109574f847c6a281440a657a44328653f02d0f337e090135128a2b720a567b_640.jpg",
+    "imageSource": "https://pixabay.com/photos/fuel-cap-motorcycle-workshop-4755561/"
   },
   {
     "english": "Time tables",
@@ -6968,7 +7538,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "tim tables",
     "mnemonicHook": "TAYM TEYBLS",
-    "mnemonicScene": "Yolcu \"TAYM TEYBLS!\" diyerek duvardaki TARİFE tablosuna bakıyor. Bu sahne size TIME TABLES kelimesinin TARİFE, PROGRAM olduğunu hatırlatacaktır."
+    "mnemonicScene": "Yolcu \"TAYM TEYBLS!\" diyerek duvardaki TARİFE tablosuna bakıyor. Bu sahne size TIME TABLES kelimesinin TARİFE, PROGRAM olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gba3266173f5bcb668a335759834345a79bb3891ff26f35331cbc4172606fe7d742bac55b01d8a181d016e70cb33f96898795399f36bbd43ac89307c6ebeb7b9b_640.jpg",
+    "imageSource": "https://pixabay.com/photos/clock-time-watch-business-minutes-5084284/"
   },
   {
     "english": "Aircraft",
@@ -6991,7 +7563,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "airkraft",
     "mnemonicHook": "EARKRAFT",
-    "mnemonicScene": "Pilot \"EARKRAFT!\" diyerek HAVA TAŞITINI kalkışa hazırlıyor. Bu sahne size AIRCRAFT kelimesinin HAVA TAŞITI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Pilot \"EARKRAFT!\" diyerek HAVA TAŞITINI kalkışa hazırlıyor. Bu sahne size AIRCRAFT kelimesinin HAVA TAŞITI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gcd3d301ba39e0ee0142b1f04d1d31e5096cc969ea649052a12c1e90c27e5aa95130e0e74ef5ecaef7717e64cc1b451c7_640.jpg",
+    "imageSource": "https://pixabay.com/photos/aircraft-fighter-jet-flying-flight-63028/"
   },
   {
     "english": "Becomes",
@@ -7014,7 +7588,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "bekomes",
     "mnemonicHook": "BİKAMS",
-    "mnemonicScene": "Çırak \"BİKAMS!\" diyerek ustası OLUYOR, pilot kıyafetini giyiyor. Bu sahne size BECOMES kelimesinin OLMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Çırak \"BİKAMS!\" diyerek ustası OLUYOR, pilot kıyafetini giyiyor. Bu sahne size BECOMES kelimesinin OLMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gc838ca1379721585797006c40e972bfd1f3f60d86b1ea178d70423f67e5456cb2c3221526accffedf06858b6a867e443e1f410afb10101501ef440293a0cb9fb_640.jpg",
+    "imageSource": "https://pixabay.com/photos/book-reading-books-learning-4930005/"
   },
   {
     "english": "Take off",
@@ -7037,7 +7613,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "tak off",
     "mnemonicHook": "TEYK OF",
-    "mnemonicScene": "Pilot \"TEYK OF!\" diye bağırıp uçağı pist üzerinde KALKIŞA geçiriyor. Bu sahne size TAKE OFF kelimesinin KALKIŞ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Pilot \"TEYK OF!\" diye bağırıp uçağı pist üzerinde KALKIŞA geçiriyor. Bu sahne size TAKE OFF kelimesinin KALKIŞ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gaa00ff93ebb4fe23fb2db19ec321f318c20f5b65d96b2278aff8a891057f484e19b935a27e16aeac2c1763cdce874e357ddd193e0f1c6346fd441669da4e346a_640.jpg",
+    "imageSource": "https://pixabay.com/photos/australian-pelican-pelican-bird-9681035/"
   },
   {
     "english": "Transmit",
@@ -7060,7 +7638,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "transmit",
     "mnemonicHook": "TRENSMİT",
-    "mnemonicScene": "Telsizci \"TRENSMİT!\" diyerek sinyali uzaklara İLETİYOR. Bu sahne size TRANSMIT kelimesinin İLETMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Telsizci \"TRENSMİT!\" diyerek sinyali uzaklara İLETİYOR. Bu sahne size TRANSMIT kelimesinin İLETMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/geaa24c82e1db311c5df22c1c0234d6c73ea867b11f5aeb849873bad0e2b90c4ce39ee49159303fc86205735f7216efcb396d1b09aa1f7c49895e048823d7e62b_640.jpg",
+    "imageSource": "https://pixabay.com/photos/leaf-wipes-tree-plant-backlight-4962439/"
   },
   {
     "english": "Repetitive",
@@ -7083,7 +7663,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "repetitiv",
     "mnemonicHook": "REPETİTİV",
-    "mnemonicScene": "Papağan \"REPETİTİV!\" diyerek aynı sözü TEKRAR TEKRAR söylüyor. Bu sahne size REPETITIVE kelimesinin TEKRARLAMALI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Papağan \"REPETİTİV!\" diyerek aynı sözü TEKRAR TEKRAR söylüyor. Bu sahne size REPETITIVE kelimesinin TEKRARLAMALI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ga40681162414f527e488a2a64533d9e5966ff077aa1d8575b783954c75fa6152cf0bb8d0bfb7f2a87020ff9e9aff9b53b727d377a1c031c18e2968a334a0c0cb_640.jpg",
+    "imageSource": "https://pixabay.com/photos/pattern-umbrellas-rain-frogs-9519809/"
   },
   {
     "english": "Phenomena",
@@ -7129,7 +7711,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "lavs",
     "mnemonicHook": "LAVS",
-    "mnemonicScene": "Hakim \"LAVS!\" diyerek YASALARI okuyup kararını veriyor. Bu sahne size LAWS kelimesinin YASALAR olduğunu hatırlatacaktır."
+    "mnemonicScene": "Hakim \"LAVS!\" diyerek YASALARI okuyup kararını veriyor. Bu sahne size LAWS kelimesinin YASALAR olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g6de5f96e5ee4a173f9fd52638170aca30613326ddee446b84beeea38b292e345a60ba356b58ad072c17b0561de920ba64d3397ff508b5bac2e22f20e9aaba065_640.jpg",
+    "imageSource": "https://pixabay.com/photos/gavel-auction-law-hammer-symbol-2492011/"
   },
   {
     "english": "Seat height",
@@ -7152,7 +7736,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "siit hiiyt",
     "mnemonicHook": "SİİT HAYT",
-    "mnemonicScene": "Sürücü \"SİİT HAYT!\" diyerek KOLTUK YÜKSEKLİĞİNİ ayarlıyor. Bu sahne size SEAT HEIGHT kelimesinin KOLTUK YÜKSEKLİĞİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü \"SİİT HAYT!\" diyerek KOLTUK YÜKSEKLİĞİNİ ayarlıyor. Bu sahne size SEAT HEIGHT kelimesinin KOLTUK YÜKSEKLİĞİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gd3cef193037b63626a35104201c6def8917d00693aaf359b10b186ea268b1280e2a6e480cfbc8ec43225b3c35c438919b309d75906f9b5305a8393b5ed925c66_640.jpg",
+    "imageSource": "https://pixabay.com/photos/theme-park-ride-amusement-park-ride-7299036/"
   },
   {
     "english": "Overheat",
@@ -7198,7 +7784,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "illuminat",
     "mnemonicHook": "İLÜMİNEYT",
-    "mnemonicScene": "Fener bekçisi \"İLÜMİNEYT!\" diyerek lambayı YAKIP yolu AYDINLATIYOR. Bu sahne size ILLUMINATE kelimesinin AYDINLATMAK, YAKMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Fener bekçisi \"İLÜMİNEYT!\" diyerek lambayı YAKIP yolu AYDINLATIYOR. Bu sahne size ILLUMINATE kelimesinin AYDINLATMAK, YAKMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gb9c41161d588ecec703500b0c679eba7892ba33c77f445e75cb0bee68e9493859bfa18e74d1c820a339203ed7e89b2bb631705a1d9f8bb411e5f42d15eb04628_640.jpg",
+    "imageSource": "https://pixabay.com/photos/lightbulb-idea-creativity-base-3104355/"
   },
   {
     "english": "Bottom",
@@ -7221,7 +7809,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "bottom",
     "mnemonicHook": "BOTUM",
-    "mnemonicScene": "Kedi \"BOTUM!\" diyerek kutunun ALT kısmına saklanıyor. Bu sahne size BOTTOM kelimesinin ALT, DİP olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kedi \"BOTUM!\" diyerek kutunun ALT kısmına saklanıyor. Bu sahne size BOTTOM kelimesinin ALT, DİP olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf2e651feff98d3891d479e15ddd6943e41b63e15cb4ad1c349464d5070303b6cff4d8f222e2e47093ccc33df50b5f249_640.jpg",
+    "imageSource": "https://pixabay.com/photos/bikini-two-piece-swimwear-women-377487/"
   },
   {
     "english": "Buoyant",
@@ -7244,7 +7834,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "buoyant",
     "mnemonicHook": "BÖYANT",
-    "mnemonicScene": "Çocuk \"BÖYANT!\" diyerek suya attığı tahtanın SUDA YÜZDÜĞÜNÜ görüyor. Bu sahne size BUOYANT kelimesinin YÜZEN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Çocuk \"BÖYANT!\" diyerek suya attığı tahtanın SUDA YÜZDÜĞÜNÜ görüyor. Bu sahne size BUOYANT kelimesinin YÜZEN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g2c303f2c422ef6b94f9a0fc250743537fbf277f407e21ee8f93c07470b134c3ff789a02983b4229aac1e43319d63bf7bb7a09779de89374b70bfda4455d6b5b1_640.jpg",
+    "imageSource": "https://pixabay.com/photos/frog-figure-swim-summer-funny-3566804/"
   },
   {
     "english": "Lining",
@@ -7267,7 +7859,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "lining",
     "mnemonicHook": "LAYNİNG",
-    "mnemonicScene": "Terzi \"LAYNİNG!\" diyerek ceketin İÇ ASTARINI dikiyor. Bu sahne size LINING kelimesinin ASTAR olduğunu hatırlatacaktır."
+    "mnemonicScene": "Terzi \"LAYNİNG!\" diyerek ceketin İÇ ASTARINI dikiyor. Bu sahne size LINING kelimesinin ASTAR olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g910a4816737e72a3de729accc2546f97cd084b99d749b3ded5a396f9ce656ff87922edb671d07f4b05a946ab89b0069f_640.jpg",
+    "imageSource": "https://pixabay.com/photos/sky-clouds-sunlight-atmosphere-414199/"
   },
   {
     "english": "Stain-resistant",
@@ -7290,7 +7884,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "stain-resistant",
     "mnemonicHook": "STEYN RİZİSTANT",
-    "mnemonicScene": "Temizlikçi \"STEYN RİZİSTANT!\" diyerek koltuğa dökülen sosun LEKE TUTMADIĞINI görüyor. Bu sahne size STAIN-RESISTANT kelimesinin KİR TUTMAZ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Temizlikçi \"STEYN RİZİSTANT!\" diyerek koltuğa dökülen sosun LEKE TUTMADIĞINI görüyor. Bu sahne size STAIN-RESISTANT kelimesinin KİR TUTMAZ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g3577c9bc28f907cc5ba5af5b5637928aae68e27ca000267896ce9494cc0e5d5211b261af404ebf406a7a81b49068da404aa739c739e74e738cd6534071397a46_640.jpg",
+    "imageSource": "https://pixabay.com/photos/waterproof-water-repellent-fabric-7055639/"
   },
   {
     "english": "Inner pane",
@@ -7313,7 +7909,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "inner pan",
     "mnemonicHook": "İNNER PEYN",
-    "mnemonicScene": "Camcı \"İNNER PEYN!\" diyerek DAHİLİ pencereyi temizliyor. Bu sahne size INNER PANE kelimesinin DAHİLİ PENCERE olduğunu hatırlatacaktır."
+    "mnemonicScene": "Camcı \"İNNER PEYN!\" diyerek DAHİLİ pencereyi temizliyor. Bu sahne size INNER PANE kelimesinin DAHİLİ PENCERE olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g6dcd96b07f62dc676a872241dcc7dfa0ed8bde92ed096c366b2ebb01624565ea5d33ff8a6a4941abb79daca41aa99b5955f2e00a0302e88dd03b723b98c345f1_640.jpg",
+    "imageSource": "https://pixabay.com/photos/white-window-glass-shield-frame-2563976/"
   },
   {
     "english": "Clear plastic",
@@ -7336,7 +7934,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "kliir plastik",
     "mnemonicHook": "KLİİR PLASTİK",
-    "mnemonicScene": "Satıcı \"KLİİR PLASTİK!\" diyerek bardağın ŞEFFAF olduğunu gösteriyor. Bu sahne size CLEAR PLASTIC kelimesinin ŞEFFAF PLASTİK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Satıcı \"KLİİR PLASTİK!\" diyerek bardağın ŞEFFAF olduğunu gösteriyor. Bu sahne size CLEAR PLASTIC kelimesinin ŞEFFAF PLASTİK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g12b999ed3602cfd3cf8a65acdbc367092da8cae66c5561dd81434d70c15ec4ebb3146573ee1610bdc3a2c872971a295f7693a237f6f0f756225953d85f94e126_640.jpg",
+    "imageSource": "https://pixabay.com/photos/bottle-mineral-water-glass-pour-2032980/"
   },
   {
     "english": "Inner",
@@ -7359,7 +7959,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "inner",
     "mnemonicHook": "İNNER",
-    "mnemonicScene": "Doktor \"İNNER!\" diyerek hastanın İÇ kısmını muayene ediyor. Bu sahne size INNER kelimesinin İÇ, DAHİLİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Doktor \"İNNER!\" diyerek hastanın İÇ kısmını muayene ediyor. Bu sahne size INNER kelimesinin İÇ, DAHİLİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g2659a55ab374b70e6452a86fa5dcc48415862d7c0f940e7e141637564325f1927ded971b037674afc00b86276f55badca80e9469955f1103612181368177fb7f_640.jpg",
+    "imageSource": "https://pixabay.com/photos/water-waterfall-outdoors-adult-3354062/"
   },
   {
     "english": "Pane",
@@ -7382,7 +7984,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "pan",
     "mnemonicHook": "PEYN",
-    "mnemonicScene": "Camcı \"PEYN!\" diyerek PENCERE CAMINI siliyor. Bu sahne size PANE kelimesinin PENCERE CAMI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Camcı \"PEYN!\" diyerek PENCERE CAMINI siliyor. Bu sahne size PANE kelimesinin PENCERE CAMI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ge88145ca64b7032c9d4a2ab3c9823147797c5b1f3d52c9ffe208223223f1ea44ac6d7433d12d27a2d9c635056bf559d198cbf1e700c6f4ce54ffd09cdffda392_640.jpg",
+    "imageSource": "https://pixabay.com/photos/white-window-glass-shield-frame-2563976/"
   },
   {
     "english": "Wooden",
@@ -7405,7 +8009,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "vuuden",
     "mnemonicHook": "VUDDEN",
-    "mnemonicScene": "Marangoz \"VUDDEN!\" diyerek AHŞAP masayı cilalıyor. Bu sahne size WOODEN kelimesinin AHŞAP olduğunu hatırlatacaktır."
+    "mnemonicScene": "Marangoz \"VUDDEN!\" diyerek AHŞAP masayı cilalıyor. Bu sahne size WOODEN kelimesinin AHŞAP olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g428cd5bbe1a51020e1c9ca7f20a88e17a6d471b9a2369302466c99489bf7590bea2c0b85bcd42991eee5b0e293740baf05b192fd9ec5c2cae0121f2ebaaf3bbc_640.jpg",
+    "imageSource": "https://pixabay.com/photos/love-valentines-day-background-3091214/"
   },
   {
     "english": "Lap belt",
@@ -7428,7 +8034,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "lap belt",
     "mnemonicHook": "LAP BELT",
-    "mnemonicScene": "Yolcu \"LAP BELT!\" diyerek KARIN KEMERİNİ bağlıyor. Bu sahne size LAP BELT kelimesinin KARIN KEMERİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Yolcu \"LAP BELT!\" diyerek KARIN KEMERİNİ bağlıyor. Bu sahne size LAP BELT kelimesinin KARIN KEMERİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g2b08ced1a4401ed68d404e1725eedb98b36e799ae2a7a2e65efd308ef0c33a583cf94bbc02e6fa15953811d9495f3d6e_640.jpg",
+    "imageSource": "https://pixabay.com/photos/ipad-plan-business-check-take-time-388129/"
   },
   {
     "english": "Indicate",
@@ -7451,7 +8059,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "indikat",
     "mnemonicHook": "İNDİKEYT",
-    "mnemonicScene": "Trafikçi \"İNDİKEYT!\" diyerek tehlikeyi GÖSTERİYOR. Bu sahne size INDICATE kelimesinin GÖSTERMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Trafikçi \"İNDİKEYT!\" diyerek tehlikeyi GÖSTERİYOR. Bu sahne size INDICATE kelimesinin GÖSTERMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gd772d8df01c16fd9aee0be38ac23b7dc379d5c1b4660d2629fc1b38dda636f9957b7a45d494c0ceb320f3e0c313b55e767601061ea06fdc7cf3be3e0df1b5956_640.jpg",
+    "imageSource": "https://pixabay.com/photos/gesture-point-finger-positivity-6810130/"
   },
   {
     "english": "Possession",
@@ -7474,7 +8084,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "possescın",
     "mnemonicHook": "POZESYON",
-    "mnemonicScene": "Kral tahtında \"POZESYON!\" diyerek kendi SAHİPLİĞİNİ ilan ediyor. Bu sahne size POSSESSION kelimesinin SAHİPLİK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kral tahtında \"POZESYON!\" diyerek kendi SAHİPLİĞİNİ ilan ediyor. Bu sahne size POSSESSION kelimesinin SAHİPLİK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ga4f7f22e6986ed98e6848099afc97c44b5ad1b1b805978c48dc894ae53cc818671250f7d5e8e2eefe6ce0db5a5d40ea4c37b0e0c255d96cf9b18f58e8de3e324_640.jpg",
+    "imageSource": "https://pixabay.com/photos/devil-woman-demon-hell-religion-7777714/"
   },
   {
     "english": "Attribute",
@@ -7520,7 +8132,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "restraint system",
     "mnemonicHook": "RİSTREYNT SİSTEM",
-    "mnemonicScene": "Güvenlik görevlisi \"RİSTREYNT SİSTEM!\" diyerek suçluyu KISITLAYICI sistemle tutuyor. Bu sahne size RESTRAINT SYSTEM kelimesinin KISITLAYICI SİSTEM olduğunu hatırlatacaktır."
+    "mnemonicScene": "Güvenlik görevlisi \"RİSTREYNT SİSTEM!\" diyerek suçluyu KISITLAYICI sistemle tutuyor. Bu sahne size RESTRAINT SYSTEM kelimesinin KISITLAYICI SİSTEM olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g5d291dcaefe99c803ea5df7425d4c5ab9cc65b5ab4ad8f6231831fd02062b62587295955f2c36dbcb81dc61b50afc52e_640.jpg",
+    "imageSource": "https://pixabay.com/photos/anatomy-man-human-body-skin-254129/"
   },
   {
     "english": "Shoulder harness",
@@ -7543,7 +8157,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "şoulder harness",
     "mnemonicHook": "ŞOULDER HARNES",
-    "mnemonicScene": "Pilot \"ŞOULDER HARNES!\" diyerek yolcunun OMUZ KEMERİNİ takıyor. Bu sahne size SHOULDER HARNESS kelimesinin OMUZ KEMERİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Pilot \"ŞOULDER HARNES!\" diyerek yolcunun OMUZ KEMERİNİ takıyor. Bu sahne size SHOULDER HARNESS kelimesinin OMUZ KEMERİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g50f4b8147ec36a46f47840cf8a661d19b1847a09bb3c842de290cd92bbf0ea6bd0bfd8fd81cbd728d41428c4a3bb707a94fde0877f385a011741c0c2378c87f2_640.jpg",
+    "imageSource": "https://pixabay.com/photos/knight-sword-medieval-shield-5830762/"
   },
   {
     "english": "Tray",
@@ -7566,7 +8182,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "trai",
     "mnemonicHook": "TRAY",
-    "mnemonicScene": "Garson \"TRAY!\" diyerek yemeği TEPSİYE koyuyor. Bu sahne size TRAY kelimesinin TEPSİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Garson \"TRAY!\" diyerek yemeği TEPSİYE koyuyor. Bu sahne size TRAY kelimesinin TEPSİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g815349c29a68611dac616adf6e95e2117489e59165b8cd023e426d1dfc52e8a3f99ed4b68a5cde653f78c1545c972665875f1dbb700ed192b0c9ba1fdb4cb492_640.jpg",
+    "imageSource": "https://pixabay.com/photos/legs-breakfast-bed-breakfast-in-bed-1867769/"
   },
   {
     "english": "Fold down",
@@ -7589,7 +8207,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fold dovn",
     "mnemonicHook": "FOLD DAVN",
-    "mnemonicScene": "Yolcu \"FOLD DAVN!\" diyerek koltuğun masasını AŞAĞI KATLIYOR. Bu sahne size FOLD DOWN kelimesinin KATLAMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Yolcu \"FOLD DAVN!\" diyerek koltuğun masasını AŞAĞI KATLIYOR. Bu sahne size FOLD DOWN kelimesinin KATLAMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g9494de2ee0f458a3a997cde389f04d1909ec4303e7b9ceebcac92cee7a7b9606d623e08d18b6cf126bd580202cf3fcd73ba0a797e0644e4f063a671abef3b6c1_640.jpg",
+    "imageSource": "https://pixabay.com/photos/cat-mammal-pet-animal-feline-8141968/"
   },
   {
     "english": "Windscreens",
@@ -7612,7 +8232,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "vindskriins",
     "mnemonicHook": "VİNDSKRİİNS",
-    "mnemonicScene": "Sürücü \"VİNDSKRİİNS!\" diyerek ÖN CAMLARI silip temizliyor. Bu sahne size WINDSCREENS kelimesinin ÖN CAM olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü \"VİNDSKRİİNS!\" diyerek ÖN CAMLARI silip temizliyor. Bu sahne size WINDSCREENS kelimesinin ÖN CAM olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gcf6235cd93413905951de50e346e3aecfc69d92e120e478a87595633fca362826880838dd473112013298a392882c891ad1e9eb8139b2b4b983cd71f45c4eb63_640.jpg",
+    "imageSource": "https://pixabay.com/photos/motorbike-motorcycle-road-7249769/"
   },
   {
     "english": "Stowage",
@@ -7658,7 +8280,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "unit",
     "mnemonicHook": "YUNİT",
-    "mnemonicScene": "Asker \"YUNİT!\" diyerek bir BİRİM olarak sıraya giriyor. Bu sahne size UNIT kelimesinin BİRİM olduğunu hatırlatacaktır."
+    "mnemonicScene": "Asker \"YUNİT!\" diyerek bir BİRİM olarak sıraya giriyor. Bu sahne size UNIT kelimesinin BİRİM olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g6d2b509fb21a840939531e6bd39afc7c06ed23bd4965479ae52ffdd79fa8e2e92d2a4fb088ca0b759834a644fa6f7fb5_640.jpg",
+    "imageSource": "https://pixabay.com/photos/furniture-living-room-modern-998265/"
   },
   {
     "english": "Closets",
@@ -7681,7 +8305,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "klosets",
     "mnemonicHook": "KLOZETS",
-    "mnemonicScene": "Ev sahibi \"KLOZETS!\" diyerek odadaki DOLAPLARI açıyor. Bu sahne size CLOSETS kelimesinin DOLAP, KUTUCUK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ev sahibi \"KLOZETS!\" diyerek odadaki DOLAPLARI açıyor. Bu sahne size CLOSETS kelimesinin DOLAP, KUTUCUK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g3a2a38f30c45dc9ccab7d1c4c2ff7eca08ac5f7eda4b00127c72a3cebf9aa105371280731024868aa0f822a5b5b7ebf16a8e40ccee69902faaf926c9b9e8bd93_640.jpg",
+    "imageSource": "https://pixabay.com/photos/cabinet-clothes-garments-wardrobe-1853504/"
   },
   {
     "english": "Detect",
@@ -7704,7 +8330,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "detekt",
     "mnemonicHook": "DİTEKT",
-    "mnemonicScene": "Dedektif \"DİTEKT!\" diyerek suçluyu ALGILIYOR. Bu sahne size DETECT kelimesinin ALGILAMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Dedektif \"DİTEKT!\" diyerek suçluyu ALGILIYOR. Bu sahne size DETECT kelimesinin ALGILAMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gc93260dc4463ea023d89598396a72fbd467439bbe81cc0780dc298fae8aad1a1427f9a86890bd6a14f72157c21f834ad_640.jpg",
+    "imageSource": "https://pixabay.com/photos/man-hat-glasses-gangster-tough-539993/"
   },
   {
     "english": "Provide",
@@ -7727,7 +8355,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "provid",
     "mnemonicHook": "PROVAYD",
-    "mnemonicScene": "Hediye dağıtan \"PROVAYD!\" diyerek herkese KİTAP SAĞLIYOR. Bu sahne size PROVIDE kelimesinin SAĞLAMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Hediye dağıtan \"PROVAYD!\" diyerek herkese KİTAP SAĞLIYOR. Bu sahne size PROVIDE kelimesinin SAĞLAMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g4ccda022d8727eed711ec64640910bf2b9765882e1f68da467928bb19f4f2fed4f8b230b6b1e89c0c0e65961fcbb002483540ec53676830ec6481f9fab4ad06e_640.jpg",
+    "imageSource": "https://pixabay.com/photos/statehouse-rhode-island-capitol-5733377/"
   },
   {
     "english": "Adjustable seat",
@@ -7750,7 +8380,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "adcustabl siit",
     "mnemonicHook": "ADCASTABIL SİİT",
-    "mnemonicScene": "Mağaza görevlisi \"ADCASTABIL SİİT!\" diyerek AYARLANABİLİR koltuğu gösteriyor. Bu sahne size ADJUSTABLE SEAT kelimesinin AYARLANABİLİR KOLTUK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Mağaza görevlisi \"ADCASTABIL SİİT!\" diyerek AYARLANABİLİR koltuğu gösteriyor. Bu sahne size ADJUSTABLE SEAT kelimesinin AYARLANABİLİR KOLTUK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g6d8d6bc4a263fce508bfd74fc83a8297aed7cfe45aa14572105c23265459adbfb5dc3462ed67abe92fcbd2a1d094f594_640.jpg",
+    "imageSource": "https://pixabay.com/photos/office-chair-furniture-design-884446/"
   },
   {
     "english": "Flight crew",
@@ -7773,7 +8405,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "flayt krev",
     "mnemonicHook": "FLAYT KREV",
-    "mnemonicScene": "Kaptan \"FLAYT KREV!\" diyerek UÇUŞ EKİBİNİ toplayıp kabine çağırıyor. Bu sahne size FLIGHT CREW kelimesinin UÇUŞ EKİBİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kaptan \"FLAYT KREV!\" diyerek UÇUŞ EKİBİNİ toplayıp kabine çağırıyor. Bu sahne size FLIGHT CREW kelimesinin UÇUŞ EKİBİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g9f3deeff468abcdbc00292abc5072c07b3925e7655d39a2877e856e6a12008b77b5ba69ecee422c2c7b7dc649a40d9ef5ae3fd63517a8dba06dcd91f633d2697_640.jpg",
+    "imageSource": "https://pixabay.com/photos/stewardess-airplane-airplane-cabin-6724287/"
   },
   {
     "english": "RH (Right Hand)",
@@ -7796,7 +8430,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "rh (rayt hand)",
     "mnemonicHook": "ER AYÇ",
-    "mnemonicScene": "Pilot \"ER AYÇ!\" diyerek SAĞ TARAFTAKİ düğmeye bastığını söylüyor. Bu sahne size RH kelimesinin SAĞ EL, SAĞ TARAF olduğunu hatırlatacaktır."
+    "mnemonicScene": "Pilot \"ER AYÇ!\" diyerek SAĞ TARAFTAKİ düğmeye bastığını söylüyor. Bu sahne size RH kelimesinin SAĞ EL, SAĞ TARAF olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gc5bac1d0d689562b84efd8acaff22a99cb9fa110cec302f903e1a7dd5b1a758b7bfec3f53e2cbfde009caaa289121dc56c5868cad9d6c7fe8f04f4ab9a68039e_640.jpg",
+    "imageSource": "https://pixabay.com/photos/bags-transfusion-brown-blood-2169514/"
   },
   {
     "english": "LH (Left Hand)",
@@ -7842,7 +8478,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "huuk and luup",
     "mnemonicHook": "HUK END LUP",
-    "mnemonicScene": "Ayakkabıcı \"HUK END LUP!\" diyerek CIRT CIRT bandı yapıştırıyor. Bu sahne size HOOK AND LOOP kelimesinin CIRT CIRT olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ayakkabıcı \"HUK END LUP!\" diyerek CIRT CIRT bandı yapıştırıyor. Bu sahne size HOOK AND LOOP kelimesinin CIRT CIRT olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g4ad6d20f869ef29a102a6fb1f1b57c2f9666f00f016281720ff5cb0c48ec5430acf8545578a6487cc9e52b45ab1805ca_640.jpg",
+    "imageSource": "https://pixabay.com/photos/crochet-handwork-craft-works-450724/"
   },
   {
     "english": "Observer",
@@ -7865,7 +8503,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "observer",
     "mnemonicHook": "OBZÜRVER",
-    "mnemonicScene": "Kuş gözlemcisi \"OBZÜRVER!\" diyerek kuşları dikkatle GÖZLEMLİYOR. Bu sahne size OBSERVER kelimesinin GÖZLEMCİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kuş gözlemcisi \"OBZÜRVER!\" diyerek kuşları dikkatle GÖZLEMLİYOR. Bu sahne size OBSERVER kelimesinin GÖZLEMCİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g8f158827e681506575b49128dd23d37872e76ae28c494066f10fbdade50739a3c51919c2f419cadd256ceb1f7bf8b51b613435607a51b50db16afd7508657732_640.png",
+    "imageSource": "https://pixabay.com/photos/alien-ufo-watcher-nuclear-explosion-10220650/"
   },
   {
     "english": "First officer",
@@ -7888,7 +8528,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "first offiser",
     "mnemonicHook": "FÖRST OFİSER",
-    "mnemonicScene": "Kaptan \"FÖRST OFİSER!\" diyerek YARDIMCI PİLOTA direksiyonu veriyor. Bu sahne size FIRST OFFICER kelimesinin YARDIMCI PİLOT olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kaptan \"FÖRST OFİSER!\" diyerek YARDIMCI PİLOTA direksiyonu veriyor. Bu sahne size FIRST OFFICER kelimesinin YARDIMCI PİLOT olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g0256b85dc9b57c5ab51cadbc29ca64bbb9d7d9dd6d28ff45bbc189542d3728d217e6998a0560b5fb4071f40f2cde8fa1dd987db9028e21320de7bd17099b111f_640.jpg",
+    "imageSource": "https://pixabay.com/photos/fire-department-houston-texas-4808739/"
   },
   {
     "english": "Flight compartment",
@@ -7911,7 +8553,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "flayt kompartment",
     "mnemonicHook": "FLAYT KOMPARTMENT",
-    "mnemonicScene": "Güvenlik görevlisi \"FLAYT KOMPARTMENT!\" diyerek UÇUŞ BÖLMESİNİN kapısını açıyor. Bu sahne size FLIGHT COMPARTMENT kelimesinin UÇUŞ KOMPARTIMANI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Güvenlik görevlisi \"FLAYT KOMPARTMENT!\" diyerek UÇUŞ BÖLMESİNİN kapısını açıyor. Bu sahne size FLIGHT COMPARTMENT kelimesinin UÇUŞ KOMPARTIMANI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g2e59a27d40963415c0b96af8de778a49f0f4c940531cdb0b7920ce4e11d779c27d7196326b027cac488525f4ad515d2deb7a9983a4c6bbed8da29ea7045cf9ee_640.jpg",
+    "imageSource": "https://pixabay.com/photos/airplane-cabin-plane-flight-7022154/"
   },
   {
     "english": "Safety harness",
@@ -7934,7 +8578,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "safeti harness",
     "mnemonicHook": "SEYFTİ HARNES",
-    "mnemonicScene": "Dağcı \"SEYFTİ HARNES!\" diyerek EMNİYET TULUMUNU giyip ipe bağlanıyor. Bu sahne size SAFETY HARNESS kelimesinin EMNİYET TULUMU olduğunu hatırlatacaktır."
+    "mnemonicScene": "Dağcı \"SEYFTİ HARNES!\" diyerek EMNİYET TULUMUNU giyip ipe bağlanıyor. Bu sahne size SAFETY HARNESS kelimesinin EMNİYET TULUMU olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ga89b257a8adb4c5f0143959445ee5e6c37bd2a75963f1daa6309dcfaa3449fc0035abaaae281a9c434385500c8b27118_640.jpg",
+    "imageSource": "https://pixabay.com/photos/climber-mountaineer-mountaineering-299018/"
   },
   {
     "english": "Flotation device",
@@ -7957,7 +8603,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "flotaşın devis",
     "mnemonicHook": "FLOTEYŞIN DEVİS",
-    "mnemonicScene": "Yolcu \"FLOTEYŞIN DEVİS!\" diyerek YÜZME CİHAZINI takıp suya hazırlanıyor. Bu sahne size FLOTATION DEVICE kelimesinin YÜZME CİHAZI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Yolcu \"FLOTEYŞIN DEVİS!\" diyerek YÜZME CİHAZINI takıp suya hazırlanıyor. Bu sahne size FLOTATION DEVICE kelimesinin YÜZME CİHAZI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gd0cc10b49125d105b91ddd5a371d0cd1d194e1263d9d8af3b9076fe91f8de435f4a5b7c5a23822aafd3d97c0446b5a0c2cc6a67f423ae7314a9d8b6a60700582_640.jpg",
+    "imageSource": "https://pixabay.com/photos/boy-sunglasses-fun-summer-beach-4783330/"
   },
   {
     "english": "Ditching",
@@ -7980,7 +8628,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "ditçing",
     "mnemonicHook": "DİTÇİNG",
-    "mnemonicScene": "Pilot \"DİTÇİNG!\" diyerek uçağı denize ZORUNLU İNDİRİYOR. Bu sahne size DITCHING kelimesinin DENİZE ZORUNLU İNİŞ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Pilot \"DİTÇİNG!\" diyerek uçağı denize ZORUNLU İNDİRİYOR. Bu sahne size DITCHING kelimesinin DENİZE ZORUNLU İNİŞ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf9eb5e767d679c15d73d1b63eeb500cc69895b678ded30c1e1a44a4805fdda29c0b39e5b564ffeadd8b71dbcf40295f8c1fdbd09cc1b6527b4c3cd89a389d715_640.jpg",
+    "imageSource": "https://pixabay.com/photos/clouds-pasture-sunlight-tree-ditch-7636282/"
   },
   {
     "english": "Recess",
@@ -8003,7 +8653,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "resess",
     "mnemonicHook": "RİSES",
-    "mnemonicScene": "Pilot \"RİSES!\" diyerek uçağı pistte YAVAŞ YAVAŞ İNİŞE sokuyor. Bu sahne size RECESS kelimesinin İNİŞ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Pilot \"RİSES!\" diyerek uçağı pistte YAVAŞ YAVAŞ İNİŞE sokuyor. Bu sahne size RECESS kelimesinin İNİŞ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g109af146d828b310f1ec2f8e0065e555e8bd5e9328f52d4a716047a7a26eb98673ab07ef1d483c70c5962747b9866d7e3dee99a1da1ad7ae3ae90eac2519db89_640.jpg",
+    "imageSource": "https://pixabay.com/photos/swing-playground-children-playing-1188132/"
   },
   {
     "english": "Wheel",
@@ -8026,7 +8678,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "vhiil",
     "mnemonicHook": "VHİİL",
-    "mnemonicScene": "Kaptan \"VHİİL!\" diyerek DÜMENİ sola çeviriyor. Bu sahne size WHEEL kelimesinin DÜMEN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kaptan \"VHİİL!\" diyerek DÜMENİ sola çeviriyor. Bu sahne size WHEEL kelimesinin DÜMEN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gd6645d50619d9e223aeae13b9d27b580e47658cc02716946b9fa69a1af5fa57d459d206a82ee29e34c339e29954b351fd210eebfa57e98afd52927cd2a1add30_640.jpg",
+    "imageSource": "https://pixabay.com/photos/welding-wheel-repair-metalworking-8445458/"
   },
   {
     "english": "Tight pad",
@@ -8049,7 +8703,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "tayt pad",
     "mnemonicHook": "TAYT PED",
-    "mnemonicScene": "Yolcu \"TAYT PED!\" diyerek KALÇA YASTIĞINA oturuyor. Bu sahne size TIGHT PAD kelimesinin KALÇA YASTIĞI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Yolcu \"TAYT PED!\" diyerek KALÇA YASTIĞINA oturuyor. Bu sahne size TIGHT PAD kelimesinin KALÇA YASTIĞI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g31e1e737eb50a3c535a57d295a4ff02559b46a3021255b9ba97fcadd6301b6ed586b7fad2187c0a4f9912a6484e6b986c7d8afef9f8216096caacce1374e1aa0_640.jpg",
+    "imageSource": "https://pixabay.com/photos/ballet-foot-feet-dance-wait-4941738/"
   },
   {
     "english": "Bogle unit",
@@ -8072,7 +8728,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "bogl unit",
     "mnemonicHook": "BOGL YUNİT",
-    "mnemonicScene": "Sürücü koltuğu \"BOGL YUNİT!\" diyerek RAYLI SİSTEMDE kaydırıyor, koltuk yerinden oynamıyor. Bu sahne size BOGIE UNIT kelimesinin RAYLI SİSTEM olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü koltuğu \"BOGL YUNİT!\" diyerek RAYLI SİSTEMDE kaydırıyor, koltuk yerinden oynamıyor. Bu sahne size BOGIE UNIT kelimesinin RAYLI SİSTEM olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ga2c92b7733f351bc98b049d8a554805435e9a6a42602ea87e9a0688b6dec8216030c1292244169802b92b94706117284_640.jpg",
+    "imageSource": "https://pixabay.com/photos/furniture-living-room-modern-998265/"
   },
   {
     "english": "Make easy",
@@ -8095,7 +8753,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "mak iisi",
     "mnemonicHook": "MEYK İZİ",
-    "mnemonicScene": "Usta \"MEYK İZİ!\" diyerek işi KOLAYLAŞTIRIYOR, herkes rahatlıyor. Bu sahne size MAKE EASY kelimesinin KOLAYLAŞTIRMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Usta \"MEYK İZİ!\" diyerek işi KOLAYLAŞTIRIYOR, herkes rahatlıyor. Bu sahne size MAKE EASY kelimesinin KOLAYLAŞTIRMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g93e37fa8b97f1917abf635a3fe2e9b66e7c4187d4da776e5868fec0338ab185c309008f6918f59f2cc38d5f98a1b7356d8ca67f34bd63c462fb18b7a356d8acc_640.jpg",
+    "imageSource": "https://pixabay.com/photos/make-the-day-great-letterbox-4166221/"
   },
   {
     "english": "Spring-loaded",
@@ -8118,7 +8778,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "spring-loaded",
     "mnemonicHook": "SPRİNG LOUDED",
-    "mnemonicScene": "Oyuncak tabancanın \"SPRİNG LOUDED!\" diye tıklayan YAYI çekilip bırakılıyor. Bu sahne size SPRING-LOADED kelimesinin YAYLI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Oyuncak tabancanın \"SPRİNG LOUDED!\" diye tıklayan YAYI çekilip bırakılıyor. Bu sahne size SPRING-LOADED kelimesinin YAYLI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g11c28b1e7e8b4bf6fb8bb4ff60ed965edbf047b89b2727caa990418f3c5ff32f9114caf5fefc409bd3d5f4573497500ed55e8032ee3e05a8ff6e561ad9d7afc9_640.jpg",
+    "imageSource": "https://pixabay.com/photos/wash-clamp-clothes-peg-clothes-line-5443440/"
   },
   {
     "english": "Knob",
@@ -8141,7 +8803,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "knob",
     "mnemonicHook": "NOB",
-    "mnemonicScene": "Ev sahibi \"NOB!\" diyerek kapının DÜĞMESİNİ çevirip kapıyı açıyor. Bu sahne size KNOB kelimesinin DÜĞME olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ev sahibi \"NOB!\" diyerek kapının DÜĞMESİNİ çevirip kapıyı açıyor. Bu sahne size KNOB kelimesinin DÜĞME olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ge0f27ad98d01873949cc77c4810eb8342be4f30e26663501c861d880c726640ce278c64cf0507188a7d2f3851960a13105ec33351b8a330c1b28c845441fcef8_640.jpg",
+    "imageSource": "https://pixabay.com/photos/gecko-nocturnal-eyes-desert-10468457/"
   },
   {
     "english": "Dim knob",
@@ -8164,7 +8828,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "dim knob",
     "mnemonicHook": "DİM NOB",
-    "mnemonicScene": "Sahne ışıkçısı \"DİM NOB!\" diyerek PARLAKLIK AYAR DÜĞMESİNİ çevirip ışığı kısıyor. Bu sahne size DIM KNOB kelimesinin PARLAKLIK AYAR DÜĞMESİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sahne ışıkçısı \"DİM NOB!\" diyerek PARLAKLIK AYAR DÜĞMESİNİ çevirip ışığı kısıyor. Bu sahne size DIM KNOB kelimesinin PARLAKLIK AYAR DÜĞMESİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gcfb5bce1eb11e624df92284ad46f674c5800bbbd58cc3970714ff31da601fc3622028b9d1bb243d109841ed6d18e0cf36b794bc75c0aaac94ef1b7cce2e60d59_640.jpg",
+    "imageSource": "https://pixabay.com/photos/gecko-nocturnal-eyes-desert-10468457/"
   },
   {
     "english": "Fold",
@@ -8187,7 +8853,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fold",
     "mnemonicHook": "FOLD",
-    "mnemonicScene": "Anne \"FOLD!\" diyerek battaniyeyi ikiye KATLIYOR. Bu sahne size FOLD kelimesinin KATLAMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Anne \"FOLD!\" diyerek battaniyeyi ikiye KATLIYOR. Bu sahne size FOLD kelimesinin KATLAMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gc9b5a2a495b023c72d1b57baedb71425e6c591d17ac0ff8824e73f2967b76a5b11da95c7d7733f70eda0d35f19f6d1eb0c66229c736f008ae5c8b4e4dc94fd65_640.jpg",
+    "imageSource": "https://pixabay.com/photos/origami-paper-candle-sailboat-boat-1067673/"
   },
   {
     "english": "Interior",
@@ -8210,7 +8878,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "interior",
     "mnemonicHook": "İNTİRİYOR",
-    "mnemonicScene": "Temizlikçi \"İNTİRİYOR!\" diyerek arabanın DAHİLİ kısmını süpürüyor. Bu sahne size INTERIOR kelimesinin DAHİLİ, İÇ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Temizlikçi \"İNTİRİYOR!\" diyerek arabanın DAHİLİ kısmını süpürüyor. Bu sahne size INTERIOR kelimesinin DAHİLİ, İÇ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g557fa6846f330641c1887555981d71778e31e59c22102ed45474c3b02ee7036d9ae001bb34bbf2ffca7dc5708daba876f635e671873fabdbd99659133785807a_640.jpg",
+    "imageSource": "https://pixabay.com/photos/living-room-interior-design-1835923/"
   },
   {
     "english": "Attractive",
@@ -8233,7 +8903,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "attraktiv",
     "mnemonicHook": "ETRAKTİV",
-    "mnemonicScene": "Model \"ETRAKTİV!\" diyerek GÜZEL GÖRÜNÜMLÜ elbisesiyle poza giriyor. Bu sahne size ATTRACTIVE kelimesinin GÜZEL GÖRÜNÜMLÜ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Model \"ETRAKTİV!\" diyerek GÜZEL GÖRÜNÜMLÜ elbisesiyle poza giriyor. Bu sahne size ATTRACTIVE kelimesinin GÜZEL GÖRÜNÜMLÜ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g40050c32fdd38bb692e073020d3f46d56ef4432cccd42bf55e3a52b3c988a9f219713a77f4bc598b152803f8f49780086380ccfce0fdd11e8181b45930149a5e_640.jpg",
+    "imageSource": "https://pixabay.com/photos/fashion-portrait-model-woman-charm-3059143/"
   },
   {
     "english": "Crushed-core",
@@ -8256,7 +8928,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "kruşed-kor",
     "mnemonicHook": "KRAŞT KOR",
-    "mnemonicScene": "Ezici \"KRAŞT KOR!\" diyerek çekirdeği SIKIŞTIRIP ezip düzleştiriyor. Bu sahne size CRUSHED-CORE kelimesinin SIKIŞTIRMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ezici \"KRAŞT KOR!\" diyerek çekirdeği SIKIŞTIRIP ezip düzleştiriyor. Bu sahne size CRUSHED-CORE kelimesinin SIKIŞTIRMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g866b3e5959299f4f8a08efb342d8fae80412577f449c009cf7ea5da1638163df2ad6a6ff963c5b1b623ca7c132f37c8db64a61537c4f4d62bbbcb668c7e57668_640.jpg",
+    "imageSource": "https://pixabay.com/photos/woman-crunches-sport-training-2250970/"
   },
   {
     "english": "Screw",
@@ -8279,7 +8953,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "skrev",
     "mnemonicHook": "SKRU",
-    "mnemonicScene": "Marangoz \"SKRU!\" diyerek tahtaya VİDA çakıyor. Bu sahne size SCREW kelimesinin VİDA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Marangoz \"SKRU!\" diyerek tahtaya VİDA çakıyor. Bu sahne size SCREW kelimesinin VİDA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g24e164217e191517d55aaf6bbb211075ca1b4404ea7dbed0ce333436ce5ae83a106fe389b220789c8c64122a3c21ce17_640.jpg",
+    "imageSource": "https://pixabay.com/photos/tools-construct-craft-repair-864983/"
   },
   {
     "english": "Ceiling",
@@ -8302,7 +8978,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "seiling",
     "mnemonicHook": "SİİLİNG",
-    "mnemonicScene": "Ressam merdivene çıkıp \"SİİLİNG!\" diyerek TAVANI boyuyor. Bu sahne size CEILING kelimesinin TAVAN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ressam merdivene çıkıp \"SİİLİNG!\" diyerek TAVANI boyuyor. Bu sahne size CEILING kelimesinin TAVAN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g221131a6400ab866285b11a66fd5357222f15d8c85687c869a9be3b569569987a3c7db2f2635a0efe35e71c90acf4d57db349a8f2b6b414d2ae77cfa144c772a_640.jpg",
+    "imageSource": "https://pixabay.com/photos/arches-building-tunnel-hallway-5959457/"
   },
   {
     "english": "Reduce",
@@ -8325,7 +9003,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "redus",
     "mnemonicHook": "RİDYUS",
-    "mnemonicScene": "Sürücü \"RİDYUS!\" diyerek hızı AZALTIYOR, fren yapıyor. Bu sahne size REDUCE kelimesinin AZALTMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü \"RİDYUS!\" diyerek hızı AZALTIYOR, fren yapıyor. Bu sahne size REDUCE kelimesinin AZALTMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g9d38862d7e5a8ea54f439fd4f5e55d1578d4377bb0c28dfc73a8a48de259ab9b085036d71117bbee45b1984ff9eee5f1ca88c2a0964dee506d31f88ef3b9f5ca_640.jpg",
+    "imageSource": "https://pixabay.com/photos/nature-bees-beekeeper-honey-bee-5051816/"
   },
   {
     "english": "Troshfer",
@@ -8371,7 +9051,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "slit",
     "mnemonicHook": "SLİT",
-    "mnemonicScene": "Terzi \"SLİT!\" diye bağırarak kumaştaki YIRTIĞI dikmeye başlıyor. Bu sahne size SLIT kelimesinin YIRTIK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Terzi \"SLİT!\" diye bağırarak kumaştaki YIRTIĞI dikmeye başlıyor. Bu sahne size SLIT kelimesinin YIRTIK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g438431cdd01eb0ba3cdcbf14a222bd309c82f95d1ccfa2f06dce670d629ee34a9385dc97839304accd9d680da0c9202220e643a803aa25e525004bc73a3bc4cf_640.jpg",
+    "imageSource": "https://pixabay.com/photos/cat-eyes-kitten-british-shorthair-7498362/"
   },
   {
     "english": "Bound",
@@ -8394,7 +9076,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "bound",
     "mnemonicHook": "BAUND",
-    "mnemonicScene": "Paket sarıcı \"BAUND!\" diyerek kutuyu iple SARIP BAĞLIYOR. Bu sahne size BOUND kelimesinin BAĞLAMAK, SARMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Paket sarıcı \"BAUND!\" diyerek kutuyu iple SARIP BAĞLIYOR. Bu sahne size BOUND kelimesinin BAĞLAMAK, SARMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g557405a0c984276b43db8e4dcd020fe4cad2cab56832ebbe347003fb8ee618fd2bff9a030ec7a6646c49ff5e5615620a2657339582220da7cc53a756f358b0af_640.jpg",
+    "imageSource": "https://pixabay.com/photos/books-read-knowledge-literature-4305459/"
   },
   {
     "english": "Trim",
@@ -8417,7 +9101,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "trim",
     "mnemonicHook": "TRİM",
-    "mnemonicScene": "Berber \"TRİM!\" diyerek saçın UÇLARINI kırpıyor. Bu sahne size TRIM kelimesinin UÇLARINI ALMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Berber \"TRİM!\" diyerek saçın UÇLARINI kırpıyor. Bu sahne size TRIM kelimesinin UÇLARINI ALMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ga0d6b47a36d9ce825f73f72b7d4dab6ed54207a5091ebcce8f5eab8c45f45f179d49c76e24a04213396bcc6ee113d057d4c98b2c28ac44474ed19682b75381b6_640.jpg",
+    "imageSource": "https://pixabay.com/photos/christmas-gifts-gift-bag-bag-red-2947257/"
   },
   {
     "english": "Strip",
@@ -8440,7 +9126,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "strip",
     "mnemonicHook": "STRİP",
-    "mnemonicScene": "Ressam \"STRİP!\" diyerek duvara kırmızı bir ŞERİT yapıştırıyor. Bu sahne size STRIP kelimesinin ŞERİT olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ressam \"STRİP!\" diyerek duvara kırmızı bir ŞERİT yapıştırıyor. Bu sahne size STRIP kelimesinin ŞERİT olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g25e955570cf8191ceecc7c8b03ba1e35938d6b41f550e786c9aee194b7f7ab9db7dc5f4f4754d64cacb2b7cf85f85f4ad24f94f8418dcd05d1e89fd7424b5634_640.jpg",
+    "imageSource": "https://pixabay.com/photos/retro-film-35mm-film-perforated-7698942/"
   },
   {
     "english": "Consist of",
@@ -8463,7 +9151,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "konsist of",
     "mnemonicHook": "KONSİST OV",
-    "mnemonicScene": "Öğretmen \"KONSİST OV!\" diyerek setin ALTI PARÇADAN OLUŞTUĞUNU anlatıyor. Bu sahne size CONSIST OF kelimesinin OLUŞMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Öğretmen \"KONSİST OV!\" diyerek setin ALTI PARÇADAN OLUŞTUĞUNU anlatıyor. Bu sahne size CONSIST OF kelimesinin OLUŞMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ge1496273a00c93b8c6e976e82433db625675ada5b37732e86cf25723365b12443d028d0e382d73de6fefc3cabfd228a9b3b09b35a3b5a0b1c759345e60966bec_640.jpg",
+    "imageSource": "https://pixabay.com/photos/flowers-rose-autumn-garden-water-9652884/"
   },
   {
     "english": "Cemented",
@@ -8486,7 +9176,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "semented",
     "mnemonicHook": "SİMENTİD",
-    "mnemonicScene": "Duvarcı \"SİMENTİD!\" diyerek parçaları TUTKAL ile sağlamlaştırıyor. Bu sahne size CEMENTED kelimesinin TUTKALLANMIŞ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Duvarcı \"SİMENTİD!\" diyerek parçaları TUTKAL ile sağlamlaştırıyor. Bu sahne size CEMENTED kelimesinin TUTKALLANMIŞ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g2767d47cb9dea562d8ef2a822c8bf577e8c95d494fd87ae7f0b6ef8af28af764cec1e60110eb0bffef8343980bbe59d0917d9cdf2720e2f4f63fbdef2c3beeb2_640.jpg",
+    "imageSource": "https://pixabay.com/photos/texture-rough-plaster-plaster-wall-1504364/"
   },
   {
     "english": "Fabric",
@@ -8509,7 +9201,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fabrik",
     "mnemonicHook": "FABRİK",
-    "mnemonicScene": "Terzi \"FABRİK!\" diyerek KUMAŞI kesip dokuyor. Bu sahne size FABRIC kelimesinin KUMAŞ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Terzi \"FABRİK!\" diyerek KUMAŞI kesip dokuyor. Bu sahne size FABRIC kelimesinin KUMAŞ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g63216ca3fd2ffde2052587b39753723648c4e7337db866d27d8b836d17e53fa05e8e1876d58a43a897893edd0997d3c4971e13fe37187244f48d74be69278d65_640.jpg",
+    "imageSource": "https://pixabay.com/photos/textile-wool-cotton-quilt-fabric-6682226/"
   },
   {
     "english": "Condensate",
@@ -8532,7 +9226,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "kondensat",
     "mnemonicHook": "KANDENSEYT",
-    "mnemonicScene": "Tesisatçı \"KANDENSEYT!\" diyerek tanktaki YOĞUŞKU suyunu boşaltıyor. Bu sahne size CONDENSATE kelimesinin YOĞUŞKU olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tesisatçı \"KANDENSEYT!\" diyerek tanktaki YOĞUŞKU suyunu boşaltıyor. Bu sahne size CONDENSATE kelimesinin YOĞUŞKU olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g3f27ab7785b4da535ce0968ff470e0d49c872d4f86221b3aad94d85831e9af85c90c8593178f70c5d18ed1eddf138ff00c0383dbad8ef12bf5c86721a5db82bb_640.jpg",
+    "imageSource": "https://pixabay.com/photos/microphone-headphones-music-mic-5046876/"
   },
   {
     "english": "Above",
@@ -8555,7 +9251,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "abov",
     "mnemonicHook": "ABOV",
-    "mnemonicScene": "Kuş \"ABOV!\" diyerek kapının ÜSTÜNDE uçuyor. Bu sahne size ABOVE kelimesinin ÜSTÜNDE olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kuş \"ABOV!\" diyerek kapının ÜSTÜNDE uçuyor. Bu sahne size ABOVE kelimesinin ÜSTÜNDE olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g0f0065659a49985169e7fe9b5e41dc9f0d18ba075e2fd388e825c083499d612c86040f9cf3341039513508d1b060f4c0_640.jpg",
+    "imageSource": "https://pixabay.com/photos/mountains-sun-clouds-peak-summit-190055/"
   },
   {
     "english": "Overhead",
@@ -8578,7 +9276,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "overhiid",
     "mnemonicHook": "OVERHED",
-    "mnemonicScene": "Yolcu \"OVERHED!\" diyerek BAŞ ÜSTÜ bölmesini açıyor. Bu sahne size OVERHEAD kelimesinin BAŞ ÜSTÜ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Yolcu \"OVERHED!\" diyerek BAŞ ÜSTÜ bölmesini açıyor. Bu sahne size OVERHEAD kelimesinin BAŞ ÜSTÜ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gd3e47d9566d45363c4b78d481f1952989d49ef1447d18c4ca359586f3b8cc64548d2b6c62d7c745e63bab3601ed014dee3c843aad372ff465a5f4bfebe1634de_640.jpg",
+    "imageSource": "https://pixabay.com/photos/sea-turtle-diving-animal-2361247/"
   },
   {
     "english": "Instrument",
@@ -8601,7 +9301,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "instrument",
     "mnemonicHook": "İNSTRUMENT",
-    "mnemonicScene": "Pilot \"İNSTRUMENT!\" diyerek GÖSTERGE ALETLERİNİ tek tek kontrol ediyor. Bu sahne size INSTRUMENT kelimesinin ALET, GÖSTERGE olduğunu hatırlatacaktır."
+    "mnemonicScene": "Pilot \"İNSTRUMENT!\" diyerek GÖSTERGE ALETLERİNİ tek tek kontrol ediyor. Bu sahne size INSTRUMENT kelimesinin ALET, GÖSTERGE olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gec2640fccdfecfe7c11ba78756dd852c37520e24f4907b7c4435e0a4ed60272cd73cee686ec5bdfe254fbb062d7d1e3faf00e8663abd6131b919d755ede13954_640.jpg",
+    "imageSource": "https://pixabay.com/photos/guitar-music-acoustic-guitar-1836655/"
   },
   {
     "english": "Condensation",
@@ -8624,7 +9326,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "kondensaşın",
     "mnemonicHook": "KANDENSEYŞIN",
-    "mnemonicScene": "Camdaki buğuya bakan çocuk \"KANDENSEYŞIN!\" diyerek YOĞUŞMAYI fark ediyor. Bu sahne size CONDENSATION kelimesinin YOĞUŞMA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Camdaki buğuya bakan çocuk \"KANDENSEYŞIN!\" diyerek YOĞUŞMAYI fark ediyor. Bu sahne size CONDENSATION kelimesinin YOĞUŞMA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g0cbf2ab5f89317ff49dd3909b370a69eda0babde2c618547778eab929a2fcfe82cc63f0e6676ff0ed45c3e77c38cbcda_640.jpg",
+    "imageSource": "https://pixabay.com/photos/surface-rain-drops-raindrops-455124/"
   },
   {
     "english": "Collect",
@@ -8647,7 +9351,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "kollekt",
     "mnemonicHook": "KALEKT",
-    "mnemonicScene": "Çocuk \"KALEKT!\" diyerek yağmur suyunu kovada TOPLUYOR. Bu sahne size COLLECT kelimesinin TOPLAMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Çocuk \"KALEKT!\" diyerek yağmur suyunu kovada TOPLUYOR. Bu sahne size COLLECT kelimesinin TOPLAMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ge0722d4f51f134b4d84354c8c4e7615ff7dcd12a81b17f9de02348dd6f3661eebeddb327215073cec302395c970b0822f8a8c11bcd7e29bc6e9981fa94ad2717_640.jpg",
+    "imageSource": "https://pixabay.com/photos/bee-flower-yellow-pollinate-park-10431032/"
   },
   {
     "english": "Drain",
@@ -8670,7 +9376,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "drain",
     "mnemonicHook": "DREYN",
-    "mnemonicScene": "Tesisatçı \"DREYN!\" diyerek lavabonun suyunu BOŞALTIYOR. Bu sahne size DRAIN kelimesinin BOŞALTMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tesisatçı \"DREYN!\" diyerek lavabonun suyunu BOŞALTIYOR. Bu sahne size DRAIN kelimesinin BOŞALTMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g4389b062e94144d5aabf0c0f96f80fd60a067dd7ac0a7b2ee2b7e923435420abf82e6750e6e6525870d1bd18c3f2b7b2c7950d70e58aefa86d364b5a6e28a1b7_640.jpg",
+    "imageSource": "https://pixabay.com/photos/manhole-cover-cobblestones-road-3678303/"
   },
   {
     "english": "Emergency",
@@ -8693,7 +9401,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "emergensi",
     "mnemonicHook": "İMÇRCENSİ",
-    "mnemonicScene": "Komşu \"İMÇRCENSİ!\" diye bağırıp ACİL DURUM için yardım istiyor. Bu sahne size EMERGENCY kelimesinin ACİL DURUM olduğunu hatırlatacaktır."
+    "mnemonicScene": "Komşu \"İMÇRCENSİ!\" diye bağırıp ACİL DURUM için yardım istiyor. Bu sahne size EMERGENCY kelimesinin ACİL DURUM olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g549ff2845bcf9b60f635c4aef6a0c5624cf5f87fdac31976394c2752672d92a83a2d894e122fcc41ccc3591317a1c1dc2196b9406fb39e796eb748facc2165cf_640.jpg",
+    "imageSource": "https://pixabay.com/photos/exit-sign-light-exit-light-8443453/"
   },
   {
     "english": "Include",
@@ -8716,7 +9426,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "inklud",
     "mnemonicHook": "İNKLUD",
-    "mnemonicScene": "Garson \"İNKLUD!\" diyerek menüye FİYATI DA KAPSAYARAK yazıyor. Bu sahne size INCLUDE kelimesinin İÇERMEK, KAPSAMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Garson \"İNKLUD!\" diyerek menüye FİYATI DA KAPSAYARAK yazıyor. Bu sahne size INCLUDE kelimesinin İÇERMEK, KAPSAMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g305fbcf1c08174573eab84541c819b2101ea2fa81cf4c8d57667949f46437374490050c827f7b5273129c5f58b0a40616c67b0a2c5ccb18f3a31223a76dd9ea5_640.jpg",
+    "imageSource": "https://pixabay.com/photos/mountains-church-wooden-nature-hut-10489188/"
   },
   {
     "english": "Escape lanyard",
@@ -8739,7 +9451,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "eskap lanyard",
     "mnemonicHook": "ESKEYP LENYARD",
-    "mnemonicScene": "İtfaiyeci \"ESKEYP LENYARD!\" diyerek KAÇIŞ HALATINI bağlayıp binadan iniyor. Bu sahne size ESCAPE LANYARD kelimesinin KAÇIŞ HALATI olduğunu hatırlatacaktır."
+    "mnemonicScene": "İtfaiyeci \"ESKEYP LENYARD!\" diyerek KAÇIŞ HALATINI bağlayıp binadan iniyor. Bu sahne size ESCAPE LANYARD kelimesinin KAÇIŞ HALATI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g612c88f7b0f6e3dca08f7fe476d1b71a513f542ef538e39894f22c29e2a186b7160c0ee4743471fdf2e171e49a388efa8171be7823be4001e03ddc61baa146cb_640.jpg",
+    "imageSource": "https://pixabay.com/photos/fantasy-to-travel-travel-vacations-3502188/"
   },
   {
     "english": "Smoke googles",
@@ -8762,7 +9476,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "smok guugles",
     "mnemonicHook": "SMOK GOGLS",
-    "mnemonicScene": "İtfaiyeci \"SMOK GOGLS!\" diyerek DUMAN GÖZLÜĞÜNÜ takıp yangına giriyor. Bu sahne size SMOKE GOGGLES kelimesinin DUMAN GÖZLÜĞÜ olduğunu hatırlatacaktır."
+    "mnemonicScene": "İtfaiyeci \"SMOK GOGLS!\" diyerek DUMAN GÖZLÜĞÜNÜ takıp yangına giriyor. Bu sahne size SMOKE GOGGLES kelimesinin DUMAN GÖZLÜĞÜ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g56fa2f5bc97743dd0fdd53ec7977282209e364c26d7217b977fef0ce506953872873c97867b1a4c9e41d35fb55f9f0c1_640.jpg",
+    "imageSource": "https://pixabay.com/photos/bar-ipad-mockup-business-computer-621033/"
   },
   {
     "english": "Life vest",
@@ -8785,7 +9501,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "lif vest",
     "mnemonicHook": "LAYF VEST",
-    "mnemonicScene": "Kaptan \"LAYF VEST!\" diyerek herkese CAN YELEĞİ dağıtıyor. Bu sahne size LIFE VEST kelimesinin CAN YELEĞİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kaptan \"LAYF VEST!\" diyerek herkese CAN YELEĞİ dağıtıyor. Bu sahne size LIFE VEST kelimesinin CAN YELEĞİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g203114d0f55d21b96a05ac9ceab998374670d9631aac00c10d9eecfeb05801bbeb3243bc481b98847b371706859faa8977e2b64efd44f63a0a15493c75f0c47b_640.jpg",
+    "imageSource": "https://pixabay.com/photos/man-rowing-kayak-young-water-lake-9111280/"
   },
   {
     "english": "Convenience",
@@ -8808,7 +9526,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "konveniens",
     "mnemonicHook": "KONVİNYİNS",
-    "mnemonicScene": "Satıcı \"KONVİNYİNS!\" diyerek müşterinin KOLAYLIĞI için kapıya kadar götürüyor. Bu sahne size CONVENIENCE kelimesinin KOLAYLIK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Satıcı \"KONVİNYİNS!\" diyerek müşterinin KOLAYLIĞI için kapıya kadar götürüyor. Bu sahne size CONVENIENCE kelimesinin KOLAYLIK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g277ae43d12cf1c0e86fcd0b7aaec14e4da617513c56dc1c265cd106ab13cd769665201525d179ba73e87050a52160a270e4e17de887db94669cca886ea381d14_640.jpg",
+    "imageSource": "https://pixabay.com/photos/grocery-store-supermarket-retail-2619380/"
   },
   {
     "english": "Aesthetic",
@@ -8831,7 +9551,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "aestetik",
     "mnemonicHook": "ESTETİK",
-    "mnemonicScene": "Ressam \"ESTETİK!\" diyerek tabloyu güzel ve ESTETİK bir şekilde boyuyor. Bu sahne size AESTHETIC kelimesinin ESTETİK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ressam \"ESTETİK!\" diyerek tabloyu güzel ve ESTETİK bir şekilde boyuyor. Bu sahne size AESTHETIC kelimesinin ESTETİK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g4f622997e5251980e93dec98cd7fac55b1499fd7a7af90038c72d727769ddf7804956ee7d298bb85c6e0b3441811ce9aff5bfb5eddffabc94d2157d1c1c9542a_640.jpg",
+    "imageSource": "https://pixabay.com/photos/smartphone-screen-room-wall-sunset-8057248/"
   },
   {
     "english": "Acoustical",
@@ -8854,7 +9576,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "akoustikal",
     "mnemonicHook": "AKUSTİKAL",
-    "mnemonicScene": "Müzisyen salonda \"AKUSTİKAL!\" diyerek sesin yankısını AKUSTİK olarak ölçüyor. Bu sahne size ACOUSTICAL kelimesinin AKUSTİK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Müzisyen salonda \"AKUSTİKAL!\" diyerek sesin yankısını AKUSTİK olarak ölçüyor. Bu sahne size ACOUSTICAL kelimesinin AKUSTİK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ge444ef3c55c8d7701533de4136fb60f0364046733ea572a4e763ca04b30e4bd5ecf6544e768f9c2fd902c1513913f6f62d546e341767f5321e43010bde3e6b19_640.jpg",
+    "imageSource": "https://pixabay.com/photos/workshop-instrument-wood-craftsman-4524838/"
   },
   {
     "english": "Thermal",
@@ -8877,7 +9601,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "termal",
     "mnemonicHook": "TERMAL",
-    "mnemonicScene": "Doktor \"TERMAL!\" diyerek hastanın SICAKLIĞINI ölçüyor. Bu sahne size THERMAL kelimesinin TERMAL, SICAKLIK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Doktor \"TERMAL!\" diyerek hastanın SICAKLIĞINI ölçüyor. Bu sahne size THERMAL kelimesinin TERMAL, SICAKLIK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf3f1f21fe99472dc582540e3401f66332c12e3c817769c85fdf5cbc0bf64f3ec265c7211b5c6f336e5e997d4cfdc6077787a686fb3b158ad936aff9296982ccc_640.jpg",
+    "imageSource": "https://pixabay.com/photos/chimneys-power-plant-industry-smoke-9599975/"
   },
   {
     "english": "Fiberclass",
@@ -8923,7 +9649,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fuselag",
     "mnemonicHook": "FYUZLAJ",
-    "mnemonicScene": "Pilot \"FYUZLAJ!\" diyerek UÇAK GÖVDESİNİN metal parçalarını gösteriyor. Bu sahne size FUSELAGE kelimesinin UÇAK GÖVDESİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Pilot \"FYUZLAJ!\" diyerek UÇAK GÖVDESİNİN metal parçalarını gösteriyor. Bu sahne size FUSELAGE kelimesinin UÇAK GÖVDESİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g1fd70e9847ca032d65a4f65f382e30a6b85ef64a929573a6653beaa58abf5e2f4f10def167e8d4519b39f9aab2cfa8e050587a5ac48cf44e20ebe6be499f540d_640.jpg",
+    "imageSource": "https://pixabay.com/photos/plane-seats-window-aviation-6511878/"
   },
   {
     "english": "Skin",
@@ -8946,7 +9674,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "skin",
     "mnemonicHook": "SKİN",
-    "mnemonicScene": "Doktor \"SKİN!\" diyerek hastanın DERİSİNİ muayene ediyor. Bu sahne size SKIN kelimesinin DERİ, KAPLAMA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Doktor \"SKİN!\" diyerek hastanın DERİSİNİ muayene ediyor. Bu sahne size SKIN kelimesinin DERİ, KAPLAMA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g1321fedcc3b2d896be9176f7d429940381490b8be71e9dc0632a0df8c1a5a7d6ebf6d7c7a20cb1ca32aef60d96d8dd340ecdd7616329d2b2bc724d2098dad04c_640.jpg",
+    "imageSource": "https://pixabay.com/photos/skin-eye-iris-blue-older-folds-3358873/"
   },
   {
     "english": "Throughout",
@@ -8992,7 +9722,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "vaterpruuf",
     "mnemonicHook": "VOTERPRUF",
-    "mnemonicScene": "Yağmurda \"VOTERPRUF!\" diyerek ceketin SU GEÇİRMEZ olduğunu fark ediyor. Bu sahne size WATERPROOF kelimesinin SU GEÇİRMEZ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Yağmurda \"VOTERPRUF!\" diyerek ceketin SU GEÇİRMEZ olduğunu fark ediyor. Bu sahne size WATERPROOF kelimesinin SU GEÇİRMEZ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g2403ef9c11443f6356ce0ebabe8dc061f1db02ed8be3c4f9e035eca2ab1fbfa0ea5929d124d611c51783bbc07934993d01fae66512bde360d800cbb29bfc5393_640.jpg",
+    "imageSource": "https://pixabay.com/photos/honey-bee-insect-nature-hive-honey-10052324/"
   },
   {
     "english": "Shingled",
@@ -9015,7 +9747,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "şingled",
     "mnemonicHook": "ŞİNGLD",
-    "mnemonicScene": "Çatıcı \"ŞİNGLD!\" diyerek çatıya YALITIMLI kiremitleri tek tek diziyor. Bu sahne size SHINGLED kelimesinin YALITIMLI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Çatıcı \"ŞİNGLD!\" diyerek çatıya YALITIMLI kiremitleri tek tek diziyor. Bu sahne size SHINGLED kelimesinin YALITIMLI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g0e5165c44bbeea9cfb1872eb96c7c63456054a80f973fc76e31c8c0781bbc95812740824314f3f7b975a1f0151f0e80728c7ec429b9930ec462ec6efd8791b72_640.jpg",
+    "imageSource": "https://pixabay.com/photos/tiles-shapes-texture-pattern-art-2617112/"
   },
   {
     "english": "Self-operating",
@@ -9038,7 +9772,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "self-operating",
     "mnemonicHook": "SELF OPERETİNG",
-    "mnemonicScene": "Kapı \"SELF OPERETİNG!\" diyerek kimse dokunmadan KENDİ KENDİNE açılıyor. Bu sahne size SELF-OPERATING kelimesinin KENDİ KENDİNE ÇALIŞAN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kapı \"SELF OPERETİNG!\" diyerek kimse dokunmadan KENDİ KENDİNE açılıyor. Bu sahne size SELF-OPERATING kelimesinin KENDİ KENDİNE ÇALIŞAN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g1e4eadcd14d4db2d57f4242e5ce4177210a42db4aa0779b0056cbf4f77a9a9d592fa72658df0e0d5b9df9a0c5d1bd488bef61c2703adca88f66fb5b50bbee525_640.jpg",
+    "imageSource": "https://pixabay.com/photos/operation-operating-room-surgery-1807543/"
   },
   {
     "english": "Detailed",
@@ -9061,7 +9797,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "detailed",
     "mnemonicHook": "DİTEYLD",
-    "mnemonicScene": "Öğretmen \"DİTEYLD!\" diyerek her şeyi AYRINTILI anlatıyor. Bu sahne size DETAILED kelimesinin AYRINTILI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Öğretmen \"DİTEYLD!\" diyerek her şeyi AYRINTILI anlatıyor. Bu sahne size DETAILED kelimesinin AYRINTILI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ga813ab1961c499a0af117d684e17b4d315590262862326aacbbd0430d8241de8bd5d1af76c489280187d78a99dc3a447375abc94b9e41f9a51347cc9fcaac1e8_640.jpg",
+    "imageSource": "https://pixabay.com/photos/wasp-macro-insect-head-detail-10299818/"
   },
   {
     "english": "Mention",
@@ -9107,7 +9845,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "kombin",
     "mnemonicHook": "KOMBAYN",
-    "mnemonicScene": "Çiftçi \"KOMBAYN!\" diyerek iki parçayı BİRLEŞTİRİYOR. Bu sahne size COMBINE kelimesinin BİRLEŞTİRMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Çiftçi \"KOMBAYN!\" diyerek iki parçayı BİRLEŞTİRİYOR. Bu sahne size COMBINE kelimesinin BİRLEŞTİRMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ga3d86501418de0cd9502d48819141dc9d172ca85bc77395f4510b731306610820424afb627c8da0b738ab6f5263fa693174032b05ab9bdb05b70f4c6a5d0149f_640.jpg",
+    "imageSource": "https://pixabay.com/photos/harvest-agriculture-summer-grain-8192037/"
   },
   {
     "english": "Land",
@@ -9130,7 +9870,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "land",
     "mnemonicHook": "LAND",
-    "mnemonicScene": "Pilot \"LAND!\" diyerek uçağı YERE İNDİRİYOR. Bu sahne size LAND kelimesinin YERE İNMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Pilot \"LAND!\" diyerek uçağı YERE İNDİRİYOR. Bu sahne size LAND kelimesinin YERE İNMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g83122861ce0a224d1386e042ad53737e648afb7585686fe43e2ed8a81d5d721a234f4ff585ba82d08db2a92e2f5eb8326c225e77dcced5c41fd1142974975f7b_640.jpg",
+    "imageSource": "https://pixabay.com/photos/earth-drought-floor-dryness-3355931/"
   },
   {
     "english": "Upward pivoting",
@@ -9153,7 +9895,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "upvard pivoting",
     "mnemonicHook": "APVARD PİVOTİNG",
-    "mnemonicScene": "Garaj kapısı \"APVARD PİVOTİNG!\" diyerek YUKARI DOĞRU açılıyor. Bu sahne size UPWARD PIVOTING kelimesinin YUKARI DOĞRU AÇILAN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Garaj kapısı \"APVARD PİVOTİNG!\" diyerek YUKARI DOĞRU açılıyor. Bu sahne size UPWARD PIVOTING kelimesinin YUKARI DOĞRU AÇILAN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g1002693eab1981f57cda70760e7a30b2af6c823c54c0cbc3735ef5e40a6b399bcd69cb503b254834ba7095810b5620dc825352eb2c05acf50e002d56de33ee25_640.jpg",
+    "imageSource": "https://pixabay.com/photos/trees-tree-canopy-forest-branches-5605176/"
   },
   {
     "english": "Downward pivoting",
@@ -9176,7 +9920,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "dovnvard pivoting",
     "mnemonicHook": "DAUNVARD PİVOTİNG",
-    "mnemonicScene": "Koltuk \"DAUNVARD PİVOTİNG!\" diyerek AŞAĞI DOĞRU eğiliyor. Bu sahne size DOWNWARD PIVOTING kelimesinin AŞAĞI DOĞRU EĞİLEN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Koltuk \"DAUNVARD PİVOTİNG!\" diyerek AŞAĞI DOĞRU eğiliyor. Bu sahne size DOWNWARD PIVOTING kelimesinin AŞAĞI DOĞRU EĞİLEN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ge1dcaabd73aec68126d1ffbd515d14383539910033ef0201782dad39192a4bbc2109a0ab7d6292b49828e13d1b12721464c120b503827ce7b66e98debe8c3e06_640.jpg",
+    "imageSource": "https://pixabay.com/photos/woman-yoga-fitness-stretching-pose-2959213/"
   },
   {
     "english": "Transfer",
@@ -9199,7 +9945,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "transfer",
     "mnemonicHook": "TRANSFER",
-    "mnemonicScene": "Bankacı \"TRANSFER!\" diyerek parayı hesaba DEVRETMEK için tuşlara basıyor. Bu sahne size TRANSFER kelimesinin DEVRETMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Bankacı \"TRANSFER!\" diyerek parayı hesaba DEVRETMEK için tuşlara basıyor. Bu sahne size TRANSFER kelimesinin DEVRETMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/geb56cb88a7ed4f59bfb0511a057c123f51b9f0607911b877652d5c4d96d096e5ebc62de08677a9a4f626742f6b096591099bc74746676c6f721b410b0172c2ef_640.jpg",
+    "imageSource": "https://pixabay.com/photos/world-earth-globe-keep-give-take-3258865/"
   },
   {
     "english": "Shatter",
@@ -9222,7 +9970,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "şatter",
     "mnemonicHook": "ŞETER",
-    "mnemonicScene": "Top çarpınca pencere \"ŞETER!\" diye bağırıp paramparça KIRILIYOR. Bu sahne size SHATTER kelimesinin KIRILMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Top çarpınca pencere \"ŞETER!\" diye bağırıp paramparça KIRILIYOR. Bu sahne size SHATTER kelimesinin KIRILMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g093e1b559d7b06e3ab896551a023e935bd9a1872437111a5416790cda00ffebddcc70687cae0b19bbbc9bec5a10fedc995c6abc8e3ebac529cc78633a02f0bfd_640.jpg",
+    "imageSource": "https://pixabay.com/photos/broken-glass-shattered-glass-broken-2208595/"
   },
   {
     "english": "Reset",
@@ -9245,7 +9995,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "reset",
     "mnemonicHook": "RİSET",
-    "mnemonicScene": "Bilgisayarcı \"RİSET!\" diyerek cihazı BAŞLANGIÇ konumuna AYARLIYOR. Bu sahne size RESET kelimesinin AYARLAMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Bilgisayarcı \"RİSET!\" diyerek cihazı BAŞLANGIÇ konumuna AYARLIYOR. Bu sahne size RESET kelimesinin AYARLAMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g9ddbae4faa48afc35ee13efe4d220cffb430afb162cbf90b2db59e730dcd695bbfcef77219617870e1fda999062d8ab42e13c5ad94b04c0af929ee4874d00519_640.jpg",
+    "imageSource": "https://pixabay.com/photos/ability-arcade-background-button-2974644/"
   },
   {
     "english": "Return",
@@ -9268,7 +10020,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "return",
     "mnemonicHook": "RİTÖRN",
-    "mnemonicScene": "Kütüphaneci \"RİTÖRN!\" diyerek kitabı GERİ ÇEVİRİYOR. Bu sahne size RETURN kelimesinin GERİ ÇEVİRMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kütüphaneci \"RİTÖRN!\" diyerek kitabı GERİ ÇEVİRİYOR. Bu sahne size RETURN kelimesinin GERİ ÇEVİRMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g02ebf6b48209cb044d64727b04795c428094d7f4560c8193f6b15ad43782556b7ae2e308a53dd5e6c665310f1a8f1c4e0bbbdad67df92af52d4ee48edab86227_640.jpg",
+    "imageSource": "https://pixabay.com/photos/money-profit-finance-business-2696228/"
   },
   {
     "english": "Brace",
@@ -9291,7 +10045,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "bras",
     "mnemonicHook": "BREYS",
-    "mnemonicScene": "Doktor \"BREYS!\" diyerek hastanın KOLUNA destek takıyor. Bu sahne size BRACE kelimesinin KOL, DESTEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Doktor \"BREYS!\" diyerek hastanın KOLUNA destek takıyor. Bu sahne size BRACE kelimesinin KOL, DESTEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gbfe36112cf145d4a961f748e7543f39056a42d88f4ca8301eccb5ff3a4aac2b78c05727aaceff1af7abb7a94dcaab05b28aabb487032130a4453ea61acdd4d22_640.jpg",
+    "imageSource": "https://pixabay.com/photos/bridge-construction-architecture-4430985/"
   },
   {
     "english": "Mask",
@@ -9314,7 +10070,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "mask",
     "mnemonicHook": "MASK",
-    "mnemonicScene": "Hırsız \"MASK!\" diyerek yüzünü MASKE ile kamufle ediyor. Bu sahne size MASK kelimesinin MASKE, KAMUFLAJ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Hırsız \"MASK!\" diyerek yüzünü MASKE ile kamufle ediyor. Bu sahne size MASK kelimesinin MASKE, KAMUFLAJ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ge4c1bd67683a91864322927d64b7ff986ea7974840732f27fe1406b9c81360bf279a0b17a339aea01c571317b4c939ea611421618d2e25e6b459450bcf39f2a9_640.jpg",
+    "imageSource": "https://pixabay.com/photos/venetian-mask-carnival-feathers-1283163/"
   },
   {
     "english": "Pulled",
@@ -9337,7 +10095,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "pulled",
     "mnemonicHook": "PÜLD",
-    "mnemonicScene": "Balıkçı \"PÜLD!\" diyerek ağı ÇEKİYOR, halat sıkı. Bu sahne size PULLED kelimesinin ÇEKİLMİŞ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Balıkçı \"PÜLD!\" diyerek ağı ÇEKİYOR, halat sıkı. Bu sahne size PULLED kelimesinin ÇEKİLMİŞ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g1e1245261c694d31381cb3ece987acaff02c6b61d919cd08117c5875daa7464e07b87a20f66485fef74962a333ac62a2fe8b6b3354deceac409846a4080d1bc9_640.jpg",
+    "imageSource": "https://pixabay.com/photos/grilled-pineapple-pork-burrito-2944562/"
   },
   {
     "english": "Shut off",
@@ -9360,7 +10120,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "şut off",
     "mnemonicHook": "ŞAT OF",
-    "mnemonicScene": "Elektrikçi \"ŞAT OF!\" diyerek elektriği KAPATIYOR. Bu sahne size SHUT OFF kelimesinin KAPATMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Elektrikçi \"ŞAT OF!\" diyerek elektriği KAPATIYOR. Bu sahne size SHUT OFF kelimesinin KAPATMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g4c61123f33d1e5926196281db1d6748f3d890297d9297d256bc56dc4ce4bd5a7f9721139edd63dc0963e24dea701b94d5774355c1a9c5fd025d9920c9450f173_640.jpg",
+    "imageSource": "https://pixabay.com/photos/sunset-rally-car-race-sport-wrc-10415017/"
   },
   {
     "english": "Valve",
@@ -9383,7 +10145,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "valv",
     "mnemonicHook": "VALV",
-    "mnemonicScene": "Tesisatçı \"VALV!\" diyerek suyun VANASINI yavaşça açıyor. Bu sahne size VALVE kelimesinin VANA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tesisatçı \"VALV!\" diyerek suyun VANASINI yavaşça açıyor. Bu sahne size VALVE kelimesinin VANA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gb8582d2578608cf6b1a6ae05606422e92f25bad03fe7ed174d77a5d7eafb9661b4c93c48fa7ad045e431c70c1e52f133_640.jpg",
+    "imageSource": "https://pixabay.com/photos/battleship-engine-room-historic-war-389274/"
   },
   {
     "english": "Balance",
@@ -9406,7 +10170,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "balans",
     "mnemonicHook": "BALANS",
-    "mnemonicScene": "Cambaz ipte \"BALANS!\" diyerek DENGESİNİ koruyor. Bu sahne size BALANCE kelimesinin DENGE olduğunu hatırlatacaktır."
+    "mnemonicScene": "Cambaz ipte \"BALANS!\" diyerek DENGESİNİ koruyor. Bu sahne size BALANCE kelimesinin DENGE olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g5d1ee6c07201dca4630dc43a39041fb8e8c63341abcb4b319daba97e422bee5bf9bf3371347e802543f0ed7fb420afa9be265734d93cdd09aaae6165fa411452_640.jpg",
+    "imageSource": "https://pixabay.com/photos/stone-tower-balance-meditation-4519290/"
   },
   {
     "english": "Prior",
@@ -9452,7 +10218,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "resku",
     "mnemonicHook": "RESKYU",
-    "mnemonicScene": "İtfaiye ekibi \"RESKYU!\" diye bağırıp mahsur kalanı KURTARIYOR. Bu sahne size RESCUE kelimesinin KURTARMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "İtfaiye ekibi \"RESKYU!\" diye bağırıp mahsur kalanı KURTARIYOR. Bu sahne size RESCUE kelimesinin KURTARMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g9c709f1081a7d8081b4235ac09d7b1672d22cfd342f609bdec5bb5b95f8234eea8d64a12436a4662e76e67ac23ea7a54c7bf81b89149f1f353bbce21d936cbb0_640.jpg",
+    "imageSource": "https://pixabay.com/photos/helicopter-aircraft-transport-4655049/"
   },
   {
     "english": "Getting into",
@@ -9475,7 +10243,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "getting into",
     "mnemonicHook": "GETİNG İNTU",
-    "mnemonicScene": "Yolcu \"GETİNG İNTU!\" diyerek tekneye GİRİYOR. Bu sahne size GETTING INTO kelimesinin GİRMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Yolcu \"GETİNG İNTU!\" diyerek tekneye GİRİYOR. Bu sahne size GETTING INTO kelimesinin GİRMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g0c622e349a94a7963e4141ff98c20cb210485f769c72da5ac4a1b5635eb15f3ad38da7c318579beda613aa1ce3443c4f7b69bd4c2533e6bbcd0ce55abf701dd2_640.jpg",
+    "imageSource": "https://pixabay.com/photos/bride-ready-wedding-female-dress-4797907/"
   },
   {
     "english": "Liferaft",
@@ -9498,7 +10268,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "liferaft",
     "mnemonicHook": "LAYFRAFT",
-    "mnemonicScene": "Kurtarma ekibi \"LAYFRAFT!\" diyerek denize CAN KURTARAN SALI bırakıyor. Bu sahne size LIFERAFT kelimesinin CAN KURTARAN SALI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kurtarma ekibi \"LAYFRAFT!\" diyerek denize CAN KURTARAN SALI bırakıyor. Bu sahne size LIFERAFT kelimesinin CAN KURTARAN SALI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g26f59b6b228fd23c2eb7872ba0b62916d8148be7f6e2c2f2ff1ab225900689995863d12f4117fbdd64ebc7e20bd0c3c278672741f262079ef76924648c877ba5_640.jpg",
+    "imageSource": "https://pixabay.com/photos/helicopter-search-recovery-military-2638084/"
   },
   {
     "english": "Slide raft",
@@ -9521,7 +10293,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "slid raft",
     "mnemonicHook": "SLAYD RAFT",
-    "mnemonicScene": "Yolcu \"SLAYD RAFT!\" diyerek kaydırakla KAYMA BOTUNA atlıyor. Bu sahne size SLIDE RAFT kelimesinin KAYMA BOTU olduğunu hatırlatacaktır."
+    "mnemonicScene": "Yolcu \"SLAYD RAFT!\" diyerek kaydırakla KAYMA BOTUNA atlıyor. Bu sahne size SLIDE RAFT kelimesinin KAYMA BOTU olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gec0b790df305cbc718e1dc216786885b39ff276efa05341b8702a052be79ab2512d439b75754a3f71ada45a929d705507f38d8e314b6a4b8128ed056febb96b4_640.jpg",
+    "imageSource": "https://pixabay.com/photos/water-park-water-slide-excitement-6799013/"
   },
   {
     "english": "Escape strap",
@@ -9544,7 +10318,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "eskap strap",
     "mnemonicHook": "ESKEYP STREYP",
-    "mnemonicScene": "Hostes \"ESKEYP STREYP!\" diyerek KAÇIŞ KEMERİNİ çekip açıyor. Bu sahne size ESCAPE STRAP kelimesinin KAÇIŞ KEMERİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Hostes \"ESKEYP STREYP!\" diyerek KAÇIŞ KEMERİNİ çekip açıyor. Bu sahne size ESCAPE STRAP kelimesinin KAÇIŞ KEMERİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g7bd4a9f1ea2dc2e3c3a8dc5d789d1ab6879207491a266e23f1461a239259d35c34a31bf379baf3e2da2d79d4dfdc0775_640.jpg",
+    "imageSource": "https://pixabay.com/photos/watch-the-mechanism-of-clock-time-790363/"
   },
   {
     "english": "Height",
@@ -9567,7 +10343,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "hiiyt",
     "mnemonicHook": "HAYT",
-    "mnemonicScene": "Ölçümcü \"HAYT!\" diyerek duvarın YÜKSEKLİĞİNİ ölçüyor. Bu sahne size HEIGHT kelimesinin YÜKSEKLİK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ölçümcü \"HAYT!\" diyerek duvarın YÜKSEKLİĞİNİ ölçüyor. Bu sahne size HEIGHT kelimesinin YÜKSEKLİK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g4cd7ae532fe9c07161237578dbc633e76db57d1008c510df4b8e88070e882af4c939be815019d48ee91b73d5b8116be01a38d2dfa4accd7aebc762d13eb77d07_640.jpg",
+    "imageSource": "https://pixabay.com/photos/girl-swing-rock-skyline-skyscraper-2067378/"
   },
   {
     "english": "Come on",
@@ -9590,7 +10368,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "kom on",
     "mnemonicHook": "KAM ON",
-    "mnemonicScene": "Elektrikçi \"KAM ON!\" diyerek ışıkların YANMASINI sağlıyor. Bu sahne size COME ON kelimesinin YANMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Elektrikçi \"KAM ON!\" diyerek ışıkların YANMASINI sağlıyor. Bu sahne size COME ON kelimesinin YANMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ga4b86d587d9bfe07b7473467341b8a5d4344444afd20b0186e9ec945afeb8c83c46872af54aca1d38102b6214f18d325b95f01bff3c9b43e720450effcbb8e6c_640.jpg",
+    "imageSource": "https://pixabay.com/photos/adult-annoyed-blur-burnout-1850268/"
   },
   {
     "english": "Discharge",
@@ -9613,7 +10393,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "disçarg",
     "mnemonicHook": "DİSÇARC",
-    "mnemonicScene": "Elektrikçi \"DİSÇARC!\" diyerek bataryayı BOŞALTIYOR. Bu sahne size DISCHARGE kelimesinin BOŞALTMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Elektrikçi \"DİSÇARC!\" diyerek bataryayı BOŞALTIYOR. Bu sahne size DISCHARGE kelimesinin BOŞALTMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gd7209bba5c985e7e19feac012b210b2a20b778179774e0e662915559b06cf71b77e0e0da43544d0a07bf2e29eaf9b6c0a2d87307c2b413407643b45bdfffdb96_640.jpg",
+    "imageSource": "https://pixabay.com/photos/lightning-thunderstorm-night-5025412/"
   },
   {
     "english": "Necessary",
@@ -9659,7 +10441,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "vhen nesessari",
     "mnemonicHook": "VEN NESESARİ",
-    "mnemonicScene": "Usta \"VEN NESESARİ!\" diyerek GEREKTİĞİ ZAMAN aleti kullanıyor. Bu sahne size WHEN NECESSARY kelimesinin GEREKTİĞİ ZAMAN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Usta \"VEN NESESARİ!\" diyerek GEREKTİĞİ ZAMAN aleti kullanıyor. Bu sahne size WHEN NECESSARY kelimesinin GEREKTİĞİ ZAMAN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gc829ff0f832c793257b53406f6ae02aee5ec60183d1b9b7499045d27c3f522d254bcdf9a8293985c13f7c50da796320bdd51a2d4b1144e24e51745c25cf50df1_640.jpg",
+    "imageSource": "https://pixabay.com/photos/who-how-what-where-why-when-ask-2985525/"
   },
   {
     "english": "Fill it",
@@ -9682,7 +10466,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fill it",
     "mnemonicHook": "FİL İT",
-    "mnemonicScene": "Çocuk \"FİL İT!\" diyerek kovayı suyla DOLDURUYOR. Bu sahne size FILL IT kelimesinin DOLDURMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Çocuk \"FİL İT!\" diyerek kovayı suyla DOLDURUYOR. Bu sahne size FILL IT kelimesinin DOLDURMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g2a2e07a7d0f87447f36e0fcbe008a343aee5082de101b1cd82428186122515e3111e66e31fdac34cc4c3b20a7a8636cfccfe76bb8252cca99bb7087336b81890_640.jpg",
+    "imageSource": "https://pixabay.com/photos/brain-color-cheers-think-4571119/"
   },
   {
     "english": "Stowed position",
@@ -9705,7 +10491,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "stoved posişın",
     "mnemonicHook": "STOVD POZİŞIN",
-    "mnemonicScene": "Hostes \"STOVD POZİŞIN!\" diyerek koltuğu KAPALI konuma getiriyor. Bu sahne size STOWED POSITION kelimesinin KAPALI POZİSYON olduğunu hatırlatacaktır."
+    "mnemonicScene": "Hostes \"STOVD POZİŞIN!\" diyerek koltuğu KAPALI konuma getiriyor. Bu sahne size STOWED POSITION kelimesinin KAPALI POZİSYON olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g26a593c0df7f5b711585dbb3063580dc6e56c904b70204d0b8c7cc18ed64bc2d2529861b0784fdec0ce15e28de5b8c47c965139c29bdd68eed9622bcb624e0de_640.jpg",
+    "imageSource": "https://pixabay.com/photos/woman-yoga-meditation-mindfulness-3053492/"
   },
   {
     "english": "Basic",
@@ -9728,7 +10516,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "basik",
     "mnemonicHook": "BEYSİK",
-    "mnemonicScene": "Öğretmen \"BEYSİK!\" diyerek en TEMEL konuları anlatıyor. Bu sahne size BASIC kelimesinin TEMEL olduğunu hatırlatacaktır."
+    "mnemonicScene": "Öğretmen \"BEYSİK!\" diyerek en TEMEL konuları anlatıyor. Bu sahne size BASIC kelimesinin TEMEL olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gc86a5ff3e9572f7b9b4872465583bde69c6c5fb9242199c80715a38790ca33c8b7c3302b053e25274d5b51ae6b2fb745cb06a4bd428565a745dbdeaa6abb8b4d_640.jpg",
+    "imageSource": "https://pixabay.com/photos/the-basic-law-germany-a-book-2454404/"
   },
   {
     "english": "Conjunction",
@@ -9751,7 +10541,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "koncunkşın",
     "mnemonicHook": "KONCANKŞIN",
-    "mnemonicScene": "Dilbilgisi hocası \"KONCANKŞIN!\" diyerek iki cümleyi BAĞLIYOR. Bu sahne size CONJUNCTION kelimesinin BAĞLAÇ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Dilbilgisi hocası \"KONCANKŞIN!\" diyerek iki cümleyi BAĞLIYOR. Bu sahne size CONJUNCTION kelimesinin BAĞLAÇ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gdc544f0c736cfc9c139e33abbc34ed988fa360dcc3c9ec723451b697168e9694b95a4a146ff8667e08d65aff13e8b9dd3db8d8d4ef1e07e7a77f2341e5ca0c24_640.jpg",
+    "imageSource": "https://pixabay.com/photos/moon-venus-planet-astronomy-2080931/"
   },
   {
     "english": "Connect",
@@ -9774,7 +10566,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "konnekt",
     "mnemonicHook": "KANEKT",
-    "mnemonicScene": "Elektrikçi \"KANEKT!\" diyerek kabloyu bataryaya BAĞLIYOR. Bu sahne size CONNECT kelimesinin BAĞLAMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Elektrikçi \"KANEKT!\" diyerek kabloyu bataryaya BAĞLIYOR. Bu sahne size CONNECT kelimesinin BAĞLAMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ga2bdf6ceef745a4089fa40de07c9464c2bc695465614c024007c1a9f727c72e871da9f93965cf6bf8d2924e3cd9d9de5_640.jpg",
+    "imageSource": "https://pixabay.com/photos/keyboard-button-key-enter-input-417089/"
   },
   {
     "english": "Define",
@@ -9797,7 +10591,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "defin",
     "mnemonicHook": "DİFAYN",
-    "mnemonicScene": "Sözlük yazarı \"DİFAYN!\" diyerek kelimenin TANIMINI yazıyor. Bu sahne size DEFINE kelimesinin TANIMLAMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sözlük yazarı \"DİFAYN!\" diyerek kelimenin TANIMINI yazıyor. Bu sahne size DEFINE kelimesinin TANIMLAMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g01f7e48cf4c9041d18e6e498688d2ffc92f00ba40851e327edc88a3486a1d58999a035af1bc71f253fbe07b888f49f21eab0d4ff9ade44ec6262b11938493713_640.jpg",
+    "imageSource": "https://pixabay.com/photos/abs-bodyscape-gym-gymbunny-woman-2105416/"
   },
   {
     "english": "Logical",
@@ -9820,7 +10616,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "logikal",
     "mnemonicHook": "LOCİKAL",
-    "mnemonicScene": "Matematikçi \"LOCİKAL!\" diyerek cevabın MANTIKLI olduğunu kanıtlıyor. Bu sahne size LOGICAL kelimesinin MANTIKLI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Matematikçi \"LOCİKAL!\" diyerek cevabın MANTIKLI olduğunu kanıtlıyor. Bu sahne size LOGICAL kelimesinin MANTIKLI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g5cab86da89b88b18834fc99142b35c2c709935c5109d4c85d08e14a1841f8d7cadc51a9a76522565e0a6b94d34eafa300f94ed1bb727ce889e2cba02836f002a_640.jpg",
+    "imageSource": "https://pixabay.com/photos/chess-chessboard-board-game-1215079/"
   },
   {
     "english": "Relation",
@@ -9843,7 +10641,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "relaşın",
     "mnemonicHook": "RİLEYŞIN",
-    "mnemonicScene": "Aile fotoğrafında \"RİLEYŞIN!\" diyerek aralarındaki İLİŞKİYİ gösteriyorlar. Bu sahne size RELATION kelimesinin İLİŞKİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Aile fotoğrafında \"RİLEYŞIN!\" diyerek aralarındaki İLİŞKİYİ gösteriyorlar. Bu sahne size RELATION kelimesinin İLİŞKİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g70a9bb7e38b0d049eadc63158db85d40c419125853904b15f9ecd6caf331effd1314cddecf5ed69b22f2aaf0fa06935357340ec3664841af41b46527bfb48423_640.jpg",
+    "imageSource": "https://pixabay.com/photos/usa-north-korea-conflict-trump-2893863/"
   },
   {
     "english": "Ideas",
@@ -9866,7 +10666,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "idiis",
     "mnemonicHook": "AYDİYAS",
-    "mnemonicScene": "Beyin fırtınasında \"AYDİYAS!\" diye bağırıp yeni FİKİRLER öneriyor. Bu sahne size IDEAS kelimesinin FİKİRLER olduğunu hatırlatacaktır."
+    "mnemonicScene": "Beyin fırtınasında \"AYDİYAS!\" diye bağırıp yeni FİKİRLER öneriyor. Bu sahne size IDEAS kelimesinin FİKİRLER olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gde5ac4b015d451dec08b67562c8430c79379986439cd391e8cdb0bc013422e9f5d4e26024a3490efa0119f2603f93f31e3231004d479d469ac1466537e4190c3_640.jpg",
+    "imageSource": "https://pixabay.com/photos/lightbulb-idea-creativity-base-3104355/"
   },
   {
     "english": "Frequent",
@@ -9912,7 +10714,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "notis",
     "mnemonicHook": "NOTİS",
-    "mnemonicScene": "Müdür \"NOTİS!\" diyerek panoya DUYURU asıyor. Bu sahne size NOTICE kelimesinin DUYURU, FARK ETMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Müdür \"NOTİS!\" diyerek panoya DUYURU asıyor. Bu sahne size NOTICE kelimesinin DUYURU, FARK ETMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g6a12789b6edc2e7e13a008079af237d91fab11788fd4cdabc98d6e1b7b0e91446c1088d436a6515e2de26603edf8ef1b6123f97345b965d9ca1387a51064fbb0_640.jpg",
+    "imageSource": "https://pixabay.com/photos/sign-open-sign-signage-business-8032702/"
   },
   {
     "english": "Serviceable",
@@ -9935,7 +10739,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "servisiibl",
     "mnemonicHook": "SÖRVİSEBL",
-    "mnemonicScene": "Tamirci \"SÖRVİSEBL!\" diyerek telsizin FAAL olduğunu onaylıyor. Bu sahne size SERVICEABLE kelimesinin KULLANILABİLİR olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tamirci \"SÖRVİSEBL!\" diyerek telsizin FAAL olduğunu onaylıyor. Bu sahne size SERVICEABLE kelimesinin KULLANILABİLİR olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gbc2c9b4842ad30ebeabb94734bcef4a88a75ca7024868f4c6673b801f58e622096d281156cf87fa4f35cee32bc02eb05636cbc10bc41631b41c80474525bd980_640.jpg",
+    "imageSource": "https://pixabay.com/photos/receptionists-phone-call-hotel-5975962/"
   },
   {
     "english": "Unserviceable",
@@ -9981,7 +10787,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "siil",
     "mnemonicHook": "SİİL",
-    "mnemonicScene": "Tamirci \"SİİL!\" diyerek eski CONTAYI sökme yerine yenisini takıyor. Bu sahne size SEAL kelimesinin CONTA, KEÇE olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tamirci \"SİİL!\" diyerek eski CONTAYI sökme yerine yenisini takıyor. Bu sahne size SEAL kelimesinin CONTA, KEÇE olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g364e2a18e63cfff918156639b19dfd08a847068dcb4ae98aaea9b722f4fbe987106a8919c39bd6da849d4bf13bd399f4f05f50b587f98fcffbfa029bb770ccb3_640.jpg",
+    "imageSource": "https://pixabay.com/photos/seal-animal-sleep-coast-4923333/"
   },
   {
     "english": "Leak",
@@ -10004,7 +10812,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "liik",
     "mnemonicHook": "LİİK",
-    "mnemonicScene": "Tesisatçı \"LİİK!\" diyerek borudaki SIZINTIYI buluyor. Bu sahne size LEAK kelimesinin SIZINTI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tesisatçı \"LİİK!\" diyerek borudaki SIZINTIYI buluyor. Bu sahne size LEAK kelimesinin SIZINTI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gedeb46dd2c4164d1ae8e7b748408d53f24d81149d116e0e704586c6d2ebe8f87442ee884597f080a1ef161db4531f3499500a57fc47fe48dad59e13017c023b9_640.jpg",
+    "imageSource": "https://pixabay.com/photos/background-clean-connection-1239373/"
   },
   {
     "english": "Set",
@@ -10027,7 +10837,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "set",
     "mnemonicHook": "SET",
-    "mnemonicScene": "Sürücü \"SET!\" diyerek frenleri ÇEKİLİ konuma alıyor. Bu sahne size SET kelimesinin ÇEKİLİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü \"SET!\" diyerek frenleri ÇEKİLİ konuma alıyor. Bu sahne size SET kelimesinin ÇEKİLİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ge29f3efe09c7f45a007bbf662b354afac045f2d1c374f31270b3a7202073a8d42c994d18ec66d888c8aec2ed90ce247c_640.jpg",
+    "imageSource": "https://pixabay.com/photos/cutlery-silverware-knives-forks-377700/"
   },
   {
     "english": "PES (Passenger Entertaiment System)",
@@ -10050,7 +10862,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "pes (passenger entertaiment system)",
     "mnemonicHook": "PES",
-    "mnemonicScene": "Hostes \"PES!\" diyerek yolculara YOLCU EĞLENCE SİSTEMİNDEN film açıyor. Bu sahne size PES kelimesinin YOLCU EĞLENCE SİSTEMİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Hostes \"PES!\" diyerek yolculara YOLCU EĞLENCE SİSTEMİNDEN film açıyor. Bu sahne size PES kelimesinin YOLCU EĞLENCE SİSTEMİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g7648406c54f4f122f04653675157119eedafa8e11398fecc588724f313997f44d4ab28c4eb58c727af68b5f80ba8f87163568758b281be9ac828a44178b27459_640.jpg",
+    "imageSource": "https://pixabay.com/photos/flower-railroad-vine-2690150/"
   },
   {
     "english": "Contrasting",
@@ -10073,7 +10887,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "kontrasting",
     "mnemonicHook": "KONTRESTİNG",
-    "mnemonicScene": "Ressam \"KONTRESTİNG!\" diyerek iki rengi KARŞILAŞTIRIYOR, zıt renkler yan yana. Bu sahne size CONTRASTING kelimesinin KARŞILAŞTIRMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ressam \"KONTRESTİNG!\" diyerek iki rengi KARŞILAŞTIRIYOR, zıt renkler yan yana. Bu sahne size CONTRASTING kelimesinin KARŞILAŞTIRMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g8e35f869788baae301ed446eb6da9634130f4a8386d459df8f0c9e7fc2a370d9a06cb8472de3047b510ec6101986e4ac789d25465d1bca7dcd99ddce1411b219_640.jpg",
+    "imageSource": "https://pixabay.com/photos/cat-domestic-animal-sun-to-sunbathe-9938819/"
   },
   {
     "english": "Opposite",
@@ -10096,7 +10912,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "opposit",
     "mnemonicHook": "OPZIT",
-    "mnemonicScene": "İki takım \"OPZIT!\" diyerek birbirinin KARŞISINA geçiyor. Bu sahne size OPPOSITE kelimesinin KARŞI, ZIT olduğunu hatırlatacaktır."
+    "mnemonicScene": "İki takım \"OPZIT!\" diyerek birbirinin KARŞISINA geçiyor. Bu sahne size OPPOSITE kelimesinin KARŞI, ZIT olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g7c14ed633de2cb7787d590a897c97cbe0c740506ef120b9a9cc73c7431c69678dd462f18dd6e3e6ce10a1c829b99274c30fc335a8e99da9140bc68517c520b2c_640.jpg",
+    "imageSource": "https://pixabay.com/photos/man-woman-composing-dispute-2933991/"
   },
   {
     "english": "Slightly",
@@ -10142,7 +10960,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "separateli",
     "mnemonicHook": "SEPARETLİ",
-    "mnemonicScene": "Depocu \"SEPARETLİ!\" diyerek parçaları AYRI AYRI koyuyor. Bu sahne size SEPARATELY kelimesinin AYRI AYRI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Depocu \"SEPARETLİ!\" diyerek parçaları AYRI AYRI koyuyor. Bu sahne size SEPARATELY kelimesinin AYRI AYRI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf282676c87eb1a8a2aa3ccf3764a50bccc5980b566f43bd343d59a2f211fed34d57fee274875cd95871c93941654c4727e7b0b59ec7b3a2b9ef25bf7f962a2da_640.jpg",
+    "imageSource": "https://pixabay.com/photos/man-woman-composing-dispute-2933991/"
   },
   {
     "english": "Fit",
@@ -10165,7 +10985,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fit",
     "mnemonicHook": "FİT",
-    "mnemonicScene": "Terzi \"FİT!\" diyerek elbiseyi vücuda TAM OTURTUYOR. Bu sahne size FIT kelimesinin OTURMAK, UYMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Terzi \"FİT!\" diyerek elbiseyi vücuda TAM OTURTUYOR. Bu sahne size FIT kelimesinin OTURMAK, UYMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g078b307e90ce1cd4089af8ba2af61c8fbee87257e598a11e0a297ba743990a23ed4c2df2bb6165886ff862f8b9e7c754d8aae744cd618e28ae1b27b90cb32a5b_640.jpg",
+    "imageSource": "https://pixabay.com/photos/puzzle-last-part-joining-together-3223941/"
   },
   {
     "english": "Delayed",
@@ -10188,7 +11010,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "delayed",
     "mnemonicHook": "DİLEYD",
-    "mnemonicScene": "Anons \"DİLEYD!\" diyerek uçuşun ERTELENDİĞİNİ bildiriyor. Bu sahne size DELAYED kelimesinin ERTELENMİŞ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Anons \"DİLEYD!\" diyerek uçuşun ERTELENDİĞİNİ bildiriyor. Bu sahne size DELAYED kelimesinin ERTELENMİŞ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gfe7fda2f96b50a012d5d15e17958a9ff1bd39c80eab1065e8b862b1ccef0cce47b100f159b124e0ba92cfd8f854a0e79cbe09dcda7069444cae983efd5109b8e_640.jpg",
+    "imageSource": "https://pixabay.com/photos/flight-delay-airport-cancelled-3709560/"
   },
   {
     "english": "Deadbolt",
@@ -10211,7 +11035,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "diidbolt",
     "mnemonicHook": "DEDBOLT",
-    "mnemonicScene": "Bekçi \"DEDBOLT!\" diyerek kapıya YAYSIZ KİLİDİ sürüyor. Bu sahne size DEADBOLT kelimesinin YAYSIZ KİLİT olduğunu hatırlatacaktır."
+    "mnemonicScene": "Bekçi \"DEDBOLT!\" diyerek kapıya YAYSIZ KİLİDİ sürüyor. Bu sahne size DEADBOLT kelimesinin YAYSIZ KİLİT olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g7843b53b6c78260ca0622edbfbb0c4cf2f2b45e094e6a0fb88970ade264eca050326916fcb6ff08f24d370f7c06ec450f2c0e5be00540eaaba4155743fd05f77_640.jpg",
+    "imageSource": "https://pixabay.com/photos/door-accessibility-lock-doorway-1089560/"
   },
   {
     "english": "Expresses",
@@ -10234,7 +11060,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "ekspresses",
     "mnemonicHook": "EKSPRESES",
-    "mnemonicScene": "Yazar \"EKSPRESES!\" diyerek düşüncesini kâğıda İFADE EDİYOR. Bu sahne size EXPRESSES kelimesinin İFADE ETMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Yazar \"EKSPRESES!\" diyerek düşüncesini kâğıda İFADE EDİYOR. Bu sahne size EXPRESSES kelimesinin İFADE ETMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gc66de253476705b1b21b820b615a2c4641399449032df24158be738104b9cfed11bf09a11756b583446a5612df111d0d090e99ca52fb4741a1934881738006a1_640.jpg",
+    "imageSource": "https://pixabay.com/photos/freedom-woman-road-city-happy-2940655/"
   },
   {
     "english": "Omitted",
@@ -10280,7 +11108,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "spiiç",
     "mnemonicHook": "SPİÇ",
-    "mnemonicScene": "Başkan kürsüde \"SPİÇ!\" diyerek uzun bir KONUŞMA yapıyor. Bu sahne size SPEECH kelimesinin KONUŞMA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Başkan kürsüde \"SPİÇ!\" diyerek uzun bir KONUŞMA yapıyor. Bu sahne size SPEECH kelimesinin KONUŞMA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g8ef8f55d1d6bd153bddc86bf20bcd8638f6cd95662ac0badd3467847643f97d402119e64412104a0752c808283ce1750f5a196453cca65ec91ca7be3d8383338_640.jpg",
+    "imageSource": "https://pixabay.com/photos/microphone-music-sound-mic-musical-2130806/"
   },
   {
     "english": "Advisory Information",
@@ -10303,7 +11133,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "advisori informaşın",
     "mnemonicHook": "ADVAYZRİ",
-    "mnemonicScene": "Anons yapan \"ADVAYZRİ!\" diyerek yolculara DANIŞMA BİLGİSİ veriyor. Bu sahne size ADVISORY INFORMATION kelimesinin DANIŞMA BİLGİSİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Anons yapan \"ADVAYZRİ!\" diyerek yolculara DANIŞMA BİLGİSİ veriyor. Bu sahne size ADVISORY INFORMATION kelimesinin DANIŞMA BİLGİSİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g9fd1c25e75bcfade46446fdcb46a22f2b73f5034d86fb23d45fd4cdf5c136030a0ce9ef88ebe77e02f296adb966d0c17acb2a8d7e13115bbf6a253e9736317de_640.jpg",
+    "imageSource": "https://pixabay.com/photos/airport-woman-flight-boarding-2373727/"
   },
   {
     "english": "Short-Term Weather",
@@ -10326,7 +11158,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "şort-term viiter",
     "mnemonicHook": "ŞORT TİRM VEDIR",
-    "mnemonicScene": "Spiker \"ŞORT TİRM VEDIR!\" diyerek KISA SÜRELİ HAVA DURUMUNU okuyor. Bu sahne size SHORT-TERM WEATHER kelimesinin KISA SÜRELİ HAVA DURUMU olduğunu hatırlatacaktır."
+    "mnemonicScene": "Spiker \"ŞORT TİRM VEDIR!\" diyerek KISA SÜRELİ HAVA DURUMUNU okuyor. Bu sahne size SHORT-TERM WEATHER kelimesinin KISA SÜRELİ HAVA DURUMU olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g4bd673f418b1c48bce63ded0090b0eb6df8ed33cbde61e4ac6a60c1cd6026cadeb89ecb51732d51f9b43d343fa76aee6a8e662d55f263f318d5db800cd33c437_640.jpg",
+    "imageSource": "https://pixabay.com/photos/blue-sky-fresh-clean-air-cloud-5136251/"
   },
   {
     "english": "Fasten Seat Belt (FSB)",
@@ -10349,7 +11183,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fasten siit belt (fsb)",
     "mnemonicHook": "FASTEN SİİT BELT",
-    "mnemonicScene": "Pilot \"FASTEN SİİT BELT!\" diyerek KEMERLERİNİZİ BAĞLAYINIZ işaretini yakıyor. Bu sahne size FASTEN SEAT BELT kelimesinin KEMERLERİNİZİ BAĞLAYINIZ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Pilot \"FASTEN SİİT BELT!\" diyerek KEMERLERİNİZİ BAĞLAYINIZ işaretini yakıyor. Bu sahne size FASTEN SEAT BELT kelimesinin KEMERLERİNİZİ BAĞLAYINIZ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g3a108dab56a334c5d499406c514a0041f284f24ab65db01f211c4a20c06ae0f2da05d87eae02f6d92d4309ecc3737bc08b5acd518737b38dd0a26ba90fd714a4_640.jpg",
+    "imageSource": "https://pixabay.com/photos/seat-belt-seatbelt-vehicle-4227630/"
   },
   {
     "english": "No Smoking",
@@ -10372,7 +11208,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "no smoking",
     "mnemonicHook": "NO SMOKİNG",
-    "mnemonicScene": "Görevli \"NO SMOKİNG!\" diyerek kapıya SİGARA İÇİLMEZ levhasını asıyor. Bu sahne size NO SMOKING kelimesinin SİGARA İÇİLMEZ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Görevli \"NO SMOKİNG!\" diyerek kapıya SİGARA İÇİLMEZ levhasını asıyor. Bu sahne size NO SMOKING kelimesinin SİGARA İÇİLMEZ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g72819e8edbb83681d105af4ee1771887511098a3af90a22d6b1455f5b014ed8d0ce21083455e1c768cc2240499fdbcd2be138e09f51a274642128c44f38d0eb9_640.jpg",
+    "imageSource": "https://pixabay.com/photos/woman-platform-waiting-train-5477042/"
   },
   {
     "english": "Individual",
@@ -10395,7 +11233,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "individual",
     "mnemonicHook": "İNDİVİJUAL",
-    "mnemonicScene": "Her öğrenci \"İNDİVİJUAL!\" diyerek kendi BİREYSEL masasına oturuyor. Bu sahne size INDIVIDUAL kelimesinin BİREYSEL olduğunu hatırlatacaktır."
+    "mnemonicScene": "Her öğrenci \"İNDİVİJUAL!\" diyerek kendi BİREYSEL masasına oturuyor. Bu sahne size INDIVIDUAL kelimesinin BİREYSEL olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g346f1fb15afca588c276c1d0f876236c6c398e8326fa51961736ea334f387b42df1fcd9fa746388c0b181dfc875649b6_640.jpg",
+    "imageSource": "https://pixabay.com/photos/balls-marbles-round-alone-407081/"
   },
   {
     "english": "Inside",
@@ -10418,7 +11258,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "insid",
     "mnemonicHook": "İNSAYD",
-    "mnemonicScene": "Çocuk \"İNSAYD!\" diyerek kutunun İÇİNE bakıyor. Bu sahne size INSIDE kelimesinin İÇERİDE olduğunu hatırlatacaktır."
+    "mnemonicScene": "Çocuk \"İNSAYD!\" diyerek kutunun İÇİNE bakıyor. Bu sahne size INSIDE kelimesinin İÇERİDE olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g7291f89982cb0c0ee285524b2eed57978bd0871983850b6bcdabfc08cbcb60d163deefa6e1994aa3bcfde3aca30ab12a_640.jpg",
+    "imageSource": "https://pixabay.com/photos/little-boy-window-waiting-bored-731165/"
   },
   {
     "english": "Outside",
@@ -10441,7 +11283,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "outsid",
     "mnemonicHook": "AUTSAYD",
-    "mnemonicScene": "Bekçi \"AUTSAYD!\" diyerek herkesi kapının DIŞINA çıkarıyor. Bu sahne size OUTSIDE kelimesinin DIŞARIDA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Bekçi \"AUTSAYD!\" diyerek herkesi kapının DIŞINA çıkarıyor. Bu sahne size OUTSIDE kelimesinin DIŞARIDA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g3640acf22171ce409262b121518717dc2a28e9e5d7d9696f59618b00bd0ff07bbe3ccd15eb28876c0b99c54a8cf2434e288f429cb51ba009ff00f3f05f36fc68_640.jpg",
+    "imageSource": "https://pixabay.com/photos/egyptian-goose-bird-wildlife-nature-10497599/"
   },
   {
     "english": "Row",
@@ -10464,7 +11308,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "rov",
     "mnemonicHook": "ROU",
-    "mnemonicScene": "Öğretmen \"ROU!\" diyerek öğrencileri SIRAYA dizip oturtuyor. Bu sahne size ROW kelimesinin SIRA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Öğretmen \"ROU!\" diyerek öğrencileri SIRAYA dizip oturtuyor. Bu sahne size ROW kelimesinin SIRA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gcff4ccb918b64e7757f26181d6716b0305eb2838bbda5b192366f203ef21de28eb25bf7f10efe9ac9c3a9f05a8065e18201bef622e23221d1aa37eb206d9f4f4_640.jpg",
+    "imageSource": "https://pixabay.com/photos/smiley-emoticon-anger-angry-2979107/"
   },
   {
     "english": "Hole",
@@ -10487,7 +11333,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "hol",
     "mnemonicHook": "HOL",
-    "mnemonicScene": "Tavşan \"HOL!\" diyerek topraktaki DELİĞE giriyor. Bu sahne size HOLE kelimesinin DELİK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tavşan \"HOL!\" diyerek topraktaki DELİĞE giriyor. Bu sahne size HOLE kelimesinin DELİK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf3b4d33763bee8bdc75ee672261e679d3779572357adb0fb3936934f705afefd2eb83c759b9a8f34fa4465fe28aed02129c910ecdf7beff7027ba54802ccb994_640.jpg",
+    "imageSource": "https://pixabay.com/photos/nature-landscape-scenery-wilderness-10208312/"
   },
   {
     "english": "Limit",
@@ -10510,7 +11358,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "limit",
     "mnemonicHook": "LİMİT",
-    "mnemonicScene": "Trafik polisi \"LİMİT!\" diyerek hızı SINIRLIYOR. Bu sahne size LIMIT kelimesinin SINIRLAMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Trafik polisi \"LİMİT!\" diyerek hızı SINIRLIYOR. Bu sahne size LIMIT kelimesinin SINIRLAMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g5770d09e71e30ab1d9be414b773286084a00832269d2e9bae9af748dc89826eec7c8dd19139e3aaf9bd333d13bb54c667375771e5fa30eee9216ca2f453ff1f5_640.jpg",
+    "imageSource": "https://pixabay.com/photos/autumn-foliage-decrease-leaves-7541345/"
   },
   {
     "english": "Self-Opening",
@@ -10533,7 +11383,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "self-opening",
     "mnemonicHook": "SELF OPENİNG",
-    "mnemonicScene": "Kapı \"SELF OPENİNG!\" diyerek kimse dokunmadan KENDİLİĞİNDEN açılıyor. Bu sahne size SELF-OPENING kelimesinin KENDİLİĞİNDEN AÇILMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kapı \"SELF OPENİNG!\" diyerek kimse dokunmadan KENDİLİĞİNDEN açılıyor. Bu sahne size SELF-OPENING kelimesinin KENDİLİĞİNDEN AÇILMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gc9b4f7fd5edd5261814dcd61fa4d9bfddb1bd3a7e521ea44028a7b7d526034ec6954b986559a5f5b965b1532ea0cb553da902de5ec1437950b5f358cd75c52e9_640.jpg",
+    "imageSource": "https://pixabay.com/photos/woman-belly-stomachache-heart-3186730/"
   },
   {
     "english": "Series",
@@ -10556,7 +11408,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "series",
     "mnemonicHook": "SİRİYZ",
-    "mnemonicScene": "Televizyoncu \"SİRİYZ!\" diyerek yeni bir DİZİYİ tanıtıyor. Bu sahne size SERIES kelimesinin DİZİ, SIRA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Televizyoncu \"SİRİYZ!\" diyerek yeni bir DİZİYİ tanıtıyor. Bu sahne size SERIES kelimesinin DİZİ, SIRA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gc4cd83f27cbf0a2923c1b50ea0c3b9453b5d2ce1983e5b309857b19adf199e1ed1dcfe194f8e61231a3be991df6f1a61b18d62aac2e0cfe9dfb6bd4b4e1a2739_640.jpg",
+    "imageSource": "https://pixabay.com/photos/books-literature-classic-library-4392336/"
   },
   {
     "english": "Mark",
@@ -10579,7 +11433,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "mark",
     "mnemonicHook": "MARK",
-    "mnemonicScene": "Öğretmen \"MARK!\" diyerek cevabı kırmızı kalemle İŞARETLİYOR. Bu sahne size MARK kelimesinin İŞARETLEMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Öğretmen \"MARK!\" diyerek cevabı kırmızı kalemle İŞARETLİYOR. Bu sahne size MARK kelimesinin İŞARETLEMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ga298dd3c99b5375cf6574445ac8f0d0dfb386ebf90419d6b3d94c07d9dbfe60e31fa0d48d604005aac0f0d5f01016e859d72e3ea82c1a717fdd776a3d738a548_640.jpg",
+    "imageSource": "https://pixabay.com/photos/saint-marks-basilica-architecture-7859843/"
   },
   {
     "english": "Extend",
@@ -10602,7 +11458,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "ekstend",
     "mnemonicHook": "EKSTEND",
-    "mnemonicScene": "Elektrikçi \"EKSTEND!\" diyerek kabloyu masaya kadar UZATIYOR. Bu sahne size EXTEND kelimesinin UZATMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Elektrikçi \"EKSTEND!\" diyerek kabloyu masaya kadar UZATIYOR. Bu sahne size EXTEND kelimesinin UZATMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g73eae01ecbf24edbcceb430bbcdb157aa12ed07e55cac5bd6c19f3b47ea56a50f7b205fcdaaff3c3bce81402aa739516_640.jpg",
+    "imageSource": "https://pixabay.com/photos/brass-captains-bezel-692736/"
   },
   {
     "english": "Center",
@@ -10625,7 +11483,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "senter",
     "mnemonicHook": "SENTIR",
-    "mnemonicScene": "Dansçı \"SENTIR!\" diyerek salonun ORTASINDA duruyor. Bu sahne size CENTER kelimesinin ORTA, MERKEZ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Dansçı \"SENTIR!\" diyerek salonun ORTASINDA duruyor. Bu sahne size CENTER kelimesinin ORTA, MERKEZ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gc635e521ac57beb692ee884704d48ee10c2ff392801d6fe1b0f6d9429f9f7d94d629afb994b3fddbf2ba2df5be6fe490368ee6629efa1f5e2ef93f9f2e4775e9_640.jpg",
+    "imageSource": "https://pixabay.com/photos/flower-nature-flora-petal-summer-3140492/"
   },
   {
     "english": "Shade",
@@ -10648,7 +11508,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "şad",
     "mnemonicHook": "ŞEYD",
-    "mnemonicScene": "Çocuk \"ŞEYD!\" diye bağırıp ağacın GÖLGESİNE oturuyor. Bu sahne size SHADE kelimesinin GÖLGE olduğunu hatırlatacaktır."
+    "mnemonicScene": "Çocuk \"ŞEYD!\" diye bağırıp ağacın GÖLGESİNE oturuyor. Bu sahne size SHADE kelimesinin GÖLGE olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ga6b15bf02fbc7748cefc8c923131cf5aed7e0f86697cd449370c0fad9867f62b264c4f867ecd84058a7f0837e46b62a6821bbd034c29911da4d279cb31eb6d2f_640.jpg",
+    "imageSource": "https://pixabay.com/photos/sail-sailing-boat-black-and-white-9295699/"
   },
   {
     "english": "Removable",
@@ -10671,7 +11533,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "removabl",
     "mnemonicHook": "RİMUVABL",
-    "mnemonicScene": "Tamirci \"RİMUVABL!\" diyerek kapağı kolayca SÖKÜLEBİLİR olarak çıkarıyor. Bu sahne size REMOVABLE kelimesinin SÖKÜLEBİLİR olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tamirci \"RİMUVABL!\" diyerek kapağı kolayca SÖKÜLEBİLİR olarak çıkarıyor. Bu sahne size REMOVABLE kelimesinin SÖKÜLEBİLİR olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf3751a10fb1b9eb2fe58efc8a8acc37d4110dd29eda8d6808f5863e98165e5b10e8b33609828c6e9886764bc28f44563b3d1d4a8832b43ab05bf77de896996ca_640.jpg",
+    "imageSource": "https://pixabay.com/photos/memory-stick-memory-media-1267620/"
   },
   {
     "english": "Count",
@@ -10694,7 +11558,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "kount",
     "mnemonicHook": "KAUNT",
-    "mnemonicScene": "Kasiyer \"KAUNT!\" diyerek kutuları tek tek SAYIYOR. Bu sahne size COUNT kelimesinin SAYMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kasiyer \"KAUNT!\" diyerek kutuları tek tek SAYIYOR. Bu sahne size COUNT kelimesinin SAYMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g7380fa59e174cb9f6c90b3445c43a10d73b11ca0668ac1c8d236ac4f3679bf862e34d3a75346b6046a50db66732ee90d47ea65e3f5695752487dc3eaa6c99dab_640.png",
+    "imageSource": "https://pixabay.com/photos/hand-palm-fingers-one-two-three-4594071/"
   },
   {
     "english": "Release",
@@ -10717,7 +11583,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "reliis",
     "mnemonicHook": "RİLİYS",
-    "mnemonicScene": "Yolcu kemerin tokasına basıp \"RİLİYS!\" diyerek kemeri ÇIKARIYOR. Bu sahne size RELEASE kelimesinin ÇIKARMAK, SERBEST BIRAKMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Yolcu kemerin tokasına basıp \"RİLİYS!\" diyerek kemeri ÇIKARIYOR. Bu sahne size RELEASE kelimesinin ÇIKARMAK, SERBEST BIRAKMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g59e9affab5792fbdcc1c6a18e87946b821e795fce83da79f31e68e810c2a5c840f9078c70ac40ece9e17a72b8c1d8ac351755c696236e3ce4235a9e0feb10a40_640.jpg",
+    "imageSource": "https://pixabay.com/photos/dove-freedom-peace-trust-prayer-3426159/"
   },
   {
     "english": "Aisle",
@@ -10740,7 +11608,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "aisl",
     "mnemonicHook": "AYL",
-    "mnemonicScene": "Gelin \"AYL!\" diyerek kilisenin KORİDORUNDAN yürüyor. Bu sahne size AISLE kelimesinin KORİDOR olduğunu hatırlatacaktır."
+    "mnemonicScene": "Gelin \"AYL!\" diyerek kilisenin KORİDORUNDAN yürüyor. Bu sahne size AISLE kelimesinin KORİDOR olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf944ce1bc801deebedd4a0b0d5132ecb9bb59259a6458957929a5ad602d8d33ed3679b7ab77e932fdb8e8b0fcfa5716ccca1a4dd78de17b83eb30864fa0f3c55_640.jpg",
+    "imageSource": "https://pixabay.com/photos/books-library-room-school-study-2596809/"
   },
   {
     "english": "Swinging",
@@ -10763,7 +11633,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "svinging",
     "mnemonicHook": "SVİNGİNG",
-    "mnemonicScene": "Çocuk \"SVİNGİNG!\" diyerek salıncakta SALLANIYOR. Bu sahne size SWINGING kelimesinin SALLANAN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Çocuk \"SVİNGİNG!\" diyerek salıncakta SALLANIYOR. Bu sahne size SWINGING kelimesinin SALLANAN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g00849bab820ca76b98260b377218d022505dbcfaed2ca6a4594dd7736333844c3a53564739d971bba7cd1682ced0ce4f_640.jpg",
+    "imageSource": "https://pixabay.com/photos/girl-swing-rocking-autumn-fall-996635/"
   },
   {
     "english": "Down",
@@ -10786,7 +11658,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "dovn",
     "mnemonicHook": "DAUN",
-    "mnemonicScene": "Kaptan \"DAUN!\" diyerek AŞAĞIYA bakıp haritayı inceliyor. Bu sahne size DOWN kelimesinin AŞAĞI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kaptan \"DAUN!\" diyerek AŞAĞIYA bakıp haritayı inceliyor. Bu sahne size DOWN kelimesinin AŞAĞI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g682f3ccba426a9d2d1bd36a5f1715de51c07557a75f9c1737bca8acf9782abb5c0b72250a9b1e4148d155ff5a9011f8278e0e0666dd375a66a6f436f767cb1ef_640.jpg",
+    "imageSource": "https://pixabay.com/photos/hooded-man-green-cool-person-1171625/"
   },
   {
     "english": "Floor",
@@ -10809,7 +11683,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fluur",
     "mnemonicHook": "FLOR",
-    "mnemonicScene": "Temizlikçi \"FLOR!\" diyerek ZEMİNİ paspasla siliyor. Bu sahne size FLOOR kelimesinin ZEMİN, TABAN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Temizlikçi \"FLOR!\" diyerek ZEMİNİ paspasla siliyor. Bu sahne size FLOOR kelimesinin ZEMİN, TABAN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gbb4c2c0b00f3a03ced5ab48517decf6cca09116c5a7d8ff34a76480bd5c972baaeed6d9f5a1d0029cea75e2c0e63d3c3db0d975a5c414dd3f187f811123f54dd_640.jpg",
+    "imageSource": "https://pixabay.com/photos/space-empty-wooden-floor-plant-3197611/"
   },
   {
     "english": "Pedestal",
@@ -10832,7 +11708,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "pedestal",
     "mnemonicHook": "PEDESTAL",
-    "mnemonicScene": "Pilot \"PEDESTAL!\" diyerek iki koltuk arasındaki PANELDEKİ gaz kollarına uzanıyor. Bu sahne size PEDESTAL kelimesinin İKİ PİLOT KOLTUĞU ARASINDAKİ PANEL olduğunu hatırlatacaktır."
+    "mnemonicScene": "Pilot \"PEDESTAL!\" diyerek iki koltuk arasındaki PANELDEKİ gaz kollarına uzanıyor. Bu sahne size PEDESTAL kelimesinin İKİ PİLOT KOLTUĞU ARASINDAKİ PANEL olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g2c3e0fbaf16a32ec40b7dc8716b4008b67e2c53382a5193300979734c3b214b7c7e2c39b53a0ecd83e3bbe0eb4e6c751d656ce058442b6fbc98bd062f622b854_640.jpg",
+    "imageSource": "https://pixabay.com/photos/angel-statue-sculpture-figure-1284596/"
   },
   {
     "english": "Breathing Equipment",
@@ -10855,7 +11733,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "briiting ekuipment",
     "mnemonicHook": "BRİİTİNG EKVİPMENT",
-    "mnemonicScene": "İtfaiyeci \"BRİİTİNG EKVİPMENT!\" diyerek SOLUNUM EKİPMANINI takıp dumana giriyor. Bu sahne size BREATHING EQUIPMENT kelimesinin SOLUNUM EKİPMANI olduğunu hatırlatacaktır."
+    "mnemonicScene": "İtfaiyeci \"BRİİTİNG EKVİPMENT!\" diyerek SOLUNUM EKİPMANINI takıp dumana giriyor. Bu sahne size BREATHING EQUIPMENT kelimesinin SOLUNUM EKİPMANI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g5974c69432a062e80a82c3109ff22a320c2764907c7d237fc136dca9a0867ab2896b4e48bb33379e5018bc01b5e9799b_640.jpg",
+    "imageSource": "https://pixabay.com/photos/scuba-diving-swimming-sea-ocean-79606/"
   },
   {
     "english": "Crew",
@@ -10878,7 +11758,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "krev",
     "mnemonicHook": "KRU",
-    "mnemonicScene": "Gemi \"KRU!\" diye bağırarak MÜRETTEBATINI toplayıp hazır ediyor. Bu sahne size CREW kelimesinin MÜRETTEBAT olduğunu hatırlatacaktır."
+    "mnemonicScene": "Gemi \"KRU!\" diye bağırarak MÜRETTEBATINI toplayıp hazır ediyor. Bu sahne size CREW kelimesinin MÜRETTEBAT olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g3b5634f7bba02e490f31cb7ffe8380dae6a4dee4afb4402324f7c2c7de336fab6bc1a1a67cd5cde35ca3e120420a2951bc953993fd663184ad181d1c9554701c_640.jpg",
+    "imageSource": "https://pixabay.com/photos/rowing-quartet-water-sport-leisure-8135184/"
   },
   {
     "english": "Evacuation",
@@ -10901,7 +11783,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "evakuaşın",
     "mnemonicHook": "İVAKYUEYŞIN",
-    "mnemonicScene": "Görevli \"İVAKYUEYŞIN!\" diyerek binadaki herkesi TAHLİYE ediyor. Bu sahne size EVACUATION kelimesinin TAHLİYE olduğunu hatırlatacaktır."
+    "mnemonicScene": "Görevli \"İVAKYUEYŞIN!\" diyerek binadaki herkesi TAHLİYE ediyor. Bu sahne size EVACUATION kelimesinin TAHLİYE olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gaf0cd6f849202a9a6c19a5437e1735e23cde2c659d60a6aa50cefde06abcd807211eb60abd85b465ffd32ea79dded207e20acac8bd97203e6ddfd3f05f03c764_640.jpg",
+    "imageSource": "https://pixabay.com/photos/exit-sign-light-exit-light-8443453/"
   },
   {
     "english": "Desired Level",
@@ -10924,7 +11808,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "desired level",
     "mnemonicHook": "DİZAYRD LEVEL",
-    "mnemonicScene": "Klima ustası \"DİZAYRD LEVEL!\" diyerek sıcaklığı İSTENİLEN SEVİYEYE getiriyor. Bu sahne size DESIRED LEVEL kelimesinin İSTENİLEN SEVİYE olduğunu hatırlatacaktır."
+    "mnemonicScene": "Klima ustası \"DİZAYRD LEVEL!\" diyerek sıcaklığı İSTENİLEN SEVİYEYE getiriyor. Bu sahne size DESIRED LEVEL kelimesinin İSTENİLEN SEVİYE olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g3494b8ee3e4ec4d0b1e75076a8b94607325bb04e13b823f3f727e935e0342ae26efb72a41e7f506ba31c4881ce4e942a31c41e42f2a60215a545d10740aa7ea5_640.jpg",
+    "imageSource": "https://pixabay.com/photos/underwater-sea-wave-sky-seabed-4286600/"
   },
   {
     "english": "Stow Properly",
@@ -10947,7 +11833,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "stov properli",
     "mnemonicHook": "STOV PROPERLİ",
-    "mnemonicScene": "Yolcu \"STOV PROPERLİ!\" diyerek çantasını DÜZGÜN bir şekilde yerleştiriyor. Bu sahne size STOW PROPERLY kelimesinin DÜZGÜN KOYMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Yolcu \"STOV PROPERLİ!\" diyerek çantasını DÜZGÜN bir şekilde yerleştiriyor. Bu sahne size STOW PROPERLY kelimesinin DÜZGÜN KOYMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g8eb5277d5199bbf27856ffa36c64779310f7b370fc309ce0c24370167a3f94d55163874e9daeb2c47b0c3f4dba6248a13fac54475269b519b804569938a9326f_640.jpg",
+    "imageSource": "https://pixabay.com/photos/vermont-stowe-foliage-fall-autumn-1934690/"
   },
   {
     "english": "Agree",
@@ -10970,7 +11858,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "agrii",
     "mnemonicHook": "EGRİ",
-    "mnemonicScene": "Arkadaşlar \"EGRİ!\" diyerek birbirleriyle AYNI FİKİRDE olduklarını söylüyor. Bu sahne size AGREE kelimesinin AYNI FİKİRDE OLMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Arkadaşlar \"EGRİ!\" diyerek birbirleriyle AYNI FİKİRDE olduklarını söylüyor. Bu sahne size AGREE kelimesinin AYNI FİKİRDE OLMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gffae280e66e01cf269ca680f6d0b4b132fa91505e90c0f34277c438a039b566baca80fd89763f0c2dd1d21c3c1d01c7c1d13e28d62f42b6eb0176d1578f9e30b_640.png",
+    "imageSource": "https://pixabay.com/photos/thumbs-up-thumb-hand-positive-1006176/"
   },
   {
     "english": "Display",
@@ -10993,7 +11883,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "displai",
     "mnemonicHook": "DİSPLEY",
-    "mnemonicScene": "Sunucu \"DİSPLEY!\" diyerek haritayı büyük ekranda GÖSTERİYOR. Bu sahne size DISPLAY kelimesinin GÖSTERMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sunucu \"DİSPLEY!\" diyerek haritayı büyük ekranda GÖSTERİYOR. Bu sahne size DISPLAY kelimesinin GÖSTERMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g968c79487811b09edbb93c90207c8127d0c8646fade62c2aace1f7685d46bcf3bfc9d94902037bf88a6d048b8a839fa6d1d4ecda79aa9fc9d3c6f7c05c93555a_640.jpg",
+    "imageSource": "https://pixabay.com/photos/laptop-digital-device-technology-5673901/"
   },
   {
     "english": "Indication",
@@ -11016,7 +11908,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "indikaşın",
     "mnemonicHook": "İNDİKEYŞIN",
-    "mnemonicScene": "Pilot \"İNDİKEYŞIN!\" diyerek paneldeki GÖSTERGEYİ okuyor. Bu sahne size INDICATION kelimesinin GÖSTERGE olduğunu hatırlatacaktır."
+    "mnemonicScene": "Pilot \"İNDİKEYŞIN!\" diyerek paneldeki GÖSTERGEYİ okuyor. Bu sahne size INDICATION kelimesinin GÖSTERGE olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g9ccdf898a9d6b39821684d8519d0120cfcb416f9531c80ebc30b7b3b2a0eb5e19fcb54ff36cf4b96f621a17d34dcc9ba_640.jpg",
+    "imageSource": "https://pixabay.com/photos/assign-to-poke-finger-to-indicate-427537/"
   },
   {
     "english": "Indicated Values",
@@ -11039,7 +11933,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "indikated values",
     "mnemonicHook": "İNDİKEYTİD VALYUZ",
-    "mnemonicScene": "Mühendis \"İNDİKEYTİD VALYUZ!\" diyerek GÖSTERGE DEĞERLERİNİ not alıyor. Bu sahne size INDICATED VALUES kelimesinin GÖSTERGE DEĞERLERİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Mühendis \"İNDİKEYTİD VALYUZ!\" diyerek GÖSTERGE DEĞERLERİNİ not alıyor. Bu sahne size INDICATED VALUES kelimesinin GÖSTERGE DEĞERLERİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g4715c00a358d4246b5f8c90fcb3a536d138c61f28d3c49556b66186d0f69fc5f74871dd17f7e0e4740aae962fbab5dde897b6e1a7620d47728571ef8c84be3e3_640.jpg",
+    "imageSource": "https://pixabay.com/photos/business-performance-values-3208596/"
   },
   {
     "english": "Roll Up",
@@ -11062,7 +11958,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "roll up",
     "mnemonicHook": "ROL AP",
-    "mnemonicScene": "Temizlikçi \"ROL AP!\" diyerek HALIYI YUVARLIYOR. Bu sahne size ROLL UP kelimesinin YUVARLAMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Temizlikçi \"ROL AP!\" diyerek HALIYI YUVARLIYOR. Bu sahne size ROLL UP kelimesinin YUVARLAMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g4b774f6e94f69008f9e5c56fc4c00d4e9bd2716b366c7a69cbe0a9a8db363f7ba461a2050110c4eeef7dbccff3adec0d3b342e694384e20650946e4c06d14825_640.jpg",
+    "imageSource": "https://pixabay.com/photos/cinnamon-rolls-bread-spiral-baking-1417494/"
   },
   {
     "english": "Carpet",
@@ -11085,7 +11983,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "karpet",
     "mnemonicHook": "KARPET",
-    "mnemonicScene": "Döşemeci \"KARPET!\" diyerek zemine HALIYI seriyor. Bu sahne size CARPET kelimesinin HALI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Döşemeci \"KARPET!\" diyerek zemine HALIYI seriyor. Bu sahne size CARPET kelimesinin HALI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g1d7902ba1aca0a5d01d36e097e0ab40cf4f34071e620339b8a1bf9834b0df8395d16ff0b2c4579ee48acbfe7016f34ce_640.jpg",
+    "imageSource": "https://pixabay.com/photos/vacuum-cleaner-vacuuming-cleaning-268179/"
   },
   {
     "english": "Stack",
@@ -11108,7 +12008,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "stak",
     "mnemonicHook": "STEK",
-    "mnemonicScene": "Kütüphaneci \"STEK!\" diyerek kitapları üst üste İSTİF ediyor. Bu sahne size STACK kelimesinin İSTİF, YIĞIN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kütüphaneci \"STEK!\" diyerek kitapları üst üste İSTİF ediyor. Bu sahne size STACK kelimesinin İSTİF, YIĞIN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g362b6d47bd5571708e37eb8ad8cfd92b3189fece238772291c1fb5a6352c933b238ba209f5a76f9e70a9be803410d975_640.jpg",
+    "imageSource": "https://pixabay.com/photos/sea-cliff-travel-destination-192989/"
   },
   {
     "english": "Unlatch",
@@ -11154,7 +12056,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "align",
     "mnemonicHook": "ELAYN",
-    "mnemonicScene": "Terzi \"ELAYN!\" diyerek parçaları BİRBİRİNE UYDURUYOR. Bu sahne size ALIGN kelimesinin HİZALAMAK, UYMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Terzi \"ELAYN!\" diyerek parçaları BİRBİRİNE UYDURUYOR. Bu sahne size ALIGN kelimesinin HİZALAMAK, UYMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gd4036bfd78a4e446f06b423c0cefd110f1f5938e18f1512bfbd6941b58245bff9aa03ad7607b041c7a863f3c96a98325c13cd4a092c1f6f3351c2f688a35025b_640.jpg",
+    "imageSource": "https://pixabay.com/photos/workshop-aks-measured-track-set-3758513/"
   },
   {
     "english": "Havent",
@@ -11200,7 +12104,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "finn",
     "mnemonicHook": "FİN",
-    "mnemonicScene": "Dalgıç \"FİN!\" diyerek suda YÜZGECİNİ çırpıyor. Bu sahne size FIN kelimesinin YÜZGEÇ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Dalgıç \"FİN!\" diyerek suda YÜZGECİNİ çırpıyor. Bu sahne size FIN kelimesinin YÜZGEÇ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g17f957819912b6ab5ff8c6df2fb9ce25e4cadb131887b33726294fdca91979ee735ddf6ba97e6629910ffc84e78ebc94ea2f5dcaad7caa07898d35ffa7f58def_640.jpg",
+    "imageSource": "https://pixabay.com/photos/fishing-boat-steveston-finn-slough-7635599/"
   },
   {
     "english": "Replace",
@@ -11223,7 +12129,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "replas",
     "mnemonicHook": "RİPLEYS",
-    "mnemonicScene": "Elektrikçi \"RİPLEYS!\" diyerek kırık lambayı DEĞİŞTİRİYOR. Bu sahne size REPLACE kelimesinin DEĞİŞTİRMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Elektrikçi \"RİPLEYS!\" diyerek kırık lambayı DEĞİŞTİRİYOR. Bu sahne size REPLACE kelimesinin DEĞİŞTİRMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ge6db61c69c5aa928a36c9d8d98f544988f8e55e7a1bbc12beda9fd6d06f790104ac2c477fb5bed11e1b669b91f0b0362ed6823009545e627c93cf9c0761adc0c_640.jpg",
+    "imageSource": "https://pixabay.com/photos/auto-repair-shop-workshop-brake-disc-1954636/"
   },
   {
     "english": "Layout",
@@ -11246,7 +12154,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "layout",
     "mnemonicHook": "LEYAUT",
-    "mnemonicScene": "Mimar \"LEYAUT!\" diyerek odanın DÜZENİNİ çiziyor. Bu sahne size LAYOUT kelimesinin DÜZEN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Mimar \"LEYAUT!\" diyerek odanın DÜZENİNİ çiziyor. Bu sahne size LAYOUT kelimesinin DÜZEN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gfedfc7dde2362d62ce3e90cb921705897df87de948d9a4f9501db164bcb3b01361067bda7302039003b5d7d7a7611476922b10f8f93e9f2b8e045013b680791d_640.jpg",
+    "imageSource": "https://pixabay.com/photos/maps-pages-papers-vintage-1854199/"
   },
   {
     "english": "Exfoliate",
@@ -11269,7 +12179,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "eksfoliat",
     "mnemonicHook": "EKSFOLİEYT",
-    "mnemonicScene": "Tamirci \"EKSFOLİEYT!\" diyerek eski boyayı KABUK KABUK SOYUYOR. Bu sahne size EXFOLIATE kelimesinin KABUK KABUK SOYMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tamirci \"EKSFOLİEYT!\" diyerek eski boyayı KABUK KABUK SOYUYOR. Bu sahne size EXFOLIATE kelimesinin KABUK KABUK SOYMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gd0a8b92ce443b1bce531fe29a0120ecef3db2388f80e1d0428b4997128a4a913ad2e665c0521a681827c6397dc418f721cf8fcb04bebb62ace8ddfcb1dfb15b9_640.jpg",
+    "imageSource": "https://pixabay.com/photos/natural-cosmetics-cosmetics-beauty-5475878/"
   },
   {
     "english": "Also",
@@ -11315,7 +12227,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "mat",
     "mnemonicHook": "MAT",
-    "mnemonicScene": "Kapıcı \"MAT!\" diyerek kapının önüne PASPAS koyuyor. Bu sahne size MAT kelimesinin PASPAS, MAT olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kapıcı \"MAT!\" diyerek kapının önüne PASPAS koyuyor. Bu sahne size MAT kelimesinin PASPAS, MAT olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g05f1f995209d30b5db03450c129df45ef0efdc119dc342636d0f3704ebb8ce9e6d939e7568ddc357fa981824bf78c4e1450e2ff697abf51ea7f03ebcecd3b638_640.jpg",
+    "imageSource": "https://pixabay.com/photos/woman-yoga-stretching-meditation-2573216/"
   },
   {
     "english": "Longitudinal",
@@ -11338,7 +12252,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "longitudinal",
     "mnemonicHook": "LONCİTUDİNAL",
-    "mnemonicScene": "Jeolog \"LONCİTUDİNAL!\" diyerek çatlağın BOYUNA uzandığını gösteriyor. Bu sahne size LONGITUDINAL kelimesinin BOYUNA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Jeolog \"LONCİTUDİNAL!\" diyerek çatlağın BOYUNA uzandığını gösteriyor. Bu sahne size LONGITUDINAL kelimesinin BOYUNA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g082c2d2b18aa98310460dbbb11065c996c31d4dd061a0b6c17fb6a375d7de83fcf78e246abba227dd6993f5f02c16d6be23d995796ca85f48151da587eb660d8_640.jpg",
+    "imageSource": "https://pixabay.com/photos/leaf-waterdrop-dewdrop-macro-4443712/"
   },
   {
     "english": "Transversal",
@@ -11361,7 +12277,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "transversal",
     "mnemonicHook": "TRANSVERSAL",
-    "mnemonicScene": "Jeolog \"TRANSVERSAL!\" diyerek çatlağın ENİNE uzandığını gösteriyor. Bu sahne size TRANSVERSAL kelimesinin ENİNE olduğunu hatırlatacaktır."
+    "mnemonicScene": "Jeolog \"TRANSVERSAL!\" diyerek çatlağın ENİNE uzandığını gösteriyor. Bu sahne size TRANSVERSAL kelimesinin ENİNE olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g36f1ae83bd260cb10b845e57aaf969e19eb46a9402522fa1ffdb2debe2b9cb2564e7eec82558ccb5db5e18925717556e15e52e0ff4a870303cf8a77ead52b2d9_640.jpg",
+    "imageSource": "https://pixabay.com/photos/grades-flute-music-classic-2833897/"
   },
   {
     "english": "ELT (Emergency Locator Transmitter)",
@@ -11407,7 +12325,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "approksimateli",
     "mnemonicHook": "APROKSİMEYTLİ",
-    "mnemonicScene": "Saatçi \"APROKSİMEYTLİ!\" diyerek süreyi YAKLAŞIK olarak söylüyor. Bu sahne size APPROXIMATELY kelimesinin YAKLAŞIK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Saatçi \"APROKSİMEYTLİ!\" diyerek süreyi YAKLAŞIK olarak söylüyor. Bu sahne size APPROXIMATELY kelimesinin YAKLAŞIK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g84a39d063840d531bc93fec49d9f61d6c1e293852cb0c55f72cd35ea7a7f4b546f7d73f593751ed53a01787c3820790ee2fe2b90e7bdb1059167049fd2a2b851_640.jpg",
+    "imageSource": "https://pixabay.com/photos/jackdaw-bird-nature-black-alps-10173897/"
   },
   {
     "english": "Bond",
@@ -11430,7 +12350,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "bond",
     "mnemonicHook": "BOND",
-    "mnemonicScene": "Tutkal satıcısı \"BOND!\" diyerek iki parçayı BAĞLIYOR. Bu sahne size BOND kelimesinin BAĞ, YAPIŞTIRMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tutkal satıcısı \"BOND!\" diyerek iki parçayı BAĞLIYOR. Bu sahne size BOND kelimesinin BAĞ, YAPIŞTIRMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g786471acd53cf7f99d8d98bb790ba55c53f5aca88885482c33ab92da7f47a1940e1a485919ccd94dd2928585dc5280d2de43b9ba627ca7fd073a77965e7a9bed_640.jpg",
+    "imageSource": "https://pixabay.com/photos/father-and-son-walking-railway-2258681/"
   },
   {
     "english": "Clath",
@@ -11476,7 +12398,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "moist",
     "mnemonicHook": "MOYST",
-    "mnemonicScene": "Çiçekçi \"MOYST!\" diyerek toprağın NEMLİ olduğunu kontrol ediyor. Bu sahne size MOIST kelimesinin NEMLİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Çiçekçi \"MOYST!\" diyerek toprağın NEMLİ olduğunu kontrol ediyor. Bu sahne size MOIST kelimesinin NEMLİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gda10b9c0b052b1afe980a30721d782a919491244ae3559b46041068c22029c90e37d18623702d1e6ebc96121810e7f8de2877271cd6ebff46b33d0954c32522d_640.jpg",
+    "imageSource": "https://pixabay.com/photos/moss-tree-forest-branches-green-7881439/"
   },
   {
     "english": "Wipe-off",
@@ -11499,7 +12423,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "vipe-off",
     "mnemonicHook": "VAYP OF",
-    "mnemonicScene": "Öğretmen \"VAYP OF!\" diyerek tahtadaki yazıyı SİLİYOR. Bu sahne size WIPE-OFF kelimesinin SİLME olduğunu hatırlatacaktır."
+    "mnemonicScene": "Öğretmen \"VAYP OF!\" diyerek tahtadaki yazıyı SİLİYOR. Bu sahne size WIPE-OFF kelimesinin SİLME olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g0aa9fb44b4e3f3809da647bcca92b60d6ce538dd630620f21be17875df973dff447131a249d7bb28fc5a187f6b2ce9ecd3bdca1b89522fb5b9952f08f5ce3b8b_640.jpg",
+    "imageSource": "https://pixabay.com/photos/disinfectant-wipes-dettol-cleaner-5093499/"
   },
   {
     "english": "Hook",
@@ -11522,7 +12448,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "huuk",
     "mnemonicHook": "HUK",
-    "mnemonicScene": "Balıkçı \"HUK!\" diyerek oltasının ÇENGELİNE yemi takıyor. Bu sahne size HOOK kelimesinin ÇENGEL olduğunu hatırlatacaktır."
+    "mnemonicScene": "Balıkçı \"HUK!\" diyerek oltasının ÇENGELİNE yemi takıyor. Bu sahne size HOOK kelimesinin ÇENGEL olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g055a623dd0021a4d48b222887bab7b1f1d0a15edc9c534df5ccaa6f08d716a4d71abe7c2d0ba26b976cdb70c13a4586433b96c2db66de3d35d1e6722a160a9bc_640.jpg",
+    "imageSource": "https://pixabay.com/photos/crochet-handwork-wool-hobby-8202792/"
   },
   {
     "english": "Sun visor",
@@ -11545,7 +12473,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "sun visor",
     "mnemonicHook": "SAN VAYZIR",
-    "mnemonicScene": "Sürücü güneş gözlerken \"SAN VAYZIR!\" diyerek GÜNEŞLİĞİ aşağı çekiyor. Bu sahne size SUN VISOR kelimesinin GÜNEŞLİK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sürücü güneş gözlerken \"SAN VAYZIR!\" diyerek GÜNEŞLİĞİ aşağı çekiyor. Bu sahne size SUN VISOR kelimesinin GÜNEŞLİK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g62d6e8d9532487efa79b55fa54ef941c83a1934dd6645aaa53a2e1d3f17c087bd5c206d1916ec9cd0041571ed2d736f96c2cb9b719379025de96746092e083d7_640.jpg",
+    "imageSource": "https://pixabay.com/photos/woman-river-modern-visor-8017341/"
   },
   {
     "english": "Armcap",
@@ -11591,7 +12521,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fairing",
     "mnemonicHook": "FEYRİNG",
-    "mnemonicScene": "Tamirci \"FEYRİNG!\" diyerek aracın KAPORTASINI pürüzsüz hale getiriyor. Bu sahne size FAIRING kelimesinin KAPORTA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tamirci \"FEYRİNG!\" diyerek aracın KAPORTASINI pürüzsüz hale getiriyor. Bu sahne size FAIRING kelimesinin KAPORTA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g7ffefaccd84f5b26377046f836cfc3a179c53a5d5a768c9ab4e4ffaab56a79fda2bd9317b58576533364410fbc76969b891ac0585ecaf2fe896f82229667f52c_640.png",
+    "imageSource": "https://pixabay.com/photos/harley-davidson-harley-glittering-2727028/"
   },
   {
     "english": "Objective",
@@ -11614,7 +12546,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "obcektiv",
     "mnemonicHook": "OBJEKTİV",
-    "mnemonicScene": "Koşucu \"OBJEKTİV!\" diyerek hedefindeki AMACA doğru koşuyor. Bu sahne size OBJECTIVE kelimesinin AMAÇ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Koşucu \"OBJEKTİV!\" diyerek hedefindeki AMACA doğru koşuyor. Bu sahne size OBJECTIVE kelimesinin AMAÇ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g2b4396311a035c82daaf19dca607e0a50f101129946715e5d684814f90c26b326163a4df006be62e285644a56e515e692b01a5aab9ec15ed813a27cb2ec90c32_640.jpg",
+    "imageSource": "https://pixabay.com/photos/analysis-biochemistry-biologist-2030265/"
   },
   {
     "english": "Dust on",
@@ -11637,7 +12571,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "dust on",
     "mnemonicHook": "DAST ON",
-    "mnemonicScene": "Temizlikçi \"DAST ON!\" diyerek masadaki TOZU tutup siliyor. Bu sahne size DUST ON kelimesinin TOZ TUTMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Temizlikçi \"DAST ON!\" diyerek masadaki TOZU tutup siliyor. Bu sahne size DUST ON kelimesinin TOZ TUTMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g6e92f07a827303b279c088fe9331f354624a48e001495dce954d9a11f48ab08b5e58ec013b64770aa600e5aca9d5c76f_640.jpg",
+    "imageSource": "https://pixabay.com/photos/galaxy-sombrero-mist-spiral-galaxy-67712/"
   },
   {
     "english": "Tissue",
@@ -11660,7 +12596,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "tissu",
     "mnemonicHook": "TİSYU",
-    "mnemonicScene": "Hasta burnunu silmek için \"TİSYU!\" diyerek MENDİL istiyor. Bu sahne size TISSUE kelimesinin MENDİL olduğunu hatırlatacaktır."
+    "mnemonicScene": "Hasta burnunu silmek için \"TİSYU!\" diyerek MENDİL istiyor. Bu sahne size TISSUE kelimesinin MENDİL olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gecc322a13a50bf8f209664b2a6b729bb3be2e963b55f006fa898e2086af0a77163164a5d0525d2e2d0b3154d382049f4_640.jpg",
+    "imageSource": "https://pixabay.com/photos/woman-blow-blowing-nose-blond-698964/"
   },
   {
     "english": "Cause",
@@ -11683,7 +12621,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "kaus",
     "mnemonicHook": "KOZ",
-    "mnemonicScene": "Dedektif \"KOZ!\" diyerek olayın NEDENİNİ buluyor. Bu sahne size CAUSE kelimesinin NEDEN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Dedektif \"KOZ!\" diyerek olayın NEDENİNİ buluyor. Bu sahne size CAUSE kelimesinin NEDEN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g396f4f7c321aa42c2082cceeebf379fbe70c24b91ea71cd4492631e43356460eda1d99e99531521b6376dd9fa517db3c0341deb09977aab2d1a9f499f65a0608_640.jpg",
+    "imageSource": "https://pixabay.com/photos/pink-ribbon-3715346/"
   },
   {
     "english": "Backrest",
@@ -11706,7 +12646,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "bakrest",
     "mnemonicHook": "BEKREST",
-    "mnemonicScene": "Yolcu \"BEKREST!\" diyerek koltuğun SIRTLIĞINA yaslanıyor. Bu sahne size BACKREST kelimesinin SIRTLIK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Yolcu \"BEKREST!\" diyerek koltuğun SIRTLIĞINA yaslanıyor. Bu sahne size BACKREST kelimesinin SIRTLIK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g9270f209fc3f5d94be1488813e2598b83727bb250f0cbc2dd434b2fa2e67d3b6efc64e427800b3d80c25ea969ec897a583e98841ca6ad8a0a760fb068e7127bf_640.jpg",
+    "imageSource": "https://pixabay.com/photos/chairs-rows-pattern-back-view-5949104/"
   },
   {
     "english": "Recline",
@@ -11729,7 +12671,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "reklin",
     "mnemonicHook": "RİKLAYN",
-    "mnemonicScene": "Yolcu \"RİKLAYN!\" diyerek koltuğunu biraz YATIRIYOR. Bu sahne size RECLINE kelimesinin YATIRMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Yolcu \"RİKLAYN!\" diyerek koltuğunu biraz YATIRIYOR. Bu sahne size RECLINE kelimesinin YATIRMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g550c3e65757d2efe8731739ca9cacd7c9fefbe8fb3751378f77ec61e09481a6bace4797783cc2e42ab0b59e4062874a3bfbbbeedfd608871a7d3efc0ae783cb9_640.jpg",
+    "imageSource": "https://pixabay.com/photos/the-pink-panther-drink-alcohol-1653913/"
   },
   {
     "english": "Upright",
@@ -11752,7 +12696,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "uprayt",
     "mnemonicHook": "APRAYT",
-    "mnemonicScene": "Kaptan \"APRAYT!\" diyerek koltuğu DİK konuma getiriyor. Bu sahne size UPRIGHT kelimesinin DİK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kaptan \"APRAYT!\" diyerek koltuğu DİK konuma getiriyor. Bu sahne size UPRIGHT kelimesinin DİK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g06f8c022963d345d008ef1348e22c272a9a562f2c680b20342be269e043e13755d1ed349c6829e21be64798b2c2d45fb4366651cc184ed35a465b04068b4e2e9_640.jpg",
+    "imageSource": "https://pixabay.com/photos/hand-freedom-worship-man-4661763/"
   },
   {
     "english": "Lumbar support",
@@ -11775,7 +12721,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "lumbar support",
     "mnemonicHook": "LAMBAR SAPORT",
-    "mnemonicScene": "Doktor \"LAMBAR SAPORT!\" diyerek sandalyedeki BEL DESTEĞİNİ gösteriyor. Bu sahne size LUMBAR SUPPORT kelimesinin BEL DESTEĞİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Doktor \"LAMBAR SAPORT!\" diyerek sandalyedeki BEL DESTEĞİNİ gösteriyor. Bu sahne size LUMBAR SUPPORT kelimesinin BEL DESTEĞİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g66ee3ee201435e2237cd364a8142c1c4859137ce63c21b19d07d49cb99222450ea907ad776e7ccf09c977ba92291be6f3d87f482b637b6564858f8c4d3e36fa1_640.jpg",
+    "imageSource": "https://pixabay.com/photos/back-pain-body-pain-ergonomics-6949392/"
   },
   {
     "english": "Headrest",
@@ -11798,7 +12746,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "hiidrest",
     "mnemonicHook": "HİDREST",
-    "mnemonicScene": "Yolcu uyuyup \"HİDREST!\" diyerek BAŞINI BAŞ DAYAMA YERİNE koyuyor. Bu sahne size HEADREST kelimesinin BAŞ DAYAMA YERİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Yolcu uyuyup \"HİDREST!\" diyerek BAŞINI BAŞ DAYAMA YERİNE koyuyor. Bu sahne size HEADREST kelimesinin BAŞ DAYAMA YERİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gfdedac81fcd974dd16f718b368290250a02823221c24213a43c4bd3a9dfdfe962fb2e7aff9b79d229b12733fb41ec66347c43beecf9924085cadc8795845e38e_640.jpg",
+    "imageSource": "https://pixabay.com/photos/airplane-seats-airplane-flight-2570438/"
   },
   {
     "english": "Foldable",
@@ -11821,7 +12771,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "foldabl",
     "mnemonicHook": "FOLDABL",
-    "mnemonicScene": "Piknikçi \"FOLDABL!\" diyerek sandalyeyi KATLANABİLİR hale getirip taşıyor. Bu sahne size FOLDABLE kelimesinin KATLANABİLİR olduğunu hatırlatacaktır."
+    "mnemonicScene": "Piknikçi \"FOLDABL!\" diyerek sandalyeyi KATLANABİLİR hale getirip taşıyor. Bu sahne size FOLDABLE kelimesinin KATLANABİLİR olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gafa42ec2fcfe59ee2803cb99cc0baeeabe0af52209e20ef2c9cdeb7b979b2f12d62215ce3bd7417b41586dbcbeb48a3c424f990844c84711c33506dd62323a61_640.png",
+    "imageSource": "https://pixabay.com/photos/folding-chair-old-wooden-chair-stool-2790167/"
   },
   {
     "english": "Literature pocket",
@@ -11844,7 +12796,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "literaçır poket",
     "mnemonicHook": "LİTERATÜR POKET",
-    "mnemonicScene": "Yolcu \"LİTERATÜR POKET!\" diyerek dergiyi koltuğun DERGİ GÖZÜNE koyuyor. Bu sahne size LITERATURE POCKET kelimesinin DERGİ GÖZÜ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Yolcu \"LİTERATÜR POKET!\" diyerek dergiyi koltuğun DERGİ GÖZÜNE koyuyor. Bu sahne size LITERATURE POCKET kelimesinin DERGİ GÖZÜ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g3ea785b763a7d80a28161ebf2432336c7d609ab6ce2ca9ec1ff494fa77718acecdbbb93c3cfaef283bcbea3db5c4ec6df74701f3be2c6b6c505543b8d51dfe8e_640.jpg",
+    "imageSource": "https://pixabay.com/photos/watch-retro-book-old-library-4638673/"
   },
   {
     "english": "Life preserver",
@@ -11867,7 +12821,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "lif preserver",
     "mnemonicHook": "LAYF PRİZERVER",
-    "mnemonicScene": "Kurtarıcı \"LAYF PRİZERVER!\" diyerek suda boğulan kişiye CAN YELEĞİ veriyor. Bu sahne size LIFE PRESERVER kelimesinin CAN YELEĞİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kurtarıcı \"LAYF PRİZERVER!\" diyerek suda boğulan kişiye CAN YELEĞİ veriyor. Bu sahne size LIFE PRESERVER kelimesinin CAN YELEĞİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ga2bce40c50560216e2705c28fe573b69a75d75293852823dcfa116f5747c534da0be1234b3549e5746177ebee352bccf5b7b8009273d1070fb21ab6a8045d0f0_640.jpg",
+    "imageSource": "https://pixabay.com/photos/life-saver-water-safety-rescue-2407304/"
   },
   {
     "english": "Emergency exit",
@@ -11890,7 +12846,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "emergensi eksit",
     "mnemonicHook": "İMÇRCENSİ EKZİT",
-    "mnemonicScene": "Görevli \"İMÇRCENSİ EKZİT!\" diyerek yolcuları ACİL ÇIKIŞA yönlendiriyor. Bu sahne size EMERGENCY EXIT kelimesinin ACİL ÇIKIŞ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Görevli \"İMÇRCENSİ EKZİT!\" diyerek yolcuları ACİL ÇIKIŞA yönlendiriyor. Bu sahne size EMERGENCY EXIT kelimesinin ACİL ÇIKIŞ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gfd11e5f34a9566a2786566ab9d63631c8feaa31af0c6c77a4d2b781a8af10b6e66228732001b3660c86a1f593728e36e64d2875fe19e8fde0d6dd68dcb925f63_640.jpg",
+    "imageSource": "https://pixabay.com/photos/exit-sign-light-exit-light-8443453/"
   },
   {
     "english": "Unfasten",
@@ -11936,7 +12894,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "in kas of emergensi",
     "mnemonicHook": "İN KEYS OV İMÇRCENSİ",
-    "mnemonicScene": "Komşu \"İN KEYS OV İMÇRCENSİ!\" diyerek ACİL DURUMDA hemen yardım çağırıyor. Bu sahne size IN CASE OF EMERGENCY kelimesinin ACİL DURUMDA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Komşu \"İN KEYS OV İMÇRCENSİ!\" diyerek ACİL DURUMDA hemen yardım çağırıyor. Bu sahne size IN CASE OF EMERGENCY kelimesinin ACİL DURUMDA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g189a8d0d7d76ed5a42f264b1ee8f622fa8502757db7e9da7d748263ef196fafe600ac08713b080a5f3964927033567b8_640.jpg",
+    "imageSource": "https://pixabay.com/photos/guitar-case-street-musician-donate-485112/"
   },
   {
     "english": "Pull",
@@ -11959,7 +12919,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "pull",
     "mnemonicHook": "PUL",
-    "mnemonicScene": "Çocuk \"PUL!\" diyerek kapının kolunu kendine doğru ÇEKİYOR. Bu sahne size PULL kelimesinin ÇEKMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Çocuk \"PUL!\" diyerek kapının kolunu kendine doğru ÇEKİYOR. Bu sahne size PULL kelimesinin ÇEKMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g2565f21e607ae7cf558dd9d83925454919ae3a6c44eb2f17b459b68feaef740ba2bbe5b207c4e495651093c9b8d99c215eaf1e66844f016fb09ae7bb5c381b5e_640.jpg",
+    "imageSource": "https://pixabay.com/photos/tin-can-water-drop-of-water-drip-3984776/"
   },
   {
     "english": "Locate",
@@ -11982,7 +12944,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "lokat",
     "mnemonicHook": "LOKEYT",
-    "mnemonicScene": "Öğrenci \"LOKEYT!\" diyerek yangın söndürücüyü BULUYOR. Bu sahne size LOCATE kelimesinin BULMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Öğrenci \"LOKEYT!\" diyerek yangın söndürücüyü BULUYOR. Bu sahne size LOCATE kelimesinin BULMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g40ad67fe20b53a4d5d98833e349993799f44384829355acfd16b43f74f4475f55721d05abbbd2f01b9b84bc9488a4b4f5b4adf5fa3c8dbc70c22f5501d2af682_640.jpg",
+    "imageSource": "https://pixabay.com/photos/travel-pinned-pinning-maps-atlas-2650303/"
   },
   {
     "english": "Nearest exit",
@@ -12005,7 +12969,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "niirest eksit",
     "mnemonicHook": "NİREST EKZİT",
-    "mnemonicScene": "Yolcu \"NİREST EKZİT!\" diyerek EN YAKIN ÇIKIŞI gösteriyor. Bu sahne size NEAREST EXIT kelimesinin EN YAKIN ÇIKIŞ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Yolcu \"NİREST EKZİT!\" diyerek EN YAKIN ÇIKIŞI gösteriyor. Bu sahne size NEAREST EXIT kelimesinin EN YAKIN ÇIKIŞ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g9baa72aeb3d4e0db1ba4fee09aac0cb1e56afe241de469959e61fe90eecea8e2f73da2b7a9311fe5a093aae5663a72d7710e314076d69ce6ad68a6978a17d756_640.jpg",
+    "imageSource": "https://pixabay.com/photos/exit-sign-light-exit-light-8443453/"
   },
   {
     "english": "Evacuate",
@@ -12028,7 +12994,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "evakuat",
     "mnemonicHook": "İVAKYUEYT",
-    "mnemonicScene": "Görevli \"İVAKYUEYT!\" diyerek binadaki herkesi TAHLİYE ediyor. Bu sahne size EVACUATE kelimesinin TAHLİYE ETMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Görevli \"İVAKYUEYT!\" diyerek binadaki herkesi TAHLİYE ediyor. Bu sahne size EVACUATE kelimesinin TAHLİYE ETMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gb044bd7be4636e75e8039afc9f7ba0511a3257ee8876a82dc6289dec3a54d775b4634b5211666150dfcb59e975e4a9215bc9685095ce61d5862c56d4e3aa28e5_640.jpg",
+    "imageSource": "https://pixabay.com/photos/exit-sign-light-exit-light-8443453/"
   },
   {
     "english": "Instructions",
@@ -12051,7 +13019,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "instrukşıns",
     "mnemonicHook": "İNSTRAKŞINS",
-    "mnemonicScene": "Öğretmen \"İNSTRAKŞINS!\" diyerek sınav TALİMATLARINI okuyor. Bu sahne size INSTRUCTIONS kelimesinin TALİMATLAR olduğunu hatırlatacaktır."
+    "mnemonicScene": "Öğretmen \"İNSTRAKŞINS!\" diyerek sınav TALİMATLARINI okuyor. Bu sahne size INSTRUCTIONS kelimesinin TALİMATLAR olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gc32804a35c4037748538914bd4033bdcad3fc5671da3c5b31b86a9f39c283102fb162a3ad584f121bb094cebcf44ab77a66c2777bc137500cf928ae7ff8f4a74_640.jpg",
+    "imageSource": "https://pixabay.com/photos/handcraft-building-blocks-skill-8226964/"
   },
   {
     "english": "Read carefully",
@@ -12074,7 +13044,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "riid karefulli",
     "mnemonicHook": "RİID KERFULLİ",
-    "mnemonicScene": "Öğretmen \"RİID KERFULLİ!\" diyerek öğrencilere DİKKATLİCE OKUMALARINI söylüyor. Bu sahne size READ CAREFULLY kelimesinin DİKKATLİCE OKUYUN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Öğretmen \"RİID KERFULLİ!\" diyerek öğrencilere DİKKATLİCE OKUMALARINI söylüyor. Bu sahne size READ CAREFULLY kelimesinin DİKKATLİCE OKUYUN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g3deb9bdc13ed896bf2c094c3fc0e9f982b45b5749fad16d19c963e2bcfd2efadf9d6045a6c8774622ec0332ee011f2b0f563d4ae62706efeaceec0404f38af54_640.jpg",
+    "imageSource": "https://pixabay.com/photos/children-at-play-sign-signage-2328856/"
   },
   {
     "english": "Important",
@@ -12097,7 +13069,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "important",
     "mnemonicHook": "İMPORTANT",
-    "mnemonicScene": "Müdür \"İMPORTANT!\" diyerek kuralın ÖNEMLİ olduğunu vurguluyor. Bu sahne size IMPORTANT kelimesinin ÖNEMLİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Müdür \"İMPORTANT!\" diyerek kuralın ÖNEMLİ olduğunu vurguluyor. Bu sahne size IMPORTANT kelimesinin ÖNEMLİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g31b87d8e44dad689be7a40bf14a9e00a23d7fa5a13f9d2f23f94008558e047dbf3905185d9c1656b8d0311b68b216f74afb2a28e1171befa4e4dd307d1a1ebfb_640.jpg",
+    "imageSource": "https://pixabay.com/photos/mug-quotes-text-phrase-word-2667959/"
   },
   {
     "english": "Around",
@@ -12120,7 +13094,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "around",
     "mnemonicHook": "ERAUND",
-    "mnemonicScene": "Dedektif \"ERAUND!\" diyerek odanın ETRAFINI dolaşıyor. Bu sahne size AROUND kelimesinin ETRAFINDA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Dedektif \"ERAUND!\" diyerek odanın ETRAFINI dolaşıyor. Bu sahne size AROUND kelimesinin ETRAFINDA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g69af092a4e58fdb9aea61dbc8900ffb0c3d4a9ad9a9c12a12535a7298da9849c9e53adbb85a07ad86c638fea4354bd1a6f9401fecdf802e3538d1d8a59ed69f8_640.jpg",
+    "imageSource": "https://pixabay.com/photos/men-beach-friendship-young-male-8240077/"
   },
   {
     "english": "Loop",
@@ -12143,7 +13119,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "luup",
     "mnemonicHook": "LUP",
-    "mnemonicScene": "Denizci \"LUP!\" diyerek ipi bir HALKA şeklinde bağlıyor. Bu sahne size LOOP kelimesinin HALKA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Denizci \"LUP!\" diyerek ipi bir HALKA şeklinde bağlıyor. Bu sahne size LOOP kelimesinin HALKA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g83e2057cb3d794cc74440a4e7a5025e4b626f86b733e00438edd3e6f01b9400d7dfe7deb7651c3f153a97468f09e07d9d5c71fd086099f601ae6ad88066ef056_640.jpg",
+    "imageSource": "https://pixabay.com/photos/red-baron-squadron-smoke-air-show-9569430/"
   },
   {
     "english": "Entrance",
@@ -12166,7 +13144,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "entrans",
     "mnemonicHook": "ENTRENS",
-    "mnemonicScene": "Bekçi \"ENTRENS!\" diyerek ana GİRİŞİ gösteriyor. Bu sahne size ENTRANCE kelimesinin GİRİŞ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Bekçi \"ENTRENS!\" diyerek ana GİRİŞİ gösteriyor. Bu sahne size ENTRANCE kelimesinin GİRİŞ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gd37cb146624c5def66746561688497d26bec2c50502e71d2b439b9fff01b0012ce4207e2c24e52eec2682b03d56fbe18c0b393adfbd9d035bcca8e887dc774e3_640.jpg",
+    "imageSource": "https://pixabay.com/photos/gate-portal-door-entrance-old-door-3144351/"
   },
   {
     "english": "Arrive",
@@ -12189,7 +13169,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "arriv",
     "mnemonicHook": "ERAYV",
-    "mnemonicScene": "Yolcu \"ERAYV!\" diyerek hedefine VARIYOR. Bu sahne size ARRIVE kelimesinin VARMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Yolcu \"ERAYV!\" diyerek hedefine VARIYOR. Bu sahne size ARRIVE kelimesinin VARMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g2ae41c9a2be487021347c6d4d10dd49e8372c499214296625a640c46d486054245eed9f2a69bcabc849644c76b34a5e83881ba6f3bb61782d087c489831877f7_640.jpg",
+    "imageSource": "https://pixabay.com/photos/airport-woman-flight-boarding-2373727/"
   },
   {
     "english": "Explain",
@@ -12212,7 +13194,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "eksplain",
     "mnemonicHook": "EKSPLEYN",
-    "mnemonicScene": "Öğretmen \"EKSPLEYN!\" diyerek kuralın NASIL olduğunu açıklıyor. Bu sahne size EXPLAIN kelimesinin AÇIKLAMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Öğretmen \"EKSPLEYN!\" diyerek kuralın NASIL olduğunu açıklıyor. Bu sahne size EXPLAIN kelimesinin AÇIKLAMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g96452fd9e70191fe803f3bb420a66dc872e9c6b3ccb6de4ee610f0534be40a25efeeb160c3869df0802795a614af0e6b_640.jpg",
+    "imageSource": "https://pixabay.com/photos/white-board-startup-start-up-593300/"
   },
   {
     "english": "Fall",
@@ -12235,7 +13219,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fall",
     "mnemonicHook": "FOL",
-    "mnemonicScene": "Çocuk \"FOL!\" diyerek merdivenden DÜŞÜYOR. Bu sahne size FALL kelimesinin DÜŞMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Çocuk \"FOL!\" diyerek merdivenden DÜŞÜYOR. Bu sahne size FALL kelimesinin DÜŞMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gccdc71248c2dd98f0b6a8eef84e98d55b61cdf1089ae76eff1711bd6516ba146bbfbfb6d41ee6054e713c65b2be279bdeab64136abbccab62e8393475bcc754f_640.jpg",
+    "imageSource": "https://pixabay.com/photos/road-forest-fall-path-trail-trees-1072821/"
   },
   {
     "english": "Bare",
@@ -12258,7 +13244,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "bar",
     "mnemonicHook": "BEYR",
-    "mnemonicScene": "Yüzücü \"BEYR!\" diyerek ÇIPLAK elle suya dokunuyor. Bu sahne size BARE kelimesinin ÇIPLAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Yüzücü \"BEYR!\" diyerek ÇIPLAK elle suya dokunuyor. Bu sahne size BARE kelimesinin ÇIPLAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gd7b470bce59f507f3e842ee4b8311e44323b64d14985a5acda50c12cf8354e2f60d524a4efdd1a5e9c366b4c6a7b5312a289fca90d94d0e00e48e897e97d7f88_640.jpg",
+    "imageSource": "https://pixabay.com/photos/winter-landscape-trees-snow-nature-2571788/"
   },
   {
     "english": "Injure",
@@ -12281,7 +13269,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "incur",
     "mnemonicHook": "İNCÇER",
-    "mnemonicScene": "Sporcu düşüp \"İNCÇER!\" diyerek YARALANIYOR. Bu sahne size INJURE kelimesinin YARALANMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Sporcu düşüp \"İNCÇER!\" diyerek YARALANIYOR. Bu sahne size INJURE kelimesinin YARALANMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g5ef4b29a16e95a54924cdacc3bb21998439cd1c4e9ea9e55cce2a679a6ab058b971605fc6edcd8e99e70221670a427745de594292a013c0ea0d2177488c84a33_640.jpg",
+    "imageSource": "https://pixabay.com/photos/smiley-face-emoticon-sad-ill-3058590/"
   },
   {
     "english": "Malfunction",
@@ -12304,7 +13294,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "malfunkşın",
     "mnemonicHook": "MALFANKŞIN",
-    "mnemonicScene": "Mühendis \"MALFANKŞIN!\" diyerek makinedeki ARIZAYI buluyor. Bu sahne size MALFUNCTION kelimesinin ARIZA olduğunu hatırlatacaktır."
+    "mnemonicScene": "Mühendis \"MALFANKŞIN!\" diyerek makinedeki ARIZAYI buluyor. Bu sahne size MALFUNCTION kelimesinin ARIZA olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g6c2af007b66c23c8754e8f05b8ecaae363c6f6687bc1ccc64b7070f82912e668a7ba678fa2713c08dedd9b3e6cdfe10f1c6d1cb93db4841671c1abf688bd4949_640.jpg",
+    "imageSource": "https://pixabay.com/photos/car-non-breakdown-bad-luck-1411313/"
   },
   {
     "english": "Yield",
@@ -12327,7 +13319,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "yield",
     "mnemonicHook": "YİLD",
-    "mnemonicScene": "Çiftçi \"YİLD!\" diyerek tarlasından bol VERİM alıyor. Bu sahne size YIELD kelimesinin VERİM olduğunu hatırlatacaktır."
+    "mnemonicScene": "Çiftçi \"YİLD!\" diyerek tarlasından bol VERİM alıyor. Bu sahne size YIELD kelimesinin VERİM olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g5c6a3567caf820f70356a282a1c79ed7cc775f240103fb1285e4178f3a7e171b092d9d7675dfc73a12e334f9bcfdc5c5f1716822fdf44f3d57e7ce23af1b3e98_640.jpg",
+    "imageSource": "https://pixabay.com/photos/harvest-agriculture-summer-grain-8192037/"
   },
   {
     "english": "Mold",
@@ -12350,7 +13344,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "mold",
     "mnemonicHook": "MOULD",
-    "mnemonicScene": "Ekmek \"MOULD!\" diyerek üzerinde KÜF tutmaya başlıyor. Bu sahne size MOLD kelimesinin KÜF olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ekmek \"MOULD!\" diyerek üzerinde KÜF tutmaya başlıyor. Bu sahne size MOLD kelimesinin KÜF olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gc4c4fd34cf81014136e90fc6baba878809dd9ec0a4726b18d7cfa5fc75df334eb560821eeef7f9d304522f266034310550bbdf2e2183d62d357ad0f598edb20a_640.jpg",
+    "imageSource": "https://pixabay.com/photos/marbach-arab-mould-pasture-9666305/"
   },
   {
     "english": "Against",
@@ -12373,7 +13369,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "against",
     "mnemonicHook": "EGENST",
-    "mnemonicScene": "Hakem \"EGENST!\" diyerek takıma KARŞI kararını veriyor. Bu sahne size AGAINST kelimesinin KARŞI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Hakem \"EGENST!\" diyerek takıma KARŞI kararını veriyor. Bu sahne size AGAINST kelimesinin KARŞI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g604a1b7f87c785440fcde70552cfe0eec4062a537424205d5d3cd32a42c407a9006da4d436050e5fe2c9c435d3ecc88f2475bedcc09ccc4c3335ea4f6af08aca_640.jpg",
+    "imageSource": "https://pixabay.com/photos/red-spider-lily-plant-flowers-bloom-5603228/"
   },
   {
     "english": "Keep away",
@@ -12396,7 +13394,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "kiip avai",
     "mnemonicHook": "KİİP EVEY",
-    "mnemonicScene": "Anne \"KİİP EVEY!\" diyerek çocuğu ateşten UZAK TUTUYOR. Bu sahne size KEEP AWAY kelimesinin UZAK TUTMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Anne \"KİİP EVEY!\" diyerek çocuğu ateşten UZAK TUTUYOR. Bu sahne size KEEP AWAY kelimesinin UZAK TUTMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ge5b4ffe649213de6324107f62da9a7657ad8c9d2b15e61637807966ba87af14e7b03657a9a16a5a750ac184dce745cfa84be2068aed80643d6671669f79716d6_640.jpg",
+    "imageSource": "https://pixabay.com/photos/road-signs-sign-symbols-warning-7055475/"
   },
   {
     "english": "Solenoid",
@@ -12419,7 +13419,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "solenoid",
     "mnemonicHook": "SOLENOYD",
-    "mnemonicScene": "Elektrikçi \"SOLENOYD!\" diyerek ELEKTRİKLİ VALFİ açıyor. Bu sahne size SOLENOID kelimesinin ELEKTRİKLİ VALF olduğunu hatırlatacaktır."
+    "mnemonicScene": "Elektrikçi \"SOLENOYD!\" diyerek ELEKTRİKLİ VALFİ açıyor. Bu sahne size SOLENOID kelimesinin ELEKTRİKLİ VALF olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gbee6ea39ff0d1c65f2fe7a4992bec152c4500b0ea99f33fb9a68983fd4e55be5b0a540865ac97c7050f82c0a62da10ed290b5d805332a93cc55de3915e5d8203_640.jpg",
+    "imageSource": "https://pixabay.com/photos/machine-industry-technology-metal-4661126/"
   },
   {
     "english": "IFES (In Flight Entertainment System)",
@@ -12442,7 +13444,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "ifes (in flayt entertainment system)",
     "mnemonicHook": "IFES",
-    "mnemonicScene": "Hostes \"IFES!\" diyerek UÇUŞ ESNASINDAKİ EĞLENCE SİSTEMİNDEN film açıyor. Bu sahne size IFES kelimesinin UÇUŞ ESNASINDAKİ EĞLENCE SİSTEMİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Hostes \"IFES!\" diyerek UÇUŞ ESNASINDAKİ EĞLENCE SİSTEMİNDEN film açıyor. Bu sahne size IFES kelimesinin UÇUŞ ESNASINDAKİ EĞLENCE SİSTEMİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gcd33bdd5c0a16ef5dce1b0dc20ad684427d1bbcfe720c02b0f3eb74003deb943c9bec18d2a5f8eae519ed5f188559fa9d26d27c1cf5dbf4d84ff31472165cdea_640.jpg",
+    "imageSource": "https://pixabay.com/photos/marseille-france-castle-marine-7170837/"
   },
   {
     "english": "Require",
@@ -12465,7 +13469,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "rekuir",
     "mnemonicHook": "RİKVAYR",
-    "mnemonicScene": "Patron \"RİKVAYR!\" diyerek işin daha fazla zaman GEREKTİRDİĞİNİ söylüyor. Bu sahne size REQUIRE kelimesinin GEREKMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Patron \"RİKVAYR!\" diyerek işin daha fazla zaman GEREKTİRDİĞİNİ söylüyor. Bu sahne size REQUIRE kelimesinin GEREKMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ga7d256f5f44f2f3d7a0a421d3924d5e87c694b25f976b4337acbee99af02eb914cbc822d0523af8b73680d85f9478ece8d4cb059e50679dbd887a5d7b5c9c429_640.jpg",
+    "imageSource": "https://pixabay.com/photos/office-employees-prerequisite-4249391/"
   },
   {
     "english": "Latch",
@@ -12488,7 +13494,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "latç",
     "mnemonicHook": "LEÇ",
-    "mnemonicScene": "Bahçıvan \"LEÇ!\" diyerek kapının MANDALINI kapatıyor. Bu sahne size LATCH kelimesinin MANDAL olduğunu hatırlatacaktır."
+    "mnemonicScene": "Bahçıvan \"LEÇ!\" diyerek kapının MANDALINI kapatıyor. Bu sahne size LATCH kelimesinin MANDAL olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g0ec0563308b114deca9b990db53b148a72953ecba5d40a6e0494ff6dc1c18d3c526906433ebb670a7b007919a76548e40c6e53e8d48e7d1b5db8fbf93634198b_640.jpg",
+    "imageSource": "https://pixabay.com/photos/door-lock-blue-door-rusted-1587863/"
   },
   {
     "english": "Related",
@@ -12511,7 +13519,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "related",
     "mnemonicHook": "RİLEYTİD",
-    "mnemonicScene": "Dedektif \"RİLEYTİD!\" diyerek olayın uçakla İLGİLİ olduğunu buluyor. Bu sahne size RELATED kelimesinin İLGİLİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Dedektif \"RİLEYTİD!\" diyerek olayın uçakla İLGİLİ olduğunu buluyor. Bu sahne size RELATED kelimesinin İLGİLİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf0c9507f8c958c69123d512c67280c7281eb9b0d9528745eb42d8c3a4a09539342ad8e12c1939274563f8960fb7ae4e904f08030d9d964f2c88f917893059666_640.jpg",
+    "imageSource": "https://pixabay.com/photos/beach-sea-sunset-ocean-water-sun-4971798/"
   },
   {
     "english": "Force",
@@ -12534,7 +13544,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "fors",
     "mnemonicHook": "FORS",
-    "mnemonicScene": "Güreşçi \"FORS!\" diyerek rakibine KUVVET uyguluyor. Bu sahne size FORCE kelimesinin KUVVET olduğunu hatırlatacaktır."
+    "mnemonicScene": "Güreşçi \"FORS!\" diyerek rakibine KUVVET uyguluyor. Bu sahne size FORCE kelimesinin KUVVET olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g1bfaacbd10c2524d2976e3803175fda5e0b53f04f49b4afc5fea378f175f4fb1cb625979d5fcde3738b676470652fe79_640.jpg",
+    "imageSource": "https://pixabay.com/photos/airplane-jet-fighter-f-16-659687/"
   },
   {
     "english": "Limited",
@@ -12557,7 +13569,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "limited",
     "mnemonicHook": "LİMİTİD",
-    "mnemonicScene": "Otobüs görevlisi \"LİMİTİD!\" diyerek koltuk sayısının SINIRLI olduğunu söylüyor. Bu sahne size LIMITED kelimesinin SINIRLI olduğunu hatırlatacaktır."
+    "mnemonicScene": "Otobüs görevlisi \"LİMİTİD!\" diyerek koltuk sayısının SINIRLI olduğunu söylüyor. Bu sahne size LIMITED kelimesinin SINIRLI olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g602856ea6e5b807f76fd70b4bf0fca516e929c90a6d9aee4c45407ff2a65186ab653881c6b2cd524efc2df4290f55935_640.jpg",
+    "imageSource": "https://pixabay.com/photos/hourglass-time-pressure-time-708574/"
   },
   {
     "english": "Stationary",
@@ -12580,7 +13594,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "staşınari",
     "mnemonicHook": "STEYŞNERİ",
-    "mnemonicScene": "Heykeltıraş \"STEYŞNERİ!\" diyerek heykeli SABİT tutuyor. Bu sahne size STATIONARY kelimesinin DURAĞAN, SABİT olduğunu hatırlatacaktır."
+    "mnemonicScene": "Heykeltıraş \"STEYŞNERİ!\" diyerek heykeli SABİT tutuyor. Bu sahne size STATIONARY kelimesinin DURAĞAN, SABİT olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g7fee2876f8ade02cd923fc04bc43cc506e5938ca5e802dc9d5cf3f27fedde259f216823bee11d245509dfb46e3ab9d2c_640.jpg",
+    "imageSource": "https://pixabay.com/photos/train-locomotive-railroad-railway-143847/"
   },
   {
     "english": "Momentary",
@@ -12626,7 +13642,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "inflat",
     "mnemonicHook": "İNFLEYT",
-    "mnemonicScene": "Çocuk balonu \"İNFLEYT!\" diyerek HAVA BASARAK şişiriyor. Bu sahne size INFLATE kelimesinin HAVA BASMAK, ŞİŞİRMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Çocuk balonu \"İNFLEYT!\" diyerek HAVA BASARAK şişiriyor. Bu sahne size INFLATE kelimesinin HAVA BASMAK, ŞİŞİRMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gc0c0e4006dcae9b11d3bb09ce9ba563127e1037f1f32a5d3271dd75272e127b0a24f908c42e51ffb4e744becc48820f56d63528a5a3514e5fbfa05780f882a7e_640.jpg",
+    "imageSource": "https://pixabay.com/photos/canoe-raft-river-water-tree-10484993/"
   },
   {
     "english": "Order",
@@ -12649,7 +13667,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "order",
     "mnemonicHook": "ORDER",
-    "mnemonicScene": "Öğretmen \"ORDER!\" diyerek sınıfın DÜZENİNİ sağlıyor. Bu sahne size ORDER kelimesinin DÜZEN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Öğretmen \"ORDER!\" diyerek sınıfın DÜZENİNİ sağlıyor. Bu sahne size ORDER kelimesinin DÜZEN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gf49184a85617e30bf776bf64a498ac3f910604b9a627e050fe22a04f2a37074dd85dba3cfedde9c630d6c447df35004edf36ca903e2859f065325df63681e4ec_640.jpg",
+    "imageSource": "https://pixabay.com/photos/store-stacks-shelves-stock-5619201/"
   },
   {
     "english": "Orderly",
@@ -12672,7 +13692,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "orderli",
     "mnemonicHook": "ORDERLİ",
-    "mnemonicScene": "Kütüphaneci \"ORDERLİ!\" diyerek kitapları DÜZENLİ bir şekilde dizip raflara yerleştiriyor. Bu sahne size ORDERLY kelimesinin DÜZENLİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kütüphaneci \"ORDERLİ!\" diyerek kitapları DÜZENLİ bir şekilde dizip raflara yerleştiriyor. Bu sahne size ORDERLY kelimesinin DÜZENLİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g44c79810c8a73059e003922d77ce826035b53e0a9a699287b86c6e5380cac7ea8579e3acb95f8691b5480f83eb2a3c1766b223dca4e4696984141f0bc6189423_640.jpg",
+    "imageSource": "https://pixabay.com/photos/scotland-barracks-fortress-2647242/"
   },
   {
     "english": "Regularly",
@@ -12718,7 +13740,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "interçangiibl",
     "mnemonicHook": "İNTERÇENCEBL",
-    "mnemonicScene": "Oyuncu \"İNTERÇENCEBL!\" diyerek iki parçayı YER DEĞİŞTİRİP takıyor. Bu sahne size INTERCHANGEABLE kelimesinin YER DEĞİŞTİRİLEBİLİR olduğunu hatırlatacaktır."
+    "mnemonicScene": "Oyuncu \"İNTERÇENCEBL!\" diyerek iki parçayı YER DEĞİŞTİRİP takıyor. Bu sahne size INTERCHANGEABLE kelimesinin YER DEĞİŞTİRİLEBİLİR olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g829363ad1282fc41f8a1fdba95761544216cd84cbf917669e423e0a6a315afad8b37d5e798e39d89d668b42450428c39087578318f26362afb4e2c2e73b02749_640.jpg",
+    "imageSource": "https://pixabay.com/photos/camera-digital-photography-1362419/"
   },
   {
     "english": "Bend",
@@ -12741,7 +13765,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "bend",
     "mnemonicHook": "BEND",
-    "mnemonicScene": "Tamirci \"BEND!\" diyerek teli dikkatlice BÜKÜYOR. Bu sahne size BEND kelimesinin BÜKMEK, EĞMEK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tamirci \"BEND!\" diyerek teli dikkatlice BÜKÜYOR. Bu sahne size BEND kelimesinin BÜKMEK, EĞMEK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gb7095aea38c042cce156ad1dc739cde9c7f3c0805df4c5797188358e344c3f70306c8c8a097b96eca6c860254b0b53a0c2fff32ffa383dc46826eb1227cb08ef_640.jpg",
+    "imageSource": "https://pixabay.com/photos/road-sign-arrow-clouds-sky-8410533/"
   },
   {
     "english": "Carry",
@@ -12764,7 +13790,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "karri",
     "mnemonicHook": "KERİ",
-    "mnemonicScene": "Kargocu \"KERİ!\" diyerek kutuyu arabaya TAŞIYOR. Bu sahne size CARRY kelimesinin TAŞIMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Kargocu \"KERİ!\" diyerek kutuyu arabaya TAŞIYOR. Bu sahne size CARRY kelimesinin TAŞIMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g9dd4a50ab0004d726a141b032b1a937706b3336715acc3042091f9dcb0e3cd59102e79bc1c6c4815f54a7b5f853fbea3126f8eec12d5708592461f42713a0e97_640.jpg",
+    "imageSource": "https://pixabay.com/photos/puppies-dogs-bag-pets-animals-7331739/"
   },
   {
     "english": "Leakproof",
@@ -12810,7 +13838,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "flanged",
     "mnemonicHook": "FLENCD",
-    "mnemonicScene": "Tesisatçı \"FLENCD!\" diyerek borunun ucunu ÜZERİNE BÜKÜLMÜŞ hale getiriyor. Bu sahne size FLANGED kelimesinin ÜZERİNE BÜKÜLMÜŞ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Tesisatçı \"FLENCD!\" diyerek borunun ucunu ÜZERİNE BÜKÜLMÜŞ hale getiriyor. Bu sahne size FLANGED kelimesinin ÜZERİNE BÜKÜLMÜŞ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g7aefb10b9a6a5b0481616ac33769c90f8ac09056514b05b40bf503176290edca5e4e216630d77cecea0e3b4afc69d7ec_640.jpg",
+    "imageSource": "https://pixabay.com/photos/orangutan-animal-monkey-zoo-nature-164403/"
   },
   {
     "english": "Motor driven",
@@ -12833,7 +13863,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "motor driven",
     "mnemonicHook": "MOTOR DRİVEN",
-    "mnemonicScene": "Mekanik \"MOTOR DRİVEN!\" diyerek pompayı MOTORLA ÇALIŞTIRIYOR. Bu sahne size MOTOR DRIVEN kelimesinin MOTORLA ÇALIŞAN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Mekanik \"MOTOR DRİVEN!\" diyerek pompayı MOTORLA ÇALIŞTIRIYOR. Bu sahne size MOTOR DRIVEN kelimesinin MOTORLA ÇALIŞAN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/gb7efdcd200c1ffe4228d8ba34b5f1489cda1140a542088030a611cf3130e21d74fd8cbcc8cb24a2480f837097ce12107be120440fce0426832fbccd14045ecef_640.jpg",
+    "imageSource": "https://pixabay.com/photos/christmas-background-child-tower-1864718/"
   },
   {
     "english": "Approve",
@@ -12856,7 +13888,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "approv",
     "mnemonicHook": "APRUV",
-    "mnemonicScene": "Müdür \"APRUV!\" diyerek planı ONAYLIYOR. Bu sahne size APPROVE kelimesinin ONAYLAMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Müdür \"APRUV!\" diyerek planı ONAYLIYOR. Bu sahne size APPROVE kelimesinin ONAYLAMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g61abd4f9f4eeeb418eea3b9cb0b6cadff80c720a66f3b2bc2e7f457174386d1fe1bef077d6fe26d8ae5d35d15c71f5d220448f588abb87b3680f8e858e33377a_640.png",
+    "imageSource": "https://pixabay.com/photos/hand-ok-sign-ok-thumb-approve-3518161/"
   },
   {
     "english": "Built-in",
@@ -12879,7 +13913,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "built-in",
     "mnemonicHook": "BİLT İN",
-    "mnemonicScene": "Ustabaşı \"BİLT İN!\" diyerek zamanlayıcıyı fırının İÇİNE inşa ediyor. Bu sahne size BUILT-IN kelimesinin İÇİNE İNŞA EDİLMİŞ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Ustabaşı \"BİLT İN!\" diyerek zamanlayıcıyı fırının İÇİNE inşa ediyor. Bu sahne size BUILT-IN kelimesinin İÇİNE İNŞA EDİLMİŞ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g01dbf667743830bf158f14cdde76a642771aae123af3c2df4271db00e540a406f20914b940114785326635e2715cf38d34bce2ae090561c653b24c1df03663f1_640.jpg",
+    "imageSource": "https://pixabay.com/photos/kitchen-loft-strict-style-4043098/"
   },
   {
     "english": "Demountable",
@@ -12925,7 +13961,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "flov indikator",
     "mnemonicHook": "FLOU İNDİKEYTÖR",
-    "mnemonicScene": "Teknisyen \"FLOU İNDİKEYTÖR!\" diyerek suyun AKIŞ GÖSTERGESİNE bakıyor. Bu sahne size FLOW INDICATOR kelimesinin AKIŞ GÖSTERGESİ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Teknisyen \"FLOU İNDİKEYTÖR!\" diyerek suyun AKIŞ GÖSTERGESİNE bakıyor. Bu sahne size FLOW INDICATOR kelimesinin AKIŞ GÖSTERGESİ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g4ec41898d5482a93ff5170050cd87731cc8e251dadad9d270f79be967419f3676507607e10d8e3fc6c894061b233492da48e6315d0346846fddc431fbe6db149_640.jpg",
+    "imageSource": "https://pixabay.com/photos/aircraft-instruments-beechcraft-4798730/"
   },
   {
     "english": "Sealed",
@@ -12948,7 +13986,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "siiled",
     "mnemonicHook": "SİİLD",
-    "mnemonicScene": "Postacı \"SİİLD!\" diyerek kutuyu MÜHÜRLÜ şekilde kapatıyor. Bu sahne size SEALED kelimesinin MÜHÜRLENMİŞ olduğunu hatırlatacaktır."
+    "mnemonicScene": "Postacı \"SİİLD!\" diyerek kutuyu MÜHÜRLÜ şekilde kapatıyor. Bu sahne size SEALED kelimesinin MÜHÜRLENMİŞ olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g1eb244f3adf771e27cc9c9fd7a93c1061718584c3ca2ba2bc0636a3b45f5c8e71026c50c9f4b6fa97d3c8b1eb2777a2e4d225f1794f33cb11c003f450427a56a_640.jpg",
+    "imageSource": "https://pixabay.com/photos/window-wall-masonry-old-wall-7209118/"
   },
   {
     "english": "Restrain",
@@ -12971,7 +14011,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "restrain",
     "mnemonicHook": "RİSTREYN",
-    "mnemonicScene": "Görevli \"RİSTREYN!\" diyerek köpeği tasmayla ALIKOYUYOR. Bu sahne size RESTRAIN kelimesinin ALIKOYMAK olduğunu hatırlatacaktır."
+    "mnemonicScene": "Görevli \"RİSTREYN!\" diyerek köpeği tasmayla ALIKOYUYOR. Bu sahne size RESTRAIN kelimesinin ALIKOYMAK olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g212c6a3d2e198b2892bae00dd2e50d8ca66b4510df0c8417b6d578ac3b28bc4df886beccfe88619772d6a6bb05da97b83b76bf88fd85ab55590cfbf6f27eb810_640.jpg",
+    "imageSource": "https://pixabay.com/photos/basketball-coach-referee-tussle-1608836/"
   },
   {
     "english": "Conductive",
@@ -12994,7 +14036,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "konduktiv",
     "mnemonicHook": "KONDAKTİV",
-    "mnemonicScene": "Elektrikçi \"KONDAKTİV!\" diyerek bakırın ELEKTRİĞİ İLETTİĞİNİ gösteriyor. Bu sahne size CONDUCTIVE kelimesinin İLETKEN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Elektrikçi \"KONDAKTİV!\" diyerek bakırın ELEKTRİĞİ İLETTİĞİNİ gösteriyor. Bu sahne size CONDUCTIVE kelimesinin İLETKEN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g1c473052c0dd8378d2ef0b56ecbb8a262dd97485aa7681a390151811ce08ded39f97ff71cf2b5639556e572c44d6b068de0deab88b406a7dc080b0da4916d5aa_640.jpg",
+    "imageSource": "https://pixabay.com/photos/contacts-gold-contacts-gold-3191005/"
   },
   {
     "english": "Adhesive",
@@ -13017,7 +14061,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "adhesiv",
     "mnemonicHook": "ADHİSİV",
-    "mnemonicScene": "Bantçı \"ADHİSİV!\" diyerek bandı YAPIŞABİLEN yüzeye yapıştırıyor. Bu sahne size ADHESIVE kelimesinin YAPIŞABİLEN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Bantçı \"ADHİSİV!\" diyerek bandı YAPIŞABİLEN yüzeye yapıştırıyor. Bu sahne size ADHESIVE kelimesinin YAPIŞABİLEN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g86e559d013e03b9a4d9a502f7a637d0ea19979439d1dd92eb73f8c34f77b88a961265882e857fec764de2f846ffbed3f22913f69d95875aa227d3bd52d10f5cd_640.jpg",
+    "imageSource": "https://pixabay.com/photos/tape-package-ribbon-packaging-5144916/"
   },
   {
     "english": "Sticky",
@@ -13040,7 +14086,9 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "stiki",
     "mnemonicHook": "STİKİ",
-    "mnemonicScene": "Çocuk \"STİKİ!\" diyerek elleri YAPIŞKAN bir şeye bulaşıyor. Bu sahne size STICKY kelimesinin YAPIŞKAN olduğunu hatırlatacaktır."
+    "mnemonicScene": "Çocuk \"STİKİ!\" diyerek elleri YAPIŞKAN bir şeye bulaşıyor. Bu sahne size STICKY kelimesinin YAPIŞKAN olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/g13d86924a4a926aba6e687c827c5145db8fcb2a2936f468a539283a2b42f5196c1cb56172f7b7961581a22bb29dec9c27c36fa551fc18e28d124fb7dfc182c33_640.jpg",
+    "imageSource": "https://pixabay.com/photos/merry-christmas-honey-syrup-pouring-1006972/"
   },
   {
     "english": "Elements",
@@ -13063,6 +14111,8 @@ export const INITIAL_WORDS: Omit<Word, "id">[] = [
     "lapses": 0,
     "pronunciationTr": "elements",
     "mnemonicHook": "ELEMENTS",
-    "mnemonicScene": "Öğretmen \"ELEMENTS!\" diyerek tablodaki ELEMANLARI sayıyor. Bu sahne size ELEMENTS kelimesinin ELEMANLAR olduğunu hatırlatacaktır."
+    "mnemonicScene": "Öğretmen \"ELEMENTS!\" diyerek tablodaki ELEMANLARI sayıyor. Bu sahne size ELEMENTS kelimesinin ELEMANLAR olduğunu hatırlatacaktır.",
+    "imageUrl": "https://pixabay.com/get/ga1a850ce6bc8d1a2b4ca4e8b521d47574b6243a3caf96a91553b9f3ad8c3de3e5fc2fa077a566fb56f5810179bedd89c323920f2ddb3e0d0091917e5bfe2f482_640.png",
+    "imageSource": "https://pixabay.com/photos/pointing-hand-hand-gesture-10465452/"
   }
 ];

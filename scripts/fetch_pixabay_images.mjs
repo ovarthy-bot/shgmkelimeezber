@@ -47,7 +47,7 @@ let matched = 0, missed = 0;
 
 for (const w of words) {
   const key = w.english;
-  if (cache[key] !== undefined) {
+  if (cache[key]) { // retry earlier misses (null)
     cache[key]?.imageUrl ? matched++ : missed++;
     continue;
   }
