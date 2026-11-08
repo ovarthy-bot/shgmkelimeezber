@@ -25,6 +25,7 @@ export const metadata: Metadata = {
     "LexiFlow",
     "AI vocabulary",
   ],
+  manifest: "/shgmkelimeezber/manifest.json",
 };
 
 export default function RootLayout({

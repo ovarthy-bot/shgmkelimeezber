@@ -8,7 +8,7 @@ export class LexiFlowDatabase extends Dexie {
   settings!: Table<UserSettings, number>;
 
   constructor() {
-    super("LexiFlowDB_SHGM");
+    super("LexiFlowDB_Mnemonic_v3");
     this.version(1).stores({
       words: "++id, english, turkish, level, status, nextReviewDate, interval, repetition, timesReviewed",
       reviews: "++id, wordId, rating, reviewedAt, nextReviewDate",

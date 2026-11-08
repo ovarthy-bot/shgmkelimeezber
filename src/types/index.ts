@@ -7,6 +7,9 @@ export interface Word {
   english: string;
   turkish: string;
   phonetic: string;
+  pronunciationTr?: string; // Türkçe okunuşu, örn: "niidır", "avın", "dakt"
+  mnemonicHook?: string;    // Türkçe ses benzetme kelimesi, örn: "NE AYDIR", "AVIN", "ATAŞ"
+  mnemonicScene?: string;   // Görseldeki gibi Türkçe benzetme ve çağrışım senaryosu
   partOfSpeech: "noun" | "verb" | "adjective" | "adverb" | "idiom";
   level: DifficultyLevel;
   exampleEn: string;

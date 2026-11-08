@@ -1,0 +1,17 @@
+{
+  "name": "LexiFlow - SHGM Havacılık Kelime Ezberleme",
+  "short_name": "LexiFlow",
+  "description": "Yapay zeka ve SM-2 aralıklı tekrar algoritması ile SHGM Havacılık İngilizcesi kelime ezberleme platformu.",
+  "start_url": "/shgmkelimeezber/",
+  "scope": "/shgmkelimeezber/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/shgmkelimeezber/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}

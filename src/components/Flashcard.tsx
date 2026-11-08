@@ -11,6 +11,8 @@ import {
   Eye,
   EyeOff,
   Lightbulb,
+  MessageSquareQuote,
+  Flame,
 } from "lucide-react";
 import { Word } from "@/types";
 import { speakEnglishWord } from "@/lib/speech";
@@ -41,9 +43,11 @@ export const Flashcard: React.FC<FlashcardProps> = ({
   const [showImage, setShowImage] = useState(showImageByDefault);
 
   const imageUrl = word.imageUrl || getWordImageUrl(word.english, word.imagePrompt);
+  const pronTr = word.pronunciationTr || word.phonetic?.replace(/\//g, "") || "";
+  const hook = word.mnemonicHook || word.english.toUpperCase();
+  const scene = word.mnemonicScene || word.storyTr || "";
 
   useEffect(() => {
-    // Reset image state when word changes
     setImageLoaded(false);
     setImageError(false);
 
@@ -71,61 +75,31 @@ export const Flashcard: React.FC<FlashcardProps> = ({
     onFlip();
   };
 
-  const getPartOfSpeechLabel = (pos: string) => {
-    switch (pos) {
-      case "noun":
-        return { label: "İsim", short: "n.", color: "bg-blue-500/10 text-blue-600 dark:text-blue-400 border-blue-200 dark:border-blue-900" };
-      case "verb":
-        return { label: "Fiil", short: "v.", color: "bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 border-emerald-200 dark:border-emerald-900" };
-      case "adjective":
-        return { label: "Sıfat", short: "adj.", color: "bg-purple-500/10 text-purple-600 dark:text-purple-400 border-purple-200 dark:border-purple-900" };
-      case "adverb":
-        return { label: "Zarf", short: "adv.", color: "bg-amber-500/10 text-amber-600 dark:text-amber-400 border-amber-200 dark:border-amber-900" };
-      default:
-        return { label: pos, short: pos, color: "bg-slate-500/10 text-slate-600 dark:text-slate-400 border-slate-200 dark:border-slate-800" };
-    }
-  };
-
-  const posBadge = getPartOfSpeechLabel(word.partOfSpeech);
-
-  const getLevelBadgeColor = (lvl: string) => {
-    switch (lvl) {
-      case "A1":
-        return "bg-emerald-50 text-emerald-700 dark:bg-emerald-950/60 dark:text-emerald-300 border-emerald-200 dark:border-emerald-800";
-      case "A2-B1":
-        return "bg-sky-50 text-sky-700 dark:bg-sky-950/60 dark:text-sky-300 border-sky-200 dark:border-sky-800";
-      case "B2-C1":
-        return "bg-violet-50 text-violet-700 dark:bg-violet-950/60 dark:text-violet-300 border-violet-200 dark:border-violet-800";
-      case "Aviation":
-        return "bg-amber-50 text-amber-700 dark:bg-amber-950/60 dark:text-amber-300 border-amber-200 dark:border-amber-800";
-      default:
-        return "bg-slate-100 text-slate-700 dark:bg-slate-800 dark:text-slate-300 border-slate-200 dark:border-slate-700";
-    }
-  };
-
   return (
     <div className="w-full max-w-xl mx-auto perspective-1000 select-none">
       <motion.div
-        className="relative w-full min-h-[470px] cursor-pointer preserve-3d"
+        className="relative w-full min-h-[480px] cursor-pointer preserve-3d"
         animate={{ rotateY: isFlipped ? 180 : 0 }}
         transition={{ duration: 0.5, ease: "easeInOut" }}
         onClick={handleCardClick}
       >
-        {/* ==================== FRONT OF CARD ==================== */}
+        {/* ==================== ÖN YÜZ ==================== */}
         <div
           className={`absolute inset-0 w-full h-full rounded-3xl p-6 sm:p-8 flex flex-col justify-between
             bg-white dark:bg-slate-900/95 border border-slate-200/80 dark:border-slate-800 shadow-xl dark:shadow-2xl shadow-indigo-500/5
             backdrop-blur-xl backface-hidden ${isFlipped ? "pointer-events-none" : ""}`}
         >
-          {/* Card Header */}
+          {/* Üst Başlık & Kontroller */}
           <div className="flex items-center justify-between gap-2 border-b border-slate-100 dark:border-slate-800/80 pb-3">
             <div className="flex items-center gap-2">
-              <span className={`px-2.5 py-1 text-xs font-semibold rounded-full border ${posBadge.color}`}>
-                {posBadge.short} {posBadge.label}
+              <span className="px-2.5 py-1 text-xs font-bold rounded-full bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 border border-indigo-200 dark:border-indigo-900">
+                ✈️ SHGM Kelimesi
               </span>
-              <span className={`px-2.5 py-1 text-xs font-semibold rounded-full border ${getLevelBadgeColor(word.level)}`}>
-                {word.level === "Aviation" ? "✈️ Havacılık (SHGM)" : word.level}
-              </span>
+              {hook && (
+                <span className="px-2.5 py-1 text-xs font-semibold rounded-full bg-amber-500/10 text-amber-600 dark:text-amber-400 border border-amber-200 dark:border-amber-900">
+                  İpucu: &quot;{hook}&quot;
+                </span>
+              )}
             </div>
 
             <div className="flex items-center gap-2">
@@ -147,7 +121,7 @@ export const Flashcard: React.FC<FlashcardProps> = ({
             </div>
           </div>
 
-          {/* Visual Container */}
+          {/* Görsel Alanı */}
           {showImage && (
             <div className="my-2.5 relative w-full h-44 sm:h-48 rounded-2xl overflow-hidden bg-slate-100 dark:bg-slate-800/60 border border-slate-100 dark:border-slate-800">
               {!imageLoaded && !imageError && (
@@ -155,7 +129,7 @@ export const Flashcard: React.FC<FlashcardProps> = ({
                   <div className="w-10 h-10 rounded-full bg-slate-200 dark:bg-slate-700 flex items-center justify-center mb-2">
                     <ImageIcon className="w-5 h-5 text-slate-400" />
                   </div>
-                  <span className="text-xs text-slate-400 font-medium">Yapay zeka görseli oluşturuluyor...</span>
+                  <span className="text-xs text-slate-400 font-medium">Yapay zeka görseli yükleniyor...</span>
                 </div>
               )}
 
@@ -186,10 +160,10 @@ export const Flashcard: React.FC<FlashcardProps> = ({
             </div>
           )}
 
-          {/* Word Center */}
+          {/* Kelime & Türkçe Okunuşu */}
           <div className="flex-1 flex flex-col items-center justify-center py-2 text-center">
             <div className="flex items-center gap-3">
-              <h2 className="text-3xl sm:text-4xl font-extrabold tracking-tight text-slate-900 dark:text-white">
+              <h2 className="text-3xl sm:text-4xl font-black tracking-tight text-slate-900 dark:text-white">
                 {word.english}
               </h2>
 
@@ -208,36 +182,41 @@ export const Flashcard: React.FC<FlashcardProps> = ({
               </motion.button>
             </div>
 
-            <span className="mt-2 text-sm sm:text-base font-mono text-indigo-600 dark:text-indigo-400 font-medium tracking-wide">
-              {word.phonetic}
-            </span>
+            {/* Türkçe Okunuş Vurgusu (niidır, avın vb.) */}
+            <div className="mt-2 inline-flex items-center gap-1.5 px-3 py-1 rounded-xl bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 text-sm font-semibold">
+              <span className="text-slate-400 text-xs">Okunuş:</span>
+              <span className="font-mono text-indigo-600 dark:text-indigo-400 font-bold">({pronTr})</span>
+            </div>
 
-            <p className="mt-3 text-xs sm:text-sm text-slate-500 dark:text-slate-400 italic max-w-md line-clamp-2">
-              &ldquo;{word.exampleEn}&rdquo;
-            </p>
+            {/* Benzetme Anahtarı Balonu */}
+            {hook && (
+              <p className="mt-3 text-xs sm:text-sm font-semibold text-amber-600 dark:text-amber-400 bg-amber-500/10 px-3.5 py-1.5 rounded-2xl border border-amber-500/20">
+                🎯 Çağrışım Benzetmesi: <strong className="underline underline-offset-2">&quot;{hook}&quot;</strong>
+              </p>
+            )}
           </div>
 
-          {/* Card Footer Hint */}
+          {/* Kart Çevir İpucu */}
           <div className="pt-3 border-t border-slate-100 dark:border-slate-800/80 flex items-center justify-center text-xs text-slate-400 dark:text-slate-500 gap-1.5">
             <RotateCcw className="w-3.5 h-3.5" />
-            <span>Anlamı ve mikro hikayeyi görmek için tıkla veya [Boşluk]</span>
+            <span>Türkçe benzetme senaryosunu görmek için tıkla veya [Boşluk]</span>
           </div>
         </div>
 
-        {/* ==================== BACK OF CARD ==================== */}
+        {/* ==================== ARKA YÜZ (YOG METODU) ==================== */}
         <div
           className={`absolute inset-0 w-full h-full rounded-3xl p-6 sm:p-8 flex flex-col justify-between
             bg-white dark:bg-slate-900/95 border border-indigo-200/60 dark:border-indigo-900/60 shadow-xl dark:shadow-2xl shadow-indigo-500/10
             backdrop-blur-xl rotate-y-180 backface-hidden ${!isFlipped ? "pointer-events-none" : ""}`}
         >
-          {/* Back Header */}
+          {/* Başlık Satırı */}
           <div className="flex items-center justify-between border-b border-slate-100 dark:border-slate-800 pb-3">
             <div className="flex items-center gap-2">
-              <span className="text-lg font-bold text-slate-900 dark:text-white">
+              <span className="text-lg font-black text-slate-900 dark:text-white">
                 {word.english}
               </span>
-              <span className="text-xs font-mono text-slate-400">
-                {word.phonetic}
+              <span className="text-xs font-mono font-bold text-indigo-600 dark:text-indigo-400">
+                ({pronTr})
               </span>
             </div>
 
@@ -252,82 +231,67 @@ export const Flashcard: React.FC<FlashcardProps> = ({
             </motion.button>
           </div>
 
-          {/* Main Meaning */}
+          {/* Türkçe Anlamı */}
           <div className="my-1.5">
-            <span className="text-xs uppercase tracking-wider font-semibold text-slate-400 dark:text-slate-500">
+            <span className="text-[11px] uppercase tracking-wider font-bold text-slate-400 dark:text-slate-500">
               Türkçe Anlamı
             </span>
-            <h3 className="text-2xl sm:text-3xl font-extrabold text-indigo-600 dark:text-indigo-400 mt-1">
+            <h3 className="text-2xl sm:text-3xl font-black text-indigo-600 dark:text-indigo-400 mt-0.5">
               {word.turkish}
             </h3>
           </div>
 
-          {/* Example Sentence with highlighted word + Sentence Speech button */}
-          <div className="p-3.5 rounded-2xl bg-slate-50 dark:bg-slate-800/60 border border-slate-100 dark:border-slate-800 text-sm">
-            <div className="flex items-center justify-between text-xs font-semibold text-slate-700 dark:text-slate-300 mb-1">
-              <div className="flex items-center gap-1.5">
-                <BookOpen className="w-3.5 h-3.5 text-indigo-500" />
-                <span>Örnek Cümle</span>
+          {/* 🎯 KELİME BENZETME & ÇAĞRIŞIM SENARYOSU (YoG Metodu) */}
+          <div className="p-4 rounded-2xl bg-amber-500/10 dark:bg-amber-500/15 border-2 border-amber-500/30 text-xs sm:text-sm">
+            <div className="flex items-center justify-between mb-1.5">
+              <div className="flex items-center gap-1.5 text-xs font-extrabold text-amber-700 dark:text-amber-400">
+                <Lightbulb className="w-4 h-4 text-amber-500" />
+                <span>KELİME BENZETME & HAFIZA ÇIPASI</span>
+              </div>
+              {hook && (
+                <span className="px-2 py-0.5 rounded-md text-[11px] font-black bg-amber-500/20 text-amber-800 dark:text-amber-300">
+                  {hook}
+                </span>
+              )}
+            </div>
+
+            <p className="text-slate-800 dark:text-slate-100 font-medium leading-relaxed">
+              {renderFormattedScene(scene)}
+            </p>
+          </div>
+
+          {/* Örnek Havacılık Cümlesi */}
+          <div className="p-3 rounded-2xl bg-slate-50 dark:bg-slate-800/60 border border-slate-100 dark:border-slate-800 text-xs">
+            <div className="flex items-center justify-between font-semibold text-slate-600 dark:text-slate-400 mb-1">
+              <div className="flex items-center gap-1">
+                <BookOpen className="w-3 h-3 text-indigo-500" />
+                <span>Havacılık Cümlesi</span>
               </div>
               <button
                 type="button"
                 onClick={handlePlaySentence}
-                className={`flex items-center gap-1 text-[11px] px-2 py-0.5 rounded-lg border transition-colors ${
-                  isPlayingSentence
-                    ? "bg-indigo-600 text-white border-indigo-600"
-                    : "bg-white dark:bg-slate-700 text-slate-600 dark:text-slate-300 border-slate-200 dark:border-slate-600 hover:text-indigo-600"
-                }`}
-                title="Cümleyi Sesli Oku"
+                className="text-[10px] text-indigo-600 dark:text-indigo-400 hover:underline flex items-center gap-1"
               >
                 <Volume2 className="w-3 h-3" />
-                <span>Dinle</span>
+                <span>Seslendir</span>
               </button>
             </div>
-            <p className="text-slate-800 dark:text-slate-200 font-medium">
-              {renderSentenceWithHighlight(word.exampleEn, word.english)}
+            <p className="text-slate-800 dark:text-slate-200 font-medium line-clamp-1">
+              {word.exampleEn}
             </p>
-            <p className="text-xs text-slate-500 dark:text-slate-400 mt-1 italic">
+            <p className="text-slate-400 italic mt-0.5 line-clamp-1">
               {word.exampleTr}
             </p>
           </div>
 
-          {/* Micro-story / Context */}
-          <div className="p-3.5 rounded-2xl bg-amber-500/5 dark:bg-amber-500/10 border border-amber-200/60 dark:border-amber-900/40 text-xs sm:text-sm">
-            <div className="flex items-center gap-1.5 text-xs font-semibold text-amber-600 dark:text-amber-400 mb-1">
-              <Lightbulb className="w-3.5 h-3.5" />
-              <span>Hafıza & Mikro Hikaye</span>
-            </div>
-            <p className="text-slate-700 dark:text-slate-300 leading-relaxed">
-              {word.storyEn}
-            </p>
-            <p className="text-xs text-slate-500 dark:text-slate-400 mt-1 italic">
-              {word.storyTr}
-            </p>
-          </div>
-
-          {/* Synonyms tags */}
-          {word.synonyms && word.synonyms.length > 0 && (
-            <div className="flex items-center gap-1.5 flex-wrap pt-0.5">
-              <span className="text-xs text-slate-400 font-medium">Eş Anlamlılar:</span>
-              {word.synonyms.map((syn, idx) => (
-                <span
-                  key={idx}
-                  className="px-2 py-0.5 rounded-md text-xs font-medium bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300"
-                >
-                  {syn}
-                </span>
-              ))}
-            </div>
-          )}
-
-          {/* Card Footer Hint */}
+          {/* Alt Bilgi */}
           <div className="pt-2 border-t border-slate-100 dark:border-slate-800/80 flex items-center justify-between text-xs text-slate-400">
             <div className="flex items-center gap-2">
               <span>Tekrar: {word.timesReviewed || 0}</span>
               <span>•</span>
               <span>Aralık: {word.interval || 0} gün</span>
             </div>
-            <span className="italic">Aşağıdan durumunu değerlendir 👇</span>
+            <span className="font-semibold text-indigo-500">Aşağıdan değerlendir 👇</span>
           </div>
         </div>
       </motion.div>
@@ -335,16 +299,19 @@ export const Flashcard: React.FC<FlashcardProps> = ({
   );
 };
 
-function renderSentenceWithHighlight(sentence: string, targetWord: string) {
-  const regex = new RegExp(`(${escapeRegExp(targetWord)})`, "gi");
-  const parts = sentence.split(regex);
+/**
+ * Highlights quotes in the mnemonic scene for punchy readability
+ */
+function renderFormattedScene(text: string) {
+  if (!text) return null;
+  const parts = text.split(/("[^"]*")/g);
 
-  return parts.map((part, index) => {
-    if (part.toLowerCase() === targetWord.toLowerCase()) {
+  return parts.map((part, i) => {
+    if (part.startsWith('"') && part.endsWith('"')) {
       return (
         <span
-          key={index}
-          className="text-indigo-600 dark:text-indigo-400 font-bold underline decoration-indigo-400/50 underline-offset-2"
+          key={i}
+          className="font-black text-amber-700 dark:text-amber-300 underline decoration-amber-400 decoration-2"
         >
           {part}
         </span>
@@ -352,8 +319,4 @@ function renderSentenceWithHighlight(sentence: string, targetWord: string) {
     }
     return part;
   });
-}
-
-function escapeRegExp(string: string) {
-  return string.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }

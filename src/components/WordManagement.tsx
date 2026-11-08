@@ -30,6 +30,7 @@ export const WordManagement: React.FC = () => {
   const [searchTerm, setSearchTerm] = useState("");
   const [selectedLevel, setSelectedLevel] = useState<string>("all");
   const [selectedStatus, setSelectedStatus] = useState<string>("all");
+  const [visibleCount, setVisibleCount] = useState<number>(30);
   const [expandedWordId, setExpandedWordId] = useState<number | null>(null);
   const [showAddModal, setShowAddModal] = useState(false);
   const [newWord, setNewWord] = useState<Partial<Word>>({
@@ -250,7 +251,7 @@ export const WordManagement: React.FC = () => {
             Arama kriterine uygun kelime bulunamadı.
           </div>
         ) : (
-          filteredWords.map((w) => {
+          filteredWords.slice(0, visibleCount).map((w) => {
             const isExpanded = expandedWordId === w.id;
             const imageUrl = w.imageUrl || getWordImageUrl(w.english, w.imagePrompt);
 
@@ -339,12 +340,19 @@ export const WordManagement: React.FC = () => {
                         <p className="text-slate-400 italic mt-0.5">{w.exampleTr}</p>
                       </div>
 
-                      <div className="p-2.5 rounded-xl bg-amber-500/5 border border-amber-500/10">
-                        <span className="font-bold text-amber-600 dark:text-amber-400 block mb-0.5">
-                          Mikro Hikaye:
-                        </span>
-                        <p className="text-slate-700 dark:text-slate-300">{w.storyEn}</p>
-                        <p className="text-slate-400 italic mt-0.5">{w.storyTr}</p>
+                      <div className="p-3 rounded-2xl bg-amber-500/10 dark:bg-amber-500/15 border border-amber-500/25">
+                        <div className="flex items-center gap-1.5 font-bold text-amber-700 dark:text-amber-400 mb-1">
+                          <Lightbulb className="w-3.5 h-3.5 text-amber-500" />
+                          <span>Kelime Benzetme & Hafıza Çıpası:</span>
+                          {w.mnemonicHook && (
+                            <span className="px-1.5 py-0.5 rounded bg-amber-500/20 text-amber-800 dark:text-amber-300 text-[10px] font-black">
+                              {w.mnemonicHook}
+                            </span>
+                          )}
+                        </div>
+                        <p className="text-slate-800 dark:text-slate-200 leading-relaxed font-medium">
+                          {w.mnemonicScene || w.storyTr}
+                        </p>
                       </div>
 
                       <div className="flex items-center gap-3 text-slate-400 mt-1">
@@ -360,6 +368,16 @@ export const WordManagement: React.FC = () => {
               </div>
             );
           })
+        )}
+
+        {visibleCount < filteredWords.length && (
+          <button
+            type="button"
+            onClick={() => setVisibleCount((prev) => prev + 30)}
+            className="mt-2 py-3 px-6 rounded-2xl bg-indigo-50 dark:bg-slate-800 text-indigo-600 dark:text-indigo-400 font-bold text-xs hover:bg-indigo-100 dark:hover:bg-slate-700 transition-colors cursor-pointer mx-auto block shadow-sm border border-indigo-200/50 dark:border-slate-700"
+          >
+            Daha Fazla Kelime Göster ({filteredWords.length - visibleCount} kelime kaldı)
+          </button>
         )}
       </div>
 
