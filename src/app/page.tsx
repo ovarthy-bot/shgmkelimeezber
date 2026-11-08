@@ -7,10 +7,9 @@ import { Dashboard } from "@/components/Dashboard";
 import { StudySession } from "@/components/StudySession";
 import { WordManagement } from "@/components/WordManagement";
 import { StatsView } from "@/components/StatsView";
-import { StudyNotes } from "@/components/StudyNotes";
 
 export default function Home() {
-  const [activeTab, setActiveTab] = useState<"dashboard" | "study" | "words" | "stats" | "notes">("dashboard");
+  const [activeTab, setActiveTab] = useState<"dashboard" | "study" | "words" | "stats">("dashboard");
   const [voiceAccent, setVoiceAccent] = useState<"en-US" | "en-GB">("en-US");
   const [stats, setStats] = useState<OverallStats | null>(null);
   const [isInitializing, setIsInitializing] = useState(true);
@@ -101,7 +100,6 @@ export default function Home() {
 
         {activeTab === "stats" && <StatsView />}
 
-        {activeTab === "notes" && <StudyNotes />}
       </main>
 
       {/* Footer */}
